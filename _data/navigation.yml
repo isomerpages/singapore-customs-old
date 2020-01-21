@@ -1,0 +1,19 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: About Us
+    collection: about-us
+  - title: Individuals
+    collection: individuals
+  - title: Businesses
+    collection: businesses
+  - title: News And Media
+    collection: news-and-media
+  - title: Eservices
+    collection: eservices
