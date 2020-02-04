@@ -47,8 +47,9 @@ We protect revenue, and make trade easy, fair and secure.
 
 ## History 
 
-| 1910 | Creation of British Government Monopolies Department by British colonial administration during the Straits Settlement period to control opium and spirits revenue. 
+|Year|Significant Event
 |--|--|
+| **1910** | Creation of British Government Monopolies Department by British colonial administration during the Straits Settlement period to control opium and spirits revenue. 
 |**1938** | Reliance on duty revenue results in name change to Excise Department in 1935, then to Department of Customs and Excise (CED) in 1938. |
 |**1969**|  Singapore’s first Free Trade Zones are established.|
 |**1975**|CED becomes a member of the Customs Cooperation Council (now known as World Customs Organisation).|
