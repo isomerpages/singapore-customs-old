@@ -1,3 +1,10 @@
+---
+title: Organisation Overview
+permalink: /about-us/organisation-overview/
+breadcrumb: Organisation Overview
+collection_name: about-us
+---
+
 # Organisation Overview
 Singapore Customs – a department under the Ministry of Finance – is the lead agency for trade facilitation and revenue enforcement.
 
