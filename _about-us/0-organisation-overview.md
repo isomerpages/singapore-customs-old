@@ -6,7 +6,7 @@ collection_name: about-us
 ---
 
 # Organisation Overview
-Singapore Customs – a department under the Ministry of Finance – is the lead agency for trade facilitation and revenue enforcement.
+Singapore Customs, a department under the Ministry of Finance, is the lead agency for trade facilitation and revenue enforcement.
 
 Reconstituted on 1 April 2003 to bring together revenue collection and enforcement, trade documentation, trade facilitation and security functions under one agency, Singapore Customs upholds customs and trade laws to build trust in Singapore’s external trading system, facilitate trade, and protect revenue.
 
