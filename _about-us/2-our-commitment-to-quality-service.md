@@ -1,7 +1,7 @@
 ---
 title: Our Commitment To Quality Service
 permalink: /about-us/our-commitment-to-quality-service/
-breadcrumb: About Us / Our Commitment to Quality Service
+breadcrumb: Our Commitment to Quality Service
 ---
 
 # Our Commitment to Quality Service 
