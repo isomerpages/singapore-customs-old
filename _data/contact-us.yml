@@ -1,0 +1,27 @@
+locations:
+  # HQ Address [REQUIRED]
+  - title: Singapore Customs
+    address: "55 Newton Road #07-01<br>Revenue House<br>Singapore 307987"
+    find-directions: find-directions: https://www.google.com.sg/maps/
+  - title: Customs Operations Command
+    address: "1 Bulim Drive<br>Singapore 648171"
+    find-directions: find-directions: https://www.google.com.sg/maps/
+
+# Contact Us
+# For line: If you have an email, put "(email)" after the actual email
+column:
+  - title: Enquiries on Customs Procedures
+    content:
+    - line: +65 6355 2000
+  - title: TradeNet/Networked Trade Platform System Related Enquiries
+    content:
+    - line: +65 6887 7888
+  - title: Queries on Customs Offences
+    content:
+    - line: +65 6355 2183
+  - title: Report smuggling activities and/or evasion of duty/Goods and Services Tax (GST)
+    content:
+    - line: 1800 233 0000
+  - title: Quality Service Manager
+    content:
+    - line: +65 6355 2959
