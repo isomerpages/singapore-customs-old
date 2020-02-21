@@ -13,62 +13,60 @@ Established in March 2000, the Council is chaired by Permanent Secretary (Financ
 
 #### Chairman
 
-**Mrs Tan Ching Yee**
-
-Permanent Secretary (Finance)
-
+**Mrs Tan Ching Yee**\
+Permanent Secretary (Finance)\
 Ministry of Finance
 
 #### Members
 
-**Professor Annie Koh**
-Academic Director
-International Trading Institute 
+**Professor Annie Koh**\
+Academic Director\
+International Trading Institute
 
-**Mr Dave Ng Wee Peng**
-First Deputy Chairman
-Singapore Logistics Association 
+**Mr Dave Ng Wee Peng**\
+First Deputy Chairman\
+Singapore Logistics Association
 
-**Ms Lim Khoon Ling**
-Senior Vice President (South Asia)
+**Ms Lim Khoon Ling**\
+Senior Vice President (South Asia)\
 Expeditors Singapore Pte Ltd
 
-**Mr Ong Kim Pong**
-Regional Chief Executive Officer, Southeast Asia
+**Mr Ong Kim Pong**\
+Regional Chief Executive Officer, Southeast Asia\
 PSA International Pte Ltd
 
-**Mr Paul Teo**
-Deputy Chairman 
+**Mr Paul Teo**\
+Deputy Chairman\
 SAAA@Singapore
 
-**Mr René Piil Pedersen**
-Group Representative Singapore/Asia Pacific, Maersk Group &
+**Mr René Piil Pedersen**\
+Group Representative Singapore/Asia Pacific, Maersk Group &\
 Managing Director, A.P. Moller Singapore Pte Ltd
 
-**Mr Samuel Lee**
-General Manager 
+**Mr Samuel Lee**\
+General Manager\
 DHL Express Singapore Hub
 
-**Mr Shamir Rahim**
-Chief Executive Officer 
+**Mr Shamir Rahim**\
+Chief Executive Officer\
 VersaFleet Pte Ltd
 
-**Mr VS Kumar**
-Managing Director
+**Mr VS Kumar**\
+Managing Director\
 Network Express Courier Services Pte Ltd
 
-**Mr Yam Kum Weng **
-Executive Vice President, Airhub Development 
+**Mr Yam Kum Weng **\
+Executive Vice President, Airhub Development\
 Changi Airport Group
 
-**Mr Hsu Sin Yun**
-Deputy Commissioner (Operations)
+**Mr Hsu Sin Yun**\
+Deputy Commissioner (Operations)\
 Immigration & Checkpoints Authority
 
-**Mr Luke Goh**
-Deputy Secretary (Trade)
+**Mr Luke Goh**\
+Deputy Secretary (Trade)\
 Ministry of Trade and Industry
 
-**Mr Yee Ping Yi**
-Deputy Secretary (Planning)
+**Mr Yee Ping Yi**\
+Deputy Secretary (Planning)\
 Ministry of Finance
