@@ -4,7 +4,7 @@ permalink: /about-us/trade-security-in-singapore/
 breadcrumb: Trade Security in Singapore
 ---
 
-# Singapore's trade security
+# Singapore's Trade Security
 
 To achieve a secure supply chain, it is important to keep illicit trade at bay.
 
@@ -18,7 +18,7 @@ Singapore Customs works closely with local enforcement agencies and internationa
 
 In countering illicit trade, a whole-of-government and layered approach is adopted:
 
-![Trade Security Image](/images/trade-security-image.jpg)
+![Trade Security Image](/images/trade-security-image.png)
 
 ## Free Trade Zones
 
