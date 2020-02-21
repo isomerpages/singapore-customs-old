@@ -14,7 +14,9 @@ Established in March 2000, the Council is chaired by Permanent Secretary (Financ
 #### Chairman
 
 **Mrs Tan Ching Yee**
+
 Permanent Secretary (Finance)
+
 Ministry of Finance
 
 #### Members
