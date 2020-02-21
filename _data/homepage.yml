@@ -14,7 +14,7 @@ hero-banner: /images/mission.png
 # Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/our-role/
+    url: /about-us/organisation-overview/
 
 # Call to Action Dropdown
 i-want-to:
