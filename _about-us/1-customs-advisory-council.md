@@ -3,21 +3,21 @@ title: Customs Advisory Council
 permalink: /about-us/customs-advisory-council/
 breadcrumb: About Us / Customs Advisory Council
 ---
-#Customs Advisory Council 
+# Customs Advisory Council 
 
 The Customs Advisory Council advises on strategic directions to advance Singapore Customs as a world-class customs organisation. The Council also functions as an active platform for Singapore Customs to solicit feedback and advice on industry trends, government policies and other matters that may affect Singapore Customs.
 
 Established in March 2000, the Council is chaired by Permanent Secretary (Finance) and consists of key representatives from the trade associations, the industry and the public sector.  
 
-##Customs Advisory Council Members
+## Customs Advisory Council Members
 
-####Chairman
+#### Chairman
 
 **Mrs Tan Ching Yee**
 Permanent Secretary (Finance)
 Ministry of Finance
 
-####Members
+#### Members
 
 **Professor Annie Koh**
 Academic Director
