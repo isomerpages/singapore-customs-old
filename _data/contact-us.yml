@@ -2,10 +2,10 @@ locations:
   # HQ Address [REQUIRED]
   - title: Singapore Customs
     address: "55 Newton Road #07-01<br>Revenue House<br>Singapore 307987"
-    find-directions: find-directions: https://www.google.com.sg/maps/
+    find-directions: https://www.google.com.sg/maps/
   - title: Customs Operations Command
     address: "1 Bulim Drive<br>Singapore 648171"
-    find-directions: find-directions: https://www.google.com.sg/maps/
+    find-directions: https://www.google.com.sg/maps/
 
 # Contact Us
 # For line: If you have an email, put "(email)" after the actual email
