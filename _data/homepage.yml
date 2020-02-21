@@ -30,3 +30,25 @@ i-want-to:
     url: /application-guidelines/change-of-hotel-name/
   - title: Customs' Schemes, Licenses & Framework
     url: /application-guidelines/renew-hotel-licence/
+    
+# Key Highlights
+# Setting [external: true] will open the url in a new window
+key-highlights:
+  - title: Tourist Refund Scheme
+    url: /media/media-releases/strategic-national-projects-to-build-a-smart-nation
+  - title: Declaration and Payment of Taxes
+    description: To create a Government that is “Digital to the Core, and Serves with Heart
+    url: /digital-government-blueprint/
+  - title: Duty-Free Concession and GST Relief
+    description: To create a Government that is “Digital to the Core, and Serves with Heart
+    url: /digital-government-blueprint/
+  - title: Registering to Trade
+    description: To create a Government that is “Digital to the Core, and Serves with Heart
+    url: /digital-government-blueprint/
+  - title: Importing Goods
+    description: To create a Government that is “Digital to the Core, and Serves with Heart
+    url: /digital-government-blueprint/
+  - title: ustoms' Schemes, Licenses & Framework
+    description: To create a Government that is “Digital to the Core, and Serves with Heart
+    url: /digital-government-blueprint/
+
