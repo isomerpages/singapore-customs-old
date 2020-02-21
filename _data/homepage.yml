@@ -5,3 +5,8 @@ favicon: /images/favicon.png
 
 # Agency logo
 agency-logo: /images/ic-logo.png
+
+# Hero Banner
+hero-title: Making Trade Easy, Fair and Secure
+hero-subtitle: 
+hero-banner: /images/mission.png
