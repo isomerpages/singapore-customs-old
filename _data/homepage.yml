@@ -10,3 +10,23 @@ agency-logo: /images/ic-logo.png
 hero-title: Making Trade Easy, Fair and Secure
 hero-subtitle: 
 hero-banner: /images/mission.png
+
+# Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/our-role/
+
+# Call to Action Dropdown
+i-want-to:
+  - title: Tourist Refund Scheme
+    url: /application-guidelines/application-for-licence/
+  - title: Declaration and Payment of Taxes
+    url: /application-guidelines/application_for_exemption/
+  - title: Duty-Free Concession and GST Relief
+    url: /application-guidelines/cancellation-of-licence/
+  - title: Registering to Trade
+    url: /application-guidelines/change-of-hotel-keeper/
+  - title: Importing Goods
+    url: /application-guidelines/change-of-hotel-name/
+  - title: Customs' Schemes, Licenses & Framework
+    url: /application-guidelines/renew-hotel-licence/
