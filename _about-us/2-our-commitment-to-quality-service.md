@@ -34,4 +34,16 @@ Our response time depends on the nature and complexity of the enquiry or feedbac
 
 ^Footnote: The ICDV application procedure has been changed from manual submission and collection at Customs office to electronic application via the Networked Trade Platform (NTP) with effect from  20 June  2018.  With the change in procedure, traders enjoy time savings in terms of traveling time for making the trip to Customs office, going to SingPost to make payment for the fee, and waiting at Customs office for their applications to be processed as what happened in the past.  Traders could now enjoy the convenience of submitting the ICDV application electronically from their office or anywhere and receiving the approval electronically from Customs via the NTP. As such, the service standard has been revised to adapt to the new electronic application procedure.
 
+|Travellers|
+|---|---|
+|**Endorse Tourist GST Refund Claim Forms\***|+ 95% within 10 minutes|
+|**Process Assessment and Collection of Duty/GST from Travellers/Crew Members\***|+ 95% within 8 minutes|
+|**Endorse Export Permits under the Hand-Carried Exports Scheme\***|+ 95% within 15 minutes|
 
+**\* On weekends and public holidays, the processing time may be a little longer. You are advised to come to the Singapore Customs counter early.**
+
+#### Delighting Our Customers
+
+Singapore Customs is committed to provide our customers with prompt and professional service.
+
+Through active engagement with our customers and benchmarking our services to best practices, we strive to delight them. We conduct surveys regularly to gather our customers’ feedback and to measure their satisfaction with our services so that we can serve them even better. 
