@@ -25,13 +25,13 @@ sections:
         subtitle: 
         description: View our current job openings and send us your application at 
         button: Careers@Gov
-        url: http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=singapore+customs&job-sector
-     - carousel: 
+        url: http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=singapore+customs&job-sector---
+    - carousel:
         - image: /images/ntp-banner.png
           alt: The one stop trade platform that help businesses digitize, connect & grow
-        - image: /images/trade-banner.jpg
+        - image: /images/trade-banner.png
           alt: Making Trade Easy, Fair & Secure
-        - image: /images/travel-banner.jpg
+        - image: /images/travel-banner.png
           alt: Find out about Tourist Refund Scheme, and other information on going through Customs
     - resources:
         - title: News & Media
