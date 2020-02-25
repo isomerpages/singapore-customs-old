@@ -35,11 +35,17 @@ sections:
         image: /images/in-sync.png
         alt: inSync Magazine
     - carousel:
-        - image: /images/ntp-banner.png
+        - title: Networked Trade Platform
+          description: Find out more about the NTP to advance your business and improve your trade operations.
+          image: /images/ntp-banner.png
           alt: The one stop trade platform that help businesses digitize, connect & grow
-        - image: /images/trade-banner.jpg
+        - title: Motto
+          description: We make trade easy, fair and secure 
+          image: /images/trade-banner.jpg
           alt: Making Trade Easy, Fair & Secure
-        - image: /images/travel-banner.jpg
+        - title: Tourist Refund Scheme
+          description: Find out about Tourist Refund Scheme, and other information on going through Customs
+          image: /images/travel-banner.jpg
           alt: Find out about Tourist Refund Scheme, and other information on going through Customs
     - resources:
       - title: Media
