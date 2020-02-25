@@ -20,4 +20,10 @@ sections:
             - title: Customs' Schemes, Licences, & Framework
               description: Sign up for your NTP account today
               url: https://ntp.gov.sg/
+    - infobar:
+        title: Careers
+        subtitle: Subtitle
+        description: View our current job openings and send us your application at 
+        button: Careers@Gov
+        url: http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=singapore+customs&job-sector---
 ---
