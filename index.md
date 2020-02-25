@@ -19,5 +19,4 @@ sections:
               url: /businesses/customs-schemes-licenses-and-framework/
             - title: Customs' Schemes, Licences, & Framework
               description: Sign up for your NTP account today
-              url: https://ntp.gov.sg
-  ...
+              url: https://ntp.gov.sg/
