@@ -29,9 +29,9 @@ sections:
     - carousel:
         - image: /images/ntp-banner.png
           alt: The one stop trade platform that help businesses digitize, connect & grow
-        - image: /images/trade-banner.png
+        - image: /images/trade-banner.jpg
           alt: Making Trade Easy, Fair & Secure
-        - image: /images/travel-banner.png
+        - image: /images/travel-banner.jpg
           alt: Find out about Tourist Refund Scheme, and other information on going through Customs
     - resources:
         - title: News & Media
