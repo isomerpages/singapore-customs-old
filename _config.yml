@@ -18,6 +18,7 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
+resources_name: news-and-media
 
 collections:
   about-us:

@@ -17,6 +17,6 @@ links:
   - title: Businesses
     collection: businesses
   - title: News And Media
-    collection: news-and-media
+    resource_room: true
   - title: Eservices
     collection: eservices
