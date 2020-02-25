@@ -22,7 +22,7 @@ sections:
               url: https://ntp.gov.sg/
     - infobar:
         title: Careers
-        subtitle: Subtitle
+        subtitle: 
         description: View our current job openings and send us your application at 
         button: Careers@Gov
         url: http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=singapore+customs&job-sector---
