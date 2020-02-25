@@ -33,4 +33,8 @@ sections:
           alt: Making Trade Easy, Fair & Secure
         - image: /images/travel-banner.jpg
           alt: Find out about Tourist Refund Scheme, and other information on going through Customs
+    - resources:
+      - title: Media
+        subtitle: Media Releases
+        button: View more
 ---
