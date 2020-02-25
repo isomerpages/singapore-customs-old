@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Customs
-description: Singapore Customs is the lead agency on trade facilitation and revenue enforcement. We uphold our laws to build trust, facilitate trade and protect revenue.
+description: Singapore Customs is the lead agency on trade facilitation and revenue enforcement.
 image: /images/ic-logo.png
 permalink: /
 sections:
