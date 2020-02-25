@@ -26,7 +26,7 @@ sections:
         description: View our current job openings and send us your application at 
         button: Careers@Gov
         url: http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=singapore+customs&job-sector---
-     - carousel:
+     - carousel: 
         - image: /images/ntp-banner.png
           alt: The one stop trade platform that help businesses digitize, connect & grow
         - image: /images/trade-banner.jpg
