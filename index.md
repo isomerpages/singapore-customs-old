@@ -4,13 +4,6 @@ title: Singapore Customs
 description: Singapore Customs is the lead agency on trade facilitation and revenue enforcement.
 permalink: /
 sections: 
-     - carousel:
-        - image: /images/ntp-banner.png
-          alt: The one stop trade platform that help businesses digitize, connect & grow
-        - image: /images/trade-banner.jpg
-          alt: Making Trade Easy, Fair & Secure
-        - image: /images/travel-banner.jpg
-          alt: Find out about Tourist Refund Scheme, and other information on going through Customs
     - hero: 
         title: 
         subtitle:
@@ -33,6 +26,13 @@ sections:
         description: View our current job openings and send us your application at 
         button: Careers@Gov
         url: http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=singapore+customs&job-sector---
+     - carousel:
+        - image: /images/ntp-banner.png
+          alt: The one stop trade platform that help businesses digitize, connect & grow
+        - image: /images/trade-banner.jpg
+          alt: Making Trade Easy, Fair & Secure
+        - image: /images/travel-banner.jpg
+          alt: Find out about Tourist Refund Scheme, and other information on going through Customs
     - resources:
         - title: News & Media
           subtitle: Media Releases
