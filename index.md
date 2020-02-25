@@ -48,7 +48,7 @@ sections:
           image: /images/travel-banner.jpg
           alt: Find out about Tourist Refund Scheme, and other information on going through Customs
     - resources:
-      - title: Media
+        title: News and Media
         subtitle: Media Releases
         button: View more
 ---
