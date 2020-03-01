@@ -1,7 +1,7 @@
 ---
 title: Customs Act
 permalink: /about-us/acts-and-subsidiary-legislation/customs-act
-third_nav_title: Acts and Subsidiary Legistlation
+third_nav_title: Acts and Subsidiary Legislation
 ---
 
 # Customs Act

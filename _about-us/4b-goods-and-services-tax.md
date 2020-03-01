@@ -1,7 +1,7 @@
 ---
 title: Goods and Services Tax
 permalink: /about-us/acts-and-subsidiary-legislation/goods-and-services-tax
-third_nav_title: Acts and Subsidiary Legistlation
+third_nav_title: Acts and Subsidiary Legislation
 ---
 
 # Goods and Services Tax
