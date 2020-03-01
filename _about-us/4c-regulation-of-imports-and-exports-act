@@ -1,7 +1,7 @@
 ---
 title: Regulation of Imports and Exports Act
 permalink: /about-us/acts-and-subsidiary-legislation/regulation-of-imports-and-exports-act
-third_nav_title: Acts And Subsidiary Legislation
+third_nav_title: Acts and Subsidiary Legistlation
 ---
 # Regulation of Imports and Exports Act
 
