@@ -1,8 +1,9 @@
 ---
 title: Free Trade Zones Act
 permalink: /about-us/acts-and-subsidiary-legislation/free-trade-zones-act
-third_nav_title: Acts And Subsidiary Legislation
+third_nav_title: Acts and Subsidiary Legistlation
 ---
+
 # Free Trade Zones Act
 
 The Free Trade Zones Act (Chapter 114) is an Act to provide for the establishment of free trade zones in Singapore and for matters incidental thereto.
