@@ -11,21 +11,22 @@ sections:
         button: Learn More
         url: /about-us/organisation-overview/
         key_highlights:
-            - title: Importing Goods
-              description: Quick guide on Import Procedures
-              url: /businesses/importing-goods/
-            - title: National Single Window
-              description: Important highlight B is equally important
-              url: /businesses/customs-schemes-licenses-and-framework/
-            - title: Customs' Schemes, Licences, & Framework
-              description: Sign up for your NTP account today
+            - title: Sign up for your NTP account today
+              description: Find out more about the NTP to advance your business and improve your trade operations.
               url: https://ntp.gov.sg/
-    - infobar:
-        title: Careers
-        subtitle: 
-        description: View our current job openings and send us your application at 
-        button: Careers@Gov
-        url: http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=singapore+customs&job-sector
+            - title: Our Commitment to Quality Service
+              description: Your Satisfaction, Our Pride
+              url: /about us/our-commitment-to-quality-service/
+            - title: Careers
+              description: Join us today! 
+              url: /careers/career-opportunities/
+    - resources:
+        title: Top Stories
+        subtitle: News and Information
+        button: More Resources
+        url: /news-and-media/
+        
+ sector
     - infopic:
         title: inSync
         subtitle: Corporate Magazine
@@ -34,21 +35,5 @@ sections:
         url: /news-and-media/publications
         image: /images/in-sync.png
         alt: inSync Magazine
-    - carousel:
-        - title: Networked Trade Platform
-          description: Find out more about the NTP to advance your business and improve your trade operations.
-          image: /images/ntp-banner.png
-          alt: The one stop trade platform that help businesses digitize, connect & grow
-        - title: Motto
-          description: We make trade easy, fair and secure 
-          image: /images/trade-banner.jpg
-          alt: Making Trade Easy, Fair & Secure
-        - title: Tourist Refund Scheme
-          description: Find out about Tourist Refund Scheme, and other information on going through Customs
-          image: /images/travel-banner.jpg
-          alt: Find out about Tourist Refund Scheme, and other information on going through Customs
-    - resources:
-        title: News and Media
-        subtitle: Media Releases
-        button: View more
+
 ---
