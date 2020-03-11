@@ -20,3 +20,5 @@ links:
     resource_room: true
   - title: Eservices
     collection: eservices
+  - title: FAQ
+    url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
