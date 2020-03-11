@@ -11,14 +11,14 @@ sections:
         button: Learn More
         url: /about-us/organisation-overview/
         key_highlights:
-            - title: Importing Goods
-              description: Quick guide on Import Procedures
-              url: /businesses/importing-goods/
-            - title: National Single Window
-              description: Important highlight B is equally important
-              url: /businesses/customs-schemes-licenses-and-framework/
-            - title: Customs' Schemes, Licences, & Framework
-              description: Sign up for your NTP account today
+            - title: Sign up for your NTP ACCOUNT
+              description: Find out more about the NTP to advance your business and improve our trade operations
+              url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
+            - title: Our Commitment to Quality Service
+              description: Your Satisfaction, Our Pride
+              url: /about-us/our-commitment-to-quality-service/
+            - title: Careers
+              description: Join Us Today!
               url: https://ntp.gov.sg/
     - infobar:
         title: Careers
