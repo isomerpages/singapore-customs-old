@@ -18,7 +18,10 @@ links:
     collection: businesses
   - title: News And Media
     resource_room: true
-  - title: Eservices
+  - title: E-Services
     collection: eservices
+  - title: Contact Us 
+    collection: contact Us
   - title: FAQ
     url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
+ 
