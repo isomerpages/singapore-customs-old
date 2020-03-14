@@ -24,8 +24,6 @@ Singapore Customs also coordinates closely with other government agencies such a
 
 <details>  <summary>Singapore’s regulatory controls on strategic goods are based on the Strategic Goods (Control) Act and its subsidiary legislation.</summary>
 
-Singapore’s regulatory controls on strategic goods are based on the Strategic Goods (Control) Act and its subsidiary legislation.</br>
-
 **Strategic Goods (Control) Act**</br>
 
 The  [Strategic Goods (Control) Act (SGCA)](https://sso.agc.gov.sg/Act/SGCA2002)  regulates the export, transhipment, transit, intangible transfer of technology and brokering of strategic goods and strategic goods technology. It prescribes a “catch-all” provision where all goods or technology intended or likely to be used for weapons of mass destruction purposes will be subject to controls.</br>
