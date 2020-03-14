@@ -22,7 +22,7 @@ Singapore Customs also coordinates closely with other government agencies such a
 
 # Legislation
 
-<details>  <summary>Singapore’s regulatory controls on strategic goods are based on the Strategic Goods (Control) Act and its subsidiary legislation.</summary>
+<details>  <summary>Singapore’s regulatory controls on strategic goods are based on the Strategic Goods (Control) Act and its subsidiary legislation.</summary><br>
 
 **Strategic Goods (Control) Act**</br>
 
