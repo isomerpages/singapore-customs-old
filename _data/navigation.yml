@@ -21,7 +21,7 @@ links:
   - title: E-Services
     collection: eservices
   - title: Contact Us 
-    link: /contact-us/
+    url: /contact-us/
   - title: FAQ
     url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
  
