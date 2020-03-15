@@ -2,7 +2,6 @@
 title: Contact Us
 permalink: /contact-us/
 breadcrumb: Contact Us
-collection_name: contact-us
 ---
 
 # Contact Us
