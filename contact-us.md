@@ -50,20 +50,6 @@ contacts:
     content:
     - phone: +65 6355 2959
     - other: For feedback regarding Quality Service.
-    ## Customs Stations
-
-Our officers are also located at the following stations:
-
--   Changi Airport Terminal 1
--   Changi Airport Terminal 2
--   Changi Airport Terminal 3
--   Changi Airport Terminal 4
--   Air Export Section Office
--   Singapore Cruise Centre
--   Tanah Merah Ferry Terminal
--   Marina Bay Cruise Centre Singapore
--   Pasir Panjang Export Inspection Station
--   Brani Export Inspection Station
--   Tuas Checkpoint
--   Woodlands Checkpoint
+   - title: Customs Stations
+    - other: Changi Airport Terminal 1<br>Changi Airport Terminal 2<br>Changi Airport Terminal 3<br>Changi Airport Terminal 4<br>Air Export Section Office<br>Singapore Cruise Centre<br>Tanah Merah Ferry Terminal<br>Marina Bay Cruise Centre Singapore<br>asir Panjang Export Inspection Station<br>Brani Export Inspection Station<br>Tuas Checkpoint<br>Woodlands Checkpoint
 ---
