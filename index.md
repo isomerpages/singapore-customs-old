@@ -8,28 +8,45 @@ sections:
         title:
         subtitle:
         background: /images/mission.png
-        button: About Us
+        button: Learn More
         url: /about-us/organisation-overview/
         key_highlights:
-            - title: Duty-Free Concession and GST Relief
-              description:
-              url: https://www.customs.gov.sg/individuals/going-through-customs/arrival/duty-free-concession-and-gst-relief
-            - title: Quick Guide for Importers
-              description:
-              url: https://www.customs.gov.sg/businesses/importing-goods/quick-guide-for-importers
-            - title: Registering to Trade
-              description:
-              url: /businesses/registering-to-trade
-              - title: Customs Schemes & Licenses
-              description:
-              url: /businesses/customs-schemes-licenses-and-framework
+            - title: Sign up for your NTP ACCOUNT
+              description: Find out more about the NTP to advance your business and improve our trade operations
+              url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
+            - title: Our Commitment to Quality Service
+              description: Your Satisfaction, Our Pride
+              url: /about-us/our-commitment-to-quality-service/
+            - title: Careers
+              description: Join Us Today!
+              url: https://ntp.gov.sg/
     - infobar:
-        title: Networked Trade Platform
+        title: Careers
         subtitle:
-        description: Find out more about the NTP to advance your business and improve your trade operations.
-        alt: The one stop trade platform that help businesses digitize, connect & grow
-        button: Sign Up for NTP
-        url: https://www.ntp.gov.sg/
+        description: View our current job openings and send us your application at
+        button: Careers@Gov
+        url: http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=singapore+customs&job-sector
+    - infopic:
+        title: inSync
+        subtitle: Corporate Magazine
+        description: inSYNC is a publication by Singapore Customs. We keep you updated on topics that impact the trading community. Read us to get vital news, pertinent insights, useful pointers, practical advice and more.
+        button: More
+        url: /news-and-media/publications
+        image: /images/in-sync.png
+        alt: inSync Magazine
+    - carousel:
+        - title: Networked Trade Platform
+          description: Find out more about the NTP to advance your business and improve your trade operations.
+          image: /images/ntp-banner.png
+          alt: The one stop trade platform that help businesses digitize, connect & grow
+        - title: Motto
+          description: We make trade easy, fair and secure
+          image: /images/trade-banner.jpg
+          alt: Making Trade Easy, Fair & Secure
+        - title: Tourist Refund Scheme
+          description: Find out about Tourist Refund Scheme, and other information on going through Customs
+          image: /images/travel-banner.jpg
+          alt: Find out about Tourist Refund Scheme, and other information on going through Customs
     - resources:
         title: News and Media
         subtitle: Media Releases
