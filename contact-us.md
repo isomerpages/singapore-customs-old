@@ -21,6 +21,20 @@ locations:
         - 1 Bulim Drive
         - Singapore 648171
     maps_link: https://goo.gl/maps/AEw5kAVxoiWYkkc56
+  - title: Our Stations
+    address:
+    - Changi Airport Terminal 1
+    - Changi Airport Terminal 2
+    - Changi Airport Terminal 3
+    - Changi Airport Terminal 4
+    - Air Export Section Office
+    - Singapore Cruise Centre
+    - Tanah Merah Ferry Terminal
+    - Marina Bay Cruise Centre Singapore
+    - Pasir Panjang Export Inspection Station
+    - Brani Export Inspection Station
+    - Tuas Checkpoint
+    - Woodlands Checkpoint
 contacts:
   - title: Enquiries on Customs Procedures
     content:
