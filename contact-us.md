@@ -65,7 +65,3 @@ contacts:
     - phone: +65 6355 2959
     - other: For feedback regarding Quality Service
 ---
-  - title: Individual Enquiries
-  - title: Trader Enquiries
-  - title: General Enquiries
----
