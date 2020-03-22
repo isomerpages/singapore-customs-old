@@ -3,7 +3,7 @@ title: Careers
 permalink: /careers/
 ---
 
-#Careers
+# Careers
 
 ![Career Poster](/career_poster.jpg)
 
