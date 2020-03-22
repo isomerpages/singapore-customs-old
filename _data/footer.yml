@@ -5,3 +5,14 @@ faq: /faq/
 social_media:
     facebook: https://www.facebook.com/SingaporeCustoms 
     linkedin: https://www.linkedin.com/company/ministry-of-finance-singapore-customs
+links:
+  - title: Careers
+    url: /careers/
+  - title: REACH
+    url: https://www.reach.gov.sg
+  - title: FAQ
+    url: /faq/
+  - title: Feedback
+    url: /feedback/
+  - title: Contact Us
+    url: /contact-us/ 
