@@ -65,3 +65,29 @@ contacts:
     - phone: +65 6355 2959
     - other: For feedback regarding Quality Service
 ---
+You can send us your feedback and enquiries on the following issues:
+
+## Individuals
+
+Checkpoint Matters
+Customs Offences (Inland)
+Tourist Refund
+
+## Traders
+
+[Certificate of Origin](https://form.gov.sg/#!/5e7025bbbce24a0011937cbd)
+[Harmonised System Classification of Goods](https://form.gov.sg/#!/5e6713af65cca600110d2d43)
+Import / Export / Transhipment
+Refunds
+Registration Matters
+Schemes & Licences
+UN Security Council Sanctions / Strategic Goods
+[Valuation and Customs Exchange Rate](https://form.gov.sg/#!/5e6ed24b39ddca001164cce2)
+
+## General Enquiries
+
+Career with Customs
+Courses
+Media Queries & General Feedback
+Reporting of Customs Offences
+
