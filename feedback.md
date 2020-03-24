@@ -1,12 +1,10 @@
 ---
+layout: initiatives
 title: Feedback
 permalink: /feedback/
+breadcrumb: Products and Services
 ---
 
-# Feedback
+# Our Service Standards
 
-[![Feedback Individual](/images/feedback-individual.png)](/feedback-individual/)
-
-[![Feedback Traders](/images/feedback-traders.png)](/feedback-traders/)
-
-[![Feedback General](/images/feedback-general.png)](/feedback-general/)
+We aim to reply emails and letters
