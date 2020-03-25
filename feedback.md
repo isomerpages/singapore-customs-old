@@ -11,23 +11,35 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 ## For Individuals
 
 Checkpoint Matters
+
 Customs Offences (Inland)
+
 Tourist Refund
 
 ## For Traders
 
 Certificate of Origin
+
 Harmonised System Classification of Goods
+
 Import / Export / Transhipment
+
 Refunds
+
 Registration Matters
+
 Schemes & Licences
+
 UN Security Council Sanctions / Strategic Goods
+
 Valuation and Customs Exchange Rate
 
 ## General Enquiries & Feedback
 
 Career with Customs
+
 Courses
+
 Media Queries & General Feedback
+
 Reporting of Customs Offences
