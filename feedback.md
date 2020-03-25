@@ -8,6 +8,7 @@ breadcrumb: Feedback
 
 We aim to reply emails and letters within 3 working days. We may take a slightly longer time to respond to more complex queries. If we cannot fully answer your query on time, we will give you an update.
 
+
 ## For Individuals
 
 Checkpoint Matters
@@ -15,6 +16,7 @@ Checkpoint Matters
 Customs Offences (Inland)
 
 Tourist Refund
+
 
 
 ## For Traders
@@ -36,6 +38,7 @@ UN Security Council Sanctions / Strategic Goods
 Valuation and Customs Exchange Rate
 
 
+
 ## General Enquiries & Feedback
 
 Career with Customs
@@ -45,5 +48,7 @@ Courses
 Media Queries & General Feedback
 
 Reporting of Customs Offences
+
+
 
 ### For NTP system/technical enquiries and support, please contact the NTP help desk on (65) 6570 3053 or via email at ntp_helpdesk@ncs.com.sg.
