@@ -5,11 +5,13 @@ breadcrumb: Feedback
 ---
 
 # Our Service Standards
+---
 
 We aim to reply emails and letters within 3 working days. We may take a slightly longer time to respond to more complex queries. If we cannot fully answer your query on time, we will give you an update.
 
 
 ## For Individuals
+---
 
 Checkpoint Matters
 
@@ -20,6 +22,7 @@ Tourist Refund
 
 
 ## For Traders
+---
 
 Certificate of Origin
 
@@ -40,6 +43,7 @@ Valuation and Customs Exchange Rate
 
 
 ## General Enquiries & Feedback
+---
 
 Career with Customs
 
