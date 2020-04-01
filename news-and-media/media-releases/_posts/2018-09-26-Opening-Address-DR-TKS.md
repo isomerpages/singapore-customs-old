@@ -1,0 +1,5 @@
+---
+title: OPENING ADDRESS BY DR TAN KIM SIEW, COCHAIR OF THE NATIONAL TRADE AND LOGISTICS INTER-AGENCY STEERING COMMITTEE (NTLSC), AT THE OFFICIAL LAUNCH OF THE NTP ON 26 SEP 2018 AT ORCHARD HOTEL
+permalink: /news-and-media/media-releases/2018-09-26-Opening-Address-DR-TKS
+file_url: /news-and-media/media-releases/2018-09-26-Opening-Address-DR-TKS.pdf
+---
