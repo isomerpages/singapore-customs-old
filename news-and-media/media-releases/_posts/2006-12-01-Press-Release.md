@@ -1,0 +1,4 @@
+---
+title: THREE ARRESTED AND 18,590 PACKETS DUTY-UNPAID CIGARETTES SEIZED IN SINGAPORE CUSTOMS STING OPERATION
+file_url: /news-and-media/media-releases/2006-12-01-Press-Release.pdf
+---
