@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Public Advisory On Scams
-permalink: /news-and-media/advisories/2020-04-03-advisories
+date: 2020-04-03
+permalink: /2020-04-03-advisories/
 ---
 # Public Advisory on Scams
 
