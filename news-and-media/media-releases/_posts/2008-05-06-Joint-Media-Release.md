@@ -1,0 +1,4 @@
+---
+title: JOINT MEDIA RELEASE: IMMIGRATION & CHECKPOINTS AUTHORITY AND SINGAPORE CUSTOMS SMUGGLING ATTEMPT TURNS TURTLE 
+file_url: /news-and-media/media-releases/2008-05-06-Joint-Media-Release.pdf
+---
