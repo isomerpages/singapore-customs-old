@@ -1,0 +1,4 @@
+---
+title: SINGAPORE CUSTOMS ARRESTED 7 MEN AND SEIZED $1.3 MILLION WORTH OF DUTY-UNPAID CIGARETTES FROM A WAREHOUSE IN CLEMENTI
+file_url: /news-and-media/media-releases/2006-10-09-Press-Release.pdf
+---
