@@ -1,0 +1,4 @@
+---
+title: MAN FINED $95,000 FOR FRAUDULENT EVASION OF DUTY & GST AND FOR FURNISHING FALSE INFORMATION ON IMPORT OF A PORSCHE CAYMAN MOTOR CAR
+file_url: /news-and-media/media-releases/2008-06-18-Media-Release-Porsche.pdf
+---
