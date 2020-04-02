@@ -1,0 +1,4 @@
+---
+title: SINGAPORE CUSTOMS SEIZED 1,000 CARTONS OF DUTY UNPAID CIGARETTES AND 18,000 PIECES OF UNCENSORED OPTICAL DISCS
+file_url: /news-and-media/media-releases/2004-07-07-pressrelease.pdf
+---
