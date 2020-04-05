@@ -13,3 +13,4 @@ Click on the links below for information on duties, Goods and Services Tax (GST)
     -   [How to Make GST and Duty Payment](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service#HowToMake)
     -   [Enquiries](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service#Enquiries)
     -   [Refund of Taxes](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service#RefundOfTaxes)
+  
