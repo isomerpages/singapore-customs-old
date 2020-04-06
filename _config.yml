@@ -19,6 +19,7 @@ colors:
       color: '#00838f'
 
 resources_name: news-and-media
+resources_name: resources
 
 collections:
   about-us:
