@@ -1,9 +1,8 @@
 ---
-title: Application for Licence
+title: Chemical Weapons Convention
 permalink: /businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence
-breadcrumb: Customs' Schemes, Licences & Framework
-collection_name: Businesses
 ---
+
 # Application for Licence
 
 ## Who Should Apply?
