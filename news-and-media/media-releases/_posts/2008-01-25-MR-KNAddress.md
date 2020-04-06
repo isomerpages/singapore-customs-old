@@ -1,4 +1,4 @@
 ---
-title: KEYNOTE ADDRESS AT INTERNATIONAL CUSTOMS DAY BY MRS LIM HWEE HUA, MINISTER OF STATE FOR FINANCE AND TRANSPORT, ON 25 JANUARY 2008, 11.15AM, SUNTEC CONVENTION CENTRE 
+title: Keynote Address at International Customs Day 2008 by Mrs Lim Hwee Hua, Minister of State for Finance and Transport, on 25 January 2008, 11.15am, Suntec Convention Centre
 file_url: /news-and-media/media-releases/2008-01-25-MR-KNAddress.pdf
 ---
