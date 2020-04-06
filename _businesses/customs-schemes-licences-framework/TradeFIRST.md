@@ -41,13 +41,12 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     -   [Microbrewery](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/excise-factory-scheme)
     -   Compressed Natural Gas Station
   
---   **Intermediate Band**
+-   **Intermediate Band**
     
     -   [Licensed Warehouse Scheme Type II](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
     -   [Zero-GST Warehouse Scheme Type II](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
     -   [Secure Trade Partnership](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
-    
- -   **Enhanced Band**
+-   **Enhanced Band**
     
     -   [Strategic Trade Scheme Bulk Permit](https://www.customs.gov.sg/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology)
     -   [Licensed Warehouse Scheme Type III](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
@@ -58,8 +57,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     -   [Excise Factory Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/excise-factory-scheme)
     -   [Container Freight Warehouse Licence](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/container-freight-warehouse)
     -   [Company Declaration Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/company-declaration-scheme)
-    
-   -   **Premium Band**
+-   **Premium Band**
     
     -   Waiver of security for most types of transactions
     -   Reduced container sealing
@@ -71,7 +69,6 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     
     [Terms and Conditions](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/as-part-of-the-benefits-for-having-attained-the-premium-band-under-tradefirst.docx)  for the use of TradeFIRST Logo
     
-   
 ## TradeFIRST Assessment
 
 There are 6 sections under the TradeFIRST assessment framework:
