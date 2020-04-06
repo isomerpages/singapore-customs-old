@@ -1,4 +1,4 @@
 ---
-title: 2 MEN ARRESTED AND 1000 CARTONS OF CONTRABAND CIGARETTES SEIZED 
+title: 2 men arrested and 1000 cartons of contraband cigarettes seized.
 file_url: /news-and-media/media-releases/2003-10-17-press-statement.pdf
 ---
