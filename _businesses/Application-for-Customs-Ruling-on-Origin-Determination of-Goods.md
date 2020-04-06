@@ -1,6 +1,6 @@
 ---
-title: Claiming Preferential Tariff Treatment for Dutiable Imports
-permalink: /businesses/certificates-of-origin/claiming-preferential-tariff-treatment-for-dutiable-imports
+title: Application for Customs Ruling on Origin Determination of Goods
+permalink: /businesses/certificates-of-origin/application-for-customs-ruling-on-origin-determination-of-goods
 breadcrumb: Certificates Of Origin 
 collection_name: Businesses
 ---
