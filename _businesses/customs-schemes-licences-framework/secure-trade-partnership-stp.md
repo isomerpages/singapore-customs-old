@@ -5,7 +5,6 @@ breadcrumb: Customs' Schemes, Licences & Framework
 collection_name: Businesses
 ---
 
-
 # Secure Trade Partnership (STP) & STP-Plus
 
 ## What are these?
