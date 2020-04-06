@@ -3,15 +3,7 @@ title: Certificates Of Origin
 permalink: /businesses/certificates-of-origin/
 accordion: 
   - title: Step 1: Register your Manufacturing Premises
-    content: Register using the [manufacturer’s application form](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/certificate-of-origin-related-forms/sca006-manufacturers-application-ver-11--apr19.doc?la=en&hash=8F05954A10A3F8FB3E48CD92EE509C3A0EFC8C2C).
-
-Singapore Customs will arrange to visit your factory to verify the production processes for the goods specified in your application to ensure that they meet the requirements. Financial and operation records may also be inspected as part of this visit.
-
-The manufacturer's registration will be valid for 2 years from the date of your successful registration.
-
-_(You may skip this step if you are already registered with us as a manufacturer for the specific goods.)_
-
-  
+    content: Register using the [manufacturer’s application form](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/certificate-of-origin-related-forms/sca006-manufacturers-application-ver-11--apr19.doc?la=en&hash=8F05954A10A3F8FB3E48CD92EE509C3A0EFC8C2C).  
 ---
 -   [Step 1: Register your Manufacturing Premises](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-4e9b7871-0ec0-4b82-b68f-854341f6e9c4)
     
