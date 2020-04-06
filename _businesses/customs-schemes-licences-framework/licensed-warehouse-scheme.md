@@ -23,7 +23,7 @@ accordion:
 You may view this table on common offences and the penalties upon conviction.
 
 | offence | Penalty Upon Conviction |
-|--|--|
+|---------|-------------------------|
 | Failure to comply with conditions imposed on removal of dutiable goods from customs control. _Section 27(1)(c) of the Customs Act:_ | A fine not exceeding S$5,000. |
 | Making an incorrect declaration. _Section 128(1)(a) of the Customs Act_: | A fine not exceeding S$10,000, or the equivalent of the customs duty, excise duty or GST payable, whichever is greater; or imprisonment not exceeding 12 months; or both. |
 | llegally removal of goods from customs control. _Section 128K(a) of the Customs Act_:| A fine not less than 10 times the customs duty, excise duty or GST evaded, or S$5,000, whichever is lesser; and not more than 20 times the customs duty, excise duty or GST evaded, or S$5,000, whichever is greater. Higher penalties are applicable for: -   Second or subsequent conviction, or -   Offences involving tobacco products. Refer to the Customs Act for more details.
