@@ -39,8 +39,10 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 | (ii) less than 1.8 million litres | $8,400 (Standard) |
 | To distill, ferment or manufacture any other intoxicating liquors | $28,000 (Enhanced) |
 | To manufacture cigarettes | $120,000 (Enhanced) |
-| To manufacture tobacco other than cigarettes | $1,800 (Enhanced) | To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 (Enhanced) |
-| To refine and treat petroleum or biodiesel blends | $75,000 (Enhanced) | To manufacture compressed natural gas for supply to motor vehicles | $2,600 (Enhanced) |
+| To manufacture tobacco other than cigarettes | $1,800 (Enhanced) | 
+| To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 (Enhanced) |
+| To refine and treat petroleum or biodiesel blends | $75,000 (Enhanced)|
+|To manufacture compressed natural gas for supply to motor vehicles | $2,600 (Enhanced) |
 | To manufacture any other dutiable goods where the goods manufactured are subject to payment of excise duty | $30,000 (Enhanced) |
 
 
@@ -119,6 +121,16 @@ Yes, the renewal of the licence is dependent on:
 **5.** **Is the licence transferable?**
 
 The licence is strictly non-transferable. There should be no sub-letting of the excise factory. The manufacturer is responsible for the movement of all goods in and out of the excise factory.
+
+**6.** **How do I declare Customs permits?**
+
+Customs permits can be declared through  [TradeNet](https://www.customs.gov.sg/about-us/national-single-window/tradenet).
+
+Find out more about  [Permit Declaration](https://www.customs.gov.sg/businesses/registering-to-trade/quick-guide-on-registration-matters).
+
+**7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
+
+Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](https://www.customs.gov.sg/-/media/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf?la=en&hash=2C1D3B2F761BA1F6E7F9EB22920152D11EAE0ED9)  for more information.
 
 **6.** **How do I declare Customs permits?**
 
