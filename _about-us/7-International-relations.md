@@ -1,6 +1,6 @@
 ---
 title: International-relations
-file_url: /_about-us/International-relations/
+permalink: /_about-us/International-relations/
 breadcrumb: International-relations
 ---
 # International Relations
