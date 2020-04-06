@@ -1,4 +1,4 @@
 ---
-title: SPEECH BY MRS LIM HWEE HUA, MINISTER OF STATE FOR FINANCE AND TRANSPORT, AT THE ZERO-GST WAREHOUSE LICENCES PRESENTATION CEREMONY, 17 JANUARY 2006, 9.30 AM AT CRIMSONLOGIC, SCIENCE PARK II 
+title: Singapore Customs Introduced Two Major Trade Facilitative Initiatives - The Zero GST Warehouse Scheme and TradeXchange®
 file_url: /news-and-media/media-releases/2006-01-17-Speech-by-MinisterLHH.pdf
 ---
