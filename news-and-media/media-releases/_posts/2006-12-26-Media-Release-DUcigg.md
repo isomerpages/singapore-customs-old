@@ -1,4 +1,4 @@
 ---
-title: SINGAPORE CUSTOMS STING OPERATION - ONE MAN ARRESTED AND 1.75 MILLION STICKS OF DUTY-UNPAID CIGARETTES SEIZED
+title: Singapore Customs Sting Operation - One Man Arrested And 1.75 Million Sticks Of Duty-Unpaid Cigarettes Seized
 file_url: /news-and-media/media-releases/2006-12-26-Media-Release-DUcigg.pdf
 ---
