@@ -20,6 +20,8 @@ links:
     collection: businesses
   - title: News And Media
     resource_room: true
+  - title: Resources
+    resource_room: true
   - title: E-Services
     collection: eservices
   - title: Contact Us 
