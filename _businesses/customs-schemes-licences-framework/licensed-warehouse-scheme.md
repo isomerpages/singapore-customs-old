@@ -46,7 +46,7 @@ To qualify for the Licensed Warehouse Scheme, the company must:
 An annual licence fee is payable upon issuance of the licence. It is based on the projected potential duty*  or the average past monthly duty**  of the dutiable goods stored in the licensed premises:
 
 | Projected Potential Duty or Average Past Monthly Duty | Fee |
-|-------------------------------------------------------|-----|
+|--|--|
 | S$1 million or less | S$2,500 |
 | More than S$1 million but less than S$10 million | S$4,000 |
 | S$10 million or more | S$21,000 |
@@ -131,7 +131,7 @@ Accordion:
 You may view this table on common offences and the penalties upon conviction.
 
 | offence | Penalty Upon Conviction |
-|---------|-------------------------|
+|--|--|
 | Failure to comply with conditions imposed on removal of dutiable goods from customs control. _Section 27(1)(c) of the Customs Act:_ | A fine not exceeding S$5,000. |
 | Making an incorrect declaration. _Section 128(1)(a) of the Customs Act_: | A fine not exceeding S$10,000, or the equivalent of the customs duty, excise duty or GST payable, whichever is greater; or imprisonment not exceeding 12 months; or both. |
 | llegally removal of goods from customs control. _Section 128K(a) of the Customs Act_:| A fine not less than 10 times the customs duty, excise duty or GST evaded, or S$5,000, whichever is lesser; and not more than 20 times the customs duty, excise duty or GST evaded, or S$5,000, whichever is greater. Higher penalties are applicable for: -   Second or subsequent conviction, or -   Offences involving tobacco products. Refer to the Customs Act for more details.
