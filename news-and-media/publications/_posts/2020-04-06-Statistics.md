@@ -1,6 +1,6 @@
 ---
 title: Statistics
-file_url: /news-and-media/publications/_posts/2020-04-06-Statistics.md
+file_url: /news-and-media/publications/_posts/Statistics/
 Breadcrumb: Statistics
 ---
 
