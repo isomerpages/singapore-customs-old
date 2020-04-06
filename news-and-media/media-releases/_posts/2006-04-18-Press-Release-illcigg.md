@@ -1,4 +1,4 @@
 ---
-title: SINGAPORE CUSTOMS SMASHED AN ILLEGAL CIGARETTE STORE AT WOODLANDS – ONE ARRESTED AND 12700 PACKETS CIGARETTE SEIZED 
+title: Singapore Customs Smashed an Illegal Cigarette Store in Woodlands - One Arrested and 12,700 Packets Cigarette Seized
 file_url: /news-and-media/media-releases/2006-04-18-Press-Release-illcigg.pdf
 ---
