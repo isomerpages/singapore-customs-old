@@ -32,19 +32,18 @@ To qualify for the Excise Factory Scheme, the company must:
 
 The annual licence fee varies with the type of activity, and is payable upon issuance of the licence.
 
-| Activity | Annual Licence Fee (minimum TradeFIRST Band to qualify) | 
-|--|--|
+| Activity | Annual Licence Fee | minimum TradeFIRST Band to qualify |
+|----------|--------------------|------------------------------------|
 | To ferment or manufacture ale, beer, stout or porter, where the projected annual production volume (in the case of an application for the issue of a licence) or the past annual production volume (in the case of an application for renewal of a licence) is — |  |
-| (i) 1.8 million litres or more | $43,200 (Enhanced) |
-| (ii) less than 1.8 million litres | $8,400 (Standard) |
-| To distill, ferment or manufacture any other intoxicating liquors | $28,000 (Enhanced) |
-| To manufacture cigarettes | $120,000 (Enhanced) |
-| To manufacture tobacco other than cigarettes | $1,800 (Enhanced) | 
-| To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 (Enhanced) |
-| To refine and treat petroleum or biodiesel blends | $75,000 (Enhanced)|
-|To manufacture compressed natural gas for supply to motor vehicles | $2,600 (Enhanced) |
-| To manufacture any other dutiable goods where the goods manufactured are subject to payment of excise duty | $30,000 (Enhanced) |
-
+| (i) 1.8 million litres or more | $43,200 | Enhanced |
+| (ii) less than 1.8 million litres | $8,400 | Standard |
+| To distill, ferment or manufacture any other intoxicating liquors | $28,000 | Enhanced |
+| To manufacture cigarettes | $120,000 | Enhanced |
+| To manufacture tobacco other than cigarettes | $1,800 | Enhanced | 
+| To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 | Enhanced |
+| To refine and treat petroleum or biodiesel blends | $75,000 | Enhanced |
+| To manufacture compressed natural gas for supply to motor vehicles | $2,600 | Enhanced |
+| To manufacture any other dutiable goods where the goods manufactured are subject to payment of excise duty | $30,000 | Enhanced |
 
 
 ## Key Responsibilities
