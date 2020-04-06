@@ -1,8 +1,7 @@
 ---
 title: Licensed Warehouse Scheme
 permalink: /businesses/customs-schemes-licences-framework/licensed-warehouse-scheme
-breadcrumb: Customs' Schemes, Licences & Framework
-collection_name: Businesses
+third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
 # Licensed Warehouse Scheme
@@ -143,4 +142,3 @@ You may view this table on common offences and the penalties upon conviction.
 
 You are accountable as a licensee for the dutiable goods stored in or moved from/to your licensed warehouse. We encourage you to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
-{% include accordion.html % } 
