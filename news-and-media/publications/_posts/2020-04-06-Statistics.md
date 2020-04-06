@@ -1,6 +1,6 @@
 ---
 title: Statistics
-file_url: /news-and-media/publications/_posts/Statistics/
+permalink: /news-and-media/publications/Statistics/
 Breadcrumb: Statistics
 ---
 
