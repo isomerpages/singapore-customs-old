@@ -1,4 +1,4 @@
 ---
-title: ADDRESS BY MR PETER ONG, HEAD OF CIVIL SERVICE AND PERMANENT SECRETARY FOR FINANCE, AT THE OPENING CEREMONY OF THE 22ND ASEAN DIRECTORS-GENERAL OF CUSTOMS MEETING, 4 JUNE 2013, MANDARIN ORCHARD HOTEL, LEVEL 6, BALLROOM 3
+title: Address By Mr Peter Ong, Head Of Civil Service And Permanent Secretary For Finance, At The Opening Ceremony Of The 22nd ASEAN Directors-General Of Customs Meeting, 4 June 2013, Mandarin Orchard Hotel, Level 6, BallRoom 3
 file_url: /news-and-media/media-releases/2013-06-04-Address-by-Mr-PeterOng.pdf
 ---
