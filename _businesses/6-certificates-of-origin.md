@@ -56,7 +56,6 @@ These authorised organisations issue ordinary COs for locally manufactured or pr
 
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
-# Accordion Test
 
 {% include accordion.html %}
 
@@ -162,6 +161,5 @@ Companies may be penalised under the Regulation of Imports and Exports Act (RIEA
 
 You are accountable as an exporter or declaring agent for the export of goods and compliance with the Rules of Origin requirements. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
-# Accordion Test
 
 {% include accordion.html %}
