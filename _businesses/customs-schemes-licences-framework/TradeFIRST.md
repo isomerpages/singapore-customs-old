@@ -1,8 +1,7 @@
 ---
 title: Trade FIRST
-permalink: /businesses/customs-schemes-licences-framework/tradefirst
+permalink: /businesses/customs-schemes-licences-framework/
 breadcrumb: Customs' Schemes, Licences & Framework
-collection_name: Businesses
 ---
 # TradeFIRST
 
