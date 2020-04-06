@@ -1,4 +1,4 @@
 ---
-title: SINGAPORE CUSTOMS SEIZED 2450 CARTONS OF DUTY UNPAID CIGARETTES
+title: Singapore Customs seized 2450 cartons of duty unpaid cigarettes
 file_url: /news-and-media/media-releases/2005-04-20-pressrelease-DUcig.pdf
 ---
