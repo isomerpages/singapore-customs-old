@@ -1,4 +1,4 @@
 ---
-title: “CUSTOMS COMING TO CHECK MY LOCKER, HELP ME REMOVE THE ILLEGAL CIGARETTES…” – TWO FOREIGN WORKERS IN CAHOOTS CONVICTED FOR CIGARETTE OFFENCES 
+title: 	Two Foreign Workers in Cahoots Convicted for Cigarettes Offences
 file_url: /news-and-media/media-releases/2009-06-11-Media-Release-Foreignworkers.pdf
 ---
