@@ -3,15 +3,15 @@ title: Certificates Of Origin
 permalink: /businesses/certificates-of-origin/
 accordion: 
   - title: Step 1: Register your Manufacturing Premises
-    content: Register using the manufacturer’s application form
+    content: Register using the manufacturer’s application form Register using the [manufacturer’s application form](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/certificate-of-origin-related-forms/sca006-manufacturers-application-ver-11--apr19.doc?la=en&hash=8F05954A10A3F8FB3E48CD92EE509C3A0EFC8C2C).
+
+Singapore Customs will arrange to visit your factory to verify the production processes for the goods specified in your application to ensure that they meet the requirements. Financial and operation records may also be inspected as part of this visit.
+
+The manufacturer's registration will be valid for 2 years from the date of your successful registration.
+
+_(You may skip this step if you are already registered with us as a manufacturer for the specific goods.)_
+ 
 ---
--   [Step 1: Register your Manufacturing Premises](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-4e9b7871-0ec0-4b82-b68f-854341f6e9c4)
-    
--   [Step 2: Submit the Manufacturing Cost Statement](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-b5e78e7c-989b-4fea-a9de-68cb0ebdff78)
-    
--   [Step 3: Apply for Certificate of Origin via TradeNet](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-12de7672-3727-45e2-b483-04674b9f26d2)
-    
--   [Step 4: Collect the Certificate of Origin](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-8f3815a4-0a50-4740-9e9f-d9a3426ffcb7)
 
 # Certificates of Origin
 
@@ -19,8 +19,7 @@ accordion:
 
 **With effect from 24 Dec 2019, Lao PDR & Myanmar will join Brunei Darussalam, Cambodia, Indonesia, Malaysia, Singapore, Thailand and Vietnam to commence live operation of the ASEAN Single Window (ASW) for the electronic exchange of Form D under the ASEAN Trade in Goods Agreement of the ASEAN Free Trade Area (ATIGA). This is an update to Circular No. 15/2017 under News & Media > Circulars.**
 
-**More information on the electronic transmission of Form D via the ASW can be found under “Electronic Exchange of Form D via the ASEAN Single Window (ASW)”.**  
-
+**More information on the electronic transmission of Form D via the ASW can be found under “Electronic Exchange of Form D via the ASEAN Single Window (ASW)”.**
 
 A Certificate of Origin (CO) helps to attest the origin of goods. There are two types of COs, namely ordinary COs and preferential COs.
 
@@ -57,8 +56,9 @@ These authorised organisations issue ordinary COs for locally manufactured or pr
 
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
+# Accordion Test
+
 {% include accordion.html %}
-    
 
 ## How to apply for back-to-back preferential Certificate of Origin with Singapore Customs?
 
@@ -75,7 +75,17 @@ In general, the re-export may be eligible for a back-to-back preferential CO iss
 
 Please refer to the legal text of the respective [Free Trade Agreements](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview) for the eligibility requirements for back-to-back preferential CO application.
 
-Certificate Type
+| Certificate Type | Back-to-Back Preferential CO |
+|------------------|------------------------------|
+| 17               | Back-to-Back AFTA ATIGA Form D |
+| 20               | Back-to-Back ACFTA Form E (also known as Movement Certificate) |
+| 22               | Back-to-Back AKFTA Form AK |
+| 26               | Back-to-Back AJCEP Form AJ | 
+| 28               | Back-to-Back AIFTA Form AI |
+| 30               | Back-to-Back AANZFTA Form AANZ |
+| 32               | Back-to-Back AHKFTA Form AHK |
+
+
 
 The required supporting documents include:
 
@@ -146,15 +156,12 @@ You may also find an infographic of the process [here](https://www.customs.gov.s
 
 Companies may be penalised under the Regulation of Imports and Exports Act (RIEA) if they do not comply with requirements relating to rules of origin.
 
--   [Examples of common offences](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-cc7fdb84-a478-4447-bfd6-7b112556d083)
-    
--   [Penalties upon conviction for key offences](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-813199c9-7690-4286-9e9d-d66b691e6bc3)
-    
+[Accordion]
 
 ## Best Practices
 
 You are accountable as an exporter or declaring agent for the export of goods and compliance with the Rules of Origin requirements. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
--   [Do](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-8a5d9c9c-cb36-499a-9721-2341c1730cc4)
-    
--   [Do Not](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-309edd18-1b02-4b4a-8967-ea6362807e44)
+# Accordion Test
+
+{% include accordion.html %}
