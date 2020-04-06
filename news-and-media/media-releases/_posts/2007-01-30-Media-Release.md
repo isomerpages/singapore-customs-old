@@ -1,4 +1,4 @@
 ---
-title: “YOU JUMP, I JUMP … … TO NAB YOU!” - SINGAPORE CUSTOMS GAVE CHASE AT SEA, FOUR ARRESTED AND OVER 36,000 PACKETS DUTY-UNPAID CIGARETTES SEIZED
+title: "You Jump, I Jump...... To Nab You!" - Singapore Customs Gave Chase at Sea, Four Arrested and Over 36,000 Packets Duty-Unpaid Cigarettes Seized
 file_url: /news-and-media/media-releases/2007-01-30-Media-Release.pdf
 ---
