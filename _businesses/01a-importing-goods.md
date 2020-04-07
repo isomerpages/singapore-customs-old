@@ -2,6 +2,7 @@
 title: Importing Goods
 permalink: /businesses/importing-goods/
 ---
+
 ## Imports
 
 An import refers to goods brought into customs territory from an entry point or a free trade zone (FTZ), or overseas goods brought into a free trade zone for storage and pending re-export.
