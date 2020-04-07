@@ -2,7 +2,7 @@
 title: List of Dual-use Goods
 permalink: /businesses/strategic-goods-control/strategic-goods-control-list/list-of-dual-use-goods
 breadcrumb: Strategic Goods Control List
-collection_name: Businesses
+third_nav_title: Strategic Goods Control
 ---
 
 # List of Dual-use Goods
