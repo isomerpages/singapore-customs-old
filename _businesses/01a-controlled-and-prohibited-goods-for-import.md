@@ -1,19 +1,10 @@
 ---
 title: Controlled & Prohibited Goods for Import
 Permalink: /businesses/importing-goods/controlled-and-prohibited-goods-for-import
----
-
-# Controlled & Prohibited Goods for Import
-
-Controlled goods require proper authorisation (advance notification, licence or certificate approval) from  **Competent Authorities (CA)**  before they may be imported into Singapore. You are advised to check if the goods are controlled using the description of the goods, Harmonized System (HS) code or CA product code  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If the item is subject to control, you may check directly with the respective  [CAs](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/annex-e---ca-helpdesk-lists.pdf)  on their licensing requirements.
-
-Please refer to the table below for the list of prohibited goods that you are not allowed to bring to Singapore.
-
+third_nav_title: Importing Goods
 Accordian:
   - Title: List of Prohibited Goods for Imports
-    Content: 
-    
-|Prohibited Goods |  Competent Authority|
+    Content: |Prohibited Goods |  Competent Authority|
 |---|---|
 |Chewing gum (excluding Health Sciences Authority approved oral dental and medicinal chewing gum)|Singapore Customs|
 | Pistol or revolver - shaped cigarette lighters |  Arms & Explosives Division, General Licensing Division, Police Licensing & Regulatory Department, Singapore Police Force|
@@ -37,8 +28,15 @@ Accordian:
 | Nasal snuff |Tobacco Regulation Branch, Health Sciences Authority  |
 |  Oral snuff |Tobacco Regulation Branch, Health Sciences Authority  |
 |  Gutkha, khaini and zarda |  Tobacco Regulation Branch, Health Sciences Authority|
-| Controlled drugs listed under 4th Schedule of Misuse of Drugs Regulation | Health Products Regulation Group, Health Sciences Authority |    
+| Controlled drugs listed under 4th Schedule of Misuse of Drugs Regulation | Health Products Regulation Group, Health Sciences Authority |  A comprehensive list of [United Nations Security Council sanctions](https://www.customs.gov.sg/businesses/united-nations-security-council-sanctions) can be found on the UNSC Sanctions Committees Website
 
-A comprehensive list of [United Nations Security Council sanctions](https://www.customs.gov.sg/businesses/united-nations-security-council-sanctions) can be found on the UNSC Sanctions Committees Website
+---
+
+# Controlled & Prohibited Goods for Import
+
+Controlled goods require proper authorisation (advance notification, licence or certificate approval) from  **Competent Authorities (CA)**  before they may be imported into Singapore. You are advised to check if the goods are controlled using the description of the goods, Harmonized System (HS) code or CA product code  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If the item is subject to control, you may check directly with the respective  [CAs](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/annex-e---ca-helpdesk-lists.pdf)  on their licensing requirements.
+
+Please refer to the table below for the list of prohibited goods that you are not allowed to bring to Singapore.
+
 
 {% include accordion.html %}
