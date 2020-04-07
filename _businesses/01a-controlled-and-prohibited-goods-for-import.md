@@ -29,7 +29,6 @@ Accordian:
 |  Oral snuff |Tobacco Regulation Branch, Health Sciences Authority  |
 |  Gutkha, khaini and zarda |  Tobacco Regulation Branch, Health Sciences Authority|
 | Controlled drugs listed under 4th Schedule of Misuse of Drugs Regulation | Health Products Regulation Group, Health Sciences Authority |  A comprehensive list of [United Nations Security Council sanctions](https://www.customs.gov.sg/businesses/united-nations-security-council-sanctions) can be found on the UNSC Sanctions Committees Website
-
 ---
 
 # Controlled & Prohibited Goods for Import
