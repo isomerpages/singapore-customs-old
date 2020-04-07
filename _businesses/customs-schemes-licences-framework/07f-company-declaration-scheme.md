@@ -1,8 +1,7 @@
 ---
 title: Company Declaration Scheme
 permalink: /businesses/customs-schemes-licences-framework/company-declaration-scheme
-breadcrumb: Customs' Schemes, Licences & Framework
-collection_name: Businesses
+third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
 # Company Declaration Scheme

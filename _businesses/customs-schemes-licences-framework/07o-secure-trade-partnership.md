@@ -1,8 +1,7 @@
 ---
 title: Secure Trade Partnership (STP) & STP-Plus
 permalink: /businesses/customs-schemes-licences-framework/secure-trade-partnership-stp
-breadcrumb: Customs' Schemes, Licences & Framework
-collection_name: Businesses
+third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
 # Secure Trade Partnership (STP) & STP-Plus

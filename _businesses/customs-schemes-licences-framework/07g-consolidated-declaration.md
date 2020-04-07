@@ -1,8 +1,7 @@
 ---
 title: Consolidated Declaration
 permalink: /businesses/customs-schemes-licences-framework/consolidated-declaration
-breadcrumb: Customs' Schemes, Licences & Framework
-collection_name: Businesses
+third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
 # Consolidated Declaration

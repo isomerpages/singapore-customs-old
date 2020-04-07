@@ -1,8 +1,7 @@
 ---
 title: Duty Free Shop Scheme
 permalink: /businesses/customs-schemes-licences-framework/duty-free-shop-scheme
-breadcrumb: Customs' Schemes, Licences & Framework
-collection_name: Businesses
+third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
 # Duty Free Shop Scheme

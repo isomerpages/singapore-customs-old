@@ -1,8 +1,7 @@
 ---
 title: Bulk Permit: Export, Transhipment and Transit
 permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology
-breadcrumb: Customs' Schemes, Licences & Framework
-collection_name: Businesses
+third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
 # Bulk Permit: Export, Transhipment and Transit
