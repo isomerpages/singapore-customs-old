@@ -1,10 +1,12 @@
 ---
 title: Controlled and Prohibited Goods for Transhipment
-PermaLink: /_businesses/controlled-and-prohibited-goods-for-transhipment
-Accordian: 
+permaLink: /_businesses/controlled-and-prohibited-goods-for-transhipment
+accordian: 
   - Title: List of Prohibited Goods for Transhipment
-    Content: Please refer to the complete [list of items regulated by the Strategic Goods (Control) Act.](https://www.customs.gov.sg/businesses/strategic-goods-control/strategic-goods-control-list)  
-A comprehensive list of [United Nations Security Council sanctions](https://www.customs.gov.sg/businesses/united-nations-security-council-sanctions) can be found on the UNSC Sanctions Committees Website
+    Content: |
+    Please refer to the complete [list of items regulated by the Strategic Goods (Control) Act.](https://www.customs.gov.sg/businesses/strategic-goods-control/strategic-goods-control-list)  
+    
+    A comprehensive list of [United Nations Security Council sanctions](https://www.customs.gov.sg/businesses/united-nations-security-council-sanctions) can be found on the UNSC Sanctions Committees Website
 ---
 
 # Controlled & Prohibited Goods for Transhipment
