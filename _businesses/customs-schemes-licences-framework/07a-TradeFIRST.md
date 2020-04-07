@@ -3,22 +3,24 @@ title: Trade FIRST
 permalink: /businesses/customs-schemes-licences-framework/trade-first
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
-# TradeFIRST
-
-![tradefirst - Copy](https://www.customs.gov.sg/-/media/cus/images/business/tradefirst---copy.jpg)
 ## What is it?
 
 TradeFIRST stands for Trade Facilitation & Integrated Risk-based System. It is an integrated assessment framework that provides a holistic assessment of a company and determines the level of facilitation accorded.
 
 The assessment is free and it is mandatory for all companies who wish to apply for a Singapore Customs scheme or licence.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y0kFDuH6COA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Benefits of TradeFIRST
 
 ### Greater Convenience
-Each company will have a dedicated account manager regardless of the number of schemes held with Singapore Customs. The account manager will follow up with the company reviews and TradeFIRST renewal.
+
+Each company will have a dedicated account manager regardless of the number of schemes held with Singapore Customs. The account manager will follow up with the company on reviews and TradeFIRST renewal.
 
 ### Greater Facilitation
+
 We adopt a risk management approach to classify the level of facilitation into 5 bands - Basic, Standard, Intermediate, Enhanced and Premium.
+
 ![tradefirst1 - Copy](https://www.customs.gov.sg/-/media/cus/images/business/tradefirst1---copy.jpg)
 
 **The higher your TradeFIRST band, the greater the facilitation accorded to you.**
@@ -27,14 +29,14 @@ For example,  a company that obtains a Premium band can enjoy the facilitation a
 
 This list shows the various Customs facilitation and schemes under each TradeFIRST band.
 
---   **Basic Band**
+-   **Basic Band**
     -   [Waiver of security amount of S$2000 and below](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2010/cir19201015nov2010.pdf)
     -   [Temporary Import Scheme](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme)
     -   [TradeNet Account](https://www.customs.gov.sg/about-us/national-single-window/tradenet)
     -   [Cargo Agent’s Import Authorisation Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme)
     -   [Certificate of Origin](https://www.customs.gov.sg/businesses/exporting-goods/certificates-of-origin)
+-   **Standard Band**
     
---   **Standard Band**  
     -   [Licensed Warehouse Scheme Type I](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
     -   [Zero-GST Warehouse Scheme Type I](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
     -   [Microbrewery](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/excise-factory-scheme)
