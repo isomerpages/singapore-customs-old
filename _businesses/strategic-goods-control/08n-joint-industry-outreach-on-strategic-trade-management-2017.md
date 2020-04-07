@@ -60,4 +60,4 @@ Seminar Materials
     
 -   [Strategic Trade Control in Singapore](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/outreach-2017/strategic-trade-control-in-singapore.pdf?la=en&hash=0CD33CB90D8F0950A7DEA65C4712097AD1268AD7)
     
--   [Sustaining the Future with Compliance](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/outreach-2017/sustaining-the-future-with-compliance.pdf?la=en&hash=ACF61A53C0312A57EE3F764036F6EADA29E8D542
+-   [Sustaining the Future with Compliance](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/outreach-2017/sustaining-the-future-with-compliance.pdf?la=en&hash=ACF61A53C0312A57EE3F764036F6EADA29E8D542)
