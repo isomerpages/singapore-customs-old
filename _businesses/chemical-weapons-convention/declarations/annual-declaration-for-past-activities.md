@@ -1,5 +1,5 @@
 ---
-title: Declarations
+title: Annual Declaration for Past Activities
 permalink: /businesses/chemical-weapons-convention/declarations
 breadcrumb: Declarations
 third_nav_title: Chemical Weapons Convention (CWC)
