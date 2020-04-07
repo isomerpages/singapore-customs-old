@@ -1,7 +1,6 @@
 ---
 title: Declarations
 permalink: /businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa
-breadcrumb: Declarations
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 
