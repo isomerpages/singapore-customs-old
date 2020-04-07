@@ -21,8 +21,8 @@ The table below indicates the activities involving scheduled chemicals that requ
 | Import/Export | yes | yes | yes |
 | Storage | yes | X | X |
 | Local Sales/Distribution | yes | X | X |
-yes: indicates that ADPA is required.  
-See [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) of scheduled chemicals.
+
+yes: indicates that ADPA is required.  See [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) of scheduled chemicals.
 
 ## Unscheduled Discrete Organic Chemicals (DOCs)
 
