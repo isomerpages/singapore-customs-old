@@ -1,7 +1,6 @@
 ---
 title: World Bank Doing Business Report
 Permalink: /news-and-media/publications/World-Bank-Doing-Business-Report
-Breadcrumb: World Bank Doing Business Report
 ---
 
 # World Bank Doing Business Report
