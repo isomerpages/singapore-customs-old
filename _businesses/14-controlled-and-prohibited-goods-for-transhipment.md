@@ -1,6 +1,6 @@
 ---
 title: Controlled and Prohibited Goods for Transhipment
-permaLink: /businesses/controlled-and-prohibited-goods-for-transhipment
+permalink: /businesses/controlled-and-prohibited-goods-for-transhipment
 ---
 
 # Controlled & Prohibited Goods for Transhipment
