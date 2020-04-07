@@ -20,9 +20,8 @@ The table below indicates the activities that require an ADAA.
 | Consumption | X | yes  | X |  
 | Import/Export | X| X | X |  
 | Storage | X| X | X |  
-| Local Sales/Distribution | x | X |X |  
-yes: indicates that ADAA is required.  
-See [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) of scheduled chemicals. 
+| Local Sales/Distribution | x | X | X |  
+yes: indicates that ADAA is required.  See [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) of scheduled chemicals. 
 
 ## Unscheduled Discrete Organic Chemicals (DOCs)
 
