@@ -1,8 +1,8 @@
 ---
 title: Legislation
 permalink: /businesses/strategic-goods-control/overview/legislation
-breadcrumb: Strategic Goods Control
-collection_name: Businesses
+breadcrumb: Overview 
+third_nav_title: Strategic Goods Control
 ---
 
 # Legislation
