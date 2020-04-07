@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Public Advisory On Scams
-date: 2020-04-03
-permalink: /2020-04-03-advisories/
+permalink: /news-and-media/advisories/public-advisory-on-scams
 ---
+
 # Public Advisory on Scams
 
 From time to time, members of the public may receive documents, text messages or calls purportedly from Singapore Customs officers.
