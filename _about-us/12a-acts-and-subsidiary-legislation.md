@@ -1,6 +1,6 @@
 ---
 title: Acts and Subsidiary Legislation
-PermaLink: /_about-us/acts-and-subsidiary-legislation
+permaLink: /about-us/acts-and-subsidiary-legislation
 ---
 # Acts & Subsidiary Legislation
 
@@ -27,7 +27,7 @@ Click on the links below to view the Customs Act and selected subsidiary legisla
 -   [Customs (Prohibition of Imports) Notification](https://sso.agc.gov.sg/SL/CA1960-N1?DocDate=20070101)
 
 *Please note that only_ _key subsidiary legislation have been reproduced on this website._
-***
+
 ## Gooods and Services Tax Act
 The Goods and Services Tax Act (Chapter 117A) is an Act to provide for the imposition and collection of goods and services tax and for matters connected therewith.
 
@@ -40,7 +40,7 @@ Click on the links below to view the Goods and Services Tax Act and selected sub
 -   [Goods and Services Tax (General) Regulations](https://sso.agc.gov.sg/SL/GSTA1993-RG1?DocDate=20180329)
 
 *Please note that only key subsidiary legislation have been reproduced on this website.
-***
+
 ## Regulations Of Imports And Exports Act
 The Regulation of Imports and Exports Act (Chapter 272A) is an Act to provide for the regulation, registration and control of imports and exports and to make provisions for matters connected therewith.
 
@@ -54,7 +54,7 @@ Click on the links below to view the Regulation of Imports and Exports Act and s
 -   [Regulation of Imports And Exports (Composition of Offences) Regulations](https://sso.agc.gov.sg/SL/RIEA1995-RG6?DocDate=20030401)
 
 *Please note that only_ _key subsidiary legislation have been reproduced on this website.
-***
+
 ## Free Trade Zones Act
 The Free Trade Zones Act (Chapter 114) is an Act to provide for the establishment of free trade zones in Singapore and for matters incidental thereto.
 
@@ -68,7 +68,7 @@ Click on the links below to view the Free Trade Zones Act and selected subsidiar
 -   [Free Trade Zones (Prescribed Goods) Notification](https://sso.agc.gov.sg/SL/FTZA1966-N1?DocDate=20141031)
 
 *Please note that only key subsidiary legislation have been reproduced on this website.
-***
+
 ## Strategic Goods ( Control ) Act 
 The Strategic Goods (Control) Act (Chapter 300) is an Act to control the transfer and brokering of strategic goods, strategic goods technology, goods and technology capable of being used to develop, produce, operate, stockpile or acquire weapons capable of causing mass destruction, and missiles capable of delivering such weapons; and for purposes connected therewith.
 
@@ -82,7 +82,7 @@ Click on the links below to view the Strategic Goods (Control) Act and selected 
 The Strategic Goods Control homepage may also be accessed [here](https://www.customs.gov.sg/businesses/strategic-goods-control/overview/legislation).
 
 *Please note that only key subsidiary legislation have been reproduced on this website.
-***
+
 ## Chemical Weapons ( Prohibition ) Act
 Chemical Weapons (Prohibition) Act (Chapter 37B) is an Act to give effect to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction concluded at Paris on 13th January 1993.
 
@@ -94,5 +94,5 @@ Click on the links below to view the Chemical Weapons (Prohibition) Act and sele
 The National Authority (Chemical Weapons Convention) homepage may also be accessed [here](https://www.customs.gov.sg/businesses/chemical-weapons-convention/legislation).
 
 *Please note that only key subsidiary legislation have been reproduced on this website.
-***
+
 Hardcopies of the Acts and Subsidiary Legislation can be purchased from Toppan Leefung Pte Ltd.
