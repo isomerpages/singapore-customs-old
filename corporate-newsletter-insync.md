@@ -1,4 +1,5 @@
 ---
+title: Corporate Magazine InSync
 permalink: /past-insync-issues
 ---
 
