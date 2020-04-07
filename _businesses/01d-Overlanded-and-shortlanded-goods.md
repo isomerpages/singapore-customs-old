@@ -1,6 +1,6 @@
 ---
 title: Overlanded and Shortlanded Goods
-file_url: /businessses/importing-goods/overlanded-and-shortlanded-goods/
+permalink: /businessses/importing-goods/overlanded-and-shortlanded-goods/
 third_nav_title: Importing Goods
 ---
 
