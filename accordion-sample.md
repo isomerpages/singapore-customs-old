@@ -2,17 +2,18 @@
 title: Accordion Sample
 permalink: /accordion-sample
 accordion:
-  - title: title 1
+  - title: folded line
     content: >
       This is folded line
       everything is made into one line
-  - title: title 2
+  - title: block line
     content: |
       Content for title 2
       This is a second line
+      This is a 3rd line
 
       A third line after a line break
-  - title: title 3
+  - title: unordered list
     content: |
       * item 1
       * item 2
@@ -21,14 +22,13 @@ accordion:
       testing lines 4
 
       testing lines 5
-  - title: title 4
+  - title: ordered list
     content: |
       1. item 1
       2. item 2
       3. item 3
 
       testing lines 4
-
       testing lines 5
 ---
 
