@@ -5,7 +5,8 @@ third_nav_title: Publications
 ---
 
 
--   [![Issue 41: Jul/Aug 2016](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync_issue41_thumbnail.gif)Issue 41: Jul/Aug 2016](https://www.customs.gov.sg/-/media/cus/files/insync/issue41/index.html?la=en)
+-   [![Issue 41: Jul/Aug 2016](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync_issue41_thumbnail.gif)
+Issue 41: Jul/Aug 2016](https://www.customs.gov.sg/-/media/cus/files/insync/issue41/index.html?la=en)
 
 -   [![Issue 40: Apr-Jun 2016](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync_issue40_thumbnail.gif)Issue 40: Apr-Jun 2016](https://www.customs.gov.sg/-/media/cus/files/insync/issue40/index.html?la=en)
 
