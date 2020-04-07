@@ -23,7 +23,7 @@ accordion:
       testing lines 5
 ---
 
-# Accordion Test 3
+# Accordion Test 4
 
 This is the first paragraph that should appear before the accordion.
 
