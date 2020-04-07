@@ -3,7 +3,9 @@ title: Accordion Sample 2
 permalink: /accordion-sample
 accordion:
   - title: title 1
-    content: Content for title 1.1
+    content: >
+      This is folded line
+      everything is made into one line
   - title: title 2
     content: |
       Content for title 2
