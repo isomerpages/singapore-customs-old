@@ -1,6 +1,7 @@
 ---
 title: Import procedures
-permalink: /businesses/Import-procedures/
+permalink: /businesses/Importing-goods/Import-procedures/
+third_nav_title: Importing Goods
 ---
 
 # Import Procedures
