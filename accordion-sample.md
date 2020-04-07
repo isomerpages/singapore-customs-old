@@ -14,7 +14,7 @@ accordion:
     content: >
       This is all going
 
-      to become just one line<br/>
+      to become just one line\n
       even though there are multiple lines
   - title: Ordered List
     content: |
