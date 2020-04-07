@@ -55,7 +55,7 @@ VersaFleet Pte Ltd
 Managing Director\
 Network Express Courier Services Pte Ltd
 
-**Mr Yam Kum Weng **\
+**Mr Yam Kum Weng**\
 Executive Vice President, Airhub Development\
 Changi Airport Group
 
