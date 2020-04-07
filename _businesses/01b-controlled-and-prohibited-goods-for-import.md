@@ -10,7 +10,6 @@ Controlled goods require proper authorisation (advance notification, licence or 
 
 Please refer to the table below for the list of prohibited goods that you are not allowed to bring to Singapore.
 
-Accordian:
   - Title: List of Prohibited Goods for Imports
     Content: 
 
@@ -42,4 +41,3 @@ Accordian:
 
 A comprehensive list of [United Nations Security Council sanctions](https://www.customs.gov.sg/businesses/united-nations-security-council-sanctions) can be found on the UNSC Sanctions Committees Website
 
-{% include accordion.html %}
