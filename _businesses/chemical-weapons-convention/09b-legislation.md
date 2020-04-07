@@ -1,4 +1,4 @@
---
+---
 title: Legislation
 permalink: /businesses/chemical-weapons-convention/legislation
 third_nav_title: Chemical Weapons Convention (CWC)
