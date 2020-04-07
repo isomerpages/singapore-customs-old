@@ -69,4 +69,40 @@ For more information on STS, please refer to the STS Handbook.
 
 A brokering registration is to be applied at least 14 working days before the brokering of items and technology listed in the Strategic Goods (Control) (Brokering) Order 2019.  A brokering permit is also required under certain circumstances.
 
+# Preliminary Advice for Strategic Goods Transaction
+
+Before you decide whether your business should undertake any activities involving the controlled transfer of strategic goods, you may apply to seek preliminary advice from Singapore Customs. We will assess whether the  [controlled transfer](https://www.customs.gov.sg/businesses/strategic-goods-control/overview/scope-of-control)  of your strategic goods is likely to be approved when you submit your strategic goods permit application.
+
+## Applying for Preliminary Advice
+
+**Step 1:** Complete the  [application form](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood).
+
+**Step 2**: Attach the supporting documents, where applicable:
+
+-   Technical specifications of the strategic goods (for example, operating instructions, manuals, brochures, data sheets, catalogues)
+-   Business transaction documents (for example, contract, purchase order, invoice, tender requirements)
+-   [End-User Statement](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)
+-   Export licence (and its English translation) from the originating country, or a confirmation from the originating country that they do not control the re-export of the goods
+-   Company profiles/websites of relevant parties (exporter, consignee, end-user)
+-   Other relevant supporting documents
+
+**Step 3**: Submit the completed form and supporting documents.
+
+Your application should be processed within 7 working days if the information and documents provided are complete. However, some applications may take longer to process, depending on the nature of the item, destination or parties involved in the transaction.
+
+# Import Certificate and Delivery Verification
+
+The  **Import Certificate and Delivery Verification (ICDV)**  complement the export control regime of the foreign exporting country.
+
+It assures the exporting country that sensitive goods are delivered to approved end-users in Singapore, or that the goods are allowed to be re-exported through Singapore to approved end-users. The ICDV is also known as the International Import Certificate.
+
+The ICDV is a 3-stage process:
+
+1.  **Apply for an  [Import Certificate](https://www.customs.gov.sg/businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate)** if:
+    
+    -   The goods imported into Singapore are controlled by the exporting country, or
+    -   The exporting country requests for an Import Certificate
+2.  **Apply for an import permit**  via  [TradeNet](https://www.tradexchange.gov.sg/tradexchange/default.portal?_nfpb=true&_pageLabel=main_tn&_nfls=false)  before importing the goods
+    
+3.  **Apply for a  [Delivery Verification](https://www.customs.gov.sg/businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification)**  after importing the goods, if the exporting country requests for such verification
 
