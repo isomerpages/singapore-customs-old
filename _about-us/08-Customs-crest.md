@@ -1,6 +1,6 @@
 ---
 title: Customs Crest
-Permalink: /_about-us/Customs-Crest/
+permalink: /about-us/customs-crest/
 ---
 
 # Customs Crest

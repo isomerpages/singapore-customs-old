@@ -1,6 +1,6 @@
 ---
 title: Acts and Subsidiary Legislation
-permaLink: /about-us/acts-and-subsidiary-legislation
+permalink: /about-us/acts-and-subsidiary-legislation
 ---
 # Acts & Subsidiary Legislation
 
