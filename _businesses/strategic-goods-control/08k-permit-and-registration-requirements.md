@@ -1,6 +1,7 @@
 ---
 title: Permit and Registration Requirements
 permalink: /businesses/strategic-goods-control/permit-and-registration-requirements
+breadcrumb: Permit and Registration Requirements
 third_nav_title: Strategic Goods Control
 ---
 
