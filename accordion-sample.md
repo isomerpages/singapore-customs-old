@@ -15,8 +15,8 @@ accordion:
   - title: title 3
     content: |
       testing lines
-      testing lines 2
-      testing lines 3
+        testing lines 2
+          testing lines 3
 
       testing lines 4
 
