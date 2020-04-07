@@ -1,6 +1,7 @@
 ---
 title: Strategic Goods Control List
 permalink: /businesses/strategic-goods-control/strategic-goods-control-list
+third_nav_title: Strategic Goods Control
 ---
 
 # Strategic Goods Control List
