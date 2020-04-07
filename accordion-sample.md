@@ -1,5 +1,5 @@
 ---
-title: Accordion Sample
+title: Accordion Sample 2
 permalink: /accordion-sample
 accordion:
   - title: title 1
