@@ -1,4 +1,5 @@
 ---
 title: Resources
-permalink: /businesses/resources/
+permaLink: /businesses/business-resources/resources
+third_nav_title: Business Resources
 ---
