@@ -5,7 +5,11 @@ accordion:
   - title: title 1
     content: Content for title 1.1
   - title: title 2
-    content: Content for title 2
+    content: |
+      Content for title 2
+      This is a second line
+
+      A third line after a line break
 ---
 
 # Accordion Test
