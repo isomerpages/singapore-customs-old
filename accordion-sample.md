@@ -12,9 +12,18 @@ accordion:
       This is a second line
 
       A third line after a line break
+  - title: title 3
+    content: |
+      testing lines
+      testing lines 2
+      testing lines 3
+
+      testing lines 4
+
+      testing lines 5
 ---
 
-# Accordion Test 2
+# Accordion Test 3
 
 This is the first paragraph that should appear before the accordion.
 
