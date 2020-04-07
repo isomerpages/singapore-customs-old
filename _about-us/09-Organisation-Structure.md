@@ -1,6 +1,6 @@
 ---
 title: Organisation Structure 
-permaLink: /about-us/organisation-structure
+permalink: /about-us/organisation-structure
 ---
 # Organisation Structure
 

@@ -17,4 +17,4 @@ Click on the links below to view the Free Trade Zones Act and selected subsidiar
 - Free Trade Zones (Manufacture) Regulations
 - Free Trade Zones (Prescribed Goods) Notification
 
-\* *Please note that only key subsidiary legislation have been reproduced on this website.*
+> *Please note that only key subsidiary legislation have been reproduced on this website.*

@@ -1,7 +1,6 @@
 ---
 title: About us
 permalink: /about-us
-collection_name: about-us
 ---
 
 # Organisation Overview

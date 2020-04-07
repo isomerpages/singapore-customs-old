@@ -1,7 +1,8 @@
 ---
 title: Division and Structure
-permaLink: /about-us/Division-and-Structure
+permalink: /about-us/division-and-structure
 ---
+
 # Divisions and Structure
 
 The roles of the respective divisions of Singapore Customs are as follows:

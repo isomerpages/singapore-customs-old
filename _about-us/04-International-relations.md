@@ -1,7 +1,6 @@
 ---
 title: International-relations
-permalink: /_about-us/International-relations/
-breadcrumb: International-relations
+permalink: /about-us/international-relations/
 ---
 
 ## International Relations

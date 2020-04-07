@@ -1,7 +1,6 @@
 ---
 title: Trade Security In Singapore
 permalink: /about-us/trade-security-in-singapore/
-breadcrumb: Trade Security in Singapore
 ---
 
 # Singapore's Trade Security

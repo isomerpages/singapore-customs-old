@@ -1,7 +1,8 @@
 ---
 title: Rank Structure
-permaLink: /about-us/rank-structure
+permalink: /about-us/rank-structure
 ---
+
 # Rank Structure
 
 The rank structure of the Singapore Customs Officer Scheme is as follows:

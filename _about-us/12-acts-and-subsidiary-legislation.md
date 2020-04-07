@@ -2,6 +2,7 @@
 title: Acts and Subsidiary Legislation
 permalink: /about-us/acts-and-subsidiary-legislation
 ---
+
 # Acts & Subsidiary Legislation
 
 ## Customs Act
@@ -28,7 +29,7 @@ Click on the links below to view the Customs Act and selected subsidiary legisla
 
 *Please note that only_ _key subsidiary legislation have been reproduced on this website._
 
-## Gooods and Services Tax Act
+## Goods and Services Tax Act
 The Goods and Services Tax Act (Chapter 117A) is an Act to provide for the imposition and collection of goods and services tax and for matters connected therewith.
 
 Click on the links below to view the Goods and Services Tax Act and selected subsidiary legislation:
