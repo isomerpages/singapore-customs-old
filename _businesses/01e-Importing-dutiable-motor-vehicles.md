@@ -9,7 +9,9 @@ third_nav_title: Importing Goods
 ### Step 1: Applying for Singapore Customs’ Assessment of Vehicle’s Customs Value
 
 (Accordian)
+
 ***
+
 ## For Individuals or Parallel Importers
 Once the vehicle has been purchased and shipped to Singapore, the importer may apply for an assessment of the vehicle’s customs value. An application has to be submitted for every imported unit of vehicle.
 
@@ -35,8 +37,8 @@ If you are a new authorised agent or an existing agent with queries on the impor
 Existing agents are required to submit Agent's Application for Product Code (SC-A-004) for new models or should there be changes to price, specifications, model code, model year, invoicing currency, incoterm, and assigned supplier of the vehicles they carry.
 
 Please complete this  [form](https://form.gov.sg/5e7db3d7b62f4d0011b83dc5)  and submit it with the supporting documents listed in Section D.
-***
 
+*** 
 
 ### Step 2: Approval by Singapore Customs
 
