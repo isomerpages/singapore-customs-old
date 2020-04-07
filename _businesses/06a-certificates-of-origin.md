@@ -1,6 +1,7 @@
 ---
 title: Certificates Of Origin
-permalink: /businesses/certificates-of-origin/ 
+permalink: /businesses/certificates-of-origin/overview
+third_nav_title: Certificates of Origin
 ---
 
 # Certificates of Origin
