@@ -23,18 +23,13 @@ Singapore Customs is the National Authority to administer the SGCA. The function
 
 Singapore Customs also coordinates closely with other government agencies such as the  [Immigration & Checkpoints Authority](http://www.ica.gov.sg/)  and  [Singapore Police Force](http://www.spf.gov.sg/)  to enforce the SGCA.
 
-**
+# Legislation
 
-## Legislation
+# Scope of Control
 
-## Scope of Control
+# Enforcement
 
-## Enforcement
-
-#Accordion Test
-
-{% include accordion.html %}
-## Permit and Registration Requirements
+# Permit and Registration Requirements
 
 A strategic goods permit is required for any transfer or brokering of:
 
@@ -47,23 +42,16 @@ To provide greater facilitation and promote effective internal export control co
 
 The permit procedures under the STS consist of:
 
-**
-
 ## Individual Permit
 
 Individual Permit to be applied at least 5 working days before every export, re-export, transhipment or transit of strategic goods
 ITT permit to be applied at least 7 working days before the transmission of strategic goods software or technology
 
-**
-
 ## Bulk Permit
-
-**
 
 Pre-approvals (for a period determined by Singapore Customs) to be applied before the export, re-export, or transhipment of strategic goods, or the transmission of strategic goods software or technology.
 TradeNet permit to be declared before the cargo is lodged with the sea port operators or air cargo ground handling agents, or brought into Singapore for transhipment.
 For more information on STS, please refer to the STS Handbook.
-
 
 ## Brokering
 
@@ -124,7 +112,7 @@ It is important to know your customer and the end-use application of your produc
 
 Below is a checklist to help you identify potential warning signs to avoid engaging in illegal strategic goods or UNSC prohibited transactions.
 
-## What You Need To Know About Nuclear Materials
+# What You Need To Know About Nuclear Materials
 
 Nuclear materials are highly toxic and hazardous. Below is a list of things you should know before you trade or ship nuclear materials.
 
@@ -136,7 +124,7 @@ In addition to  [United Nations Security Council (UNSC) sanctions](https://www.c
 
 While Singapore does not enforce the laws of other countries, parties in Singapore may be affected by unilateral sanctions imposed by other countries as they may have extraterritorial implications.
 
-## Resources
+# Resources
 
 **[Strategic Trade Scheme Handbook](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/strategic-trade-scheme-handbook-updated-as-of-1-oct-2019.pdf?la=en&hash=0B8F71047D547BE5621C689EC4DF23C2C2A9BA94)**
 
@@ -153,3 +141,5 @@ This guidebook advises readers on the Strategic Goods Control List, and provides
 **Amendment to the Strategic Goods Control List**
 
 This  [document](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/sgco-2019-table-of-amendments---oct-2019.pdf?la=en&hash=36013E2A318447289BB43516F6DE5730E19D7146) provides updates on the amendments to the Strategic Goods Control List 2019 (effective on 1 October 2018), in particular details on changes from Strategic Goods (Control) Order 2018 to Strategic Goods (Control) Order 2019.
+
+# **Useful Links**
