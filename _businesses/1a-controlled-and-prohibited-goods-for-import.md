@@ -11,8 +11,9 @@ Please refer to the table below for the list of prohibited goods that you are no
 
 Accordian:
   - Title: List of Prohibited Goods for Imports
-    Content: | Prohibited Goods |  Competent Authority|
-|--|--|
+    Content: 
+|Prohibited Goods |  Competent Authority|
+|---|---|
 |Chewing gum (excluding Health Sciences Authority approved oral dental and medicinal chewing gum)|Singapore Customs|
 | Pistol or revolver - shaped cigarette lighters |  Arms & Explosives Division, General Licensing Division, Police Licensing & Regulatory Department, Singapore Police Force|
 |Fire crackers  | Arms & Explosives Division, General Licensing Division, Police Licensing & Regulatory Department, Singapore Police Force |
