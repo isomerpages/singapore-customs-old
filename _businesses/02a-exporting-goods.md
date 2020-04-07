@@ -1,6 +1,7 @@
 ---
-title: Exporting Goods
+title: Quick Guide for Exporters
 permalink: /businesses/exporting-goods/
+third_nav_title: Exporting Goods
 ---
 # Quick Guide for Exporters
 
