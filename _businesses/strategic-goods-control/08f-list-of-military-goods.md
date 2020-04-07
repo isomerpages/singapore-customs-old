@@ -1,7 +1,6 @@
 ---
 title: List of Military Goods
 permalink: /businesses/strategic-goods-control/strategic-goods-control-list/list-of-millitary-goods
-breadcrumb: Strategic Goods Control List
 third_nav_title: Strategic Goods Control
 ---
 

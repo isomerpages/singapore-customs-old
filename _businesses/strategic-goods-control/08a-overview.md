@@ -1,7 +1,6 @@
 ---
 title: Overview
 permalink: /businesses/strategic-goods-control/overview
-breadcrumb: Strategic Goods Control
 third_nav_title: Strategic Goods Control
 ---
 

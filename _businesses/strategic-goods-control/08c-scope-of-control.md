@@ -1,6 +1,6 @@
 ---
 title: Scope of Control
-permalink: /businesses/strategic-goods-control/overview/scope-of-control
+permalink: /businesses/strategic-goods-control/scope-of-control
 third_nav_title: Strategic Goods Control
 ---
 
