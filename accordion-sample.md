@@ -8,13 +8,13 @@ accordion:
     content: |
       This is line 1
 
-      This is line 2
+      This is line 2<br/>
       This is line 3
   - title: Multi-line Folded
     content: >
       This is all going
 
-      to become just one line
+      to become just one line<br/>
       even though there are multiple lines
   - title: Ordered List
     content: |
