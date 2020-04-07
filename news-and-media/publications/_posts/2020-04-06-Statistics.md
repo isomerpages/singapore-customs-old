@@ -1,7 +1,6 @@
 ---
 title: Statistics
 permalink: /news-and-media/publications/Statistics/
-Breadcrumb: Statistics
 ---
 
 # Statistics
