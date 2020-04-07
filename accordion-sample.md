@@ -21,9 +21,18 @@ accordion:
       testing lines 4
 
       testing lines 5
+  - title: title 4
+    content: |
+      1. item 1
+      2. item 2
+      3. item 3
+
+      testing lines 4
+
+      testing lines 5
 ---
 
-# Accordion Test 5
+# Accordion Test 6
 
 This is the first paragraph that should appear before the accordion.
 
