@@ -1,6 +1,6 @@
 ---
 title: Quick Guide for Exporters
-permalink: /businesses/exporting-goods/
+permalink: /businesses/exporting-goods/overview
 third_nav_title: Exporting Goods
 ---
 # Quick Guide for Exporters
