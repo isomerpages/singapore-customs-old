@@ -1,7 +1,7 @@
 ---
 title: Corporate Magazine - inSYNC
 permalink: /news-and-media/publications/corporate-newsletter---insync
-third_nav_title: News and Media 
+third_nav_title: Publications
 ---
 
 # Corporate Magazine - inSYNC
