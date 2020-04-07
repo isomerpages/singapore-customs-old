@@ -1,0 +1,4 @@
+---
+title: SINGAPORE CUSTOMS TRANSFORMS TRADE FACILITATION APPROACH WITH NEW CLIENT ENGAGEMENT FRAMEWORK: Trade FIRST
+file_url: /news-and-media/media-releases/2011-01-26-Media-Release.pdf
+---

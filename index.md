@@ -1,31 +1,32 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Singapore Customs
+description: Singapore Customs is the lead agency on trade facilitation and revenue enforcement.
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title:
+        subtitle:
+        background: /images/mission.png
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: Duty-Free Concession and GST Relief
+              url: https://www.customs.gov.sg/individuals/going-through-customs/arrival/duty-free-concession-and-gst-relief
+            - title: Quick Guide for Importers
+              url: https://www.customs.gov.sg/businesses/importing-goods/quick-guide-for-importers
+            - title: Registering to Trade
+              url: /businesses/registering-to-trade
+            - title: Customs Schemes & Licenses
+              url: /businesses/customs-schemes-licenses-and-framework
+            - title: Customs Forms & Service Links
+              url: /eservices/customs-forms-and-service-links
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        title: Networked Trade Platform
+        subtitle:
+        description: Find out more about the NTP to advance your business and improve your trade operations.
+        button: Sign Up for NTP
+        url: https://www.ntp.gov.sg/
+    - resources:
+        title: News and Media
+        subtitle: Media Releases
+        button: View more
 ---

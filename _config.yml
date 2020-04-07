@@ -1,23 +1,24 @@
-title: Title
+title: Singapore Customs
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.png
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#041D42'
+  secondary-color: '#041D42'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#A2AAAD'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#041D42'
     - title: media-color-three
-      color: '#00838f'
+      color: '#F0E113'
     - title: media-color-four
-      color: '#00838f'
+      color: '#F6323E'
     - title: media-color-five
-      color: '#00838f'
+      color: '#305072'
 
+resources_name: news-and-media
 
 collections:
   about-us:

@@ -1,0 +1,4 @@
+---
+title: DEFIANT COMPANY FINED $10,200 FOR FAILURE TO PAY UP COMPOSITON SUMS FOR REPEATED IMPORT GST PAYMENT VIOLATIONS 
+file_url: /news-and-media/media-releases/2009-10-09-Media-Release-OBSlogs.pdf
+---
