@@ -1,6 +1,6 @@
 ---
 title: Traders' Satisfaction Survey and Pro-Enterprise Ranking Survey Results 
-permalink: /news-and-media/publications/Traders-Satirsfaction-Survey-and-Pro-Enterprise-ranking-survey-results
+permalink: /news-and-media/publications/Traders-Satisfaction-Survey-and-Pro-Enterprise-ranking-survey-results
 ---
 
 # Traders' Satisfaction Survey and Pro-Enterprise Ranking Survey Results
