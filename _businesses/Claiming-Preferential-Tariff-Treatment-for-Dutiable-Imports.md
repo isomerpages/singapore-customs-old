@@ -1,8 +1,6 @@
 ---
 title: Claiming Preferential Tariff Treatment for Dutiable Imports
 permalink: /businesses/certificates-of-origin/claiming-preferential-tariff-treatment-for-dutiable-imports
-breadcrumb: Certificates Of Origin 
-collection_name: Businesses
 ---
 
 # Claiming Preferential Tariff Treatment for Dutiable Imports
