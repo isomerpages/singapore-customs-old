@@ -1,6 +1,6 @@
 ---
 title: Duties and Dutiable Goods 
-permaLink: /businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods
+permalink: /businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods
 ---
 
 # Duties & Dutiable Goods
