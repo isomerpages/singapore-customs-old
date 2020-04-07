@@ -1,6 +1,7 @@
 ---
 title: Importing Goods
-permalink: /businesses/importing-goods/
+permalink: /businesses/importing-goods/overview
+third_nav_title: Importing Goods
 ---
 
 ## Imports
