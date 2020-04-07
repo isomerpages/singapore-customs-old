@@ -1,6 +1,6 @@
 ---
 title: Rank Structure
-PermaLink: /_about-us/Rank-Structure
+permaLink: /about-us/rank-structure
 ---
 # Rank Structure
 
