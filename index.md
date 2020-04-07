@@ -18,13 +18,11 @@ sections:
             - title: Customs Schemes & Licenses
               url: /businesses/customs-schemes-licenses-and-framework
             - title: Customs Forms & Service Links
-              url: /eservices/customs-forms-and-service-links
-              
+              url: /eservices/customs-forms-and-service-links        
    - resources:
         title: News and Media
         subtitle: Media Releases
         button: View more
-        
    - infobar:
         title: Networked Trade Platform
         subtitle:
