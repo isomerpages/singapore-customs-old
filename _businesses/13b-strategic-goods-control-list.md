@@ -1,6 +1,6 @@
 ---
 title: Strategic Goods Control List
-PermaLink: /businesses/business-resources/strategic-goods-control-list
+permaLink: /businesses/business-resources/strategic-goods-control-list
 third_nav_title: Business Resources
 ---
 # Strategic Goods Control List
