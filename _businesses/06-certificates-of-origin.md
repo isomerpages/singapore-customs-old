@@ -47,8 +47,6 @@ These authorised organisations issue ordinary COs for locally manufactured or pr
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
 
-{% include accordion.html %}
-
 ## How to apply for back-to-back preferential Certificate of Origin with Singapore Customs?
 
 The back-to-back preferential CO is issued by Singapore Customs for the re-export of goods based on the preferential CO issued by the first exporting party. The goods must be imported into Singapore and meet the conditions for it to be issued.
@@ -151,5 +149,3 @@ Companies may be penalised under the Regulation of Imports and Exports Act (RIEA
 
 You are accountable as an exporter or declaring agent for the export of goods and compliance with the Rules of Origin requirements. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
-
-{% include accordion.html %}
