@@ -1,6 +1,6 @@
 ---
 title: Division and Structure
-PermaLink: /_about-us/Division-and-Structure
+permaLink: /about-us/Division-and-Structure
 ---
 # Divisions and Structure
 
