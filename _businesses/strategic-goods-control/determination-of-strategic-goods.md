@@ -2,7 +2,7 @@
 title: Determination of Strategic Goods
 permalink: /businesses/strategic-goods-control/strategic-goods-control-list/determination-of-strategic-goods
 breadcrumb: Strategic Goods Control List
-collection_name: Businesses
+third_nav_title: Strategic Goods Control
 ---
 
 # Determination of Strategic Goods
