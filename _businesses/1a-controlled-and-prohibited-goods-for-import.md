@@ -1,6 +1,6 @@
 ---
 title: Controlled & Prohibited Goods for Import
-Permalink: /news-and-media/_businesses/Controlled-&-Prohibited-Goods-for-Import
+Permalink: /businesses/importing-goods/controlled-and-prohibited-goods-for-import
 ---
 
 # Controlled & Prohibited Goods for Import
