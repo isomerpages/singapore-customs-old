@@ -1,8 +1,7 @@
 ---
 title: Enforcement
 permalink: /businesses/strategic-goods-control/overview/enforcement
-breadcrumb: Strategic Goods Control
-collection_name: Businesses
+third_nav_title: Strategic Goods Control
 ---
 
 # 
