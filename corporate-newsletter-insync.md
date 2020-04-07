@@ -1,7 +1,5 @@
 ---
-title: Corporate Magazine - inSYNC
-permalink: /news-and-media/publications/corporate-newsletter---insync?page=2_15
-third_nav_title: Publications
+permalink: /past-insync-issues
 ---
 
 
