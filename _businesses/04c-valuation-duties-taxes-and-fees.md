@@ -1,7 +1,7 @@
 ---
 title: Establishing Customs Value For Imports
 permalink: /businesses/valuation-duties-taxes-and-fees/establishing-customs-value-for-imports
-third_nav_title: Valuation duties taxes and fees
+third_nav_title: Valuation,duties,taxes and fees
 ---
 
 # Establishing the Customs Value
