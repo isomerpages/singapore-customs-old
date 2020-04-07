@@ -1,6 +1,7 @@
 ---
 title: Scope of Control
 permalink: /businesses/strategic-goods-control/overview/scope-of-control
+third_nav_title: Strategic Goods Control
 ---
 
 # Scope of Control
