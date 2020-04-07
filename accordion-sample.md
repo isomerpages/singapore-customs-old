@@ -1,5 +1,5 @@
 ---
-title: Accordion Sample 3
+title: Accordion Sample
 permalink: /accordion-sample
 accordion:
   - title: title 1
@@ -14,7 +14,7 @@ accordion:
       A third line after a line break
 ---
 
-# Accordion Test
+# Accordion Test 2
 
 This is the first paragraph that should appear before the accordion.
 
