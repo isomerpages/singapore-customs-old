@@ -14,16 +14,16 @@ accordion:
       A third line after a line break
   - title: title 3
     content: |
-      testing lines
-        testing lines 2
-          testing lines 3
+      * item 1
+      * item 2
+      * item 3
 
       testing lines 4
 
       testing lines 5
 ---
 
-# Accordion Test 4
+# Accordion Test 5
 
 This is the first paragraph that should appear before the accordion.
 
