@@ -1,6 +1,6 @@
 ---
 title: Importing Dutiable Motor Vehicles 
-file_url: /businesses/importing-goods/importing-dutiable-motor-vehicles
+permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles
 third_nav_title: Importing Goods
 ---
 
