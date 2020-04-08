@@ -1,6 +1,6 @@
 ---
-title: Approved Import GST Suspension Scheme (IRAS Scheme) 
-permalink: /businesses/customs-schemes-licences-framework/iras-schemes/approved-import-gst-suspension-scheme
+title: Import GST Deferment Scheme (IRAS Scheme)
+permalink: /businesses/customs-schemes-licences-framework/iras-schemes/import-gst-deferment-scheme-igds
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
