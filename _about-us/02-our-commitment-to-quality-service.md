@@ -33,9 +33,9 @@ Footnote: The ICDV application procedure has been changed from manual submission
 
 |Travellers|
 |---|---|
-|**Endorse Tourist GST Refund Claim Forms\***|+ 95% within 10 minutes|
-|**Process Assessment and Collection of Duty/GST from Travellers/Crew Members\***|+ 95% within 8 minutes|
-|**Endorse Export Permits under the Hand-Carried Exports Scheme\***|+ 95% within 15 minutes|
+|**Endorse Tourist GST Refund Claim Forms\***|95% within 10 minutes|
+|**Process Assessment and Collection of Duty/GST from Travellers/Crew Members\***|95% within 8 minutes|
+|**Endorse Export Permits under the Hand-Carried Exports Scheme\***|95% within 15 minutes|
 
 **\* On weekends and public holidays, the processing time may be a little longer. You are advised to come to the Singapore Customs counter early.**
 
