@@ -1,7 +1,7 @@
 ---
 title: Restrictions for Exports to Non-Member States
 permalink: /businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items
-third_nav_title: Chemical Weapons Convention
+third_nav_title: Chemical Weapons Convention (CWC)
 ---
 
 The following restrictions apply to exports of scheduled chemicals to [non-Member States](http://www.opcw.org/about-opcw/member-states/).
