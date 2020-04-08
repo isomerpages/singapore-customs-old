@@ -34,7 +34,7 @@ Singapore Customs first attained the Singapore Innovation Class in Feb 2006, sho
 
 We successfully renewed our certification for the Singapore Innovation Class in Nov 2016.
 
-![SIC](/images/sic.png) 
+![SIC](/images/SIC.png) 
 ---
 
 **Singapore Service Class (S-Class)**
