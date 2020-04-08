@@ -29,7 +29,7 @@ the goods and technology are  **intended or likely to be used, wholly or in part
 
 |  |  |  |
 |---|---|---|
-| - Development;  <br> - Production;  <br> - Handling;  <br> - Operation;  <br> -  Maintenance; <br> - Storage;  <br> -Detection;  <br> - Identification; or  <br> -  Dissemination <br><br> of any nuclear, chemical or biological weapon | **OR** | - Development; <br> - Production; <br> - Maintenance; or <br> - Storage <br><br> of missiles capable of delivering any nuclear, chemical or biological weapons |
+| - Development;  <br> - Production;  <br> - Handling;  <br> - Operation;  <br> -  Maintenance; <br> - Storage;  <br> - Detection;  <br> - Identification; or  <br> -  Dissemination <br><br> of any nuclear, chemical or biological weapon | **OR** | - Development; <br> - Production; <br> - Maintenance; or <br> - Storage <br><br> of missiles capable of delivering any nuclear, chemical or biological weapons |
 The “catch-all” provision applies even if the goods are  **not**  strategic goods or strategic goods technology.
 
 ## Application for Individual Permits
