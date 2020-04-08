@@ -22,10 +22,9 @@ TradeNet has been the focus of several academic studies since its introduction. 
 
 ## For more information on TradeNet
 
-![](https://lh4.googleusercontent.com/jmnvP2D5uOLBaNZGUcCLX2IUiAKYKzzJtSFBsdFTUOo6gum95e2h5y9iHygSMGbznoIALg_eMSjq9W-68DbCVwPsrmurgTwBVbBULwPHvOyEgWcPYhr2AramFVbYyKJa7ttQA28F4vDzIcKyOw)
-<br>
-![](https://lh6.googleusercontent.com/5dABS2ePC51EHJpLOr-w7ZbJcrNR5rl3aVOlPRDZo3mRdstJU9Rj5qH5beA10KkLbV8d8_mGOhww_PMajLP_9qPNlABdSMmYS8NwTmSC-aaxP1RiqyRpleg1jCt8oQI7AFHBkUjgyqljeS2yqA)
-<br>
-![](https://lh3.googleusercontent.com/3heaysmo_sV5ixI9zRHl7zWdY8iGh7L5z1WOyvvBUn4uEXnu_WpVwXjhBGvXDpMDEDAyv7pmOGQRuzu1Hj_3GT_EOHxYkNyQlCUrBlcy7siSO8e6bBpgqBlCw45ts72yvwn-RAUv7s-IiS1-IA)
-<br>![](https://lh3.googleusercontent.com/wU1iS9ql5USdB5uK9mxrJYHqdrnAZqVwujGTYIg2NGqD485BNK7fvXRr80R0McEx-08TYN-btmpkugToS0nFEQuN0LEymV6UTzyu-hvTVJLIpPzJYQo-C6cLJknbqlZzHxs9ph2ivTdsxkKsUg)
+|   |   |   |   |
+|---|---|---|---|
+| ![](https://lh4.googleusercontent.com/8UGaHVvWO8Gm_hZmjPcwj8JOp2surHHFwe-3qMbg69pq011rLwynBIlaLtC6zTCvHbfkt-I87Iy6-RiNmlXsipMBD_vv8LgLIxCvx0RQem0sY8Wj0z00j0-qoseA6gZfeSkpkNqrhj3cQZB2hw)  |  ![](https://lh5.googleusercontent.com/EiKbh--w-E6BJdHwFM2O3O-1ZySu5Bnf7dL5lwyX5Ma8xKkg_HAuD51Zx6De4zE51IKsPHDlzF13ogOLEV_v9vYSnwyUk5cruFqwn-FyDQCaRABCYmGHTA1SLYX3vbSkL9H2UnCEsLc7gr4aTQ) |  ![](https://lh6.googleusercontent.com/T1Wdn9TywwuVz-h6gmAlC1b2-oSOy81xKVrM1LmJ3MFC4TcENb5vA5M_vGV5AnIEK6raN59cgPHucByzHWDkiUE-5ck52a5nBqSUZgAiCFfEE-RNBsJjOneLOw5-NOL6G9PvMRgHSzNMTrx48w) |  ![](https://lh4.googleusercontent.com/vGhk_hbwjQ6kP0A26Rueiz-OhHEb0pWrpExr9HVBND9oVglIc_DxLK-4KKm3_MTQO9gSSjHDMuj8zPLnzu5GmX3hUgwAikVVFCAuT4Rvt0dZTINeOCEj2MkPU2KKC0RuhTBa1cOoWAy_CaMQBQ) |  
+
+
 
