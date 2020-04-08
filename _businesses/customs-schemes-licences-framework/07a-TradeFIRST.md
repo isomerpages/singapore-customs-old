@@ -113,7 +113,8 @@ The TradeFIRST assessment process is shown in the following table:
 | **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/31may2019-final-tradefirst-selfassessment-checklist-approved-.xlsx)  and sends it to the account manager with supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
 | **Step 3** | Account manager conducts preliminary assessment on suitability of company, advises on areas of improvement, and gives sufficient time for company to improve those areas where necessary. |
 | **Step 4** | On-site assessment will be conducted. |
-| **Step 5** | After the assessment, the account manager submits the evaluation and recommendation for approval. <br>The account manager will inform the company on its application outcome, the  [band](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst#band) it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement. | 
+| **Step 5** | After the assessment, the account manager submits the evaluation and recommendation for approval. 
+<br>The account manager will inform the company on its application outcome, the  [band](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst#band) it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement. | 
 
 ## Renewal
 
