@@ -1,4 +1,4 @@
 ---
-title: 20,970 PACKETS CIGARETTES SMUGGLED UNDER LAYERS OF BRICKS, DRIVER JAILED TWO YEARS 
+title: 20,970 Packets Cigarettes Smuggled Under Layers of Bricks, Driver Jailed Two Years
 file_url: /news-and-media/media-releases/2009-04-14-Joint-Media-Release.pdf
 ---
