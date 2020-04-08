@@ -1,4 +1,5 @@
 ---
+
 layout: homepage
 title: Singapore Customs
 description: Singapore Customs is the lead agency on trade facilitation and revenue enforcement.
@@ -7,7 +8,7 @@ sections:
     - hero:
         title:
         subtitle:
-        background: /images/herobanner.jpg
+        <img class="img-responsive" src="/images/herobanner.jpg">
         key_highlights:
             - title: Duty-Free Concession and GST Relief
               url: https://www.customs.gov.sg/individuals/going-through-customs/arrival/duty-free-concession-and-gst-relief
