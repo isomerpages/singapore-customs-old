@@ -3,6 +3,7 @@ title: Chemical Weapons ( Prohibition ) Act
 permaLink: /about-us/acts-and-subsidiary-legislation/Chemical-Weapons-Prohibition-Act
 third_nav_title: Acts and Subsidiary Legislation
 ---
+# Chemical Weapons (Prohibition) Act
 
 Chemical Weapons (Prohibition) Act (Chapter 37B) is an Act to give effect to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction concluded at Paris on 13th January 1993.
 
