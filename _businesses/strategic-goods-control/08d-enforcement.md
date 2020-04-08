@@ -1,10 +1,9 @@
 ---
-title: Enforcement
+title: Enforcement (Overview)
 permalink: /businesses/strategic-goods-control/enforcement
 third_nav_title: Strategic Goods Control
 ---
 
-# 
 
 # Enforcement
 
@@ -28,7 +27,7 @@ Summary of minor or technical offences that were compounded:
 | 2007 | 15 | Aluminium round bars; tri-ethanolamine; military aircraft parts |
 | 2008 | 13 | Flashtubes; night vision equipment; acoustic sound and  vibration detection equipment; optical equipment; aircraft parts | 
 | 2009 | 38 | Milling machines; integrated circuits; chemicals; lenses; communication equipment |
-| 2010 | 43 |Integrated circuits with and without cryptographic capability; fibrous or filamentary materials; communication equipment |
+| 2010 | 43 | Integrated circuits with and without cryptographic capability; fibrous or filamentary materials; communication equipment |
 | 2011 | 53 | Integrated circuits with and without cryptographic capability; lenses; communication equipment|
 | 2012 | 44 | Integrated circuits with and without cryptographic capability; chemicals; information security software |
 | 2013 | 69 | Integrated circuits with and without cryptographic capability; chemicals; information security software|
@@ -46,7 +45,23 @@ Summary of minor or technical offences that were compounded:
 
 -   Breach of condition of permit or registration
 
-[Accordion]
+[**Highlights of enforcement cases**](https://www.customs.gov.sg/businesses/strategic-goods-control/overview/enforcement#item-heading-8d920c5e-9876-438b-8871-cc373a61c3dd)
+
+-   Providing material support to a foreign terrorist organization
+
+A Singaporean man was convicted by the United States (US) Court for conspiring to provide material support to a foreign terrorist organisation. He had attempted to purchase arms and ammunitions for this organisation, an offence under Section 6(2)(b)(ii) of the SGCA. Following the US Government’s extradition request, the Singapore court ruled that the offender was to be extradited to face legal action in the US. He was sentenced to 57 months of imprisonment in the US. ([Media Release](http://www.fbi.gov/baltimore/press-releases/2010/ba101810a.htm))
+
+-   Submission of false permit declarations
+
+A freight forwarding company exported controlled military electronic connectors without a valid strategic goods export permit and instead falsely declared the items as ordinary connectors. The company was prosecuted and fined by the court under Section 5(1)(a) of the SGCA. ([Media Release](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/mediarelease_worldfreightagcweb1.pdf?la=en&hash=A53A7F3C03C47CC149CC3762BF0D1A741F6089D2))
+
+-   Failure to register as a broker
+
+A company arranged with a foreign government to remove expired and damaged ammunition from its territory to another foreign country for disposal, without first registering as a broker with Singapore Customs. The company paid a composition sum for an offence committed under Section 6(1)(a) of the SGCA .
+
+In another case, 2 individuals were sentenced to 9 and 18 months imprisonment for brokering arms to Syria. ([Media Release](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/pressrelease_11oct06.pdf?la=en&hash=BB9413E3350E7EC9DC353369179F65868A867378)).
+
+----
 
 ## Key Offences
 
@@ -54,9 +69,9 @@ Penalties for offences under the SGCA include seizure and forfeiture of goods, f
 
 | Offence | Penalty Upon Conviction |
 |--|--|
-| Transfer of strategic goods without a valid strategic goods permit. _(Section 5 of the SGCA)_ | **First conviction:** A fine not exceeding S$100,000 or 3 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 2 years, or both. |
-| Brokering of strategic goods without registering as a broker with Singapore Customs. _(Section 6 (1) of the SGCA)_|  **Second or subsequent conviction:** A fine not exceeding S$200,000 or 4 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 3 years, or both. |
-| Breach of condition of permit or registration. _(Section 9 of the SGCA)_ | A fine not exceeding S$50,000 or imprisonment not exceeding 12 months, or both. |
+| Transfer of strategic goods without a valid strategic goods permit. <br>  _(Section 5 of the SGCA)_ | **First conviction:** <br> A fine not exceeding S$100,000 or 3 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 2 years, or both. |
+| Brokering of strategic goods without registering as a broker with Singapore Customs. <br> _(Section 6 (1) of the SGCA)_|  **Second or subsequent conviction:** <br> A fine not exceeding S$200,000 or 4 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 3 years, or both. |
+| Breach of condition of permit or registration. <br> _(Section 9 of the SGCA)_ | A fine not exceeding S$50,000 or imprisonment not exceeding 12 months, or both. |
 
 Companies which violate any regulatory requirement relating to SGCA may also be liable to enforcement actions under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and the Chemical Weapons (Prohibition) Act (CWPA).
 
