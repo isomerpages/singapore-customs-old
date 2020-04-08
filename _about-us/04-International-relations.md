@@ -1,5 +1,5 @@
 ---
-title: International-relations
+title: International Relations
 permalink: /about-us/international-relations/
 ---
 
