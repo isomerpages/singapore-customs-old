@@ -11,6 +11,7 @@ A  [Chemical Weapons Convention (CWC) licence](https://www.customs.gov.sg/busine
 In addition to the CWC licence, an approved permit is required before every import of scheduled chemicals listed by the CWC.
 
 ## [**Advance Notification for Transfer of Schedule 1 Chemicals**](https://www.customs.gov.sg/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items#item-heading-4dfbf80d-a408-4780-bbb1-45eb74bca63a)
+
 - Licensees that intend to import any Schedule 1 chemical from Member States must give [notification](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals) to NA(CWC) before and after the transfer has been completed.
 ----
 
