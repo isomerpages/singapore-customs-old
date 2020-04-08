@@ -92,6 +92,7 @@ For containers sealed with a red customs seal, the application to unstuff GST-un
 
 Goods that are not fit for use may be destroyed under Customs’ supervision. [Fees for supervision of unstuffing, survey and destruction](https://sso.agc.gov.sg/SL/CA1960-S634-2012?DocDate=20131010) are applicable accordingly.
 
+
 ## How to Apply?
 
 **Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/tradefirst-selfassessment-checklist-approved-31may2019.xlsx?la=en&hash=ED74065B31B86785B1F625E9D4DBCE2AFFF77DF7).
