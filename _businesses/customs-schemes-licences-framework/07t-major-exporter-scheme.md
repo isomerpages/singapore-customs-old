@@ -1,7 +1,6 @@
 ---
 title: Major Exporter Scheme (IRAS Scheme)
 permalink: /businesses/customs-schemes-licences-framework/iras-schemes/major-exporter-scheme
-breadcrumb: IRAS Schemes
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
