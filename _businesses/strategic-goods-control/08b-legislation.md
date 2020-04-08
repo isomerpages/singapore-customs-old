@@ -1,5 +1,5 @@
 ---
-title: Legislation
+title: Legislation (Overview)
 permalink: /businesses/strategic-goods-control/legislation
 third_nav_title: Strategic Goods Control
 ---
