@@ -11,27 +11,10 @@ A strategic goods permit (prefixed with either XO or XP) is required for the  **
 You do not need a strategic goods permit for the transhipment and transit of strategic goods not listed in the Fourth and Fifth Schedules to the Strategic Goods (Control) Regulations (SGCR) if you fulfil the following exemption criteria:
 
 
-Activity: **Transhipment**
-
-Criteria for Permit Exemption
--   of strategic goods  **not**  listed in the  [**Fourth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc4-XX-Sc4-)
-
--   Goods are taken into free trade zone(s) [FTZ(s)] immediately after being brought into Singapore;
--   Goods remain in an FTZ at all times or in 2 or more FTZs except when being transferred, before they are brought out of Singapore; and
--   Goods remain in FTZ(s) for no more than
-    -   45 days, if brought in by sea
-    -   21 days, if brought in by air
-
-Note: The transport mode by which the goods first enter Singapore will determine the applicable period to remain in the FTZ(s).
-
-Activity: **Transit**
-
-Criteria for Permit Exemption
--   of strategic goods  **not**  listed in the  [**Fifth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc5-)
-
--   Goods remain in transit for no more than
-    -   45 days, if brought in by sea
-    -   21 days, if brought in by air
+| Activity | Criteria for Permit Exemption |
+|--|--|
+| **Transhipment** <br><br> - of strategic goods **not** listed in the [**Fourth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc4-XX-Sc4-) | <br> -  Goods are taken into free trade zone(s) [FTZ(s)] immediately after being brought into Singapore; <br> - Goods remain in an FTZ at all times or in 2 or more FTZs except when being transferred, before they are brought out of Singapore; and <br> -   Goods remain in FTZ(s) for no more than <br> -   45 days, if brought in by sea  <br> -   21 days, if brought in by air <br><br> Note: The transport mode by which the goods first enter Singapore will determine the applicable period to remain in the FTZ(s). |
+| **Transit** <br><br> of strategic goods **not** listed in the [**Fifth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc5-) | - Goods remain in transit for no more than <br> -  45 days, if brought in by sea <br> -  21 days, if brought in by air |
 
 The authorities have the powers to ask for documents or notifications even if a strategic goods permit is not required.
 
@@ -44,10 +27,9 @@ You will have to obtain an Individual Permit if you:
 
 the goods and technology are  **intended or likely to be used, wholly or in part, for or in connection with the:**
 
-| | | |
+|  |  |  |
 |---|---|---|
-| *Development; Production; Handling; Operation; Maintenance; Storage; Detection; Identification; or  Dissemination* of any nuclear, chemical or biological weapon  | or | *Development; Production; Maintenance; or Storage* of missiles capable of delivering any nuclear chemical or biological weapons | 
-
+| - Development; <br> - Production; <br> - Handling; <br> operation; <br> - Maintenance; <br> - Storage; <br> -Detection; <br> - Identification; or <br> -  Dissemination <br><br> of any nuclear, chemical or biological weapon | **OR** | - Development; <br> - Production; <br> - Maintenance; or <br> - Storage <br><br> of missiles capable of delivering any nuclear, chemical or biological weapons |
 The “catch-all” provision applies even if the goods are  **not**  strategic goods or strategic goods technology.
 
 ## Application for Individual Permits
