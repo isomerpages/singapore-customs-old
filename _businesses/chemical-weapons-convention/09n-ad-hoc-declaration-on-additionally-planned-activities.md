@@ -1,5 +1,5 @@
 ---
-title: Ad Hoc Declaration on Additionally Planned Activities
+title: Ad Hoc Declaration on Additionally Planned Activities (Declarations)
 permalink: /businesses/chemical-weapons-convention/declarations/ad-hoc-declaration-on-additionally-planned-activities
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
