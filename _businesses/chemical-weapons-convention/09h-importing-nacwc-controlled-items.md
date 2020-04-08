@@ -42,6 +42,7 @@ In addition to the CWC licence, an approved permit is required before every impo
 | **Import From Non-Member States** | Prohibited | Allowed (subject to Conditions) | Allowed |
 
 ****Schedule 2 conditions*** 
+
 Import of any Schedule 2 chemical from Non-Member States is allowed only if it meets the following conditions:
 
 -   They are product(s) containing no more than 1% by weight of a mixture of Schedule 2A or 2A* chemicals
