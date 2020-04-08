@@ -1,5 +1,5 @@
 ---
-title: Awards And Achievements
+title: Awards & Achievements
 permalink: /about-us/awards-and-achievements/
 ---
 
