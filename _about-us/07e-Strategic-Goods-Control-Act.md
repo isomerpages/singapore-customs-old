@@ -1,6 +1,6 @@
 ---
-title: Strategic Goods (Control) Act 
-permaLink: /about-us/acts-and-subsidiary-legislation/Strategic-Goods-Control-Act
+title: Stratgic Goods (Control) Act
+permalink: /about-us/acts-and-subsidiary-legislation/strategic-goods-control-act
 third_nav_title: Acts and Subsidiary Legislation
 ---
 # Stratgic Goods (Control) Act
