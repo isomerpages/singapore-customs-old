@@ -18,38 +18,9 @@ The NA(CWC) is the national focal point and liaison with the Organisation for th
 
 ## Member States
 
-# Legislation
+# [Legislation](https://singapore-customs-staging.netlify.com/businesses/chemical-weapons-convention/legislation)
 
-## The Chemical Weapons (Prohibition) Act
-
-The  [Chemical Weapons (Prohibition) Act](https://sso.agc.gov.sg/Act/CWPA2000), Chapter 37B (CWPA) was enacted with the objective of providing the Singapore Government with the legislative framework to fulfil Singapore's obligations under the Chemical Weapons Convention (CWC).
-
-The Ministry of Foreign Affairs is the lead ministry of the CWPA. Singapore Customs is designated as the National Authority to administer the Act.
-
-## The Chemical Weapons (Prohibition) Regulations 2007
-
-The  [Chemical Weapons (Prohibition) Regulations 2007](https://sso.agc.gov.sg/SL/CWPA2000-S669-2007?DocDate=20111101)  (CWPR) puts in place a set of procedural guidelines for the administration of the CWPA. The Regulations spell out the conditions for licence approval, exemption for mixtures containing low concentrations of certain chemicals, and the requirement to submit reports to the Director-General of Customs pertaining to activities involving scheduled chemicals.
-
-Under Section 9 of the CWPA, companies that wish to carry out activities pertaining to scheduled chemicals or discrete organic chemicals in Singapore are required to obtain a CWC licence before the start of these activities. More information on the activities that requires a licence  [here](https://www.customs.gov.sg/businesses/chemical-weapons-convention/licensing-requirements).
-
-Under Section 12 of the CWPA, and Regulation 10 of the CWPR, companies which intend to produce process or consume any Schedule 1, 2 or 3 chemicals controlled under the CWC are required to submit an Annual Declaration for Anticipated Activities to Singapore Customs.
-
-Under Section 12 of the CWPA, and Regulation 11 of the CWPR, companies which undertake any controlled activity in relation to scheduled chemicals or unscheduled discrete organic chemicals controlled under the CWC, are required to submit an Annual Declaration of Past Activities to Singapore Customs.
-
-More information on these annual declarations  [here](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations).
-
-# Controlled Chemicals
-
-The Chemical Weapons Convention lists 3 schedules of toxic chemicals, their precursors and an additional category of chemicals known as unscheduled discrete organic chemicals (DOCs).
-
-The schedules are organised to reflect the risk posed by the chemical to the objectives of the Convention, with decreasing risk across the schedules. Although DOCs are not directly related to making chemical agents, the facilities built for their production (with quantity exceeding threshold limits) can potentially be converted to chemical weapons production facilities.
-
-
-## Scheduled Chemicals 
-
-## Unscheduled Discrete Organic Chemicals (DOCs) 
-
-## Determining if your product is controlled
+# [Controlled Chemicals](https://singapore-customs-staging.netlify.com/businesses/chemical-weapons-convention/controlled-chemicals)
 
 # Licensing Requirements
 
@@ -58,18 +29,7 @@ The schedules are organised to reflect the risk posed by the chemical to the obj
 Importing NA(CWC) Controlled Items
 Exporting NA(CWC) Controlled Items
 
-# Declaration
-
-Under the  [Chemical Weapons Convention (CWC),](https://www.customs.gov.sg/businesses/chemical-weapons-convention) every Member State is required to declare to the  [Organisation for the Prohibition of Chemical Weapons](http://www.opcw.org/)  on controlled activities involving scheduled chemicals or unscheduled discrete organic chemicals (DOCs).
-
-There are 4 types of declarations:
-
--   [Annual Declaration of Anticipated Activities for the coming year](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa)
--   [Annual Declaration of Past Activities for the preceding year](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/annual-declaration-for-past-activities)
--   [Ad-Hoc Declaration on Additionally Planned Activities](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/ad-hoc-declaration-on-additionally-planned-activities)
--   [Advanced Notification of Transfer of Schedule 1 Chemical(s)](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals)
-
-The requirements to submit declarations to NA(CWC) are mandated under the Chemical Weapons (Prohibition) Act. Every CWC licensee is required to submit declarations for declarable activities controlled by the NA(CWC).
+# [Declaration](https://singapore-customs-staging.netlify.com/businesses/chemical-weapons-convention/declarations)
 
 # Inspections
 
