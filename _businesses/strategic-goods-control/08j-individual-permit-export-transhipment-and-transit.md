@@ -1,5 +1,5 @@
 ---
-title: Individual Permit: Export, Transhipment and Transit
+title: Individual Permit: Export, Transhipment and Transit (Permit and Registration Requirements)
 permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit
 third_nav_title: Strategic Goods Control
 ---
