@@ -1,5 +1,5 @@
 ---
-title: Advanced Notification on Transfer of Schedule 1 Chemicals
+title: Advanced Notification on Transfer of Schedule 1 Chemicals (Declarations)
 permalink: /businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
