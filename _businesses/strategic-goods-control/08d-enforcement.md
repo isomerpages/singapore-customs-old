@@ -45,7 +45,7 @@ Summary of minor or technical offences that were compounded:
 
 -   Breach of condition of permit or registration
 
-[**Highlights of enforcement cases**](https://www.customs.gov.sg/businesses/strategic-goods-control/overview/enforcement#item-heading-8d920c5e-9876-438b-8871-cc373a61c3dd)
+## [**Highlights of enforcement cases**](https://www.customs.gov.sg/businesses/strategic-goods-control/overview/enforcement#item-heading-8d920c5e-9876-438b-8871-cc373a61c3dd)
 
 -   Providing material support to a foreign terrorist organization
 
