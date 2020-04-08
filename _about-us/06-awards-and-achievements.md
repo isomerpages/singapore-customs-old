@@ -15,7 +15,7 @@ Clinching the SQA is an important milestone in Singapore Customs' organisational
 
 Singapore Customs also renewed the Singapore Quality Class (SQC) STAR in Nov 2016.
 
-![SQA](/images/sqa1.png) 
+**![SQA](/images/sqa1.png) 
 
 ---
 
@@ -25,7 +25,7 @@ Singapore Customs first attained the People Developer Standard in Dec 2000.
 
 We successfully renewed our certification for the People Developer Standard in Nov 2016.
 
-![PDS](/images/pdss1.jpg) 
+**![PDS](/images/pdss1.jpg) 
 ---
 
 **Singapore Innovation Class (I-Class)**
@@ -34,7 +34,7 @@ Singapore Customs first attained the Singapore Innovation Class in Feb 2006, sho
 
 We successfully renewed our certification for the Singapore Innovation Class in Nov 2016.
 
-![SIC](/images/SIC.png) 
+**![SIC](/images/SIC.png) 
 ---
 
 **Singapore Service Class (S-Class)**
@@ -43,7 +43,7 @@ Singapore Customs first attained the Singapore Service Class in 2008.
 
 We successfully renewed our certification for the Singapore Service Class in Nov 2016.
 
-![ssc](/images/ssc1.jpg) 
+**![ssc](/images/ssc1.jpg) 
 
 ---
 
@@ -53,7 +53,7 @@ Singapore Customs first achieved the ISO 9002:1994 certification as the former C
 
 Singapore Customs' core business processes are ISO 9001:2015 certified. The ISO certification represents our co mmitment to build a world-class Customs Service that is geared towards professionalism, quality service and continual improvement in our business dealings with the public.
 
-![ISO](/images/iso.jpg) 
+**![ISO](/images/iso.jpg) 
 
 ---
 
@@ -61,7 +61,7 @@ Singapore Customs' core business processes are ISO 9001:2015 certified. The ISO 
 
 Attained in July 2004, the award recognises our practice of providing an excellent family-friendly work environment that enables our staff to achieve better work-life balance.
 
-![SFF](/images/FFE.jpg) 
+**![SFF](/images/FFE.jpg) 
 
 ---
 
