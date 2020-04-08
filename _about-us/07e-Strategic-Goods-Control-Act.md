@@ -1,8 +1,10 @@
 ---
 title: Strategic Goods (Control) Act 
 permaLink: /about-us/acts-and-subsidiary-legislation/Strategic-Goods-Control-Act
-third_nav_title: Acts And Subsidiary Legislation
+third_nav_title: Acts and Subsidiary Legislation
 ---
+# Stratgic Goods (Control) Act
+
 The Strategic Goods (Control) Act (Chapter 300) is an Act to control the transfer and brokering of strategic goods, strategic goods technology, goods and technology capable of being used to develop, produce, operate, stockpile or acquire weapons capable of causing mass destruction, and missiles capable of delivering such weapons; and for purposes connected therewith.
 
 Click on the links below to view the Strategic Goods (Control) Act and selected subsidiary legislation:
