@@ -12,7 +12,7 @@ We facilitate Singapore’s external trade, through collaboration with governmen
 
 We play a proactive role in balancing the intricate requirements of trade facilitation, security, and regulatory compliance to strengthen Singapore’s position as a global trade hub trusted by foreign trading partners and businesses operating in Singapore.
 
--   [Customs Crest](/about-us/customs-crest/)
+-   [Customs Crest](/about-us/customs-crest)
 -   [Organisation Structure](/about-us/organisational-structure)
 -   [Divisions and Branches](/about-us/divisions-and-branches)
 -   [Rank Structure](/about-us/rank-structure)
