@@ -1,5 +1,5 @@
 ---
-title: List of Dual-use Goods
+title: List of Dual-use Goods (Strategic Goods Control List)
 permalink: /businesses/strategic-goods-control/strategic-goods-control-list/list-of-dual-use-goods
 third_nav_title: Strategic Goods Control
 ---
