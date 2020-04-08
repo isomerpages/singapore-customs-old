@@ -1,7 +1,7 @@
 ---
 title: Glossary
 permalink: /businesses/chemical-weapons-convention/glossary
-third_nav_title: Chemical Weapons Convention
+third_nav_title: Chemical Weapons Convention (CWC)
 ---
 
 # Glossary
