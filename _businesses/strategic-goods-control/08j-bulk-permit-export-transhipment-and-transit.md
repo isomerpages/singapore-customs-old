@@ -15,7 +15,7 @@ As long as the transaction is within the scope of the approved Bulk Permit, its 
 | Type of Permit | Permit Sub-Type |Types of Trade| Scope of Approval |
 |---|---|---|---|
 | Bulk Permit | Approval by specific entities |  - Export / Re-export / Transhipment <br> - Intangible transfer of technology | Pre-approved multiple products to multiple consignees/end-users |
-| Bulk Permit | Approval by destination countries |  - Export / Re-export <br> -Intangible transfer of technology | Pre-approved multiple products to multiple destination countries |
+| Bulk Permit | Approval by destination countries |  - Export / Re-export <br> - Intangible transfer of technology | Pre-approved multiple products to multiple destination countries |
 
 ## Qualifying for the Bulk Permit
 
