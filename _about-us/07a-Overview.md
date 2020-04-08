@@ -26,5 +26,6 @@ TradeNet has been the focus of several academic studies since its introduction. 
 <br>
 ![](https://lh6.googleusercontent.com/5dABS2ePC51EHJpLOr-w7ZbJcrNR5rl3aVOlPRDZo3mRdstJU9Rj5qH5beA10KkLbV8d8_mGOhww_PMajLP_9qPNlABdSMmYS8NwTmSC-aaxP1RiqyRpleg1jCt8oQI7AFHBkUjgyqljeS2yqA)
 <br>
-![](https://lh3.googleusercontent.com/3heaysmo_sV5ixI9zRHl7zWdY8iGh7L5z1WOyvvBUn4uEXnu_WpVwXjhBGvXDpMDEDAyv7pmOGQRuzu1Hj_3GT_EOHxYkNyQlCUrBlcy7siSO8e6bBpgqBlCw45ts72yvwn-RAUv7s-IiS1-IA)<br>![](https://lh3.googleusercontent.com/wU1iS9ql5USdB5uK9mxrJYHqdrnAZqVwujGTYIg2NGqD485BNK7fvXRr80R0McEx-08TYN-btmpkugToS0nFEQuN0LEymV6UTzyu-hvTVJLIpPzJYQo-C6cLJknbqlZzHxs9ph2ivTdsxkKsUg)
+![](https://lh3.googleusercontent.com/3heaysmo_sV5ixI9zRHl7zWdY8iGh7L5z1WOyvvBUn4uEXnu_WpVwXjhBGvXDpMDEDAyv7pmOGQRuzu1Hj_3GT_EOHxYkNyQlCUrBlcy7siSO8e6bBpgqBlCw45ts72yvwn-RAUv7s-IiS1-IA)
+<br>![](https://lh3.googleusercontent.com/wU1iS9ql5USdB5uK9mxrJYHqdrnAZqVwujGTYIg2NGqD485BNK7fvXRr80R0McEx-08TYN-btmpkugToS0nFEQuN0LEymV6UTzyu-hvTVJLIpPzJYQo-C6cLJknbqlZzHxs9ph2ivTdsxkKsUg)
 
