@@ -69,9 +69,9 @@ Penalties for offences under the SGCA include seizure and forfeiture of goods, f
 
 | Offence | Penalty Upon Conviction |
 |--|--|
-| Transfer of strategic goods without a valid strategic goods permit. <br>  _(Section 5 of the SGCA)_ | **First conviction:** <br> A fine not exceeding S$100,000 or 3 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 2 years, or both. |
-| Brokering of strategic goods without registering as a broker with Singapore Customs. <br> _(Section 6 (1) of the SGCA)_|  **Second or subsequent conviction:** <br> A fine not exceeding S$200,000 or 4 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 3 years, or both. |
-| Breach of condition of permit or registration. <br> _(Section 9 of the SGCA)_ | A fine not exceeding S$50,000 or imprisonment not exceeding 12 months, or both. |
+| Transfer of strategic goods without a valid strategic goods permit. <br>  _(Section 5 of the SGCA)_ | **First conviction:** <br><br> A fine not exceeding S$100,000 or 3 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 2 years, or both. |
+| Brokering of strategic goods without registering as a broker with Singapore Customs. <br><br> _(Section 6 (1) of the SGCA)_|  **Second or subsequent conviction:** <br> A fine not exceeding S$200,000 or 4 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 3 years, or both. |
+| Breach of condition of permit or registration. <br><br> _(Section 9 of the SGCA)_ | A fine not exceeding S$50,000 or imprisonment not exceeding 12 months, or both. |
 
 Companies which violate any regulatory requirement relating to SGCA may also be liable to enforcement actions under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and the Chemical Weapons (Prohibition) Act (CWPA).
 
