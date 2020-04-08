@@ -1,7 +1,7 @@
 ---
 title: Arrivals
 permalink: /individuals/going-through-customs/Arrivals
-third_nav_title: Going Through Customs
+third_nav_title: Going through customs
 ---
 
 # Arrival 
