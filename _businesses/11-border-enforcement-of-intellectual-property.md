@@ -39,8 +39,7 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
 -   For Seizure on Request (Lodgement of Notice), the written notice should be given using Trade Marks Form 1 or Copyright Form 1.
 -   Where the right holder has been notified by Customs that there has been Ex-officio Seizure of goods or copies, and the right holder wants the Director-General to continue to detain the seized goods or copies in order to institute an infringement action, the written notice should be given using Trade Marks Form 2 or Copyright Form 2.
 
-| No. | Forms |   
-Related Links |
+| No. | Forms | Related Links |
 |---|---|---|
 | 1 | Trade Marks Form 1 - Seizure of Goods on Request | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/trade-marks-form-1.docx?la=en&hash=291F6192E58EC6334DCB4ACB8ADCAAB06029B0CC)(23.3KB) |
 | 2 | Copyright Form 1 - Seizure of Copies on Request | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/copyright-form-1.docx?la=en&hash=F4A71E744A3158750D571BBCE8C6A1F9B0AF08E5)(26.5KB) |
