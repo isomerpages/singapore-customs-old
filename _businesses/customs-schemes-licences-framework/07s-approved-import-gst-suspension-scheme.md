@@ -1,5 +1,5 @@
 ---
-title: Approved Import GST Suspension Scheme (IRAS Scheme)
+title: Approved Import GST Suspension Scheme (IRAS Scheme) 
 permalink: /businesses/customs-schemes-licences-framework/iras-schemes/approved-import-gst-suspension-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
