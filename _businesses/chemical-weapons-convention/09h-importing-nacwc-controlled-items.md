@@ -20,7 +20,7 @@ In addition to the CWC licence, an approved permit is required before every impo
 
 - If the import is not subject to the above restrictions, you may apply for an import permit via TradeNet:
 
-### Import Permit
+**Import Permit**
 
 | Field | Information Required |
 |---|---|
@@ -40,7 +40,7 @@ In addition to the CWC licence, an approved permit is required before every impo
 
 - The following restrictions apply to the import of [scheduled chemicals](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) from [non-Member States](http://www.opcw.org/about-opcw/member-states/).
 
-| Schedules | Schedule 1 | Schedule 2* |  Schedule 3 |
+| Schedules | Schedule 1 | Schedule 2 |  Schedule 3 |
 |---|---|---|---|
 | **Import From Non-Member States** | Prohibited | Allowed (subject to Conditions) | Allowed |
-| ****Schedule 2 conditions*** | | Import of any Schedule 2 chemical from Non-Member States is allowed only if it meets the following conditions: <br><br> They are product(s) containing no more than 1% by weight of a mixture of Schedule 2A or 2A* chemicals <br><br> They are product(s) containing no more than 10% by weight of a mixture of Schedule 2B chemicals <br><br>  They are product(s) identified as consumer goods packaged for retail sale for personal use or packaged for individual use | |
+| **Conditions** | | *Import of any Schedule 2 chemical from Non-Member States is allowed only if it meets the following condition: <br><br> 1. They are product(s) containing no more than 1% by weight of a mixture of Schedule 2A or 2A* chemicals <br><br> 2. They are product(s) containing no more than 10% by weight of a mixture of Schedule 2B chemicals <br><br> 3.  They are product(s) identified as consumer goods packaged for retail sale for personal use or packaged for individual use | |
