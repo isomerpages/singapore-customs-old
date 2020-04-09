@@ -16,7 +16,7 @@ GST refund, subject to conditions of the scheme, can be claimed at these locatio
 
 -   Changi Airport
 -   Seletar Airport
-***
+
 ### How do I process my GST refund?
 Before departing from the airport, please proceed to the electronic TRS (eTRS) self-help kiosk  [](https://www.iras.gov.sg/IRASHome/GST/Consumers/Tourist-Refund-Scheme/)to apply for your GST refund.  You will need to scan your physical passport to retrieve all eTRS transactions tagged to your passport.
 
