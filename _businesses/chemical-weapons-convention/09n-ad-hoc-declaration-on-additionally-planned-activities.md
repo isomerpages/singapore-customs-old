@@ -14,9 +14,9 @@ The table below indicates the activities that may be reported in an AH.
 
 | Activity | Schedule 1 | Schedule 2 | Schedule 3 |
 |---|---|---|---|
-| Production | yes | yes | yes |
-| Processing | X | yes | X |
-| Consumption | X | yes | X |
+| Production | √ | √ | √ |
+| Processing | X | √ | X |
+| Consumption | X | √ | X |
 | Import/Export | X | X | X |
 | Storage | X | X | X |
 | Local Sales/Distribution | X | X | X |
