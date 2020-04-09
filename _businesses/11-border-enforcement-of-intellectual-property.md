@@ -41,10 +41,10 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
 
 | No. | Forms | Related Links |
 |---|---|---|
-| 1 | Trade Marks Form 1 - Seizure of Goods on Request | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/trade-marks-form-1.docx?la=en&hash=291F6192E58EC6334DCB4ACB8ADCAAB06029B0CC)(23.3KB) |
-| 2 | Copyright Form 1 - Seizure of Copies on Request | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/copyright-form-1.docx?la=en&hash=F4A71E744A3158750D571BBCE8C6A1F9B0AF08E5)(26.5KB) |
-| 3 | Trade Marks Form 2 - Ex-officio Seizure of Goods | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/trade-marks-form-2.docx?la=en&hash=0E0FCF00221C2FADDF38ED091CDFCBC7EBD830BB)(21.8KB) |
-| 4 | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/copyright-form-2.docx?la=en&hash=F46E1DC2A6FE38610427A33FF90B7587F7E5BDC8)(22.7KB) |
+| 1 | Trade Marks Form 1 - Seizure of Goods on Request | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/trade-marks-form-1.docx?la=en&hash=291F6192E58EC6334DCB4ACB8ADCAAB06029B0CC) (23.3KB) |
+| 2 | Copyright Form 1 - Seizure of Copies on Request | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/copyright-form-1.docx?la=en&hash=F4A71E744A3158750D571BBCE8C6A1F9B0AF08E5) (26.5KB) |
+| 3 | Trade Marks Form 2 - Ex-officio Seizure of Goods | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/trade-marks-form-2.docx?la=en&hash=0E0FCF00221C2FADDF38ED091CDFCBC7EBD830BB) (21.8KB) |
+| 4 | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/copyright-form-2.docx?la=en&hash=F46E1DC2A6FE38610427A33FF90B7587F7E5BDC8) (22.7KB) |
 
 2. The Notice shall be accompanied by:
 
@@ -63,14 +63,13 @@ Template of Documents:
 
 | No. | Forms |  Related Links |
 |---|---|---|
-| 1 |  Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/sample-of-guarantee-template-trade-marks-act-and-copyright-act.docx?la=en&hash=559F5DC42CE5F3538623B0E2FAC20A4E08D64592)(23.1KB) |
-| 2 |  Letter of Undertaking under Trade Marks Act | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/letter-of-undertaking-under-trade-marks-act.docx?la=en&hash=7AE647C4B77D17046F4FB3570EACF7D2FAE71033)(17.9KB) |
-| 3 | Letter of Undertaking under Copyright Act | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/letter-of-undertaking-under-copyright-act.docx?la=en&hash=59F08E4FEFE344E1D4B00EC32862820EC9820DA1)(18.9KB) |
+| 1 |  Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/sample-of-guarantee-template-trade-marks-act-and-copyright-act.docx?la=en&hash=559F5DC42CE5F3538623B0E2FAC20A4E08D64592) (23.1KB) |
+| 2 |  Letter of Undertaking under Trade Marks Act | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/letter-of-undertaking-under-trade-marks-act.docx?la=en&hash=7AE647C4B77D17046F4FB3570EACF7D2FAE71033) (17.9KB) |
+| 3 | Letter of Undertaking under Copyright Act | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/letter-of-undertaking-under-copyright-act.docx?la=en&hash=59F08E4FEFE344E1D4B00EC32862820EC9820DA1) (18.9KB) |
 
 ### For more information on border enforcement measures under the Trade Marks Act and the Copyright Act, please refer to the following:
 
   
-
 -   [Part X of the Trade Marks Act](https://sso.agc.gov.sg/Act/TMA1998?ProvIds=pr81-,pr81A-,pr81B-,pr82-,pr83-,pr84-,pr85-,pr85A-,pr85B-,pr86-,pr87-,pr88-,pr89-,pr90-,pr91-,pr92-,pr93-,pr93A-,pr93B-,pr93C-,pr93D-,pr93E-,pr93F-,pr93G-,pr93H-,pr93I-,pr93J-,pr93K-,pr93L-,pr94-,pr95-,pr96-,pr97-,pr98-,pr99-,pr100-)
 -   [Trade Marks (Border Enforcement Measures) Rules](https://sso.agc.gov.sg/SL/TMA1998-R2?DocDate=20191112)
 -   [Trade Marks (Border Enforcement Measures Fees) Rules](https://sso.agc.gov.sg/SL/TMA1998-S749-2019?DocDate=20191112)
