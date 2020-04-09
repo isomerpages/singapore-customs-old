@@ -21,5 +21,5 @@ Those found committing customs offences at the checkpoints may be offered the fo
 Notes:
 
 -   The composition amount will take into consideration the GST offence, and be rounded down to the nearest $5 with effect from 1 Jan 2017.
--   The actual composition amount offered may be different from the table depending on circumstances of the case. This will be specified in the letter issued by a Singapore Customs officer. Please note if there is a delay in payment of the composition sum, offenders can be charged in court for the offence.
+-   The actual composition amount offered may be different from the table depending on circumstances of the case. This will be specified in the letter issued by a Singapore Customs officer. Please note: If there is a delay in payment of the composition sum, offenders can be charged in court for the offence.
 -   Offenders can be charged in court without any offer of composition in serious cases or where the composition amount that can be offered exceeds S$5000.
