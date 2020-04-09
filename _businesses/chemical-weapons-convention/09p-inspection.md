@@ -29,7 +29,7 @@ Facilities that produce, process, or consume scheduled chemicals and facilities 
 | Type of Facility | Verification Threshold Limits |
 |--|--|
 | Schedule 1 | All declared facilities are subject to inspection |
-| Schedule 2 | Produced, processed or consumed during any of the previous three calendar years or anticipated to produce, process or consume in the next calendar year more than:  -   10 kilogrammes of a Schedule 2A* chemical; -   1 tonne of a Schedule 2A chemical; or -   10 tonnes of a Schedule 2B chemical |
+| Schedule 2 | Produced, processed or consumed during any of the previous three calendar years or anticipated to produce, process or consume in the next calendar year more than: <br><br> 10 kilogrammes of a Schedule 2A* chemical; <br> 1 tonne of a Schedule 2A chemical; or <br> 10 tonnes of a Schedule 2B chemical |
 | Schedule 3 | Produced in the previous calendar year or anticipated to produce in the next calendar year in excess of 200 tonnes aggregate of any Schedule 3 chemical |
 | Unscheduled Discrete Organic Chemicals (DOCs) | Produced more than 200 tonnes of DOCs during the previous calendar year |
 
