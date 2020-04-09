@@ -1,7 +1,7 @@
 ---
 title: Offences
 permaLink: /individuals/going-through-customs/offences
-third_nav_title: Going through customs
+third_nav_title: Going Through Customs
 ---
 
 # Offences
