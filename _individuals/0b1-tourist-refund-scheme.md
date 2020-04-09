@@ -45,7 +45,8 @@ Additional Information:
 
 For enquiries relating to the status of your approved refund, please contact:
 
-Global Tax Free Pte Ltd <br>
+**Global Tax Free Pte Ltd**
+<br>
 Tel: (+65) 6513 3756 (_Weekdays from 9am to 6pm)
 <br> (+65) 6546 5074 (_Weekdays after 6pm, Weekends and Public Holiday)<br>
 Email: crc.helpdesk@global-taxfree.com
