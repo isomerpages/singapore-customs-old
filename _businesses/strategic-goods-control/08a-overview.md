@@ -30,11 +30,7 @@ Singapore Customs also coordinates closely with other government agencies such a
 
 # [Permit and Registration Requirements](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/permit-and-registration-requirements)
 
-# Preliminary Advice for Strategic Goods Transaction
-
-Before you decide whether your business should undertake any activities involving the controlled transfer of strategic goods, you may apply to seek preliminary advice from Singapore Customs. We will assess whether the  [controlled transfer](https://www.customs.gov.sg/businesses/strategic-goods-control/overview/scope-of-control)  of your strategic goods is likely to be approved when you submit your strategic goods permit application.
-
-## [Applying for Preliminary Advice](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction)
+# [Preliminary Advice for Strategic Goods Transaction](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction) 
 
 # Import Certificate and Delivery Verification
 
