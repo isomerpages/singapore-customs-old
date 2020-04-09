@@ -1,7 +1,7 @@
 ---
 title: Departure
 permaLink: /individuals/going-through-customs/departure
-third_nav_title: Going through customs
+third_nav_title: Going Through Customs
 ---
 
 # Departure
