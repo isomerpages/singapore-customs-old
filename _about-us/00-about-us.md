@@ -28,7 +28,7 @@ We protect revenue, and make trade easy, fair and secure.
 ### Core Values
 
 -   **Integrity**
-    We are upright and fair. We are incorruptible, trustworthy, and do not show favouritism.
+	    We are upright and fair. We are incorruptible, trustworthy, and do not show favouritism.
     
 -   **Commitment**
         We pledge to be the best we can be. We strive for excellence, take ownership and deliver what we promise.
@@ -41,6 +41,7 @@ We protect revenue, and make trade easy, fair and secure.
     
 -   **Teamwork**
         We work together to achieve Singapore Customs' goals. We care for one another, share knowledge and put aside personal interests.
+
 
 ## History 
 
