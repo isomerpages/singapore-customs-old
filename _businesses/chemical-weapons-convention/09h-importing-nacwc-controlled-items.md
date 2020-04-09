@@ -10,30 +10,33 @@ A  [Chemical Weapons Convention (CWC) licence](https://www.customs.gov.sg/busine
 
 In addition to the CWC licence, an approved permit is required before every import of scheduled chemicals listed by the CWC.
 
-## [**Advance Notification for Transfer of Schedule 1 Chemicals**](https://www.customs.gov.sg/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items#item-heading-4dfbf80d-a408-4780-bbb1-45eb74bca63a)
+### [**Advance Notification for Transfer of Schedule 1 Chemicals**](https://www.customs.gov.sg/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items#item-heading-4dfbf80d-a408-4780-bbb1-45eb74bca63a)
+
 
 - Licensees that intend to import any Schedule 1 chemical from Member States must give [notification](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals) to NA(CWC) before and after the transfer has been completed.
-----
 
-## [**Information Required For Import Permit**](https://www.customs.gov.sg/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items#item-heading-03c99037-40da-474a-9a1f-18416646cd52)
+
+
+### [**Information Required For Import Permit**](https://www.customs.gov.sg/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items#item-heading-03c99037-40da-474a-9a1f-18416646cd52)
 
 - If the import is not subject to the above restrictions, you may apply for an import permit via TradeNet:
 
 ### Import Permit
+
 | Field | Information Required |
-|--|--|
+|---|---|
 | **Customs Procedure Code (CPC)** | CPC should be declared as CWC |
 | **Processing Code (PC1)** | PC1 should be left blank |
 | **Processing Code (PC2)** | PC2 should be left blank |
 | **Processing Code (PC3)** | PC3 should be left blank |
-| **Licence No.** |  1. Licence number issued by NA(CWC) 2. If the item is also controlled by other Competent Authorities, please indicate both. |
-| **Item Description** | 1.   Description of the item 2. Please state the name of the controlled chemical in the description as well. (for example, photographic solution containing triethanolamine) |
+| **Licence No.** |  1. Licence number issued by NA(CWC) <br> 2. If the item is also controlled by other Competent Authorities, please indicate both. |
+| **Item Description** | 1.   Description of the item <br> 2. Please state the name of the controlled chemical in the description as well. <br> (for example, photographic solution containing triethanolamine) |
 | **HS Code** | Product Harmonized System (HS) code |
 | **CA/SC Product Code 1** | Enter the product code of the chemical (found in licence) |
 | **CA/SC Product Code Quantity & Unit** | Enter the quantity and unit |
 | **CA/SC Code 1** | Enter the purity of the controlled chemical (for example, 40%) |
 
------
+
 ## [**Restrictions for Import from Non-Member States**](https://www.customs.gov.sg/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items#item-heading-3c6c44a2-ab4e-4f22-a385-2f97996ee332)
 
 -The following restrictions apply to the import of [scheduled chemicals](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) from [non-Member States](http://www.opcw.org/about-opcw/member-states/).
@@ -43,7 +46,6 @@ In addition to the CWC licence, an approved permit is required before every impo
 | **Import From Non-Member States** | Prohibited | Allowed (subject to Conditions) | Allowed |
 
 ****Schedule 2 conditions*** 
-
 Import of any Schedule 2 chemical from Non-Member States is allowed only if it meets the following conditions:
 
 -   They are product(s) containing no more than 1% by weight of a mixture of Schedule 2A or 2A* chemicals
