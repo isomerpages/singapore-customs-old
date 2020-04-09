@@ -1,6 +1,6 @@
 ---
 title: Annexes and Appendices
-permaLink: /about-us/National-Single-Window/Overview/Annexes-and-appendices
+permaLink: /about-us/National-Single-Window/Overview-Annexes-and-appendices
 ---
 
 # Annexes and Appendices
