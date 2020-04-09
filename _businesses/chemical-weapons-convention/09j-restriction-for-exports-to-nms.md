@@ -4,7 +4,7 @@ permalink: /businesses/chemical-weapons-convention/restriction-for-exports-to-nm
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 
-The following restrictions apply to exports of scheduled chemicals to [non-Member States](http://www.opcw.org/about-opcw/member-states/).
+### The following restrictions apply to exports of scheduled chemicals to [non-Member States](http://www.opcw.org/about-opcw/member-states/).
 
 | Schdeule | Schdeule 1 | Schdeule 2 | Schdeule 3|
 |---|---|---|---|
