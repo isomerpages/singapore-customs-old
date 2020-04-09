@@ -136,7 +136,7 @@ If you require further assistance on TradeFIRST, please call 6251 3027 or email 
 
 This section guides companies who wish to perform a TradeFIRST self-assessment under specific business operations mentioned below.
 
--   **Companies with Multiple Sites and/or Multiple Schemes**
+1.   **Companies with Multiple Sites and/or Multiple Schemes**
 
 There will only be one assessment for the company regardless of the number of schemes it applies for. Therefore, the self-assessment checklist should be filled in relation to all of the company’s operating sites.
 
@@ -146,14 +146,17 @@ All of its operating sites must be declared in the checklist:
 -   Indicate “No” if none or only some of the sites meet the criteria. Indicate the name of the site(s) which meet the criteria in the “Comments” column.
 -   Indicate “N.A.” when the criterion is not applicable.
 
--   **Outsourced Functions**
+
+2.   **Outsourced Functions**
 
 The company should not indicate “N.A.” on outsourced functions, for example using third party logistics providers. It should indicate if its business partners’ procedures meet the criteria based on its service level agreements and contractual obligations.
 
--   **Company is a Tenant**
+
+3.   **Company is a Tenant**
 
 The company should abide by these  [guidelines](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/selfassessmtguidelines.doc)  if it is a tenant.
 
--   **Companies with Global or Regional Offices**
+
+4.   **Companies with Global or Regional Offices**
 
 TradeFIRST assessment us only applicable to the company's procedures conducted on its operating sites in Singapore. For example, comments on pre-employment verification criteria must pertain to Singapore's procedures and not the company's regional or global practices. 
