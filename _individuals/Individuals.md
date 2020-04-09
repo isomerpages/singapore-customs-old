@@ -1,6 +1,6 @@
 ---
 title: Individuals
-permaLink: /individuals/
+permaLink: /individuals
 ---
 # Individuals
 
