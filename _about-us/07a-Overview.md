@@ -18,7 +18,7 @@ TradeNet has been the focus of several academic studies since its introduction. 
 
 -   King, J. and Konsynski, B. Singapore TradeNet: A Tale of One City . Harvard Business School, Case 9-191-009, Cambridge, MA, 1990.
     
--   Teo, H.H.; Tan, C.Y. and Wei, K.K. **Organizational Transformation Using Electronic Data Interchange: The Case of TradeNet® in Singapore.** Journal of Management Information Systems, Vol. 13, No. 4 (1997), pp.139-165.
+-   Teo, H.H.; Tan, C.Y. and Wei, K.K. Organizational Transformation Using Electronic Data Interchange: The Case of TradeNet® in Singapore. Journal of Management Information Systems, Vol. 13, No. 4 (1997), pp.139-165.
 
 ## For more information on TradeNet
 
