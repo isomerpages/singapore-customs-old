@@ -14,7 +14,7 @@ The Organisation for the Prohibition of Chemical Weapons (OPCW) will notify NA(C
 | 1 | ≥ 24 hours | As required |
 | 2 | ≥ 48 hours | ≤ 96 hours |
 | 3 | ≥ 120 hours | ≤ 24 hours |
-| Unscheduled Discrete Organic Chemicals | ≥ 120 hours | ≤ 24 hours |
+| Unscheduled Discrete <br> Organic Chemicals | ≥ 120 hours | ≤ 24 hours |
 
 The NA(CWC) will notify the selected facility of the expected date of inspection and the number of OPCW inspectors and NA(CWC) officers accompanying the inspection.
 
