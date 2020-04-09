@@ -1,5 +1,5 @@
 ---
-title: Traders' Satisfaction Survey and Pro-Enterprise Ranking Survey Results 
+title: Travellers’ Satisfaction Survey Results
 permalink: /news-and-media/publications/travellers-satisfaction-survey-results
 ---
 
