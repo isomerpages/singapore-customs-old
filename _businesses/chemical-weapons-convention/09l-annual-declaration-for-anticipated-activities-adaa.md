@@ -10,7 +10,7 @@ The Annual Declaration for Anticipated Activities (ADAA) is required for license
 
 The table below indicates the activities that require an ADAA.
 
-## Activities Involving Scheduled Chemicals that require an ADAA
+### Activities Involving Scheduled Chemicals that require an ADAA
 
 | Activity | Schedule 1 | Schedule 2 | Schedule 3 |
 |----------|------------|------------|------------|
@@ -23,11 +23,11 @@ The table below indicates the activities that require an ADAA.
 
 yes: indicates that ADAA is required.  See [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) of scheduled chemicals. 
 
-## Unscheduled Discrete Organic Chemicals (DOCs)
+### Unscheduled Discrete Organic Chemicals (DOCs)
 
 An ADAA is not required for facilities involved in the production of DOCs.
 
-## Timeline for Submission
+### Timeline for Submission
 
 The ADAA exercise starts from  **15 June of each year**.
 | Schedule of Chemicals | ADAA Submission Deadline |
@@ -35,7 +35,7 @@ The ADAA exercise starts from  **15 June of each year**.
 | Schedule 1 chemicals and related facilities | 15 August of each year |
 | Schedules 2 and 3 chemicals and related facilities | 15 September of each year |
 
-## Submission of ADAA
+### Submission of ADAA
 
 1) Download the  [application forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#adaa).
 
