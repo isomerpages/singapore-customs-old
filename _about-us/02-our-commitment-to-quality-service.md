@@ -20,16 +20,17 @@ The service we provide will be:
 
 Our response time depends on the nature and complexity of the enquiry or feedback. We generally reply to straightforward enquiries and feedback within 3 working days, but may take longer for more complex issues. If your feedback or request requires further study, we will inform you that more time is needed.
 
+
 |Traders|
 |---|---|
-|**Process TradeNet Declarations (and Amendments)**| - 99% within 10 minutes |
-|**Process Warehouse Licence and Zero-GST Warehouse (Type I) Licence Applications**| - Within 7 working days |
-|**Issue Customs Duty/Goods and Services Tax (GST) Refund**| - Within 5 working days (if supporting documents are not required)<br>- Within 12 working days (upon receipt of all supporting documents) |
-|**Process Certificates of Origin Online Applications**| - Certificates of Origin for goods of Singapore origin applications within 2 hours<br>- Back-to-back Certificates of Origin applications within 2 working day |
-|**Issue Import Certificates and Delivery Verifications**| - 100% within 2 working days upon receipt of complete application with all the relevant supporting documents |
-|**Issue Customs Rulings**| - Within 30 days upon receipt of full supporting documents |
+|**Process TradeNet Declarations (and Amendments)**| 99% within 10 minutes |
+|**Process Warehouse Licence and Zero-GST Warehouse (Type I) Licence Applications**| Within 7 working days |
+|**Issue Customs Duty/Goods and Services Tax (GST) Refund**|  Within 5 working days (if supporting documents are not required)<br><br>Within 12 working days (upon receipt of all supporting documents) |
+|**Process Certificates of Origin Online Applications**|  Certificates of Origin for goods of Singapore origin applications within 2 hours<br><br>Back-to-back Certificates of Origin applications within 2 working day |
+|**Issue Import Certificates and Delivery Verifications (ICDV)**|  100% within 2 working days upon receipt of complete application with all the relevant supporting documents |
+|**Issue Customs Rulings**| Within 30 days upon receipt of full supporting documents |
 
-Footnote: The ICDV application procedure has been changed from manual submission and collection at Customs office to electronic application via the Networked Trade Platform (NTP) with effect from  20 June  2018.  With the change in procedure, traders enjoy time savings in terms of traveling time for making the trip to Customs office, going to SingPost to make payment for the fee, and waiting at Customs office for their applications to be processed as what happened in the past.  Traders could now enjoy the convenience of submitting the ICDV application electronically from their office or anywhere and receiving the approval electronically from Customs via the NTP. As such, the service standard has been revised to adapt to the new electronic application procedure.
+<sup>Footnote: The ICDV application procedure has been changed from manual submission and collection at Customs office to electronic application via the Networked Trade Platform (NTP) with effect from  20 June  2018.  With the change in procedure, traders enjoy time savings in terms of traveling time for making the trip to Customs office, going to SingPost to make payment for the fee, and waiting at Customs office for their applications to be processed as what happened in the past.  Traders could now enjoy the convenience of submitting the ICDV application electronically from their office or anywhere and receiving the approval electronically from Customs via the NTP. As such, the service standard has been revised to adapt to the new electronic application procedure.</sup>
 
 |Travellers|
 |---|---|
