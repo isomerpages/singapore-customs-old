@@ -35,6 +35,10 @@ Singapore Customs also cooperates with its international counterparts to help pr
 
 Read about some of the regular enforcement operations conducted in the FTZs featured in Singapore Customs’ corporate magazine, inSYNC, here:
 
+ - [Insync Oct-Dec 2017](https://singapore-customs-staging.netlify.com/news-and-media/publications/2017-10-01-Issue47.pdf)
+ - [Insync Jan-Mar 2018](https://singapore-customs-staging.netlify.com/news-and-media/publications/2018-01-01-Issue48.pdf)
+ - [TradeFirst](https://singapore-customs-staging.netlify.com/businesses/customs-schemes-licences-framework/trade-first)
+
 ## Licensed facilities
 
 Singapore Customs manages a suite of schemes and licences to facilitate traders’ needs, while maintaining security of our supply chain.
@@ -53,4 +57,6 @@ ZGS licensees operating in the Singapore Freeport are subject to the same regula
 
 Regular inspections are conducted on these companies as part of the enhanced regime which serves to prevent companies from being inadvertently used as a conduit for money-laundering and terrorist-financing activities, allowing Singapore to operate as a secure trade hub.
 
-Read more about the inspection in Singapore’s Freeport, and the enhanced regulatory regime in Singapore Customs’ corporate magazine, inSYNC:
+Read more about the inspection in Singapore’s Freeport, and the enhanced regulatory regime in Singapore Customs’ corporate magazine, InSYNC:
+
+( URLs not working yet )
