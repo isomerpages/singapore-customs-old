@@ -22,60 +22,19 @@ Singapore Customs is the National Authority to administer the SGCA. The function
 
 Singapore Customs also coordinates closely with other government agencies such as the  [Immigration & Checkpoints Authority](http://www.ica.gov.sg/)  and  [Singapore Police Force](http://www.spf.gov.sg/)  to enforce the SGCA.
 
-# Legislation
+# [Legislation](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/legislation)
 
-# Scope of Control
+# [Scope of Control](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/scope-of-control)
 
-# Enforcement
+# [Enforcement](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/enforcement)
 
-# Permit and Registration Requirements
-
-A strategic goods permit is required for any transfer or brokering of:
-
-Strategic goods and related technology listed in the Strategic Goods Control List 
-Any goods or technology intended or likely to be used for or in connection with weapons of mass destruction.
-
-## Export, Transhipment, Transit and Intangible Transfer of Technology (ITT)
-
-To provide greater facilitation and promote effective internal export control compliance, Singapore Customs implemented the Strategic Trade Scheme (STS).  The STS applies to all businesses who wish to export, tranship, bring in transit strategic goods and related technology, or transmit strategic goods software or technology. 
-
-The permit procedures under the STS consist of:
-
-## Individual Permit
-
-Individual Permit to be applied at least 5 working days before every export, re-export, transhipment or transit of strategic goods
-ITT permit to be applied at least 7 working days before the transmission of strategic goods software or technology
-
-## Bulk Permit
-
-Pre-approvals (for a period determined by Singapore Customs) to be applied before the export, re-export, or transhipment of strategic goods, or the transmission of strategic goods software or technology.
-TradeNet permit to be declared before the cargo is lodged with the sea port operators or air cargo ground handling agents, or brought into Singapore for transhipment.
-For more information on STS, please refer to the STS Handbook.
-
-## Brokering
-
-A brokering registration is to be applied at least 14 working days before the brokering of items and technology listed in the Strategic Goods (Control) (Brokering) Order 2019.  A brokering permit is also required under certain circumstances.
+# [Permit and Registration Requirements](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/permit-and-registration-requirements)
 
 # Preliminary Advice for Strategic Goods Transaction
 
 Before you decide whether your business should undertake any activities involving the controlled transfer of strategic goods, you may apply to seek preliminary advice from Singapore Customs. We will assess whether the  [controlled transfer](https://www.customs.gov.sg/businesses/strategic-goods-control/overview/scope-of-control)  of your strategic goods is likely to be approved when you submit your strategic goods permit application.
 
-## Applying for Preliminary Advice
-
-**Step 1:** Complete the  [application form](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood).
-
-**Step 2**: Attach the supporting documents, where applicable:
-
--   Technical specifications of the strategic goods (for example, operating instructions, manuals, brochures, data sheets, catalogues)
--   Business transaction documents (for example, contract, purchase order, invoice, tender requirements)
--   [End-User Statement](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)
--   Export licence (and its English translation) from the originating country, or a confirmation from the originating country that they do not control the re-export of the goods
--   Company profiles/websites of relevant parties (exporter, consignee, end-user)
--   Other relevant supporting documents
-
-**Step 3**: Submit the completed form and supporting documents.
-
-Your application should be processed within 7 working days if the information and documents provided are complete. However, some applications may take longer to process, depending on the nature of the item, destination or parties involved in the transaction.
+## [Applying for Preliminary Advice](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction)
 
 # Import Certificate and Delivery Verification
 
