@@ -59,14 +59,14 @@ Network Express Courier Services Pte Ltd
 Executive Vice President, Airhub Development  
 Changi Airport Group
 
-**Mr Hsu Sin Yun**  
-Deputy Commissioner (Operations)  
-Immigration & Checkpoints Authority
+**Mr Yee Ping Yi**  
+Deputy Secretary (Planning)  
+Ministry of Finance
 
 **Mr Luke Goh**  
 Deputy Secretary (Trade)  
 Ministry of Trade and Industry
 
-**Mr Yee Ping Yi**  
-Deputy Secretary (Planning)  
-Ministry of Finance
+**Mr Hsu Sin Yun**  
+Deputy Commissioner (Operations)  
+Immigration & Checkpoints Authority
