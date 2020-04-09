@@ -21,13 +21,14 @@ The table below indicates the activities that may be reported in an AH.
 | Storage | X | X | X |
 | Local Sales/Distribution | X | X | X |
 
-yes: indicates that ADPA is required.   See [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) of scheduled chemicals.
+√ : indicates that ADPA is required.   See [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) of scheduled chemicals.
 
-## Unscheduled Discrete Organic Chemicals (DOCs)
+### Unscheduled Discrete Organic Chemicals (DOCs)
 
 An AH is not required for facilities involved in the production of DOCs.
 
-## Timeline for Submission
+
+### Timeline for Submission
 
 | Schedule of Chemicals | AH Submission Deadline |
 |-----------------------|------------------------|
@@ -35,7 +36,8 @@ An AH is not required for facilities involved in the production of DOCs.
 | Schedules 2 and 3 chemicals and related facilities | 20 days before start of activities |
 
 
-## Submission of Ad-Hoc Declaration
+
+### Submission of Ad-Hoc Declaration
 
 Licensees may submit the AH using the same declaration forms as the ADAA.
 
