@@ -33,7 +33,9 @@ Before departing from the airport, please proceed to the electronic TRS (eTRS) s
 3) Physical passport and boarding pass/confirmed air ticket.
 <br>
 ( End of Accordion )
+
 ***
+
 Additional Information:
 
 -   You should be submitting your GST refund claim at the terminal where you will be checking in your purchases or where your flight will be departing from.
