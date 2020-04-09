@@ -1,6 +1,6 @@
 ---
 title: Annual Declaration for Past Activitiesc (Declarations)
-permalink: /businesses/chemical-weapons-convention/declarations
+permalink: /businesses/chemical-weapons-convention/annual-declaration-for-past-activities
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 
