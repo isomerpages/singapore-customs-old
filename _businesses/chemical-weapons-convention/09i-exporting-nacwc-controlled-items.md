@@ -10,11 +10,11 @@ A  [Chemical Weapons Convention licence](https://www.customs.gov.sg/businesses/c
 
 In addition to the CWC licence, an approved permit is required before every export of scheduled chemicals listed by the CWC.
 
-## [**Information Required for Export Permit**](https://www.customs.gov.sg/businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items#item-heading-0343aae5-37c9-4a2e-8a9b-7bb634ba878b)
+## **Information Required for Export Permit**
 
 If the export is not subject to the above restrictions, you may apply for an export permit via TradeNet:
 
-### Export Permit
+**Export Permit**
 | Field | Information Required |
 |--|--|
 | **Customs Procedure Code (CPC)** |   For chemicals also controlled under the Strategic Goods (Control) Act, CPC should be declared as **STS and CWC** <br><br> For chemicals not controlled under the Strategic Goods (Control) Act to Non-Member States, CPC should be declared as **CWC** |
