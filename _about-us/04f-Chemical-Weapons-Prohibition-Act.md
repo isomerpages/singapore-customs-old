@@ -14,4 +14,4 @@ Click on the links below to view the Chemical Weapons (Prohibition) Act and sele
 
 The National Authority (Chemical Weapons Convention) homepage may also be accessed [here](https://www.customs.gov.sg/businesses/chemical-weapons-convention/legislation).
 
-> *Please note that only key subsidiary legislation have been reproduced on this website.*
+> <sup>*Please note that only key subsidiary legislation have been reproduced on this website.<sup/>
