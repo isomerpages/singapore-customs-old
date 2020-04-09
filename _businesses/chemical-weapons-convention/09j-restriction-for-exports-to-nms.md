@@ -1,6 +1,6 @@
 ---
 title: Restrictions for Exports to Non-Member States
-permalink: /businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items
+permalink: /businesses/chemical-weapons-convention/restriction-for-exports-to-nms
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 
