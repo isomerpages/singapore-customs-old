@@ -14,7 +14,7 @@ We play a proactive role in balancing the intricate requirements of trade facili
 
 -   [Customs Crest](/about-us/customs-crest)
 -   [Organisation Structure](https://singapore-customs-staging.netlify.com/about-us/organisation-structure)
--   [Divisions and Branches](/about-us/divisions-and-branches)
+-   [Divisions and Branches](https://singapore-customs-staging.netlify.com/about-us/division-and-structure)
 -   [Rank Structure](/about-us/rank-structure)
 
 ## Our Vision, Mission and Core Values
