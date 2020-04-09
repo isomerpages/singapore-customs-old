@@ -186,12 +186,9 @@ Please submit the  ****Declaration Cover For Reporting Template****  (_compulsor
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Application for Determination of Strategic Goods | [Web Link](https://form.gov.sg/5d78b89628467500121ef098) |
-| 2. | Annex A - Product Questionnaire  
-(a) A-1 Cryptography | [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/sc-a-064a---a1_cryptography_product_questionnaire.pdf?la=en&hash=B0F1236135A845FC43FFE88A90768106C5A8B4A2) |
-| 3. | Annex A - Product Questionnaire  
-(b) A-2 Machine Tools | [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/sc-a-064b---a2_machine-tool_questionnaire.pdf?la=en&hash=7D6EF0BF35599B1BA1F2044338E75EDD23D29738) |
-| 4. |  Annex A - Product Questionnaire  
-(c) A-3 Biological Product | [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/sc-a-064c---a3_biological-product_questionnaire.pdf?la=en&hash=C27ACC8F086BB22C39E3001A935303C65A02217F) |
+| 2. | Annex A - Product Questionnaire (a) A-1 Cryptography | [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/sc-a-064a---a1_cryptography_product_questionnaire.pdf?la=en&hash=B0F1236135A845FC43FFE88A90768106C5A8B4A2) |
+| 3. | Annex A - Product Questionnaire (b) A-2 Machine Tools | [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/sc-a-064b---a2_machine-tool_questionnaire.pdf?la=en&hash=7D6EF0BF35599B1BA1F2044338E75EDD23D29738) |
+| 4. |  Annex A - Product Questionnaire (c) A-3 Biological Product | [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/sc-a-064c---a3_biological-product_questionnaire.pdf?la=en&hash=C27ACC8F086BB22C39E3001A935303C65A02217F) |
 | 5. | Application Form for Seeking In-principle Approval from the UNSC Procurement Channel | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/application-form-for-seeking-in-principle-approval-from-the-unsc-procurement-channel-ver-1.docx?la=en&hash=349B973CCF5C2FF414A712C6844C7D17F995058E) (463KB) |
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](http://go.gov.sg/customs-bpermit) |
 | 7. | Application for Permit to Transmit or Export(via Hand-Carry) Strategic Goods Related Software and Technology | [Web Link](http://go.gov.sg/customs-itt) |
