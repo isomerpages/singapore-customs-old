@@ -3,7 +3,7 @@ title: Competent Authorities' Requirements for Controlled Items
 permaLink: /about-us/National-Single-Window/Overview-Competent-Authorities-Requirements
 third_nav_title: National Single Window
 ---
- # Competent Authorities' Requirements for Controlled Items
+# Competent Authorities' Requirements for Controlled Items
 
 All imports, exports and transhipments must be covered by the relevant permits.
 
