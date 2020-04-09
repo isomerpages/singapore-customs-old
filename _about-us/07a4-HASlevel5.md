@@ -1,6 +1,7 @@
 ---
 title: Health Science Authority (HSA)
 permaLink: /about-us/national-single-window/overview-competent-authorities-requirements-for-controlled-items-HAS
+third_nav_title: National Single Window
 ---
 
 
