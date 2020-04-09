@@ -13,17 +13,15 @@ The following restrictions apply to exports of scheduled chemicals to [non-Membe
 
 ***Note:** Exporters only need to submit this End User Certificate for an Individual Permit application under the Strategic Trade Scheme (STS).
 
-----
-Exports of Schedules 1, 2 and 3 chemicals for the following concentration limits are also subject to export control requirements under the Strategic Goods (Control) Act in Singapore.
+### Exports of Schedules 1, 2 and 3 chemicals for the following concentration limits are also subject to export control requirements under the Strategic Goods (Control) Act in Singapore.
 
-### Exports to Member States
-
+**Exports to Member States**
 | Types of Scheduled Chemicals | Concentration Limits |
 |--|--|
 | Schedules 1 / 2A* chemicals | All concentrations |
 | Schedules 2A / 2B / 3 chemicals | Mixtures containing more than 30% of the scheduled chemical |
 
-### Exports to Non-Member States
+**Exports to Non-Member States**
 | Types of Scheduled Chemicals | Concentration Limits |
 |--|--|
 | Schedule 2A* chemicals | Mixtures containing no more than 1% of the 2A* chemical |
