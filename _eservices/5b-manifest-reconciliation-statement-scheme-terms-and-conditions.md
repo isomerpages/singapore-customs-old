@@ -1,7 +1,7 @@
 ---
 title: Mainifest Reconciliation Statement Scheme Terms and Conditions 
-Permalink: /_eservices/manifest-reconciliation-statement-scheme/manifest-reconciliation-statement-scheme-terms-and-conditions
-third_nav_title: Manifest Reconciliation Statement Scheme
+Permalink: /eservices/manifest-reconciliation-statement-scheme
+third_nav_title: eServices
 ---
 
 # Manifest Reconciliation Statement Scheme Terms and Conditions
