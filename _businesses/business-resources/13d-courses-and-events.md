@@ -30,9 +30,6 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/sc
 
 ## Upcoming Events
 [tbc]
-|  |  |  |
-|---|---|---|
-|  |  |  |
 
 ## Past Events
 | Date | Title | Related Link |
