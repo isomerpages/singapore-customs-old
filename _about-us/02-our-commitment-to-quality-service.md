@@ -44,9 +44,7 @@ Our response time depends on the nature and complexity of the enquiry or feedbac
 
 **\* On weekends and public holidays, the processing time may be a little longer. You are advised to come to the Singapore Customs counter early.**
 
-***
-
-#### Delighting Our Customers
+### Delighting Our Customers
 
 Singapore Customs is committed to provide our customers with prompt and professional service.
 
