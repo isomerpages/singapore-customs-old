@@ -6,7 +6,7 @@ third_nav_title: National Single Window
 
 # TradeNet Front-end Solution Providers
 
-This table shows the front-end solution providers for TradeNet version 4.1.
+This table shows the front-end solution providers for TradeNet
 
 ***
 
@@ -81,7 +81,7 @@ This solution is free for existing TradeNet declaring agents. Please register wi
 
 ## How to be a TradeNet Front-end Solution Provider?
 
-Those interested to provide a TradeNet front-end solution can email to  [Customs_tradenet@customs.gov.sg](mailto:Customs_tradenet@customs.gov.sg)with the following information for our assessment:
+Those interested to provide a TradeNet front-end solution can email to  [Customs_tradenet@customs.gov.sg](mailto:Customs_tradenet@customs.gov.sg) with the following information for our assessment:
 
 -   Company name and background
 -   Person in charge and contact number
