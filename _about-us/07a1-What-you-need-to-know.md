@@ -1,6 +1,6 @@
 ---
 title: What you need to know about TradeNet
-permaLink: /about-us/Overview/What-you-need-to-know
+permaLink: /about-us/National-Single-Window/Overview/What-you-need-to-know
 ---
 
 # What You Need to Know about TradeNet
