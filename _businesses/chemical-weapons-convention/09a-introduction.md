@@ -12,5 +12,4 @@ Singapore ratified the CWC in May 1997 and Singapore Customs is the designated N
 
 The NA(CWC) is the national focal point and liaison with the Organisation for the Prohibition of Chemical Weapons (the implementing body of the CWC), and other Member States of the Convention. The NA(CWC) administers the  [Chemical Weapons (Prohibition) Act and its subsidiary legislations](https://www.customs.gov.sg/businesses/compliance/overview)  to fulfil Singapore’s obligations under the Convention.
 
-{% include accordion.html %}
 
