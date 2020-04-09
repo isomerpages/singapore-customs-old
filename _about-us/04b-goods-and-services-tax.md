@@ -16,5 +16,5 @@ Click on the links below to view the Goods and Services Tax Act and selected sub
 + [Goods And Services Tax (Application of Legislation relating to Customs and Excise Duties) Order](https://sso.agc.gov.sg/SL/GSTA1993-OR4?DocDate=20121001)
 + [Goods and Services Tax (General) Regulations](https://sso.agc.gov.sg/SL/GSTA1993-RG1?DocDate=20180329)
 
-> *Please note that only key subsidiary legislation have been reproduced on this website.*
+> <sup>*Please note that only key subsidiary legislation have been reproduced on this website.<sup/>
 
