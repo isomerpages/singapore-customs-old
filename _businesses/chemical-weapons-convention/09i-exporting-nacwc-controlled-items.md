@@ -17,12 +17,12 @@ If the export is not subject to the above restrictions, you may apply for an exp
 ### Export Permit
 | Field | Information Required |
 |--|--|
-| **Customs Procedure Code (CPC)** | -   For chemicals also controlled under the Strategic Goods (Control) Act, CPC should be declared as **STS and CWC** <br><br> -   For chemicals not controlled under the Strategic Goods (Control) Act to Non-Member States, CPC should be declared as **CWC** |
-| **Processing Code (PC1)** | -   For CPC=CWC, PC1 should be left blank. <br><br> -   For CPC=STS and CWC, declare the relevant Strategic Trade Scheme (STS) Tier (for example, STS1, STS2 or STS3) |
-| **Processing Code (PC2)** | - For CPC=CWC, PC2 should be left blank <br><br> - For PC1=STS2, provide STS Tier 2 permit number <br><br> -   For PC1=STS3, provide STS Tier 3 permit number |
+| **Customs Procedure Code (CPC)** |   For chemicals also controlled under the Strategic Goods (Control) Act, CPC should be declared as **STS and CWC** <br><br> For chemicals not controlled under the Strategic Goods (Control) Act to Non-Member States, CPC should be declared as **CWC** |
+| **Processing Code (PC1)** |  For CPC=CWC, PC1 should be left blank. <br><br> For CPC=STS and CWC, declare the relevant Strategic Trade Scheme (STS) Tier (for example, STS1, STS2 or STS3) |
+| **Processing Code (PC2)** | For CPC=CWC, PC2 should be left blank <br><br> For PC1=STS2, provide STS Tier 2 permit number <br><br>  For PC1=STS3, provide STS Tier 3 permit number |
 | **Processing Code (PC3)** | PC3 should be left blank |
-| **Licence No.** | -   Licence number issued by NA(CWC) <br><br> -   If the item is also controlled by other Competent Authorities, please indicate both. |
-| **Item Description** | -   Description of the item <br> -   Please state the name of the controlled chemical in the description as well (for example, photographic solution containing triethanolamine) |
+| **Licence No.** |  Licence number issued by NA(CWC) <br><br> If the item is also controlled by other Competent Authorities, please indicate both. |
+| **Item Description** | Description of the item <br> Please state the name of the controlled chemical in the description as well (for example, photographic solution containing triethanolamine) |
 | **HS Code** | Product Harmonized System (HS) code |
 | **CA/SC Product Code 1** |  Enter the product code of the chemical (found in licence)|
 | **CA/SC Product Code Quantity & Unit** | Enter the quantity and unit |
