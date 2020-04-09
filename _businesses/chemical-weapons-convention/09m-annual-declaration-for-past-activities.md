@@ -14,12 +14,12 @@ The table below indicates the activities involving scheduled chemicals that requ
 
 | Activity | Schedule 1 | Schedule 2 | Schedule 3 |
 |----------|------------|------------|------------|
-| Production | yes | yes | yes |
-| Processing | yes | yes | X |
-| Consumption | yes | yes | X |
-| Import/Export | yes | yes | yes |
-| Storage | yes | X | X |
-| Local Sales/Distribution | yes | X | X |
+| Production | √ | √ | √ |
+| Processing | √ | √ | X |
+| Consumption | √ | √ | X |
+| Import/Export | √ | √ | √ |
+| Storage | √ | X | X |
+| Local Sales/Distribution | √ | X | X |
 
 yes: indicates that ADPA is required.  See [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) of scheduled chemicals.
 
