@@ -275,12 +275,14 @@ $desktop: 960px + (2 * $gap) !default;
   order: 2;
 }
 
-.bp-section .bg-newssection {
-  order: 3;
-}
-
 .bp-section{
   order: 4;
+}
+
+.bp-section {
+  .bg-newssection {
+    order: 3;
+  }
 }
 
 //End of Dennis tweak to reorder the news section above NTP
