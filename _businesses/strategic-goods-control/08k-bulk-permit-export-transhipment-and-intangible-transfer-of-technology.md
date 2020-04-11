@@ -12,6 +12,8 @@ As long as the transaction is within the scope of the approved Bulk Permit, its 
 
 ## Types of Bulk Permits
 
+## Types of Bulk Permits
+
 | Type of Permit | Permit Sub-Type |Types of Trade| Scope of Approval |
 |---|---|---|---|
 | Bulk Permit | Approval by specific entities |  Export / Re-export / Transhipment <br><br> Intangible transfer of technology | Pre-approved multiple products to multiple consignees/end-users |
@@ -21,7 +23,7 @@ As long as the transaction is within the scope of the approved Bulk Permit, its 
 
 To qualify for the Bulk Permit, you must:
 
--   Be a [registered](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)  trader with Singapore Customs
+-   Be a  [registered](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)  trader with Singapore Customs
 -   Have good compliance records
 -   Achieve at least an ‘Enhanced’ band under  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst)
 -   Implement an effective internal compliance programme (ICP)
@@ -62,4 +64,4 @@ A Bulk Permit holder must:
 -   Ensure that any goods or technology transfer made under the Bulk Permit is not transferred to United Nations Security Council–sanctioned countries or entities
 -   Maintain records of strategic goods transactions for at least 5 years
 
-Please refer to Section 4.9 of the  [STS Handbook](https://www.customs.gov.sg/-/media/strategic-trade-scheme-handbook-updated-as-of-1-oct-2019.pdf?la=en&hash=A000476C57FC8E3A6B3CB2AD569BD4F93BDE4031)  for more information.
+Please refer to Section 4.9 of the  [STS Handbook](https://www.customs.gov.sg/-/media/strategic-trade-scheme-handbook-updated-as-of-1-oct-2019.pdf?la=en&hash=A000476C57FC
