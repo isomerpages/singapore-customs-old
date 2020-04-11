@@ -1,6 +1,6 @@
 ---
 title: Bulk Permit: Export, Transhipment and Transit (Permit and Registration Requirements)
-permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology
+permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-tansit
 third_nav_title: Strategic Goods Control
 ---
 
