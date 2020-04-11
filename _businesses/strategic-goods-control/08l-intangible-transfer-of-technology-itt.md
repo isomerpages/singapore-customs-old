@@ -17,7 +17,7 @@ You should obtain an ITT permit if you are transmitting:
 
 You should apply for your ITT permit  _at least 7 working days_  before the transmission of the controlled strategic goods technology from Singapore. Each ITT Individual Permit is valid for 1 year upon approval. There is no need to declare a TradeNet permit during the validity of the ITT Individual Permit.
 
-**Step 1:** Complete the  [application form.](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)
+**Step 1:** Complete the [application form.](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)
 
 **Step 2**: Attach the supporting documents, where applicable:
 
@@ -32,4 +32,4 @@ Your application should be processed within 7 working days if the information an
 
 ## Applying for an ITT Bulk Permit
 
-You may also apply for an ITT Bulk Permit for the intangible transfer of technology. More information on the application requirements for Bulk Permits  [here](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/applyingforbulkpermits.docx?la=en&hash=6F1E6C7C71281DDBB0DC18A6FE4D9290324A8F78).
+You may also apply for an ITT Bulk Permit for the intangible transfer of technology. More information on the application requirements for Bulk Permits  [here](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/applyingforbulkpermits.docx?la=en&hash=6F1E6C7C71281DDBB0DC18A6FE4D9290324A8F78).8E3A6B3CB2AD569BD4F93BDE4031)  for more information.
