@@ -280,7 +280,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section {
-  .bg-newssection {
+  &.bg-newssection {
     order: 3;
   }
 }
