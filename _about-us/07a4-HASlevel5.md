@@ -11,16 +11,28 @@ third_nav_title: National Single Window
 
 For the following health products  that are subject to HSA’s licensing and/or approval requirements before importation, an importer or dealer is required to submit import declarations using applicable HSA Product Codes and furnish the relevant licence and/or approval information:
 
-|  **Category of Products**| **Main legislation** |
-|---|---|
-|  Therapeutic Products including therapeutic gums| - Health Products (Therapeutic Products) Regulations 2016 |
-| Medical Devices | -   Health Products (Medical Devices) Regulations 2016 |
-|Chinese Proprietary Medicines  | -   Medicines (Traditional Medicines, Homoeopathic Medicines and Other Substances) (Exemption) Order |
-| Medicinal or Therapeutic products used in clinical research | -   Medicines (Medicinal Products as Clinical Research Materials) Regulations 2016<br>-   Health Products (Therapeutic Products as Clinical Research Materials) Regulations 2016 |
-|  Controlled drugs and Psychotropic substances| -   Misuse of Drugs Regulations<br>-   Medicines (Export Licence for Psychotropic Substances) Regulations<br>-   Health Products (Therapeutic Products) Regulations 2016 |
-|Oral dental gums  | -   Regulation of Imports and Exports (Chewing Gum) Regulations<br>-   Health Products (Oral Dental Gums) Regulations 2016 |
-| Substances specified as “poisons” |  -   Poisons Act and Rules|
+| Category of Products                                        | Main legislation                                                                                            |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Therapeutic Products including therapeutic gums             | - Health Products (Therapeutic Products) Regulations 2016                                                   |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Medical Devices                                             | - Health Products (Medical Devices) Regulations 2016                                                        |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Chinese Proprietary Medicines                               | - Medicines (Traditional Medicines, Homoeopathic Medicines and Other Substances) (Exemption) Order          |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Medicinal or Therapeutic products used in clinical research | - Medicines (Medicinal Products as Clinical Research Materials) Regulations 2016                            |
+|                                                             | - Health Products (Therapeutic Products as Clinical Research Materials) Regulations 2016                    |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Controlled drugs and Psychotropic substances                | - Misuse of Drugs Regulations                                                                               |
+|                                                             | - Medicines (Export Licence for Psychotropic Substances) Regulations                                        |
+|                                                             | - Health Products (Therapeutic Products) Regulations 2016                                                   |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Oral dental gums                                            | - Regulation of Imports and Exports (Chewing Gum) Regulations                                               |
+|                                                             | - Health Products (Oral Dental Gums) Regulations 2016                                                       |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Substances specified as “poisons”                           | - Poisons Act and Rules                                                                                     |
+
 ***
+
 The following health products are currently not subject to HSA’s licensing/approval requirements before importation. Hence, they are no longer required to be declared with HSA’s Product codes in the import permit applications submitted via TradeNet.
 
 a) Cosmetic products;  
@@ -36,13 +48,34 @@ g) Homoeopathic medicines
 **HSA Product Codes**
 
 **Table 1. HSA Product Codes**
-| **Product Codes** | **Applicable for Import of:** |
-|--|--|
-| HSAHP| -   Registered therapeutic products<br>-   Registered medical devices,<br>-   Class A medical devices<br>-   Listed Chinese proprietary medicines<br>-   Registered oral dental gums;<br><br>They should not contain controlled drugs or psychotropic substances. |
-| HSAIFRSA | -   Medicinal products<br>-   Therapeutic products<br>-   Medical devices <br>-   Chinese proprietary medicines;<br><br>They should not contain controlled drugs or psychotropic substances and imported with special authorisation or approval from HSA on a consignment basis.  _(e.g. Imports of medicinal or therapeutic products for clinical research, imports of therapeutic products for use by named patients, imports for re-export, imports for supply to ships and aircraft, imports for non-clinical purposes (such as laboratory/stability testing, machine test runs, investigations, destruction/ disposal, static displays in exhibitions, etc.)_ |
-| HSAPOIS | -   Substances specified in the Poisons Act including raw materials, laboratory reagents and reference standards not including controlled drugs or psychotropic substances |
-| HSACDPSY | -   Substances regulated as controlled drugs under the Misuse of Drugs Act<br><br>-   Substances regulated as psychotropic substances under the Medicines (Export Licence for Psychotropic Substances) Regulations<br><br>-   Therapeutic products and clinical research materials containing psychotropic substances specified in the Health Products (Therapeutic Products) Regulations 2016<br><br>-   All products containing controlled drugs or psychotropic substances |
-|  HSAIPU| -   Therapeutic products<br>-   Medical devices<br>-   Chinese Proprietary Medicines<br><br>They should not contain controlled drugs or psychotropic substances and imported for personal use only. |
+
+| Product Codes | Applicable for Import of:                                                  |
+|---------------|----------------------------------------------------------------------------|
+| HSAHP         | - Registered therapeutic products                                          |
+|               | - Registered medical devices                                               |
+|               | - Class A medical devices                                                  |
+|               | - Listed Chinese proprietary medicines                                     |
+|               | - Registered oral dental gums                                              |
+|               | - They should not contain controlled drugs or psychotropic substances.     |
+|---------------|----------------------------------------------------------------------------|
+| HSAIFRSA      | - Medicinal products                                                       |
+|               | - Therapeutic products                                                     |
+|               | - Medical devices                                                          |
+|               | - Chinese proprietary medicines                                            |
+|               | - They should not contain controlled drugs or psychotropic substances and imported with special authorisation or approval from HSA on a consignment basis.  _(e.g. Imports of medicinal or therapeutic products for clinical research, imports of therapeutic products for use by named patients, imports for re-export, imports for supply to ships and aircraft, imports for non-clinical purposes (such as laboratory/stability testing, machine test runs, investigations, destruction/ disposal, static displays in exhibitions, etc.)_ |
+|---------------|----------------------------------------------------------------------------|
+| HSAPOIS       | - Substances specified in the Poisons Act including raw materials, laboratory reagents and reference standards not including controlled drugs or psychotropic substances |
+|---------------|----------------------------------------------------------------------------|
+| HSACDPSY      | - Substances regulated as controlled drugs under the Misuse of Drugs Act   |
+|               | - Substances regulated as psychotropic substances under the Medicines (Export Licence for Psychotropic Substances) Regulations |
+|               | - Therapeutic products and clinical research materials containing psychotropic substances specified in the Health Products (Therapeutic Products) Regulations 2016 |
+|               | - All products containing controlled drugs or psychotropic substances      |
+|---------------|----------------------------------------------------------------------------|
+|  HSAIPU       | - Therapeutic products                                                     |
+|               | - Medical devices                                                          |
+|               | - Chinese Proprietary Medicines                                            |
+|               | - They should not contain controlled drugs or psychotropic substances and imported for personal use only. |
+
 ***
 **_License/Approval Information To Be Declared With HSA Product Codes_**
 
