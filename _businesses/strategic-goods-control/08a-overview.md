@@ -52,4 +52,4 @@ The ICDV is a 3-stage process:
 
 # [Resources](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/resources)
 
-# **Useful Links**
+# **[Useful Links](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/useful-links)**
