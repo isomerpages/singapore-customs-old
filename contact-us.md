@@ -30,9 +30,7 @@ locations:
     - Singapore 307987  
     - Our operating hours are 8.30am to 5.30pm (Monday to Friday). We are closed on public holidays.  
   
-    - For enquiries or feedback, please email to [customs_academy@customs.gov.sg](mailto:customs_academy@customs.gov.sg).  
-  
-    - For the location map of Revenue House, please click [here](https://www.customs.gov.sg/contact-us).
+    - For enquiries or feedback, please email to [customs_academy@customs.gov.sg](mailto:customs_academy@customs.gov.sg).
 
     - To join our mailing list, please visit [https://www.customs.gov.sg/subscribe](https://www.customs.gov.sg/subscribe).
     
