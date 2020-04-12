@@ -30,7 +30,7 @@ Singapore Customs also coordinates closely with other government agencies such a
 
 ## **[Permit and Registration Requirements](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/permit-and-registration-requirements)**
 
-## [Preliminary Advice for Strategic Goods Transaction](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction) 
+## **[Preliminary Advice for Strategic Goods Transaction](https://singapore-customs-staging.netlify.com/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction)** 
 
 ## **Import Certificate and Delivery Verification**
 
