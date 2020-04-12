@@ -4,7 +4,7 @@ permaLink: /individuals/Going-through-customs/Arrivals-duty-free-concession-and-
 ---
 
 
-# Duty-Free Concession and GST Relief
+# Duty-Free Concession and GST Relief.
 
 ## Duty-Free Concession
 (Accordion)
