@@ -22,7 +22,7 @@ resources_name: news-and-media
 
 collections:
   about-us:
-    output: false
+    output: true
   individuals:
     output: true
   businesses:
