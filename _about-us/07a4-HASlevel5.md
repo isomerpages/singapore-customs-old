@@ -49,32 +49,32 @@ g) Homoeopathic medicines
 
 **Table 1. HSA Product Codes**
 
-| Product Codes | Applicable for Import of:                                                  |
-|---------------|----------------------------------------------------------------------------|
-| HSAHP         | - Registered therapeutic products                                          |
-|               | - Registered medical devices                                               |
-|               | - Class A medical devices                                                  |
-|               | - Listed Chinese proprietary medicines                                     |
-|               | - Registered oral dental gums                                              |
-|               | - They should not contain controlled drugs or psychotropic substances.     |
-|---------------|----------------------------------------------------------------------------|
-| HSAIFRSA      | - Medicinal products                                                       |
-|               | - Therapeutic products                                                     |
-|               | - Medical devices                                                          |
-|               | - Chinese proprietary medicines                                            |
-|               | - They should not contain controlled drugs or psychotropic substances and imported with special authorisation or approval from HSA on a consignment basis.  _(e.g. Imports of medicinal or therapeutic products for clinical research, imports of therapeutic products for use by named patients, imports for re-export, imports for supply to ships and aircraft, imports for non-clinical purposes (such as laboratory/stability testing, machine test runs, investigations, destruction/ disposal, static displays in exhibitions, etc.)_ |
-|---------------|----------------------------------------------------------------------------|
-| HSAPOIS       | - Substances specified in the Poisons Act including raw materials, laboratory reagents and reference standards not including controlled drugs or psychotropic substances |
-|---------------|----------------------------------------------------------------------------|
-| HSACDPSY      | - Substances regulated as controlled drugs under the Misuse of Drugs Act   |
-|               | - Substances regulated as psychotropic substances under the Medicines (Export Licence for Psychotropic Substances) Regulations |
-|               | - Therapeutic products and clinical research materials containing psychotropic substances specified in the Health Products (Therapeutic Products) Regulations 2016 |
-|               | - All products containing controlled drugs or psychotropic substances      |
-|---------------|----------------------------------------------------------------------------|
-|  HSAIPU       | - Therapeutic products                                                     |
-|               | - Medical devices                                                          |
-|               | - Chinese Proprietary Medicines                                            |
-|               | - They should not contain controlled drugs or psychotropic substances and imported for personal use only. |
+| Product Codes | Applicable for Import of:                                                |
+|---------------|--------------------------------------------------------------------------|
+| HSAHP         | Registered therapeutic products                                          |
+|               | Registered medical devices                                               |
+|               | Class A medical devices                                                  |
+|               | Listed Chinese proprietary medicines                                     |
+|               | Registered oral dental gums                                              |
+|               | They should not contain controlled drugs or psychotropic substances.     |
+|---------------|--------------------------------------------------------------------------|
+| HSAIFRSA      | Medicinal products                                                       |
+|               | Therapeutic products                                                     |
+|               | Medical devices                                                          |
+|               | Chinese proprietary medicines                                            |
+|               | They should not contain controlled drugs or psychotropic substances and imported with special authorisation or approval from HSA on a consignment basis.  _(e.g. Imports of medicinal or therapeutic products for clinical research, imports of therapeutic products for use by named patients, imports for re-export, imports for supply to ships and aircraft, imports for non-clinical purposes (such as laboratory/stability testing, machine test runs, investigations, destruction/ disposal, static displays in exhibitions, etc.)_ |
+|---------------|--------------------------------------------------------------------------|
+| HSAPOIS       | Substances specified in the Poisons Act including raw materials, laboratory reagents and reference standards not including controlled drugs or psychotropic substances |
+|---------------|--------------------------------------------------------------------------|
+| HSACDPSY      | Substances regulated as controlled drugs under the Misuse of Drugs Act   |
+|               | Substances regulated as psychotropic substances under the Medicines (Export Licence for Psychotropic Substances) Regulations |
+|               | Therapeutic products and clinical research materials containing psychotropic substances specified in the Health Products (Therapeutic Products) Regulations 2016 |
+|               | All products containing controlled drugs or psychotropic substances      |
+|---------------|--------------------------------------------------------------------------|
+|  HSAIPU       | Therapeutic products                                                     |
+|               | Medical devices                                                          |
+|               | Chinese Proprietary Medicines                                            |
+|               | They should not contain controlled drugs or psychotropic substances and imported for personal use only. |
 
 ***
 **_License/Approval Information To Be Declared With HSA Product Codes_**
