@@ -3,7 +3,7 @@ title: Table Sample
 permalink: /table-sample
 ---
 
-# Table Sample
+# Table Sample 2
 
 |---------------|---------------|--------------------|
 | Fruit         | Price         | Advantages         |
