@@ -3,6 +3,8 @@ title: Table Sample
 permalink: /table-sample
 ---
 
+# Table Sample
+
 |---------------|---------------|--------------------|
 | Fruit         | Price         | Advantages         |
 |===============|===============|====================|
