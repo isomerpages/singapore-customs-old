@@ -316,9 +316,6 @@ $desktop: 960px + (2 * $gap) !default;
      border: 1px solid #202020;
      border-width: 0 0 1px; 
     }
-    tr:nth-child(even){
-      background-color: #f2f2f2;
-    }
     td{
       border: 0;
     }
