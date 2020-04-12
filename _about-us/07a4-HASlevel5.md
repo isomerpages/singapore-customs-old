@@ -12,7 +12,7 @@ third_nav_title: National Single Window
 For the following health products  that are subject to HSA’s licensing and/or approval requirements before importation, an importer or dealer is required to submit import declarations using applicable HSA Product Codes and furnish the relevant licence and/or approval information:
 
 |  **Category of Products**| **Main legislation** |
-|--|--|
+|---|---|
 |  Therapeutic Products including therapeutic gums| - Health Products (Therapeutic Products) Regulations 2016 |
 | Medical Devices | -   Health Products (Medical Devices) Regulations 2016 |
 |Chinese Proprietary Medicines  | -   Medicines (Traditional Medicines, Homoeopathic Medicines and Other Substances) (Exemption) Order |
