@@ -11,25 +11,25 @@ third_nav_title: National Single Window
 
 For the following health products  that are subject to HSA’s licensing and/or approval requirements before importation, an importer or dealer is required to submit import declarations using applicable HSA Product Codes and furnish the relevant licence and/or approval information:
 
-| Category of Products                                        | Main legislation                                                                                            |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Therapeutic Products including therapeutic gums             | - Health Products (Therapeutic Products) Regulations 2016                                                   |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Medical Devices                                             | - Health Products (Medical Devices) Regulations 2016                                                        |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Chinese Proprietary Medicines                               | - Medicines (Traditional Medicines, Homoeopathic Medicines and Other Substances) (Exemption) Order          |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Medicinal or Therapeutic products used in clinical research | - Medicines (Medicinal Products as Clinical Research Materials) Regulations 2016                            |
-|                                                             | - Health Products (Therapeutic Products as Clinical Research Materials) Regulations 2016                    |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Controlled drugs and Psychotropic substances                | - Misuse of Drugs Regulations                                                                               |
-|                                                             | - Medicines (Export Licence for Psychotropic Substances) Regulations                                        |
-|                                                             | - Health Products (Therapeutic Products) Regulations 2016                                                   |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Oral dental gums                                            | - Regulation of Imports and Exports (Chewing Gum) Regulations                                               |
-|                                                             | - Health Products (Oral Dental Gums) Regulations 2016                                                       |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Substances specified as “poisons”                           | - Poisons Act and Rules                                                                                     |
+| Category of Products                                        | Main legislation                                                                                          |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Therapeutic Products including therapeutic gums             | Health Products (Therapeutic Products) Regulations 2016                                                   |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Medical Devices                                             | Health Products (Medical Devices) Regulations 2016                                                        |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Chinese Proprietary Medicines                               | Medicines (Traditional Medicines, Homoeopathic Medicines and Other Substances) (Exemption) Order          |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Medicinal or Therapeutic products used in clinical research | Medicines (Medicinal Products as Clinical Research Materials) Regulations 2016                            |
+|                                                             | Health Products (Therapeutic Products as Clinical Research Materials) Regulations 2016                    |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Controlled drugs and Psychotropic substances                | Misuse of Drugs Regulations                                                                               |
+|                                                             | Medicines (Export Licence for Psychotropic Substances) Regulations                                        |
+|                                                             | Health Products (Therapeutic Products) Regulations 2016                                                   |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Oral dental gums                                            | Regulation of Imports and Exports (Chewing Gum) Regulations                                               |
+|                                                             | Health Products (Oral Dental Gums) Regulations 2016                                                       |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Substances specified as “poisons”                           | Poisons Act and Rules                                                                                     |
 
 ***
 
