@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Import Certificate
 permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification
 third_nav_title: Strategic Goods Control
 ---
