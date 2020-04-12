@@ -5,7 +5,7 @@ third_nav_title: National Single Window
 ---
 
 
-# Health Sciences Authority HSA.
+# Health Sciences Authority HSA
 
 **Import Declaration of Health Products**
 
