@@ -313,7 +313,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Dennis tweak to use tbody instead of tr for table row
   table{
     tbody {
-     border: 1px solid #d6d6d6;
+     border: 1px solid #202020;
      border-width: 0 0 1px; 
     }
     tr:nth-child(even){
