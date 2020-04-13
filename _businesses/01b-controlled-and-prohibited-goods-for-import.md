@@ -10,7 +10,7 @@ Controlled goods require proper authorisation (advance notification, licence or 
 
 Please refer to the table below for the list of prohibited goods that you are not allowed to bring to Singapore.
 
-  - Title: List of Prohibited Goods for Imports
+### Title: List of Prohibited Goods for Imports
     Content: 
 
 |Prohibited Goods |  Competent Authority|
