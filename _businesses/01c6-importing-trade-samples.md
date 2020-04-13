@@ -40,7 +40,7 @@ You are advised to check if your trade sample is a controlled item before import
 | Dutiable goods (**excluding liquor and tobacco**  **products**), where the goods are subject to total customs duty and excise duty amounts  **not**  exceeding S$20 | Lesser than  or equal to S$400 | No | No | No |
 | Dutiable goods (**excluding liquor and tobacco**  **products**), where the goods are subject to total customs duty and excise duty amounts exceeding S$20 | More than  or equal to S$400 | Yes| Yes| Yes|
 | Dutiable goods (**excluding liquor and tobacco products**) | More than S$400  | Yes | Yes | Yes |
-| Liquor and tobacco products | a) Liquor products <br>lesser than or equal to S$400  **and**  lesser than or equal to 10 litres <br><br> b) Tobacco products lesser than or equal to S$400  **and**  lesser than or equal to 0.4 kilogramme | Yes | Yes | no |
+| Liquor and tobacco products | a) Liquor products <br>lesser than or equal to S$400  **and**  lesser than or equal to 10 litres <br><br> b) Tobacco products lesser than or equal to S$400  **and**  lesser than or equal to 0.4 kilogramme | Yes | Yes | No |
 | Liquor and tobacco products | a) Liquor products more than S$400 **or** more than 10 litres <br><<br> b) Tobacco products more than S$400  **or**  more than 0.4 kilogramme | Yes | Yes |  Yes|
 
 **Non-dutiable trade samples** (including gifts and specimens for analysis or tests)
