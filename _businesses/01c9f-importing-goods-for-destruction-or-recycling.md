@@ -22,7 +22,6 @@ For scenarios (2) and (4) above, an importer or his appointed Declaring Agent mu
 Please note that the importer must obtain the approval of the Competent Authority (CA)  prior to the importation  of goods that are subject to control and adhere to the requirements of the CA.
 
 ### Short-Payment
-**Short-Payment**
 
 An importer or his appointed Declaring Agent should apply for a Short-Payment permit within 2 working days from the date of destruction or recycling of the goods, if he had short-paid the duty and/or GST for goods that had been imported and declared. The following details must be included:
 
