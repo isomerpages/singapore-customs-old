@@ -3,7 +3,7 @@ title: Overview
 permalink: /businesses/exporting-goods/overview
 third_nav_title: Exporting Goods
 ---
-# Export Overview ; Quick Guide for Exporters
+# Quick Guide for Exporters
 
 This page provides a quick guide on export procedures for those who wish to export goods from Singapore.
 
