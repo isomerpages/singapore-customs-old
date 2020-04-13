@@ -36,7 +36,7 @@ sections:
          subtitle: 
          description: For information on forms, service links and our Customs@SG Mobile & Web Application. 
          image: /images/E-SERVICES.jpg
-         alt: inSYNC Issue 56
+         alt: E-SERVICES
         
     - resources:
         title: News and Media
