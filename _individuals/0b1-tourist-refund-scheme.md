@@ -47,9 +47,7 @@ For enquiries relating to the status of your approved refund, please contact:
 
 **Global Tax Free Pte Ltd**
 <br>
-Tel: (+65) 6513 3756 (*Weekdays from 9am to 6pm*) <br> (+65) 6546 5074 (*Weekdays after 6pm, Weekends and Public Holiday*) 
-Email: crc.helpdesk@global-taxfree.com
-Website: touristrefund.sg
+Tel: (+65) 6513 3756 (*Weekdays from 9am to 6pm*) <br> (+65) 6546 5074 (*Weekdays after 6pm, Weekends and Public Holiday*) <br> Email: crc.helpdesk@global-taxfree.com <br> Website: touristrefund.sg
 
 ***
 
