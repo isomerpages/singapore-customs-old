@@ -1,7 +1,7 @@
 ---
-title: Registering To Trade
-permalink: /businesses/registering-to-trade/quick-guide-on-registration-matters
-third_nav_title: Registering to Trade
+title: Overview
+permalink: /businesses/registration-matters/overview
+third_nav_title: Registration Matters
 ---
 
 # Quick Guide on Registration Matters
