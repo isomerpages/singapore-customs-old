@@ -6,10 +6,10 @@ third_nav_title: Exporting Goods
 
 # Types of Export Permits
 
-| Message Type | Declaration Type  | Code            |
+| Message Type | Declaration Type  | Code    |
 |--------------|-------------|-----------------|
-| OUT          | Direct \(with or without Certificate of Origin\)  <br>- Export locally manufactured goods or local Goods and Services Tax \(GST\)<br>- Paid goods Re\-export goods previously imported and stored in the first Free Trade Zone via a second Free Trade Zone                                                               | DRT             |
-|              | Approved Premises / Schemes<br>- Moving dutiable goods from a licensed warehouse to a Free Trade Zone or foreign territory for export <br>- Moving goods from a zero\-GST warehouse to a Free Trade Zone or foreign territory for export <br>- Export dutiable petroleum products <br>- Supply of goods as ship stores and sea stores | APS             |
+| OUT          | Direct \(with or without Certificate of Origin\)  <br>- Export locally manufactured goods or local Goods and Services Tax \(GST\)<br>- Paid goods Re\-export goods previously imported and stored in the first Free Trade Zone via a second Free Trade Zone      | DRT  |
+|              | Approved Premises / Schemes<br>- Moving dutiable goods from a licensed warehouse to a Free Trade Zone or foreign territory for export <br>- Moving goods from a zero\-GST warehouse to a Free Trade Zone or foreign territory for export <br>- Export dutiable petroleum products <br>- Supply of goods as ship stores and sea stores | APS    |
 |              | Temporary Consignments <br>Export of Goods under Temporary Import Scheme \(TIS\)<br>- For exhibition with sales or auctions <br>- For other purposes <br>- For repair <br>- Re-imported goods      | TCS<br>TCO<br> TCR<br> TCI |
 
 
