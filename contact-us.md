@@ -6,9 +6,9 @@ agency_name: Singapore Customs
 locations:
   - title: Main Office
     address:
-        - 55 Newton Road #07-01
-        - Revenue House
-        - Singapore 307987
+      - 55 Newton Road #07-01
+      - Revenue House
+      - Singapore 307987
     maps_link: https://goo.gl/maps/8nbEaGazPkNnHXMh7
     operating_hours:
       - days: Mon - Fri
@@ -18,17 +18,20 @@ locations:
         time: 8.00am - 12.00pm
   - title: Customs Operations Command
     address:
-        - 1 Bulim Drive
-        - Singapore 648171
+      - 1 Bulim Drive
+      - Singapore 648171
     maps_link: https://goo.gl/maps/AEw5kAVxoiWYkkc56
     
   - title: Singapore Customs Academy
     address:
-    - Singapore Customs Academy  
-    - 55 Newton Road #02-01  
-    - Revenue House  
-    - Singapore 307987  
-    - Our operating hours are 8.30am to 5.30pm (Monday to Friday). We are closed on public holidays.  
+      - Singapore Customs Academy  
+      - 55 Newton Road #02-01  
+      - Revenue House  
+      - Singapore 307987  
+    operating_hours:
+      - days: Mon - Fri
+        time: 8:30am to 5:30pm
+        description: Closed on Public Holidays  
   
     - For enquiries or feedback, please email to [customs_academy@customs.gov.sg](mailto:customs_academy@customs.gov.sg).
 
