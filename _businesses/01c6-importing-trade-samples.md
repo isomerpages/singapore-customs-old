@@ -32,6 +32,7 @@ Please retain the relevant import permit (please refer to next section for permi
 You are advised to check if your trade sample is a controlled item before importing it.  Please click  [here](https://www.customs.gov.sg/businesses/importing-goods/controlled-and-prohibited-goods-for-import)  for more information on controlled and prohibited goods, and how to check if your samples are subject to control.
 
 ### Non-Controlled Trade Samples
+
 | Type of Non-Controlled Non-Dutiable Trade Sample | CIF Value | GST Payable | Duty Payable | Permit Required |
 |--|--|--|--|--|
 | Non-Dutiable | Lesser than  or equal to S$400 | No | - | No |
