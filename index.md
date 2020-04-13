@@ -19,9 +19,9 @@ sections:
             - title: Customs Schemes & Licenses
               url: /businesses/customs-schemes-licenses-and-framework
             - title: Customs Forms & Service Links
-              url: /eservices/customs-forms-and-service-links        
-        
-     - carousel:
+              url: /eservices/customs-forms-and-service-links 
+              
+    - carousel:
        - title: Networked Trade Platform
          subtitle:
          description: Find out more about the NTP to advance your business and improve your trade operations.
