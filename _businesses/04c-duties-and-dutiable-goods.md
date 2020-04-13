@@ -1,7 +1,7 @@
 ---
 title: Duties and Dutiable Goods 
 permalink: /businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods
-third_nav_title: Valuation, Duties, taxes and fees
+third_nav_title: Valuation, Duties, Taxes and Fees
 ---
 
 # Duties & Dutiable Goods
