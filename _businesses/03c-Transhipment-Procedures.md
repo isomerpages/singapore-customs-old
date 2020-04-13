@@ -49,7 +49,7 @@ You are accountable as a Transhipment Agent and Declaring Agent for the tranship
     
 -   [Do Not](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures#item-heading-47e9cd10-b6c1-45c3-af82-6e771659a226)
   
- ##  For more information on: 
+ ## For more information on: 
  
 |  |  ||  | 
 |--|--|--| -- | 
