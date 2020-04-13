@@ -14,8 +14,7 @@ The import of the following clinical trial test materials (CTMs) into Singapore 
 3.  Therapeutic products and their placebos, for  use in any clinical trial outside Singapore and are imported for the purpose of being exported for such intended use
     
 
-##   
-Application Requirements
+##  Application Requirements
 
 Before applying for the GST relief for the CTMs, you should take note of the following:
 
@@ -41,8 +40,7 @@ When applying for a TradeNet GST relief permit, please take note of the followin
 
 Please be advised that non-CTM goods cannot be submitted in the same permit application for CTM goods. The import of non-CTM goods has to be covered by a separate In-Payment (GST) permit.
 
-##   
-Cargo Clearance of CTMs
+## Cargo Clearance of CTMs
 
 For verification during  [cargo clearance](https://www.ica.gov.sg/enteringanddeparting/cargo_postal_info), please present the relevant import permit and supporting documents such as commercial invoice, packing list and Bill of Lading/Airway Bill to the checkpoint officers.
 
