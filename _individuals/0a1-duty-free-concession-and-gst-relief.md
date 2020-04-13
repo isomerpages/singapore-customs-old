@@ -20,13 +20,14 @@ Travellers are entitled to duty-free concession for liquors if all the following
 -   The liquor is not prohibited from import into Singapore.
 
 Travellers are given duty-free concession for liquors on one of the following options:
+
 | Option  | Spirits | Wine     | Beer     |
 |---------|---------|----------|----------|
-| A       | 1 Litre | 1 Litre  | \-       |
-| B       | 1 Litre | \-       | 1 Litre  |
-| C       | \-      | 1 Litre  | 1 Litre  |
-| D       | \-      | 2 Litres | \-       |
-| E       | \-      | \-       | 2 Litres |
+| A       | 1 Litre | 1 Litre  |    -   |
+| B       | 1 Litre |   -   | 1 Litre  |
+| C       |  -  | 1 Litre  | 1 Litre  |
+| D       |  -  | 2 Litres |   -   |
+| E       | -    |    -  | 2 Litres |
 
 These options are also applicable for the following liquors:
 
@@ -68,6 +69,7 @@ There is no duty-free concession and GST relief on motor fuel including motor sp
 All goods brought into Singapore are subject to 7 per cent Goods & Services Tax (GST). GST is levied on the value of the goods, which may include the cost, insurance and freight (CIF) plus other chargeable costs and the duty payable (if applicable).
 
 Travellers are granted GST import relief on new goods that are purchased overseas and brought into Singapore for their personal use. The relief amount is based on the duration that the traveller has spent outside Singapore:
+
 | Time Spent Away from Singapore | Value of Goods Granted GST Relief |
 |--|--|
 | 48 hours or more | S$500 |
