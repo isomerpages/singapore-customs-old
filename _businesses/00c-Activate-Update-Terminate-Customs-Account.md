@@ -1,7 +1,7 @@
 ---
 title: Activate / Update / Terminate Customs Account
 permalink: /businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account
-third_nav_title: Registeration Matters
+third_nav_title: Registration Matters
 ---
 
 
