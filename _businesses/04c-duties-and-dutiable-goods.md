@@ -23,7 +23,7 @@ Please refer to the  [list of dutiable goods](https://www.customs.gov.sg/busines
 
 Examples on the calculation of duties payable:
 
-1. Intoxicating liquors
+**1. Intoxicating liquors**
 
 a) For alcoholic products with duty rates based on per litre of alcohol  
 
@@ -46,7 +46,7 @@ the duties payable** = 0.2kg x S$113 = S$22.60
 
   
 
-2. Tobacco products  
+**2. Tobacco products**  
   
 
 a) All tobacco products except cigarettes
@@ -71,7 +71,7 @@ Since the weight of each cigarette is between 1 and 2 grammes, the weight to be 
 Hence, duties payable = 100 x 2 x S$0.427 = S$85.40  
   
 
-3. Motor vehicles  
+**3. Motor vehicles**
 
 *Duties payable = Customs value x Excise duty rate*
 
@@ -83,7 +83,7 @@ Customs value of car = S$101,000
 Duties payable = S$101,000 x 20% = S$20,200  
   
 
-4. Petroleum and biodiesel blends  
+**4. Petroleum and biodiesel blends**  
 
 a)  Petroleum products
 
