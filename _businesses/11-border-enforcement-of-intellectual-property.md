@@ -12,7 +12,7 @@ The owner or licensee of a copyright or a registered trademark (the “requestor
 
    **a.** to identify the infringing copies or goods;
 
-   **b.** to enable the Director-General to ascertain the time and place where the infringing copies or goods are expected to be <br> imported; and
+   **b.** to enable the Director-General to ascertain the time and place where the infringing copies or goods are expected to be imported; and
 
    **c.**  to satisfy the Director-General that the copies or goods are infringing copies or goods.
 
