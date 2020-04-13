@@ -254,7 +254,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 //Dennis tweak to reorder the news section above NTP
-#main-content {
+/*#main-content {
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -284,7 +284,7 @@ $desktop: 960px + (2 * $gap) !default;
     order: 3;
   }
 }
-
+*/
 //End of Dennis tweak to reorder the news section above NTP
 
 // Post-content
