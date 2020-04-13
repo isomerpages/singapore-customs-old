@@ -1,6 +1,7 @@
 ---
 title: Quick Guide for Copyright and Trade Mark Owners and Licensees
 permalink: /businesses/border-enforcement-of-intellectual-property-rights/quick-guide-for-copyright-and-trade-mark-owners-and-licensees
+third_nav_title: Border Enforcement of Intellectual Property Rights
 --- 
 
 # Quick Guide for Copyright and Trade Mark Owners and Licensees
