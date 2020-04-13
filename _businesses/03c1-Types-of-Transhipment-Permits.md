@@ -19,6 +19,7 @@ A transhipment permit is required to account for the following transhipment move
 | Transhipment/Movement | **Inter-Gateway Movement**<br><br>For inter-gateway movement of goods from one FTZ to another FTZ (including the following scenarios):<br>-   Goods previously covered by an In-Non-Payment (Storage in FTZ) permit and subsequently removed from one FTZ to another FTZ;<br>-   Consolidated Less-than-Container-Load (LCL) container stuffed with local and transhipment cargoes from one FTZ to another for unstuffing (not applicable to controlled and dangerous goods cargo); or<br>-   Consolidated goods under the Bonded Truck Scheme.<br>Please note that this declaration types does not cover the inward or outward movement of the goods from Singapore. |IGM |
 |Transhipment/Movement  | **Removal**<br>Movement of goods from:<br>-   Licensed warehouse to another licensed warehouse or<br>-   Zero-GST warehouse to another Zero-GST warehouse; or<br>-   movement of goods under the Temporary Import Scheme into a licensed warehouse or Zero-GST warehouse. |REM |
 | Transhipment/Movement | **Blanket Removal**<br>For declarations used to cover several movements within the month between licensed premises. | BRE|
+
 ***
 A permit is not required for the transhipment of non-controlled goods within the same FTZ. Please refer to  [Circular 01/2020](https://www.customs.gov.sg/-/media/cus/files/circulars/circular012020ver1.pdf)  for more information on the storage of liquors and tobacco products in the FTZs.
 
