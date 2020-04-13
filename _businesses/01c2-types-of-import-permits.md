@@ -7,12 +7,14 @@ third_nav_title: Importing Goods
 # Types of Import Permits
 
 **In-Payment**
+
 | Declaration Type | Code |  
 |--|--|
 | Goods and Services Tax (GST) (Including Duty Exemption)<br><br> -   Payment of GST on goods to be consumed in Singapore <br> -   Payment of GST for duty exempted goods | GST |
 | Duty and GST <br><br> -   Payment of duty and/or GST on dutiable goods | DNG |  
 
 **In-Non-Payment**
+
 | Declaration Type | Code |  
 |--|--|
 | Approved Premises/Schemes <br><br> -   Movement of dutiable goods from Free Trade Zone (FTZ) or foreign territory into a licensed warehouse for storage <br> -   Movement of non-dutiable goods from FTZ or foreign territory into a zero-GST warehouse for storage <br> -   Inward movement of goods exempted from GST under IRAS’ Major Exporter Scheme, Import Deferment GST Scheme or Approved Import GST Suspension Scheme | APS |
