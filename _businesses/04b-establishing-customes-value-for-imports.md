@@ -86,3 +86,12 @@ The buyer must clear customs and pay for all other costs at the country of impor
 Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods available to the buyer (importer) at the seller’s premises or at another named place. The seller’s obligations and risks are minimal. After the seller delivers the goods, the ownership and risk of loss of the goods are transferred to the buyer.
 
 The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export.
+
+## **No Insurance Purchased**
+Traders can set the insurance to zero value if no insurance charges were incurred when importing the goods.
+
+### For more infotmation on:
+|  |  |  |
+|--|--|--|
+| **[![](https://lh5.googleusercontent.com/rmG65fEP8HuX_2IvUtb41tw-LTmR0W4suS_Q3-0Ep9tO30UBNRU4yfWYb1xTC7e4p0039h7T98e48unBAmtZ0BbNT3IGeQ0JhHzVBE1lhFrZ3oR7qipYLPNgOZ0iUueFlx0A4keYzEhnLwfeaw)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)** | **[![](https://lh3.googleusercontent.com/dRiliUf0Zb7uBFKT4EkOTxHeqTXdG29Hux1RxV62XqH-7dA5FNbgCS0di0paW0w9MSgCfbM5YNSMVuZYQA2LjKhj65tJoB6C38XiEMEo3ntpA6Wc1U6E9XuZrQKuvGPG0DXKoYVRimB8Vz4vqA)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/no-insurance-purchased)** | **[![](https://lh4.googleusercontent.com/u75dE5IhFyzxjIaymtyac1qa7upfBuRyvbe0PxWC9VsWy3Ei-OALM6qVetfJlApFnX2ouK1uV-YJxLdCthanV0XmZhVru3x6qX7V_HauY67TsyVzZdqer_jAIB62GIS4XddUaj-a8Y64Cq0lqg)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/customs-exchange-rates)** |
+
