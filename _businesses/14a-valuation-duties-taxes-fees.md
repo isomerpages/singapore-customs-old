@@ -1,0 +1,12 @@
+---
+title: Valuation, Duties, Taxes & Fees
+permalink: /businesses/valuation-duties-taxes--fees/overview
+third_nav_title: Valuation, Duties, Taxes & Fees
+---
+
+## **Valuation, Duties, Taxes & Fees**
+
+|  |  |  |  |
+|--|--|--|--|
+| **[![](https://lh6.googleusercontent.com/62ulH8dHcICJao31DFpcwDTEMhbvr9m-IWFIod61FWOSFwe2rJIGuZcR8xo2NCWzgGwqw9cO8kk3oMXfV0LF0UY7mejGTzsR4bVIThwj9v0Fg4jCG4uHa9Pn0dM0dXHEFOZtwuIe9VQ7CIVOng)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value)** | **[![](https://lh3.googleusercontent.com/ZeNl7PSUIbZKki1T-p-adxcCxvDlm_qpFdneZF3rWNvl1nq2JXbU-WIlNoqbf-CDdCS93sd3S0Z0J2PJrIijOqotbBXlyAVn4UcbUTqc96wJKIPMutvSTOlPzSNLN3QV8jk09ZM61QsyM8pGWA)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods)** | **[![](https://lh6.googleusercontent.com/eceh0n5aTT-uZmT4Xvv6GkJ5RA6xOzeiSZjLu2x-SwRDM2WfIAUD44pDNsC9e9QEQEeMbsQ8RuHk2Ya9xprO6GAYnhKGZUP9C8ivVP4g59PUQ_5gqn92gbsdc__moN11hxP5i9S5olAAC6yAqw)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst)** | **![](https://lh5.googleusercontent.com/wRTd-aqBnmTfwJwvMCtKz7bSzCvnJ5IilKmYR9BS59tQ4ktd0wgnohCBHwjQvWiXDI1O-4nCLb99Bp5mmNDOCn2m5ROT_XnAoITNM6PzysCQ5mzJ72DSu5n2g0NTyilgsCdOJUuokP2d4wRkQA)** |
+| **[![](https://lh4.googleusercontent.com/7a4sytbxBqqmN3YgvFIRfL8dXV9k2ckSCe4RU7PGQmq8yC6pCxBy6mYsv5unmsDSi3U-BmiaLwIneLFobDE7qjSHk4w3YnPT-4nv_lYytv0kef98Yb8V4j5D8stbprmf6GnOd-oNE0kO7tBxlQ)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/customs-ruling-on-valuation)** | **[![](https://lh6.googleusercontent.com/VTwWrmcK33oTiXB-y_uisJgUX4zk89CA3ai67u05sPYQ9X6TC5ABAbs181u4UcN4pBa7qnklW9kB3jwsar3TZpMEmYixxKvZwKPQkFZ1TEovpo6S0eAK_aSKTXL1b9lxsS9I78y8kBmHQpSdAw)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/permits-documentation-and-other-fees)** | **[![](https://lh6.googleusercontent.com/P1Mtwinrs2optbtfnWass29XQhuONj72ADsTATRMLSVDBRHMopau27hjaDV7tE7kmtC4jsLkvUBh2Q7ehaHgr6UrDrK9Bh-dP4tZvuTWR_LTKCW3tYYSrjJBvaBKE4pfAY5fu23Zji_ZHTSa-w)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/singapore-duty-paid-cigarette-sdpc-mark)** | **[![](https://lh4.googleusercontent.com/-TBvtGKHIWSYbvsTPnzLBCLq8CE1zstA8BbW0dlVXJGEbZXAjObIF6sLklfukDcM0K96bc_99OW6ve-88RDNUolrWo9BeHYw8GhhEuN02YplbhPRuPaank2rWK7ITnV7LYPnRbDiovW1--dXtA)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/e-learning-resources)** |
