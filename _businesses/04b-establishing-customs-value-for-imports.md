@@ -27,14 +27,14 @@ Example 1:
 Company A bought 2 cartons of vitamins from Supplier B on  [Ex Works (EXW) incoterms](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value#ExWorks).
 
 |  |  |
-|--|--|
+|---|---|
 | Cost of vitamins | S$1,000 |
 | Selling commission | S$100 |
-|Cost of inland transportation to port of exportation  | S$150 |
+| Cost of inland transportation to port of exportation  | S$150 |
 | Handling and document charges at port of exportation | S$200 |
 | Cost of overseas freight | S$300 |
 | Cost of insurance for shipment | S$50 |
-***
+
 
 Therefore, the customs value should be the sum of all the costs, which is S$1,800.
 
@@ -43,27 +43,12 @@ Example 2:
 Individual A purchased a bag listed for sale on an online website by a foreign seller. B (a local service provider) arranged for the bag to be collected from the foreign seller. The bag would then be stored in an overseas holding area, packaged and then shipped to Singapore. For the services rendered, B charged individual A a concierge/handling fee in addition to the cost of international freight. No insurance was purchased.
 
 |  |  |
-|--|--|
+|---|---|
 | Cost of bag |S$400 |
 | Handling charges | S$20 |
 | Cost of overseas freight | S$30 |
-| Cost of insurance for shipment |  Nil|
-***
-Cost of bag
+| Cost of insurance for shipment | Nil |
 
-S$400
-
-Handling charges
-
-S$20
-
-Cost of overseas freight
-
-S$30
-
-Cost of insurance for shipment
-
-Nil
 
 The customs value should be the sum of all the costs, which is S$450. All costs incidental to the delivery of the bag to Singapore should be included for the purposes of GST payment.
 
@@ -87,7 +72,7 @@ If the transaction value method cannot be used, the following alternatives will 
 -   Deductive value - the sale price of the goods in Singapore, adjusted for costs incurred after shipment
 -   Computed value - the value based on cost of production, general expenses and profits in the country of origin of the imported goods
 -   Residual valuation - the value determined by Singapore Customs, based on flexible interpretation of all the previous methods
- ***
+
 
 #### Definition of Cost, Insurance and Freight incoterms
 
@@ -100,11 +85,11 @@ The buyer should note that under CIF, the seller is only required to obtain insu
 The ownership and risk of loss of the goods are transferred to the buyer when the goods are on board the vessel. If the goods are damaged or stolen during international transport, the buyer owns the goods and must file a claim based on insurance purchased by the seller.
 
 The buyer must clear customs and pay for all other costs at the country of import.
-***
+
 #### Definition of Ex Works incoterms
 
 Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods available to the buyer (importer) at the seller’s premises or at another named place. The seller’s obligations and risks are minimal. After the seller delivers the goods, the ownership and risk of loss of the goods are transferred to the buyer.
 
 The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export.
-***
+
 
