@@ -59,7 +59,7 @@ Preferential COs are issued only by Singapore Customs.
 [**Step 4: Collect the Certificate of Origin**](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-cab3721b-bad1-46d6-8829-9d4a2e0f09d8)
     
 
-How to apply for back-to-back preferential Certificate of Origin with Singapore Customs?
+## How to apply for back-to-back preferential Certificate of Origin with Singapore Customs?
 
 The back-to-back preferential CO is issued by Singapore Customs for the re-export of goods based on the preferential CO issued by the first exporting party. The goods must be imported into Singapore and meet the conditions for it to be issued.
 
