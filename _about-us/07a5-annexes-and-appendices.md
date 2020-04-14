@@ -17,7 +17,10 @@ third_nav_title: National Single Window
 
 ## Appendices - CAs' HS and Product Codes
 
- 1. Appendix A - Items under Import control <br> [PDF](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-a---items-under-import-control.pdf?la=en&hash=1610DE043C3E3B177991558BB7036D7CD67C0281)
- 2. Appendix B - Items under Export control<br> [PDF](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-b---items-under-export-control.pdf?la=en&hash=8C3ACA8B49492433AB5F6F5976173DDD1549470C)
- 3. Appendix C - Items under Import & Export control<br>[PDF](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-c---items-under-import-export-control.pdf?la=en&hash=30498A64481D95F8F9D3D95BC4597FE0B23A8D99) 
- 4. Appendix D - Items under Import, Export & Transhipment control <br> [PDF](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-d---items-under-import-export-transhipment-control.pdf?la=en&hash=B9BCA97D84E0D0CF8D4114D7C14FA0BEA25176BF)
+ 1. Appendix A - Items under Import control  [PDF](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-a---items-under-import-control.pdf?la=en&hash=1610DE043C3E3B177991558BB7036D7CD67C0281)
+ 
+ 2. Appendix B - Items under Export control [PDF](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-b---items-under-export-control.pdf?la=en&hash=8C3ACA8B49492433AB5F6F5976173DDD1549470C)
+ 
+ 3. Appendix C - Items under Import & Export control [PDF](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-c---items-under-import-export-control.pdf?la=en&hash=30498A64481D95F8F9D3D95BC4597FE0B23A8D99) 
+ 
+ 4. Appendix D - Items under Import, Export & Transhipment control [PDF](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-d---items-under-import-export-transhipment-control.pdf?la=en&hash=B9BCA97D84E0D0CF8D4114D7C14FA0BEA25176BF)
