@@ -15,7 +15,7 @@ In addition to the CWC licence, an approved permit is required before every impo
 
 - Licensees that intend to import any Schedule 1 chemical from Member States must give [notification](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals) to NA(CWC) before and after the transfer has been completed.
 
-
+----
 
 ### **Information Required For Import Permit**
 
@@ -30,12 +30,13 @@ In addition to the CWC licence, an approved permit is required before every impo
 | **Processing Code (PC2)** | PC2 should be left blank |
 | **Processing Code (PC3)** | PC3 should be left blank |
 | **Licence No.** |  1. Licence number issued by NA(CWC) <br> 2. If the item is also controlled by other Competent Authorities, please indicate both. |
-| **Item Description** | 1.   Description of the item <br> 2. Please state the name of the controlled chemical in the description as well. <br> (for example, photographic solution containing triethanolamine) |
+| **Item Description** | 1.   Description of the item <br> 2. Please state the name of the controlled chemical in the description as well. (for example, photographic solution containing triethanolamine) |
 | **HS Code** | Product Harmonized System (HS) code |
 | **CA/SC Product Code 1** | Enter the product code of the chemical (found in licence) |
 | **CA/SC Product Code Quantity & Unit** | Enter the quantity and unit |
 | **CA/SC Code 1** | Enter the purity of the controlled chemical (for example, 40%) |
 
+----
 
 ### **Restrictions for Import from Non-Member States**
 
