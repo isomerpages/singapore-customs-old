@@ -8,7 +8,7 @@ sections:
     - hero:
         title:
         subtitle:
-        background: /images/New Banner.png
+        background: /images/New Banner_long.png
         key_highlights:
             - title: Duty-Free Concession and GST Relief
               url: https://www.customs.gov.sg/individuals/going-through-customs/arrival/duty-free-concession-and-gst-relief
