@@ -21,7 +21,7 @@ To account for the export of your goods (for example, from customs territory, ze
 
 ### Step 1 : Register for UEN and Activate Customs Account
 
-Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/)  or the relevant  [Unique Entity Number](http://www.uen.gov.sg/)  (UEN) issuance agency to obtain a UEN; and
+Entity can register with the [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/) or the relevant  [Unique Entity Number](http://www.uen.gov.sg/)  (UEN) issuance agency to obtain a UEN and
 [Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
 
 If entity intends to:
