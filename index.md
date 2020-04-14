@@ -25,7 +25,7 @@ sections:
        - title: Networked Trade Platform
          subtitle:
          description: Find out more about the NTP to advance your business and improve your trade operations.
-         image: /images/NTP.png
+         image: /images/NTP.jpg
          alt: Networked Trade Platform
        - title: inSYNC Issue 56
          subtitle: 
