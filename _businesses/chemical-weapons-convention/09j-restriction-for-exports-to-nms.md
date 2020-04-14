@@ -13,7 +13,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 ***Note:** Exporters only need to submit this End User Certificate for an Individual Permit application under the Strategic Trade Scheme (STS).
 
-### Exports of Schedules 1, 2 and 3 chemicals for the following concentration limits are also subject to export control requirements under the Strategic Goods (Control) Act in Singapore.
+Exports of Schedules 1, 2 and 3 chemicals for the following concentration limits are also subject to export control requirements under the Strategic Goods (Control) Act in Singapore.
 
 **Exports to Member States**
 | Types of Scheduled Chemicals | Concentration Limits |
