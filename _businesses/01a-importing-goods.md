@@ -26,4 +26,86 @@ As an importer, you will need to first  **determine if duty and/or GST payment s
 
 To account for the entry of your goods, please follow the steps below to obtain the relevant import permits and authorisation (if the goods are subject to control) from the relevant Competent Authorities.
 
-[accordion]
+
+## Step 1: Register for UEN and Activate Customs Account
+An entity that intends to:
+
+-   Engage in import or export activities in Singapore, or
+-   Apply for import, export and transhipment permits or certificates
+
+will need to:
+
+-   Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/)  or the relevant  [Unique Entity Number](http://www.uen.gov.sg/)  (UEN) issuance agency to obtain a UEN; and
+-   [Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
+
+## Step 2: Check if Your Goods are Controlled
+Do check if the goods you intend to import are controlled goods or goods subject to restrictions by Competent Authorities (CAs) in Singapore.
+
+You may  [search](https://www.customs.gov.sg/businesses/resources/hs-and-ca-product-code-search-engine) using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, the name of the CA will be indicated next to its HS code. You may check directly with the respective CAs on their licensing requirements.
+
+If you require advice on the full 8-digit  [HS code](https://www.customs.gov.sg/businesses/resources/hs-and-ca-product-code-search-engine)  of the product, you may apply for an  [official classification ruling](https://www.customs.gov.sg/-/media/cus/files/business/importing-goods/quick-guide-for-importers/sca004.doc?la=en&hash=219BA9369AC2E6E6011EC144EDCB1C3DA6BC79AB)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
+
+## Step 3: Apply for Inter-Bank GIRO
+You or your Declaring Agent must maintain an Inter-Bank GIRO (IBG) with Singapore Customs to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Custom from your bank account to Singapore Customs directly.
+
+Mail the completed  [Application for Inter-Bank GIRO form](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Registration)  to Singapore Customs’ address as indicated in the form.
+
+You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP) to use your IBG for the payment of duties and GST for your customs permit one day after the approval of your IBG application. If you do not maintain an IBG with Singapore Customs, the duties and GST will be deducted from your Declaring Agent’s IBG.
+
+## Step 4: Furnish Security
+You are required to furnish security for transactions involving dutiable goods, temporary import of goods for approved purposes, and for the operation of licensed premises such as licensed warehouses and excise factories.
+
+The security furnished should be in the form of a Banker’s Guarantee, Finance Company Guarantee or an Insurance Bond.
+
+[More information on security lodgement](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/security-lodgement).
+
+## Step 5: Apply for Customs Import Permit
+You may:
+
+-   Appoint a  [Declaring Agent](https://www.customs.gov.sg/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for customs permits on your behalf; or
+-   Apply for customs permits for your own or on behalf of your clients. To do so, you will need to register as a  [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct).
+
+All permit applications must be submitted via TradeNet, which is accessible through:
+
+-   TradeNet front-end software from an  [approved software vendor;](https://www.customs.gov.sg/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers) or
+-   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
+
+Each permit application typically costs S$2.88. This does not include service fees charged by service providers such as freight forwarders, Declaring Agents etc. If you are engaging a Declaring Agent for assistance to submit the permit application, you may wish to check the amount of service fees that they charge.
+
+## Step 6: Prepare Documents for Cargo Clearance
+Approved permits applications are issued with a validity period. You should ensure the validity of the permit presented for goods clearance. For imports of containerised cargo, the container number and shipper seal number are required when applying for a permit.
+
+**a)** **Documents Required for Containerised Cargo**
+
+For import of containerised cargo by sea, you are not required to present the printed copy of the customs permit and supporting documents to the checkpoint officers at the entry points.
+
+For import of containerised cargo by air or land, you are  **required**  to produce the customs permit and supporting documents such as invoice, packing list and Bill of Lading/Air Waybill, to the checkpoint officers for verification.
+
+An example of conditions in the customs permit indicating this requirement:
+
+|  |  |
+|--|--|
+| A1 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance/ endorsement at a Free Trade Zone "In" Gate. |
+|A3  | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required. |
+| H1 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint. |
+
+**b)** **Documents Required for Conventional Cargo**
+
+For conventional cargo, please present the goods, printed copy of the customs permit, and supporting documents such as invoice, packing list and Bill of Lading/Air Waybill, to the checkpoint officers at the time of cargo clearance for verification.
+
+An example of conditions in the customs permit indicating this requirement:
+
+|  |  |
+|--|--|
+| A1 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance/ endorsement at a Free Trade Zone "In" Gate. |
+|A3  | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required. |
+| H1 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint. |
+
+For a consignment which requires  **partial clearance**, the same customs permit should be presented each time for endorsement till the whole consignment is completely cleared.
+
+**Please note partial clearance is not allowed for goods brought in via Woodlands and Tuas checkpoints.**
+
+## Step 7: Retain your Trade Documents
+Generally, you are required to retain the relevant supporting documents relating to the purchase, import, sale or export of the goods for a period of 5 years from the date of the permit application approval.
+
+These documents can be stored as physical hardcopies or as  [images](https://www.customs.gov.sg/-/media/cus/files/business/importing-goods/quick-guide-for-importers/customs_guide_on_keeping_and_maintaining_records_in_image_system.pdf?la=en&hash=8078ACE5357842E037BE67E75F01184A73C9E6E8). You are required to produce these supporting documents to Singapore Customs upon request.
