@@ -22,9 +22,6 @@ Example:
 | -  | 42021110  | Notebook carrying case, leather with maximum dimensions of 56cm x 45cm x 25cm  |
 
 
-***
-
-
 You may refer to the lists below for the Harmonized System (HS) codes of controlled items under the various CAs’ control, and the contact information of the CAs:
 
 -   For the latest AHTN2017 HS codes, please refer to [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)
