@@ -29,14 +29,14 @@ Each Certificate of Origin application together with a Customs export permit app
 
 The following fees are payable according to the Regulation of Imports and Exports (prescribed fees) regulations:
 
-| Application | Fee per application |
-|--|--|
-| Certificate of Free Sale | S$4 |
-| Certificate of Non-Manipulation | S$4 |
-| Other Certificate (such as Import Certificate and Delivery Verification) | S$10 |
-| Certified copy | S$4 |
-| Kimberley Process Licence (per year or part thereof) | S$50 |
-| Kimberley Process Certificate |  S$5|
+| Application                                                              | Fee per application  |
+|--------------------------------------------------------------------------|----------------------|
+| Certificate of Free Sale                                                 | S$4                  |
+| Certificate of Non-Manipulation                                          | S$4                  |
+| Other Certificate (such as Import Certificate and Delivery Verification) | S$10                 |
+| Certified copy                                                           | S$4                  |
+| Kimberley Process Licence (per year or part thereof)                     | S$50                 |
+| Kimberley Process Certificate                                            |  S$5                 |
 
 ## Customs’ Miscellaneous Fees and Rates
 
