@@ -15,11 +15,13 @@ third_nav_title: Exporting Goods
 
 You are advised to check if your trade sample is a controlled item before exporting it.
 ***
+
 |Type of Trade Sample| Export Permit Required? |
 |--|--|
 |Non-controlled trade samples, including specimens for analysis or test, and gifts, of a total value **not exceeding S$400** <br><br>*Exporters should indicate the goods as “Trade Samples” in the commercial invoice and the Bill of Lading/Air Waybill.  |  No |
 | Non-controlled trade samples, including specimens for analysis or test, and gifts, of a total value **exceeding S$400** | Yes |
 | Controlled trade samples (regardless of value) | Yes |
+
 ***
 More information [here](https://www.customs.gov.sg/businesses/exporting-goods/controlled-and-prohibited-goods-for-export) on controlled and prohibited goods, and how to check if your goods are subject to control.
 ## Temporary Export
