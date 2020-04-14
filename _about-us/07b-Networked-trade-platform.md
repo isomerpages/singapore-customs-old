@@ -26,5 +26,5 @@ Visit the NTP [here](http://www.ntp.gov.sg/) and stay tuned as more services are
 | Explore the Value-Added Services on the NTP | [NTP Value-Added Service (VAS) listing](https://www.ntp.gov.sg/public/browse-vas-catalogue) |
 | Read more about News featuring the NTP | [NTP News](https://www.ntp.gov.sg/public/news?newsType=News%20Media%20Releases%20Data%20Template) |
 
-***
+
 For further queries, please reach out to [Enquiry_NTP@customs.gov.sg](mailto:Enquiry_NTP@customs.gov.sg).
