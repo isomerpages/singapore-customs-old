@@ -24,8 +24,6 @@ A Chemical Weapons Convention (CWC) licence is required  **before the start** of
 √ : indicates that a licence is required.  
 *: Licence exempted for mixtures below certain concentration/purity.
 
-----
-
 **Licence Exemptions**
 
 You are  **not**  required to apply for the CWC Licence for:  
