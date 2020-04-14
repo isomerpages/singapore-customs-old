@@ -6,7 +6,7 @@ third_nav_title: Valuation, Duties, Taxes & Fees
 
 # Establishing the Customs Value
 
-[Customs](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods) and/or  [excise duty](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods)  (with ad valorem rates) and  [Goods and Services Tax (GST)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst)  are levied on the customs value of imports.
+[Customs](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods) and/or [excise duty](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods)  (with ad valorem rates) and  [Goods and Services Tax (GST)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) are levied on the customs value of imports.
 
 However, some imports can:
 
