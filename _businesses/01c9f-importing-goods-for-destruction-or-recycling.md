@@ -32,4 +32,70 @@ The importer or his appointed declaring agent must declare the previous  **In-Pa
 
 Please take note of the relevant procedural requirements when applying for an In-Non-Payment (Destruction) permit for the destruction or recycling of imported goods listed in the respective categories below.
 
-[accordion]
+## Dutiable Motor Vehicles
+Please submit the following supporting documents to the Permits Unit, Procedures & Systems Branch of Singapore Customs via email to customs_documentation@customs.gov.sg:
+
+-   A cover letter from the importer stating the reasons for the destruction of goods
+-   Surveyor, incident or other relevant reports to substantiate the damage involving the goods at any time before the removal of the goods from customs control, if applicable
+-   A list of goods scheduled for destruction with their description, quantity and CIF valaue
+-   An acceptance letter from any of the [authorised scrap yards](https://www.onemotoring.com.sg/content/onemotoring/home/selling-deregistering/deregister-a-vehicle.html#Scrapyards) approved by the Land Transport Authority (LTA)
+-   Commercial invoice, Bill of Lading/Air Waybill, and Packing List for the goods (where applicable)
+-   Letter from LTA regarding the deregistration of the Singapore-registered motor vehicle or motorcycle
+-   Any other supporting documents
+
+The importer or his appointed Declaring Agent may  [apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
+
+-   “DUMP” must be declared in the “Place of Receipt Code” field.
+-   The engine number, chassis number and the status of the motor vehicle or motorcycle (used or new) must be declared in the “CA/SC Code 1”, “CA/SC Code 2” and “CA/SC Code 3” fields respectively.
+-   The name and address of the authorised scrap yard must be declared in the "Trader's Remarks" field.
+
+Please  [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) for Singapore Customs’ escort and supervision of the destruction. As stated under the KS condition in the permit, the importer or his appointed Declaring Agent must submit the official receipt issued by the place of destruction or recycling and the permit to the Permits Compliance Branch of Singapore Customs within 4 working days after the clearance of the goods.
+
+
+
+## Dutiable Liquor & Tobacco Products and Ethanol
+
+Please submit the following supporting documents to the Permits Unit, Procedures & Systems Branch of Singapore Customs via email to customs_documentation@customs.gov.sg:
+
+-   A cover letter from the importer stating the reasons for the destruction
+-   Surveyor, incident or other relevant reports to substantiate the damage involving the goods at any time before the removal of the goods from customs control, if applicable
+-   A list of goods scheduled for destruction with their description, quantity and CIF valaue
+-   Approval email/letter from the National Environment Agency (NEA) on the destruction of the goods (where applicable)
+-   Bill of Lading/Air Waybill, and Packing List for the goods
+-   Commercial invoice
+-   Email/letter from the Competent Authority authorising the destruction of the controlled goods, if applicable
+-   Any other supporting documents
+
+The importer or his appointed Declaring Agent may  [apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
+
+-   “DUMP” must be declared in the “Place of Receipt Code” field.
+-   The name and address of the licensed incineration plant and the booking reference no. as well as the approval letter reference from the NEA must be declared in the "Trader's Remarks" field, if applicable.
+
+Please [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) for Singapore Customs’ escort and supervision of the destruction. As stated under the KS condition in the permit, the importer or his appointed Declaring Agent must submit the official receipt issued by the place of destruction or recycling and the permit to the Permits Compliance Branch of Singapore Customs within 4 working days after the clearance of the goods.
+
+## Non-Controlled and Non-Dutiable Goods
+The importer or his appointed Declaring Agent may  [apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
+
+-   “DUMP” must be declared in the “Place of Receipt Code” field.
+
+When declaring the In-Non-Payment (Destruction) permit, please include the following supporting documents and details:
+
+-   Approval letter reference from the National Environment Agency (NEA)
+-   Date of destruction, name and address of the licensed incineration plant and the booking reference no. in the "Trader's Remarks" field, if applicable.
+
+Please [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) for Singapore Customs’ escort and supervision of the destruction. As stated under the KS condition in the permit, the importer or his appointed Declaring Agent must submit the official receipt issued by the place of destruction or recycling and the permit to the Permits Compliance Branch of Singapore Customs within 4 working days after the clearance of the goods.
+
+## Controlled Non-Dutiable Goods
+The importer or his appointed Declaring Agent may apply for the relevant Competent Authority's approval, escort , and supervision of the destruction of controlled goods.
+
+Upon approval by the Competent Authority, please  [apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures) for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation (where applicable). When applying, do note:
+
+-   “DUMP” must be declared in the “Place of Receipt Code” field.
+
+When declaring the In-Non-Payment (Destruction) permit, please include the following supporting documents and details:
+
+-   Approval letter reference from the National Environment Agency (NEA)
+-   Date of destruction, name and address of the licensed incineration plant and the booking reference no. in the "Trader's Remarks" field, if applicable.
+
+As stated under the KS condition in the permit, the importer or his appointed Declaring Agent must submit the official receipt issued by the place of destruction or recycling and the permit to the Permits Compliance Branch of Singapore Customs within 4 working days after the clearance of the goods.
+
