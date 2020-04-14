@@ -37,37 +37,42 @@ Tel: (65) 6887 7333
 Fax: (65) 6887 7429  
 Email:  [sales@globaletrade.services](mailto:sales@globaletrade.services)
 ***
+
 **Innosys Pte Ltd**
 
 Tel: (65) 6744 3002  
 Fax: (65) 6742 0004  
 Email:  [sales@innosys.com.sg](mailto:sales@innosys.com.sg)
 ***
+
 **Kaizen Trade Technology Pte Ltd**
 
 Tel: (65) 6950 7741  
 Fax: (65) 6950 7741  
 Email:  [contact@ktt.sg](mailto:contact@ktt.sg)
 ***
+
 **Tradenet Services Pte Ltd**
 
 Tel: (65) 6576 9100  
 Fax: (65) 6842 2677  
 Email:  [info@tnets.com.sg](mailto:info@tnets.com.sg)
-
 ***
+
 **vCargo Cloud Pte Ltd**
 
 Tel: (65) 6779 6218  
 Fax: (65) 6779 6216  
 Email:  [sales@vcargocloud.com](mailto:sales@vcargocloud.com)
 ***
+
 **WiseTech Global Singapore**
 
 Tel: (65) 6817 4790  
 Fax: (65) 6247 9419  
 Email:  [info@wisetechglobal.com](mailto:info@wisetechglobal.com)
 ***
+
 **Government Front-end Application**
 
 Tel: (65) 6887 7888  
