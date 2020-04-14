@@ -32,10 +32,6 @@ locations:
       - days: Mon - Fri
         time: 8:30am to 5:30pm
         description: Closed on Public Holidays  
-  
-    - For enquiries or feedback, please email to [customs_academy@customs.gov.sg](mailto:customs_academy@customs.gov.sg).
-
-    - To join our mailing list, please visit [https://www.customs.gov.sg/subscribe](https://www.customs.gov.sg/subscribe).
     
   - title: Our Stations
     address:
@@ -51,6 +47,7 @@ locations:
     - Brani Export Inspection Station
     - Tuas Checkpoint
     - Woodlands Checkpoint
+
 contacts:
   - title: Enquiries on Customs Procedures
     content:
@@ -80,6 +77,11 @@ contacts:
     content:
     - phone: +65 6355 2959
     - other: For feedback regarding Quality Service
+
+  - title: Singapore Customs Academy
+    content:
+    - email: customs_academy@customs.gov.sg
+    
 ---
 You can send us your feedback and enquiries on the following issues:
 
