@@ -4,7 +4,7 @@ permalink: /businesses/valuation-duties-taxes--fees/refund-of-duties-and-gst
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
 
- # Refund of Duties & GST
+# Refund of Duties & GST
 
 If there is any overpayment or wrong payment of duties or Goods and Services Tax (GST), you can make a claim for refund by writing to Singapore Customs for our assessment:
 
