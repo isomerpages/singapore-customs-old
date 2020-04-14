@@ -38,3 +38,6 @@ The following passenger terminals are not intended for the import, export and tr
 -   Marina South Pier
 -   West Coast Pier
 -   Marina Bay Cruise Centre Singapore <br>(See [Customs Circular](https://www.customs.gov.sg/news-and-media/circulars) No. 06/2012 for more information)
+
+[accordion]
+
