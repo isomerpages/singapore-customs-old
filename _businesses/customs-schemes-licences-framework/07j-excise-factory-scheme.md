@@ -98,7 +98,7 @@ Find out more about  [Duty Rates of Dutiable Goods](https://www.customs.gov.sg/b
 
 **Formula**
 
-*Total excise duty = Total quantity in litres x Excise duty per litre of alcohol x % of alcoholic strength*
+Total excise duty = *Total quantity in litres x Excise duty per litre of alcohol x % of alcoholic strength*
 
 For example, the total excise duty payable on 1,000 litres of locally manufactured stout with 5% alcoholic strength will be:  
 1,000 litres x $60 x 0.05 = $3,000.
