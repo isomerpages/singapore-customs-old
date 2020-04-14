@@ -15,6 +15,7 @@ In addition to the CWC licence, an approved permit is required before every expo
 If the export is not subject to the above restrictions, you may apply for an export permit via TradeNet:
 
 **Export Permit**
+
 | Field | Information Required |
 |--|--|
 | **Customs Procedure Code (CPC)** |   For chemicals also controlled under the Strategic Goods (Control) Act, CPC should be declared as **STS and CWC** <br><br> For chemicals not controlled under the Strategic Goods (Control) Act to Non-Member States, CPC should be declared as **CWC** |
