@@ -32,6 +32,7 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/sc
 [tbc]
 
 ## Past Events
+
 | Date | Title | Related Link |
 |---|---|---|
 | 3 Dec 2018 | Joint Industry Outreach Seminar on Strategic Trade Management 2018 | [Web Link](https://www.customs.gov.sg/businesses/resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2018) |
