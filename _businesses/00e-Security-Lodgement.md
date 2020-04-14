@@ -17,9 +17,11 @@ third_nav_title: Registration Matters
 Singapore Customs may also require security to be furnished for situations not mentioned above, or vary the security amount on a case-by-case assessment.
 
 With effect from 1 Apr 2016, new security requirements will be imposed on liquor and tobacco products (see  [circular](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2016/circular_01_2016v3.pdf?la=en&hash=7B94CEAE50C7DDF533A9C8640D2207F64CEAB07F) for more information).
+
 ***
 
 **( Missing Accordion )**
+
 ***
 
 ## Expired Security
