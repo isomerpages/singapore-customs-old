@@ -17,7 +17,7 @@ Examples on the calculation of GST:
 
 **1.  Non-Dutiable Goods**
    
-*GST payable = 7% x Customs value or Last Selling Price (LSP)*
+GST payable = *7% x Customs value or Last Selling Price (LSP)*
 
 Company A bought 100 boxes of vitamins at S$900 on  [Free on Board (FOB) incoterms](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance#FreeOnBoard). The overseas freight, handling and insurance charges to ship the vitamins to Singapore cost S$100. Company A sold the vitamins to Company B before the vitamins reached Singapore for S$1,500. What is the GST payable by Company B?
 
@@ -27,7 +27,7 @@ GST payable by Company B = 7% x S$1,500=S$105
 
 **2.  Dutiable Goods**
     
-*GST payable = 7% x (Customs value or Last Selling Price (LSP) + duties payable)*
+GST payable = *7% x (Customs value or Last Selling Price (LSP) + duties payable)*
 
 Company A imported a motor car that was bought at S$100,000 on  [Free on Board (FOB) incoterms](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance#FreeOnBoard). The overseas freight, handling and insurance charges to ship the car to Singapore cost S$1,000. Assuming  [the excise duty](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods)  for motor cars is 20% of the customs value:
 
