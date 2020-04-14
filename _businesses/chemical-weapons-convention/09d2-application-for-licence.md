@@ -6,7 +6,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 # Application for Licence
 
-## Who Should Apply?
+### Who Should Apply?
 
 Companies that intend to engage in  [controlled activities](https://www.customs.gov.sg/businesses/chemical-weapons-convention/licensing-requirements) concerning scheduled chemicals or unscheduled discrete organic chemicals (DOCs) listed under the Chemicals Weapons Convention (CWC) must apply for a CWC licence.
 
@@ -17,15 +17,15 @@ Before applying, please check:
 -   The chemical falls under the  [list of scheduled chemicals](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34)  or fits the definition of a DOC; and
 -   The activity which you intend to engage in is a  [controlled activity](https://www.customs.gov.sg/businesses/chemical-weapons-convention/licensing-requirements)
 
-## Processing time
+### Processing time
 
 The application will be processed within 10 working days once the complete application is received. A pre-licence inspection may be conducted at the facility before licence approval.
 
-## Licence Validity
+### Licence Validity
 
 The CWC licence is valid until the end of the calendar year regardless of the date of application.
 
-## How to apply
+### How to apply
 
 1) Please fill out the licence application forms from the links on the  [NA(CWC) website](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#CWC). Complete and submit the application forms with the relevant supporting documents.
 
