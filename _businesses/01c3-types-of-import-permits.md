@@ -10,20 +10,20 @@ third_nav_title: Importing Goods
 
 | Declaration Type | Code |  
 |--|--|
-| Goods and Services Tax (GST) (Including Duty Exemption)<br><br> -   Payment of GST on goods to be consumed in Singapore <br> -   Payment of GST for duty exempted goods | GST |
-| Duty and GST <br><br> -   Payment of duty and/or GST on dutiable goods | DNG |  
+| **Goods and Services Tax (GST) (Including Duty Exemption)** <br><br> -   Payment of GST on goods to be consumed in Singapore <br> -   Payment of GST for duty exempted goods | GST |
+| **Duty and GST** <br><br> -   Payment of duty and/or GST on dutiable goods | DNG |  
 
 **In-Non-Payment**
 
 | Declaration Type | Code |  
 |--|--|
-| Approved Premises/Schemes <br><br> -   Movement of dutiable goods from Free Trade Zone (FTZ) or foreign territory into a licensed warehouse for storage <br> -   Movement of non-dutiable goods from FTZ or foreign territory into a zero-GST warehouse for storage <br> -   Inward movement of goods exempted from GST under IRAS’ Major Exporter Scheme, Import Deferment GST Scheme or Approved Import GST Suspension Scheme | APS |
-| Storage in FTZ <br><br> -   Inward movement of goods for storage in first or second FTZ | SFZ |  
-| GST Relief and/or Duty Exemption <br><br> -   Inward movement of goods exempted from duty and/or GST for entitled persons (for example, embassies, high commissions and consulates) | GTR |  
-| Temporary Consignments <br><br> Importation of goods under the Temporary Import Scheme: <br><br> -   For exhibitions with sales or auctions <br> -   For other approved purposes <br> -   For repairs or treatment <br> -   Re-importation of goods temporarily exported | TCS<br>TCO<br>TCR<br>TCI | 
-| Destruction <br><br> -   Inward movement of goods to be brought into customs territory for the purpose of destruction | DES | 
-| Re-Export <br><br> -   Re-exportation of the entire import consignment via the same or different FTZ (not applicable to goods subject to export control by Competent Authorities) | REX | 
-| Shut-Out <br><br> -   Return of shut-out dutiable and non-dutiable cargoes from a FTZ to licensed warehouse and zero-GST warehouse respectively <br> -   Return of local, GST-paid shut-out non-dutiable cargoes from a FTZ to local warehouse | SHO | 
+| **Approved Premises/Schemes** <br><br> -   Movement of dutiable goods from Free Trade Zone (FTZ) or foreign territory into a licensed warehouse for storage <br> -   Movement of non-dutiable goods from FTZ or foreign territory into a zero-GST warehouse for storage <br> -   Inward movement of goods exempted from GST under IRAS’ Major Exporter Scheme, Import Deferment GST Scheme or Approved Import GST Suspension Scheme | APS |
+| **Storage in FTZ** <br><br> -   Inward movement of goods for storage in first or second FTZ | SFZ |  
+| **GST Relief and/or Duty Exemption** <br><br> -   Inward movement of goods exempted from duty and/or GST for entitled persons (for example, embassies, high commissions and consulates) | GTR |  
+| **Temporary Consignments** <br><br> Importation of goods under the Temporary Import Scheme: <br><br> -   For exhibitions with sales or auctions <br> -   For other approved purposes <br> -   For repairs or treatment <br> -   Re-importation of goods temporarily exported | TCS<br>TCO<br>TCR<br>TCI | 
+| **Destruction** <br><br> -   Inward movement of goods to be brought into customs territory for the purpose of destruction | DES | 
+| **Re-Export** <br><br> -   Re-exportation of the entire import consignment via the same or different FTZ (not applicable to goods subject to export control by Competent Authorities) | REX | 
+| **Shut-Out** <br><br> -   Return of shut-out dutiable and non-dutiable cargoes from a FTZ to licensed warehouse and zero-GST warehouse respectively <br> -   Return of local, GST-paid shut-out non-dutiable cargoes from a FTZ to local warehouse | SHO | 
 
 You may also wish to view the  [complete list](https://www.customs.gov.sg/-/media/cus/files/business/importing-goods/import-procedures/types-of-import-permits/types-of-permit-applications.pdf?la=en&hash=C476AE7D5BE45EFD46EAC7838B7233B1540C041B)  of permit declaration types.
 
