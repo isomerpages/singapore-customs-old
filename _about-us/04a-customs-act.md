@@ -26,4 +26,4 @@ Click on the links below to view the Customs Act and selected subsidiary legisla
 + [Customs (Offices and Stations) Regulations](https://sso.agc.gov.sg/SL/CA1960-RG7?DocDate=20141217){:target="_blank"}
 + [Customs (Prohibition of Imports) Notification](https://sso.agc.gov.sg/SL/CA1960-N1?DocDate=20070101){:target="_blank"}
 
-> <sup>*Please note that only key subsidiary legislation have been reproduced on this website.<sup/>
+*Please note that only key subsidiary legislation have been reproduced on this website.
