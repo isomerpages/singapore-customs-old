@@ -38,6 +38,7 @@ Dutiable sea stores can only be uplifted to approved types of vessels (passenger
 | Wine |0.25  | Bottle|
 | Spirits | 0.25 | Bottle|
 | Beer or Stout (local or imported) |4  | Cans|
+
 ***
 ### Customs Permit Requirements for Sea Stores
 ***
@@ -58,9 +59,11 @@ When applying for the permit, the following information must be declared:
 Permit applications containing sea stores must  not  be combined with other non-sea stores items.
 
 You are reminded to comply with the following permit condition when uplifting sea stores:
+
 |  |  |
 |--|--|
 | **A4** | The following acknowledgement must be obtained from the Master/ Captain of Vessel, Malayan Railway (KTM), Storekeeper: -- I certify that I have to-day received…….<br>packages/containers of goods as declared<br><br>……………………………………………………….<br>Vessel’s Name/ Godown No. Designation & Signature<br><br>…………………………………………………………… <br>Date Time Full Name in Block Letters |
+
 ***
 ### Delivery and Consumption of Sea Stores
 
