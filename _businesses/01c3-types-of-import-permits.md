@@ -10,8 +10,8 @@ third_nav_title: Importing Goods
 
 | Declaration Type | Code |  
 |--|--|
-| **Goods and Services Tax (GST) (Including Duty Exemption)** <br><br> -   Payment of GST on goods to be consumed in Singapore <br> -   Payment of GST for duty exempted goods | GST |
-| **Duty and GST** <br><br> -   Payment of duty and/or GST on dutiable goods | DNG |  
+| **Goods and Services Tax (GST) (Including Duty Exemption)** <br> -   Payment of GST on goods to be consumed in Singapore <br> -   Payment of GST for duty exempted goods | GST |
+| **Duty and GST** <br> -   Payment of duty and/or GST on dutiable goods | DNG |  
 
 **In-Non-Payment**
 
