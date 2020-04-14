@@ -51,6 +51,8 @@ For applications to the Controller of Undesirable Publications, the supporting d
 
   
 
-## For more information
+### For more information
 
-[![](https://lh3.googleusercontent.com/Z-uZ6IKozerPEu58bfkiJ2aSeI9bRCv9t5gxNVwS5lzGn8cY31oaw1fhK8JuthiS9Hyjzpr-0ZNP044Q8dsiAsjjQ8_RbSAy5OKgMC5gpinOUWJGHIWZyDpjLS2rMzL3wxDe6pWaEfnts8Kk0A)](/about-us/national-single-window/overview-competent-authorities-requirements-for-controlled-items-HAS)
+|  |  |
+|---|---|
+| [![](https://lh3.googleusercontent.com/Z-uZ6IKozerPEu58bfkiJ2aSeI9bRCv9t5gxNVwS5lzGn8cY31oaw1fhK8JuthiS9Hyjzpr-0ZNP044Q8dsiAsjjQ8_RbSAy5OKgMC5gpinOUWJGHIWZyDpjLS2rMzL3wxDe6pWaEfnts8Kk0A)](/about-us/national-single-window/overview-competent-authorities-requirements-for-controlled-items-HAS) |  |
