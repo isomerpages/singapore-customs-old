@@ -46,6 +46,7 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
 | 3 | Trade Marks Form 2 - Ex-officio Seizure of Goods | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/trade-marks-form-2.docx?la=en&hash=0E0FCF00221C2FADDF38ED091CDFCBC7EBD830BB) (21.8KB) |
 | 4 | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/copyright-form-2.docx?la=en&hash=F46E1DC2A6FE38610427A33FF90B7587F7E5BDC8) (22.7KB) |
 
+
 2. The Notice shall be accompanied by:
 
 -   a statutory declaration that the particulars in the notice are true;
