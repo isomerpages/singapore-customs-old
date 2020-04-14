@@ -13,4 +13,27 @@ Singapore ratified the CWC in May 1997 and Singapore Customs is the designated N
 
 The NA(CWC) is the national focal point and liaison with the Organisation for the Prohibition of Chemical Weapons (the implementing body of the CWC), and other Member States of the Convention. The NA(CWC) administers the  [Chemical Weapons (Prohibition) Act and its subsidiary legislations](https://www.customs.gov.sg/businesses/compliance/overview)  to fulfil Singapore’s obligations under the Convention.
 
+### General Obligations
 
+Under the CWC, Member States are required to undertake the following general obligations:
+
+-   Never to develop, produce, otherwise acquire, stockpile or retain chemical weapons, or transfer, directly or indirectly, chemical weapons to anyone
+-   Never to use chemical weapons
+-   Never to engage in any military preparations to use chemical weapons
+-   Never assist, encourage or induce, in any way, anyone to engage in any activity prohibited to a Member State under this Convention
+-   To destroy all chemical weapons and all chemical weapons production facilities that it owns or possesses or that are located in any place under its jurisdiction and control
+-   To destroy all chemical weapons that it abandoned on the territory of another Member State
+-   Not to use riot control agents as a method of warfare
+
+----
+
+### Verification Regime
+
+Member States are also required to declare any chemical weapons-related activities and industrial activities relating to the  [scheduled chemicals](https://www.customs.gov.sg/businesses/chemical-weapons-convention/controlled-chemicals)  and facilities producing unscheduled discrete organic chemicals.
+
+The declarations are the basis for data monitoring and on-site  [inspections](https://www.customs.gov.sg/businesses/chemical-weapons-convention/inspections)  at the declared facilities. These inspections seek to verify that activities at the declared facilities are in accordance with the obligations of the Convention, and consistent with the submitted declarations. It is a confidence-building measure for ensuring that Member States meet the requirements of the Convention, and serves as deterrence against any intention to contravene the provisions of the Convention.
+
+----
+
+### Member States
+For the full list of Member States, please click [here](http://www.opcw.org/about-opcw/member-states/).
