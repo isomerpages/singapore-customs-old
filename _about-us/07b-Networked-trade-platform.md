@@ -15,9 +15,7 @@ The Networked Trade Platform (NTP) is a one-stop trade and logistics ecosystem w
 -   Open innovation platform allowing development of insights & new services with cross-industry data
 -   Document hub for digitisation at source that enables reuse of data to cut costs and streamline processes
 
-Stay tuned as more services are launched on the platform.
-
-Visit the NTP [here.](http://www.ntp.gov.sg/)
+Visit the NTP [here](http://www.ntp.gov.sg/) and stay tuned as more services are launched on the platform.
 
 
 | Useful Links  |  |
