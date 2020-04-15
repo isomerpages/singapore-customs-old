@@ -4,4 +4,36 @@ permaLink: /businesses/Harmonized-System-HS-Classification-of-Goods/Application-
 third_nav_title: Harmonized System (HS) Classification of Goods
 ---
 
-( Accordion )
+# Application for Customs Ruling on Classification of Goods
+
+### Who can apply?
+If you are an importer or a local manufacturer who wishes to seek advice on the HS classification of your goods, you may apply for a Customs Ruling on Classification of Goods.
+
+Please note classification rulings are only applicable for use within Singapore. If your goods are imported into another country, please seek the advice of the relevant authority in the importing country.
+
+### How to apply?
+You may submit the  [Application For Customs Ruling on Classification of Goods](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68) [](https://www.customs.gov.sg/businesses/harmonized-system-hs-classification-of-goods/-/media/0dfc8c5a2f674da982e1fb32ae3af310.ashx)with the following supporting documents:
+
+-   Product catalogue/brochure
+-   Product specification/datasheet
+-   Full ingredients/chemical/material composition (in %)
+-   Manufacturing process
+
+Each application is for the classification of  ONE  product. The contact details are enclosed in the application form.
+
+### How much does it cost to apply?
+A fee of S$75 inclusive of Goods & Services Tax will be charged for each application. Payment must be made upon receiving the billing notification from Singapore Customs. The billing indicates the bill reference number and would only be generated after we received the complete submission of your application form and supporting documents.
+
+You may pay via Inter Bank Giro (IBG), cash, NETS or credit card. Payment by cash, NETS or credit card can be made at any SingPost branch.
+
+### How long is the process?
+Singapore Customs will evaluate and determine the full 8-digit HS code of your product. You will receive a letter, indicating the applicant's/company's name and address, the product’s name and description, 8-digit HS code and our assessment of the product.
+
+The classification process may take up to 30 days, depending on the complexity of the product and the completeness of the information furnished. The product information and its classification may be made available in the  [Customs Ruling Database](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/customs-ruling-database_sep-19.xlsx?la=en&hash=6582FDC498BCD90C7DF403C909B66C3CEBEEB4DB), subject to the consent of the applicant.
+
+### Validity of Customs Ruling
+The issued Customs ruling will be valid at the time of issuance based on the Customs Act and its subsidiary legislation in force at the time of the issuance of the Customs ruling. All matters within the issued Customs ruling do not apply three years after the date of issuance, or the date a provision of the Customs Act (including its subsidiary legislation) is repealed or amended to the extent that the repeal or amendment changes the way that provision applies in this ruling, which ever comes earlier. The issued Customs ruling may also be withdrawn or rescinded on the grounds stated in paragraph 7(9) of the Schedule to the Customs Act.
+
+You may appeal for a review of the Customs Ruling issued. The appeal must be submitted within 10 working days from the date of issuance of the ruling. You have to state the grounds of appeal and submit all supporting documents to substantiate the appeal.
+
+Upon receipt of the appeal, Singapore Customs will conduct a review and inform you of the outcome via email.
