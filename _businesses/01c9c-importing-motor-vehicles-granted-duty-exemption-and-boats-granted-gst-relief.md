@@ -6,7 +6,7 @@ third_nav_title: Importing Goods
 
 # Importing Motor Vehicles Granted Duty Exemption and Boats Granted GST Relief
 
-In general, importing motor vehicles for local use incurs  [Goods and Services Tax (GST)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) and  [duty](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods), while the import of pleasure boats for local use incurs GST only.
+In general, importing motor vehicles for local use incurs  [Goods and Services Tax (GST)](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) and  [duty](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods), while the import of pleasure boats for local use incurs GST only.
 
 However, there are selected types of motor vehicles that are granted duty exemption and boats that are granted GST relief respectively. Please click on the tabs below to find out more.
 
@@ -38,7 +38,7 @@ Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, al
 
 ### Application for Duty Exemption on Selected Motor Vehicles
 
-1) Prior to the importation of the motor vehicle from overseas or removal from  [licensed warehouse](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme), you or your appointed freight handling agent must submit the following supporting documents to [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg) for Singapore Customs’ assessment of your eligibility for duty exemption:
+1) Prior to the importation of the motor vehicle from overseas or removal from  [licensed warehouse](https://singapore-customs-staging.netlify.com/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme), you or your appointed freight handling agent must submit the following supporting documents to [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg) for Singapore Customs’ assessment of your eligibility for duty exemption:
 
 -   Cover letter stating purpose of request
 -   Land Transport Authority (LTA)’s approval letter (if applicable)
