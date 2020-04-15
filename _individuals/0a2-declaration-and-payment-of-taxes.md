@@ -12,6 +12,7 @@ third_nav_title: Going Through Customs
 Under Singapore’s laws, arriving travellers are required to declare and pay the duty and Goods and Services Tax (GST) to bring in dutiable and taxable goods exceeding their  [duty-free concession and GST relief](https://singapore-customs-staging.netlify.com/individuals/0a1-duty-free-concession-and-gst-relief). This is applicable whether the goods were purchased overseas or in Singapore.
 
 ***
+
 Accordion:
 ### Dutiable Goods and GST Taxable Goods
 There are four categories of dutiable goods in Singapore:
@@ -69,7 +70,9 @@ You need to present a valid  **Customs import permit**  for clearance if you are
 -   Goods clearly marked as trade samples (excluding liquor and tobacco products) the value on which  **exceeds S$400**
 
 More information on permit requirements is available  [here](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/types-of-import-permits). Alternatively, you may contact us on (+65) 63552000 or email us at  [customs_documentation@customs.gov.sg](mailto:Customs_Documentation@Customs.gov.sg).
+
 ***
+
 ### When to use the Green Channel
 ![](https://www.customs.gov.sg/-/media/cus/images/individuals/green-channel.gif)
 
