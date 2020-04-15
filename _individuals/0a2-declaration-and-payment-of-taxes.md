@@ -24,6 +24,7 @@ There are four categories of dutiable goods in Singapore:
 -   **Motor fuel**, including motor spirits, diesel products and compressed natural gas (CNG)
 
 All goods imported into Singapore are subject to GST.
+
 ***
 
 ### Payment of Taxes
@@ -33,6 +34,7 @@ Payment of Duties and GST can be made via the following payment modes:
 -   Visa or Master credit cards on the  [Customs@SG Mobile App and Web Application](https://singapore-customs-staging.netlify.com/eservices/customs-sg-mobile-and-web-application/)
 
 ( End of  accordion)
+
 ***
 
 
