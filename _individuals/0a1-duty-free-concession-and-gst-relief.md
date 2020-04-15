@@ -70,7 +70,7 @@ All goods brought into Singapore are subject to 7 per cent Goods & Services Tax 
 
 Travellers are granted GST import relief on new goods that are purchased overseas and brought into Singapore for their personal use. The relief amount is based on the duration that the traveller has spent outside Singapore:
 
-| Time Spent Away from Singapore | Value of Goods Granted GST Relief |
+| Time Spent Away from Singapore | Value of Goods Granted GST Relief * |
 |--|--|
 | 48 hours or more | S$500 |
 | Less than 48 hours | S$100 |
