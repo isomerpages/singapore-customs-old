@@ -29,7 +29,8 @@ An ADAA is not required for facilities involved in the production of DOCs.
 
 ### Timeline for Submission
 
-The ADAA exercise starts from  **15 June of each year**.
+The ADAA exercise starts from  **15 June of each year**
+
 | Schedule of Chemicals | ADAA Submission Deadline |
 |-----------------------|--------------------------|
 | Schedule 1 chemicals and related facilities | 15 August of each year |
