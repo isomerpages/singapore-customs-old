@@ -8,5 +8,5 @@ third_nav_title: Importing Goods
 
 If the goods for the exhibition are to be hand-carried into Singapore via air, sea, road or rail, the trader or local Declaring Agent must produce the temporary import permit, together with the goods at the checkpoints for verification and endorsement.
 
-Please click  [here](http://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme)  for more information on the temporary importation of goods.
+Please click  [here](https://singapore-customs-staging.netlify.com/businesses/importing-goods/temporary-import-scheme)  for more information on the temporary importation of goods.
 
