@@ -4,7 +4,7 @@ permalink: /individuals/importing-personal-pets/
 ---
 # Importing Personal Pets
 
-Click on the links below to learn more about the  [importing of personal pets](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/importing-of-personal-pets)  into Singapore:
+Click on the links below to learn more about the importing of personal pets  into Singapore:
 
 -   [Procedures & Requirements](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/importing-of-personal-pets)
 -   [Importing Personal Pets for Transfer of Residence](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/importing-of-personal-pets)
