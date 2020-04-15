@@ -28,7 +28,7 @@ The importer or the appointed freight handling agent should follow the steps in 
 -   A cover letter from the exporter or his agent stating reasons for the re-importation; and
 -   A copy of the previous Customs OUT (Approved Premises/Schemes) permit before the intended exportation.
 
-2) [Apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#applycustomsimportpermit) for a Customs In-Non Payment (Shut-Out) permit via TradeNet before the re-importation.
+2) [Apply](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/) for a Customs In-Non Payment (Shut-Out) permit via TradeNet before the re-importation.
 
 3) When applying for the permit, please note:
 
@@ -40,7 +40,7 @@ The importer or the appointed freight handling agent should follow the steps in 
 Please refer to  [Circular No. 02/2015](https://www.customs.gov.sg/~/media/cus/files/circulars/corp/2015/circular_02_2015.pdf) on the requirements for the movement of dutiable goods and the declaration for exportation of dutiable goods from a licensed warehouse.
 
 ## Duty Exemption and GST Relief for Re-Importing Dutiable Shut-Out Goods Previously under Transhipment with Inter-gateway Movement into a Licensed Warehouse (ie. Transhipment From First Checkpoint to Second Checkpoint, and Shut-out From Second Checkpoint)
-1) [Apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#applycustomsimportpermit) for a Customs In-Non Payment (Approved Premises/Schemes) permit via TradeNet before the re-importation of dutiable goods into a licensed warehouse.
+1) [Apply](hhttps://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/) for a Customs In-Non Payment (Approved Premises/Schemes) permit via TradeNet before the re-importation of dutiable goods into a licensed warehouse.
 
 2) When applying for the permit, please take note of the following:
 
@@ -66,7 +66,7 @@ The importer or his appointed freight handling agent is required to produce the 
 -   Other relevant supporting documents.
 
 ## GST Relief for Re-Importing Non-Dutiable Shut-out Goods after 24 hours of entering FTZ or Authorised Pier/Place into Customs Territory ( not previously Released from a Zero GST Warehouse, not under the Temporary Import Scheme and not under Transhipment with Inter-Gateway Movement)
-1) [Apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#applycustomsimportpermit) for a Customs In-Non Payment (Shut-Out) permit via TradeNet before the re-importation.
+1) [Apply](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/) for a Customs In-Non Payment (Shut-Out) permit via TradeNet before the re-importation.
 
 2) When applying for the permit, please take note of the following:
 
@@ -76,7 +76,7 @@ The importer or his appointed freight handling agent is required to produce the 
 3) Produce the permit and supporting documents (for example, commercial invoice, packing list and Bill of Lading) to the checkpoint officers for verification during cargo clearance.
 
 ## GST Relief for Re-Importing Non-Dutiable Shut-out Goods Previously Released from a Zero GST Warehouse, into a Zero GST Warehouse
-1) [Apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#applycustomsimportpermit)  for a Customs In-Non-Payment (Shut-out) permit via TradeNet before the re-importation of non-dutiable goods into a Zero GST warehouse.
+1) [Apply](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Shut-out) permit via TradeNet before the re-importation of non-dutiable goods into a Zero GST warehouse.
 
 2) When applying for the permit, please take note of the following:
 
@@ -86,7 +86,7 @@ The importer or his appointed freight handling agent is required to produce the 
 
 ## GST Relief for Re-Importing Non-Dutiable Shut-out Goods Previously Under Transhipment with Inter-Gateway Movement ( i.e. Transhipment from first Checkpoint to second CheckPoint, and Shut-out from Second CheckPoint) Into a Zero GST Warehouse
 
-1) [Apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#applycustomsimportpermit)  for a Customs In-Non-Payment (Approved Premises/Schemes) permit via TradeNet before the importation of non-dutiable goods into a Zero GST warehouse.
+1) [Apply](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Approved Premises/Schemes) permit via TradeNet before the importation of non-dutiable goods into a Zero GST warehouse.
 
 2) When applying for the permit, please take note of the following:
 
