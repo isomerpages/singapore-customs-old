@@ -22,7 +22,7 @@ Before applying for the GST relief for the CTMs, you should take note of the fol
     
 -   Obtain approval from the [National Environment Agency](http://www.nea.gov.sg/energy-waste/waste-management) if the CTMs are imported for destruction or disposal in Singapore.
     
--   Register for a [claimant account](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/register-claimants) with Singapore Customs.
+-   Register for a [claimant account](https://singapore-customs-staging.netlify.com/businesses/00h-register-claimants) with Singapore Customs.
     
 
 When applying for a TradeNet GST relief permit, please take note of the following:  
@@ -44,7 +44,7 @@ Please be advised that non-CTM goods cannot be submitted in the same permit appl
 
 For verification during  [cargo clearance](https://www.ica.gov.sg/enteringanddeparting/cargo_postal_info), please present the relevant import permit and supporting documents such as commercial invoice, packing list and Bill of Lading/Airway Bill to the checkpoint officers.
 
-[HS Codes for CTMs](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials#item-heading-ed15d99a-19c2-4e8a-ab5d-3afcc324dcf8)
+### HS Codes for CTM
 
 | S/N | HS Codes | S/N | HS Codes | S/N | HS Codes | S/N | HS Codes 
 |--|--|--|--|--|--|--|--|
