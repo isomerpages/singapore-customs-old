@@ -10,8 +10,7 @@ The Tourist Refund Scheme (TRS) is administered by Singapore Customs on behalf o
 For more information on the scheme’s qualifying conditions and tourist eligibility criteria, please refer to IRAS’ webpage on  [Tourist Refund Scheme](https://www.iras.gov.sg/IRASHome/Schemes/GST/Tourist-Refund-Scheme/).
 <br>
 ***
-Accordion:
-***
+
 ### Where can I claim GST refund?
 GST refund, subject to conditions of the scheme, can be claimed at these locations:
 
@@ -32,7 +31,6 @@ Before departing from the airport, please proceed to the electronic TRS (eTRS) s
 
 3) Physical passport and boarding pass/confirmed air ticket.
 <br>
-( End of Accordion )
 
 ***
 
