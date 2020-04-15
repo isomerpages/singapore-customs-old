@@ -19,10 +19,10 @@ As an importer, you will need to first  **determine if duty and/or GST payment s
 -   Duty and/or GST are suspended when goods remain inside a FTZ
 -   Duty and/or GST are payable if goods are released directly for local circulation
 -   When goods are moved from a FTZ or entry point into a Customs licensed premises (such as zero-GST warehouses or licensed warehouses), duty and/or GST will be suspended as long as the goods are stored in the licensed premises
--   Duty and/or GST are not payable for goods granted duty exemption or GST relief or those imported under the  [Temporary Import Scheme](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme) under Singapore Customs or the relevant Inland Revenue Authority of Singapore (IRAS) schemes:
-    -   [Major Exporter Scheme (MES)](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/iras-schemes/major-exporter-scheme)
-    -   [Approved Import GST Suspension Scheme (AISS)](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/iras-schemes/approved-import-gst-suspension-scheme)
-    -   [Import GST Deferment Scheme (IGDS)](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/iras-schemes/import-gst-deferment-scheme-igds)
+-   Duty and/or GST are not payable for goods granted duty exemption or GST relief or those imported under the  [Temporary Import Scheme](https://singapore-customs-staging.netlify.com/businesses/importing-goods/temporary-import-scheme) under Singapore Customs or the relevant Inland Revenue Authority of Singapore (IRAS) schemes:
+    -   [Major Exporter Scheme (MES)](https://singapore-customs-staging.netlify.com/businesses/customs-schemes-licences-framework/iras-schemes/major-exporter-scheme)
+    -   [Approved Import GST Suspension Scheme (AISS)](https://singapore-customs-staging.netlify.com/businesses/customs-schemes-licences-framework/iras-schemes/approved-import-gst-suspension-scheme)
+    -   [Import GST Deferment Scheme (IGDS)](https://singapore-customs-staging.netlify.com/businesses/customs-schemes-licences-framework/iras-schemes/import-gst-deferment-scheme-igds)
 
 To account for the entry of your goods, please follow the steps below to obtain the relevant import permits and authorisation (if the goods are subject to control) from the relevant Competent Authorities.
 
@@ -41,14 +41,14 @@ will need to:
 ## Step 2: Check if Your Goods are Controlled
 Do check if the goods you intend to import are controlled goods or goods subject to restrictions by Competent Authorities (CAs) in Singapore.
 
-You may  [search](https://www.customs.gov.sg/businesses/resources/hs-and-ca-product-code-search-engine) using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, the name of the CA will be indicated next to its HS code. You may check directly with the respective CAs on their licensing requirements.
+You may  [search](https://singapore-customs-staging.netlify.com/tradenet/portlets/search/searchcountryport/searchinitcountryport) using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, the name of the CA will be indicated next to its HS code. You may check directly with the respective CAs on their licensing requirements.
 
-If you require advice on the full 8-digit  [HS code](https://www.customs.gov.sg/businesses/resources/hs-and-ca-product-code-search-engine)  of the product, you may apply for an  [official classification ruling](https://www.customs.gov.sg/-/media/cus/files/business/importing-goods/quick-guide-for-importers/sca004.doc?la=en&hash=219BA9369AC2E6E6011EC144EDCB1C3DA6BC79AB)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
+If you require advice on the full 8-digit  [HS code](https://singapore-customs-staging.netlify.com/tradenet/portlets/search/searchcountryport/searchinitcountryport)  of the product, you may apply for an  [official classification ruling](https://www.customs.gov.sg/-/media/cus/files/business/importing-goods/quick-guide-for-importers/sca004.doc?la=en&hash=219BA9369AC2E6E6011EC144EDCB1C3DA6BC79AB)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
 ## Step 3: Apply for Inter-Bank GIRO
 You or your Declaring Agent must maintain an Inter-Bank GIRO (IBG) with Singapore Customs to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Custom from your bank account to Singapore Customs directly.
 
-Mail the completed  [Application for Inter-Bank GIRO form](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Registration)  to Singapore Customs’ address as indicated in the form.
+Mail the completed  [Application for Inter-Bank GIRO form](https://singapore-customs-staging.netlify.com/eservices/customs-forms-and-service-links) to Singapore Customs’ address as indicated in the form.
 
 You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP) to use your IBG for the payment of duties and GST for your customs permit one day after the approval of your IBG application. If you do not maintain an IBG with Singapore Customs, the duties and GST will be deducted from your Declaring Agent’s IBG.
 
@@ -57,17 +57,17 @@ You are required to furnish security for transactions involving dutiable goods, 
 
 The security furnished should be in the form of a Banker’s Guarantee, Finance Company Guarantee or an Insurance Bond.
 
-[More information on security lodgement](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/security-lodgement).
+[More information on security lodgement](https://singapore-customs-staging.netlify.com/businesses/00e-security-lodgement).
 
 ## Step 5: Apply for Customs Import Permit
 You may:
 
--   Appoint a  [Declaring Agent](https://www.customs.gov.sg/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for customs permits on your behalf; or
+-   Appoint a  [Declaring Agent](https://singapore-customs-staging.netlify.com/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for customs permits on your behalf; or
 -   Apply for customs permits for your own or on behalf of your clients. To do so, you will need to register as a  [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct).
 
 All permit applications must be submitted via TradeNet, which is accessible through:
 
--   TradeNet front-end software from an  [approved software vendor;](https://www.customs.gov.sg/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers) or
+-   TradeNet front-end software from an  [approved software vendor;](https://singapore-customs-staging.netlify.com/about-us/07a2-tradenet-solution-providers) or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
 
 Each permit application typically costs S$2.88. This does not include service fees charged by service providers such as freight forwarders, Declaring Agents etc. If you are engaging a Declaring Agent for assistance to submit the permit application, you may wish to check the amount of service fees that they charge.
