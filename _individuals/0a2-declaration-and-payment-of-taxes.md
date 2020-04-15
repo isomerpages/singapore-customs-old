@@ -13,7 +13,6 @@ Under Singapore’s laws, arriving travellers are required to declare and pay th
 
 ***
 
-Accordion:
 ### Dutiable Goods and GST Taxable Goods
 There are four categories of dutiable goods in Singapore:
 
@@ -33,7 +32,6 @@ Payment of Duties and GST can be made via the following payment modes:
 -   All major credit cards (MasterCard, Visa and American Express), mobile wallets, NETS and Cashcard at the Singapore Customs Tax Payment Office
 -   Visa or Master credit cards on the  [Customs@SG Mobile App and Web Application](https://singapore-customs-staging.netlify.com/eservices/customs-sg-mobile-and-web-application/)
 
-( End of  accordion)
 
 ***
 
@@ -44,9 +42,9 @@ Major traveller entry checkpoints in Singapore operate the Red and Green Channel
 
 ***
 
-Accordion :
 ### When To Use 	The Red Channel
-![](https://www.customs.gov.sg/-/media/cus/images/individuals/red-channel.gif)
+
+![](/images/RedC.gif)
 
 Proceed to the Red Channel if you are carrying:
 
@@ -76,7 +74,7 @@ More information on permit requirements is available  [here](https://singapore-c
 ***
 
 ### When to use the Green Channel
-![](https://www.customs.gov.sg/-/media/cus/images/individuals/green-channel.gif)
+![](/images/GreenC.gif)
 
 Proceed to the Green Channel if you are not carrying any declarable goods stated above. ICA officers will conduct selective checks at the Green Channel.
 
@@ -86,4 +84,4 @@ It is the responsibility of travellers to make an accurate and complete declarat
 
 Those who fail to do so can be fined and prosecuted in court. More information on customs offences is available [here.](https://singapore-customs-staging.netlify.com/individuals/0c-offences)
 
-(End of Accordion) 
+
