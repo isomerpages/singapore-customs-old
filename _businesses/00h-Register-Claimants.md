@@ -7,8 +7,8 @@ third_nav_title: Registration Matters
 
 A Claimant registration is required before a Claimant Organisation can be granted the Goods and Services Tax (GST) relief and/or duty exemption for the following scenarios only:
 
--   GST relief on [Medicinal Products and Therapeutic Products for Clinical Trials](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials);
--   Duty exemption on [ethyl alcohol for approved purpose](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-ethyl-alcohol)s;
+-   GST relief on [Medicinal Products and Therapeutic Products for Clinical Trials](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials);
+-   Duty exemption on [ethyl alcohol for approved purposes](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/importing-ethyl-alcohol);
 -   Duty exemption on manufactured beers used for testing purposes in licensed breweries;
 -   Duty exemption and GST relief on [wines imported for approved wine events](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme/approved-wine-event);
 -   Duty exemption granted to tobacco manufacturers;
