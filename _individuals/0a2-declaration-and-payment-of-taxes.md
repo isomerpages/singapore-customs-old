@@ -9,7 +9,7 @@ third_nav_title: Going Through Customs
 
 ## What to declare?
 
-Under Singapore’s laws, arriving travellers are required to declare and pay the duty and Goods and Services Tax (GST) to bring in dutiable and taxable goods exceeding their  [duty-free concession and GST relief](https://www.customs.gov.sg/individuals/going-through-customs/arrival/duty-free-concession-and-gst-relief). This is applicable whether the goods were purchased overseas or in Singapore.
+Under Singapore’s laws, arriving travellers are required to declare and pay the duty and Goods and Services Tax (GST) to bring in dutiable and taxable goods exceeding their  [duty-free concession and GST relief](https://singapore-customs-staging.netlify.com/individuals/0a1-duty-free-concession-and-gst-relief). This is applicable whether the goods were purchased overseas or in Singapore.
 
 ***
 Accordion:
@@ -29,7 +29,7 @@ All goods imported into Singapore are subject to GST.
 Payment of Duties and GST can be made via the following payment modes:
 
 -   All major credit cards (MasterCard, Visa and American Express), mobile wallets, NETS and Cashcard at the Singapore Customs Tax Payment Office
--   Visa or Master credit cards on the  [Customs@SG Mobile App and Web Application](https://www.customs.gov.sg/eservices/customs-sg-mobile-and-web-application)
+-   Visa or Master credit cards on the  [Customs@SG Mobile App and Web Application](https://singapore-customs-staging.netlify.com/eservices/customs-sg-mobile-and-web-application/)
 
 ( End of  accordion)
 ***
@@ -47,10 +47,8 @@ Accordion :
 
 Proceed to the Red Channel if you are carrying:
 
--   [Dutiable goods exceeding your duty-free concession](https://www.customs.gov.sg/individuals/going-through-customs/arrival/duty-free-concession-and-gst-relief#DutyFree); or
--   [Goods exceeding your GST relief](https://www.customs.gov.sg/individuals/going-through-customs/arrival/duty-free-concession-and-gst-relief); or
--   [Controlled or restricted goods](https://www.customs.gov.sg/individuals/going-through-customs/arrival/prohibited-and-controlled-goods); or
--   [Prohibited goods](https://www.customs.gov.sg/individuals/going-through-customs/arrival/prohibited-and-controlled-goods)
+-   [Dutiable goods exceeding your duty-free concession or Goods exceeding your GST relief](https://singapore-customs-staging.netlify.com/individuals/0a1-duty-free-concession-and-gst-relief); or
+-   [Controlled or restricted goods or Prohibited goods](https://singapore-customs-staging.netlify.com/individuals/0a3-prohibited-and-controlled-goods)
 
 The Red Channel and the examination counters are manned by **the Immigration & Checkpoints Authority (ICA)**. Checks on persons, baggage and vehicles entering Singapore are conducted by ICA.
 
@@ -70,7 +68,7 @@ You need to present a valid  **Customs import permit**  for clearance if you are
 -   Goods for trade, commercial or business purposes, in which the GST payable  **exceeds S$300**; or
 -   Goods clearly marked as trade samples (excluding liquor and tobacco products) the value on which  **exceeds S$400**
 
-More information on permit requirements is available  [here](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/types-of-import-permits). Alternatively, you may contact us on (+65) 63552000 or email us at  [customs_documentation@customs.gov.sg](mailto:Customs_Documentation@Customs.gov.sg).
+More information on permit requirements is available  [here](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/types-of-import-permits). Alternatively, you may contact us on (+65) 63552000 or email us at  [customs_documentation@customs.gov.sg](mailto:Customs_Documentation@Customs.gov.sg).
 ***
 ### When to use the Green Channel
 ![](https://www.customs.gov.sg/-/media/cus/images/individuals/green-channel.gif)
@@ -81,6 +79,6 @@ If in doubt, always ask the checking officers at the Red Channel/Customs Examina
 
 It is the responsibility of travellers to make an accurate and complete declaration of all goods exceeding their duty-free concession and GST relief in their possession, including goods carried for or on behalf of other persons.
 
-Those who fail to do so can be fined and prosecuted in court. More information on customs offences is available [here.](https://www.customs.gov.sg/individuals/going-through-customs/offences)
+Those who fail to do so can be fined and prosecuted in court. More information on customs offences is available [here.](https://singapore-customs-staging.netlify.com/individuals/0c-offences)
 
 (End of Accordion) 
