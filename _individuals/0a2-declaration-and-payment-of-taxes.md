@@ -47,7 +47,7 @@ Accordion :
 
 Proceed to the Red Channel if you are carrying:
 
--   [Dutiable goods exceeding your duty-free concession or Goods exceeding your GST relief](https://singapore-customs-staging.netlify.com/individuals/0a1-duty-free-concession-and-gst-relief); or
+-   [Dutiable goods exceeding your duty-free concession or Goods exceeding your GST relief](https://singapore-customs-staging.netlify.com/individuals/0a1-duty-free-concession-and-gst-relief); 
 -   [Controlled or restricted goods or Prohibited goods](https://singapore-customs-staging.netlify.com/individuals/0a3-prohibited-and-controlled-goods)
 
 The Red Channel and the examination counters are manned by **the Immigration & Checkpoints Authority (ICA)**. Checks on persons, baggage and vehicles entering Singapore are conducted by ICA.
