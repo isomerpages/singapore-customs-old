@@ -9,7 +9,7 @@ third_nav_title: Importing Goods
 
 Importing  **dutiable ethyl alcohol**  or  **undenatured ethyl alcohol**  incurs Goods and Services Tax (GST) and duty.
 
-GST is calculated based on the  [Cost, Insurance and Freight (CIF) value](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value#CIF) of the goods plus all duties and other charges incidental to the sale and delivery of the goods into Singapore, whether or not shown on the invoice. The duty rates can be found  [here](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods)**.**
+GST is calculated based on the  [Cost, Insurance and Freight (CIF) value](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods plus all duties and other charges incidental to the sale and delivery of the goods into Singapore, whether or not shown on the invoice. The duty rates can be found  [here](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods)**.**
 
 A Customs In-Payment (Duty and GST) permit is required to account for its import and payment of the duty and GST.
 
@@ -25,9 +25,9 @@ The import of dutiable ethyl alcohol by the following organisations or persons f
 
 1) Submit a completed  [duty exemption application form](http://eservices.customs.gov.sg/scripts/customs/DutyExemptEA/DEA1_Form.asp)  for our assessment of duty exemption eligibility.
 
-2) When confirmation of eligibility and the approved import quota are received, register for a  [claimant account](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/register-claimants) with Singapore Customs.
+2) When confirmation of eligibility and the approved import quota are received, register for a  [claimant account](https://singapore-customs-staging.netlify.com/businesses/00h-register-claimants) with Singapore Customs.
 
-3) Once the claimant registration is approved, submit a  [Customs In-Payment (GST including duty exemption) permit](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/types-of-import-permits) with the place of receipt code declared as “ETHYL”.
+3) Once the claimant registration is approved, submit a  [Customs In-Payment (GST including duty exemption) permit](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/types-of-import-permits) with the place of receipt code declared as “ETHYL”.
 
 If you decide to increase or decrease the quantity of ethyl alcohol to import, please provide the following information to  [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg):
 
