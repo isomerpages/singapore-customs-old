@@ -24,9 +24,9 @@ Imported goods are subject to GST and/or duty payment. A customs permit is requi
 
 Ad valorem or specific duty rates may be applied for dutiable goods.
 
-All other goods are **non-dutiable and incur GST only**. GST is levied at 7% of the [CIF (cost, insurance and freight) value](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value#CIF), which includes duties (if it is a dutiable good) and other charges, costs and expenses incidental to the sale and delivery of the goods into Singapore, whether or not shown on the invoice.
+All other goods are **non-dutiable and incur GST only**. GST is levied at 7% of the [CIF (cost, insurance and freight) value](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value), which includes duties (if it is a dutiable good) and other charges, costs and expenses incidental to the sale and delivery of the goods into Singapore, whether or not shown on the invoice.
 
-Find out more about [duties](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods) and [GST](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst).
+Find out more about [duties](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and [GST](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst).
 
 ## Import Requirements
 
@@ -41,7 +41,7 @@ The importer is the party who imports the goods into Singapore:
 
 If an overseas company sold goods to a local company and the commercial invoice indicates the local customer as the consignee, the local customer will be the importer of the goods.
 
-More information [here](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/types-of-import-permits) about the types of customs permits and situations where no customs permit is required.
+More information [here](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/types-of-import-permits) about the types of customs permits and situations where no customs permit is required.
 
 Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/) on the arrangements to account for the GST.
 
