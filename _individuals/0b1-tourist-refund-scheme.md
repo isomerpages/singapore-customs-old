@@ -8,7 +8,8 @@ third_nav_title: Going Through Customs
 The Tourist Refund Scheme (TRS) is administered by Singapore Customs on behalf of the Inland Revenue Authority of Singapore (IRAS).  The scheme allows tourists to claim a refund of the Goods and Services Tax (GST) paid on goods purchased from participating retailers if the goods are brought out of Singapore via Changi International Airport or Seletar Airport.
 
 For more information on the scheme’s qualifying conditions and tourist eligibility criteria, please refer to IRAS’ webpage on  [Tourist Refund Scheme](https://www.iras.gov.sg/IRASHome/Schemes/GST/Tourist-Refund-Scheme/).
-<br>
+
+
 ***
 
 ### Where can I claim GST refund?
