@@ -31,7 +31,7 @@ You may also wish to view the  [complete list](https://www.customs.gov.sg/-/medi
 
 In the event of TradeNet unavailability announced by Singapore Customs, importers who are unable to obtain an approved Customs permit will be advised to use a [Letter of Undertaking](https://www.customs.gov.sg/-/media/cus/files/business/importing-goods/import-procedures/types-of-import-permits/lou-template-for-tn-unavailability-6aug15.docx?la=en&hash=2FC5CEF4EFC59B24B34204EF62011F8A7E5FBC8E) to facilitate the clearance of their goods.
 
-The importer should apply for a Customs permit for the goods within **3** **days** from the date TradeNet is restored. However, importers are still required to make duty and/or GST payment at the checkpoints, if there is no [duty-free concession](https://www.customs.gov.sg/individuals/going-through-customs/arrival/duty-free-concession-and-gst-relief) on the goods imported
+The importer should apply for a Customs permit for the goods within **3** **days** from the date TradeNet is restored. However, importers are still required to make duty and/or GST payment at the checkpoints, if there is no [duty-free concession](https://singapore-customs-staging.netlify.com/individuals/0a1-duty-free-concession-and-gst-relief) on the goods imported
 
 ## Situations Where Import Permit is Not Required
 
@@ -46,10 +46,10 @@ Certain import situations do not require Customs permits. These include, but not
 -   Bona fide trade samples, specimens for analysis or test, and gifts, excluding intoxicating liquors and tobacco, of a total value not exceeding S$400
 -   Self-propelled boats for pleasure, recreation, sports or other similar events (for example, sailing yachts)
 -   Freight shipping containers for international conveyance of goods
--   Human remains, human bones or cremated ashes (please refer [here](https://www.customs.gov.sg/individuals/transfer-of-remains-for-cremation-or-burial) for more information)
+-   Human remains, human bones or cremated ashes (please refer [here](https://singapore-customs-staging.netlify.com/individuals/transfer-of-remains-for-cremation-or-burial/) for more information)
 
 ## Further information
 
 You may access Module 5 of the online e-Learning [Guide to Customs’ Procedures](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) for more information on ‘Important Permit Fields table’, ‘List of Message and Declaration Types for permit applications’ and ‘Types of Permit Applications’ via **Resources** > Module 5.
 
-Declarants may also attend the [course](https://www.customs.gov.sg/businesses/resources/courses-and-events) SC 111 – Hands-On TradeNet Declaration which provides participants with an overview on the various TradeNet messages and declaration types and a guided practical session on preparing and submitting a permit application via TradeNet.
+Declarants may also attend the [course](https://singapore-customs-staging.netlify.com/businesses/resources/courses-and-events) SC 111 – Hands-On TradeNet Declaration which provides participants with an overview on the various TradeNet messages and declaration types and a guided practical session on preparing and submitting a permit application via TradeNet.
