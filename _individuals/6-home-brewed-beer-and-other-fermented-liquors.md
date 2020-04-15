@@ -11,7 +11,7 @@ An individual does not require a licence to home-brew beer and other fermented l
 -   The manufacture of liquor shall be by fermentation and not by distillation
 -   The amount of liquor manufactured shall not exceed –  
     (i) in relation to beer*, 30 litres per household of the person per month  
-    (ii) in relation to any other fermented liquor, 30 litres in total of all such liquors per household of the person per month
+    (ii) in relation to any other fermented liquor*, 30 litres in total of all such liquors per household of the person per month
 -   The liquor manufactured shall be for personal use and is not for sale
 -   The manufacturing activities shall not create a nuisance to the public or degrade the environment
 -   The home-brewing shall be carried out at the home of the individual, and it could be a HDB flat or private property
