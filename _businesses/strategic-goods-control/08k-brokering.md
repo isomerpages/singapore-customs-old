@@ -36,6 +36,7 @@ You will need a brokering permit if you:
 -   Know; or have reasonable grounds to suspect
 
 That the goods or technology you are brokering are intended or likely to be used, wholly or in part, for or in connection with the:
+
 |  |  |  |
 |---|---|---|
 | - Development;  <br> - Production;  <br> - Handling;  <br> - Operation;  <br> -  Maintenance; <br> - Storage;  <br> - Detection;  <br> - Identification; or  <br> -  Dissemination <br><br> of any nuclear, chemical or biological weapon | **OR** | - Development; <br> - Production; <br> - Maintenance; or <br> - Storage <br><br> of missiles capable of delivering any nuclear, chemical or biological weapons |
