@@ -52,12 +52,12 @@ Important Notes:
     
 -   If you are bringing in more than 10 litres of liquor products, a Customs permit would be required for clearance.
     
--   Travellers are required to pay the taxes on liquor products exceeding their duty-free concession and on goods carried for or on behalf of other persons. More information on the duty rates imposed [here](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods).
+-   Travellers are required to pay the taxes on liquor products exceeding their duty-free concession and on goods carried for or on behalf of other persons. More information on the duty rates imposed [here](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods).
 
 ### Cigarettes and Tobacco Products
 There is no duty-free concession and Goods and Services Tax (GST) relief for cigarettes and tobacco products in Singapore.
 
-All cigarettes and tobacco products, including those purchased in Singapore with the ‘SDPC’ mark, are subject to [duty](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods) and GST when brought into Singapore.
+All cigarettes and tobacco products, including those purchased in Singapore with the ‘SDPC’ mark, are subject to [duty](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and GST when brought into Singapore.
 
 ### Motor Fuel Including Motor Spirits, Diesel Products and Compressed Natural Gas (CNG)
 There is no duty-free concession and GST relief on motor fuel including motor spirits, diesel products and compressed natural gas (CNG) in containers.
@@ -81,10 +81,10 @@ Goods granted GST import relief include new articles, souvenirs, gifts and food 
 
 Travellers are required to pay GST on the value of the goods  that exceeds the amount of GST import relief granted to them.
 
-For convenience, you may make an advance declaration and payment of GST using our  [Customs@SG mobile app or web portal](http://www.customs.gov.sg/eservices/customs-sg-mobile-and-web-application). Alternatively, you can declare and pay  the GST for your goods at the Customs Tax Payment Office.
+For convenience, you may make an advance declaration and payment of GST using our  [Customs@SG mobile app or web portal](https://singapore-customs-staging.netlify.com/eservices/customs-sg-mobile-and-web-application/). Alternatively, you can declare and pay  the GST for your goods at the Customs Tax Payment Office.
 
 ## Reminder
 
 It is the responsibility of travellers to make an accurate and complete declaration of all goods exceeding their duty-free concession and GST relief in their possession, including goods carried for or on behalf of other persons.
 
-Those who fail to declare at the Red Channel can be fined and prosecuted in court. More information on customs offences [here](https://www.customs.gov.sg/individuals/going-through-customs/offences).
+Those who fail to declare at the Red Channel can be fined and prosecuted in court. More information on customs offences [here](https://singapore-customs-staging.netlify.com/individuals/0c-offences).
