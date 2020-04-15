@@ -8,8 +8,9 @@ third_nav_title: Going Through Customs
 # Duty-Free Concession and GST Relief
 
 ## Duty-Free Concession
-(Accordion)
+
 ***
+
 ### Liquor Products
 Travellers are entitled to duty-free concession for liquors if all the following conditions are met:
 
@@ -61,8 +62,9 @@ All cigarettes and tobacco products, including those purchased in Singapore with
 
 ### Motor Fuel Including Motor Spirits, Diesel Products and Compressed Natural Gas (CNG)
 There is no duty-free concession and GST relief on motor fuel including motor spirits, diesel products and compressed natural gas (CNG) in containers.
+
 ***
-<br>
+
 
 ## Goods and Services Tax (GST) Relief
 
