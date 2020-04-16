@@ -19,11 +19,11 @@ Your company can enjoy improved cash flow under the Air Store Bond Scheme.
 To qualify for the Air Store Bond Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Obtain approval from the Changi Airport Group to operate an air store bond
--   Undergo  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) assessment and attain the minimum “Enhanced” Band
+-   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Enhanced” Band
 
 ## Licence Fee
 
@@ -100,7 +100,7 @@ Yes, the renewal of the licence is dependent on:
 -   Payment of the annual licence fee
 -   Lodgment of the Banker’s Guarantee or insurance bond, if applicable
 -   Compliance records with Singapore Customs
--   Outcome of the  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) assessment
+-   Outcome of the  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment
 
 **4)** **Is the licence transferable?**
 
@@ -108,6 +108,6 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 **5)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](https://www.customs.gov.sg/about-us/national-single-window/tradenet).
+Customs permits can be declared through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview).
 
-Find out more about  [Permit Declaration](https://www.customs.gov.sg/businesses/registering-to-trade/quick-guide-on-registration-matters).
+Find out more about  [Permit Declaration](https://singapore-customs-staging.netlify.app/businesses/registration-matters/overview).
