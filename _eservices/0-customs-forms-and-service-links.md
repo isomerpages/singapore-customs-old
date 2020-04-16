@@ -8,18 +8,18 @@ third_nav_title: eServices
 
 Click on the segments below to view the forms and service links included under each of them:
 
--   [Certificate of Origin Related Forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#CertificateOrigin)
--   [Chemical Weapons Convention Forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#CWC)
--   [Customs Ruling](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#hs-code)
--   [Customs Supervision Forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#supervision)
--   [Manufacturing Cost Statement Formats](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Manufacturing)
--   [Monthly Statement of Stores Supplied to Vessels/Aircraft](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#MonthlyStatement)
--   [Networked Trade Platform (NTP) eServices](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#NetworkedTrade)
--   [Permit and Licence Forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#PermitLicence)
--   [Registration Forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Registration)
+-   [Certificate of Origin Related Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#CertificateOrigin)
+-   [Chemical Weapons Convention Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#CWC)
+-   [Customs Ruling]https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#hs-code)
+-   [Customs Supervision Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#supervision)
+-   [Manufacturing Cost Statement Formats](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#Manufacturing)
+-   [Monthly Statement of Stores Supplied to Vessels/Aircraft](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#MonthlyStatement)
+-   [Networked Trade Platform (NTP) eServices](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#NetworkedTrade)
+-   [Permit and Licence Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#PermitLicence)
+-   [Registration Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#Registration)
 -   [Strategic Goods Control Forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)
--   [Voluntary Disclosure Forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#VoluntaryDisclosure)
--   [Web Manifest Reconciliation System](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#wmrs)
+-   [Voluntary Disclosure Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#VoluntaryDisclosure)
+-   [Web Manifest Reconciliation System](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#wmrs)
 
 (*Please note that Application for Certificate of Free Sales, Certificate of Non-Manipulation, Import Certificate and Delivery Verification and Landing Certificate are now under "Networked Trade Platform eServices".)
 
