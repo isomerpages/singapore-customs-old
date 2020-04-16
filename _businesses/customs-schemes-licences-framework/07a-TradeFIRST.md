@@ -30,13 +30,15 @@ For example,  a company that obtains a Premium band can enjoy the facilitation a
 This list shows the various Customs facilitation and schemes under each TradeFIRST band.
 
 -   **Basic Band**
+
     -   [Waiver of security amount of S$2000 and below](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2010/cir19201015nov2010.pdf)
     -   [Temporary Import Scheme](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     -   [TradeNet Account](https://singapore-customs-staging.netlify.app/about-us/07a-overview)
     -   [Cargo Agent’s Import Authorisation Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme)
     -   [Certificate of Origin](https://singapore-customs-staging.netlify.app/businesses/certificates-of-origin/overview)
--   **Standard Band**
     
+-   **Standard Band**
+
     -   [Licensed Warehouse Scheme Type I](hhttps://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
     -   [Zero-GST Warehouse Scheme Type I](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
     -   [Microbrewery](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/excise-factory-scheme)
