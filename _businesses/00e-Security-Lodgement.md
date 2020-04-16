@@ -6,7 +6,7 @@ third_nav_title: Registration Matters
 
 # Security Lodgement
 
-[Declaring Entities](http://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/activate-customs-account), or their appointed  [Declaring Agents](http://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/register-as-declaring-agent-or-declarant), are required to furnish security for various scenarios, such as:
+[Declaring Entities](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account), or their appointed  [Declaring Agents](https://singapore-customs-staging.netlify.app/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant), are required to furnish security for various scenarios, such as:
 
 -   Temporary importation of goods for approved purposes
 -   Movements involving dutiable goods not under temporary import
@@ -36,6 +36,6 @@ Entities, in particular Declaring Agents, should exercise due diligence before a
 
 You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)  to use your security for your permit applications.
 
-Learn more about  [authorising Declaring Agents](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/authorise-a-declaring-agent).
+Learn more about  [authorising Declaring Agents](https://singapore-customs-staging.netlify.app/businesses/00f-authorise-a-declaring-agent).
 
 After you have authorised your Declaring Agent to use your security, your authorised Declaring Agent may select "I" (for importer/exporter) under the "BG Indicator" field to make use of your security for your permit applications. If the "BG Indicator" field is "D" or left blank, the Declaring Agent's security will be used.
