@@ -8,7 +8,7 @@ third_nav_title: Strategic Goods Control
 
 ## How to determine strategic goods?
 
-To determine if your product is controlled under the Strategic Goods (Control) Act (SGCA), please compare your product’s description and specification against the descriptions in the  [Strategic Goods Control List](https://www.customs.gov.sg/businesses/strategic-goods-control/strategic-goods-control-list). If your product meets the stated descriptions, it is controlled as strategic goods under the SGCA. You may refer to this  [guidebook](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/guidebook-on-the-determination-of-strategic-goods_3-oct-2019.pdf?la=en&hash=FB74FB31B8431E5AE1E57108CBCCE99A67928178) for more information.
+To determine if your product is controlled under the Strategic Goods (Control) Act (SGCA), please compare your product’s description and specification against the descriptions in the  [Strategic Goods Control List](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/strategic-goods-control-list). If your product meets the stated descriptions, it is controlled as strategic goods under the SGCA. You may refer to this  [guidebook](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/guidebook-on-the-determination-of-strategic-goods_3-oct-2019.pdf?la=en&hash=FB74FB31B8431E5AE1E57108CBCCE99A67928178) for more information.
 
 ## Determination Database
 
@@ -46,7 +46,7 @@ You will need to submit these supporting documents for your product where applic
 -   Detailed technical specifications and data sheets (besides the weight and dimension)
 -   Material Safety Data Sheet (MSDS) or Certificate of Analysis (COA), if your product contains chemicals (providing the full chemical composition adding up to 100%)
 -   Drawings or blueprints
--   [Product Questionnaire](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#pq), if your product is a machine tool, biological product or if the product contains information security
+-   [Product Questionnaire](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links), if your product is a machine tool, biological product or if the product contains information security
 -   Export authorisation from the originating country (for re-export of goods from Singapore)
 
 Please ensure the supporting documents are clear and properly numbered, with the total number of pages indicated at the top right-hand corner of every page. If the supporting documents are not in English, please provide its corresponding translation in English.
