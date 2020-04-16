@@ -87,7 +87,7 @@ For further assistance, please call 6251 3027 or email  [customs_schemes@customs
 
 **1)** **Where can I find the Harmonized System (HS) codes and duty rates of the dutiable goods?**
 
-You can find them  [here](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
+You can find them  [here](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
 
 **2)** **Can the air store bond operator remove the dutiable goods stored inside the air store bond for local consumption instead of supplying to airlines?**
 
