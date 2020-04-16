@@ -40,11 +40,16 @@ Dutiable sea stores can only be uplifted to approved types of vessels (passenger
 | Beer or Stout (local or imported) |4  | Cans|
 
 ***
+
 ### Customs Permit Requirements for Sea Stores
+
 ***
+
 **( Missing Accordion )**
+
 ***
-Before applying for the above Customs permit, suppliers of dutiable sea stores or their appointed Declaring Agents are required to lodge a  [security](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/security-lodgement).
+
+Before applying for the above Customs permit, suppliers of dutiable sea stores or their appointed Declaring Agents are required to lodge a  [security](https://singapore-customs-staging.netlify.app/businesses/00e-security-lodgement).
 
 When applying for the permit, the following information must be declared:
 
@@ -65,6 +70,7 @@ You are reminded to comply with the following permit condition when uplifting se
 | **A4** | The following acknowledgement must be obtained from the Master/ Captain of Vessel, Malayan Railway (KTM), Storekeeper: -- I certify that I have to-day received…….<br>packages/containers of goods as declared<br><br>……………………………………………………….<br>Vessel’s Name/ Godown No. Designation & Signature<br><br>…………………………………………………………… <br>Date Time Full Name in Block Letters |
 
 ***
+
 ### Delivery and Consumption of Sea Stores
 
 Sea stores shall not be delivered earlier than 24 hours before the vessel’s departure. Once delivered, the sea stores must be locked in a store and shall not be removed until the vessel is outside Singapore port limits.
@@ -75,7 +81,7 @@ All goods (dutiable and non-dutiable) that are uplifted as sea stores are not to
 
 You may re-import rejected or undelivered sea stores from a Free Trade Zone or authorised pier or place into a Licensed Warehouse/Zero-GST Warehouse as shut-out goods.
 
-Please refer to the information on the  [re-importing of shut-out goods](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/re-importing-shut-out-goods) and  [procedures for dutiable sea stores](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/supply-of-air-sea-stores/procedures-for-dutiable-sea-stores.pdf?la=en&hash=3A9846266DFF8F2D74F044B511628689B7926790).
+Please refer to the information on the  [re-importing of shut-out goods](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/re-importing-shut-out-goods) and  [procedures for dutiable sea stores](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/supply-of-air-sea-stores/procedures-for-dutiable-sea-stores.pdf?la=en&hash=3A9846266DFF8F2D74F044B511628689B7926790).
 
 ### Submission of Statement for Sea Stores
 
