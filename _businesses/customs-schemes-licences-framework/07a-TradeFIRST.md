@@ -31,42 +31,44 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
 
 -   **Basic Band**
     -   [Waiver of security amount of S$2000 and below](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2010/cir19201015nov2010.pdf)
-    -   [Temporary Import Scheme](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme)
-    -   [TradeNet Account](https://www.customs.gov.sg/about-us/national-single-window/tradenet)
-    -   [Cargo Agent’s Import Authorisation Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme)
-    -   [Certificate of Origin](https://www.customs.gov.sg/businesses/exporting-goods/certificates-of-origin)
+    -   [Temporary Import Scheme](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
+    -   [TradeNet Account](https://singapore-customs-staging.netlify.app/about-us/07a-overview)
+    -   [Cargo Agent’s Import Authorisation Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme)
+    -   [Certificate of Origin](https://singapore-customs-staging.netlify.app/businesses/certificates-of-origin/overview)
 -   **Standard Band**
     
-    -   [Licensed Warehouse Scheme Type I](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
-    -   [Zero-GST Warehouse Scheme Type I](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
-    -   [Microbrewery](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/excise-factory-scheme)
+    -   [Licensed Warehouse Scheme Type I](hhttps://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
+    -   [Zero-GST Warehouse Scheme Type I](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
+    -   [Microbrewery](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/excise-factory-scheme)
     -   Compressed Natural Gas Station
   
 -   **Intermediate Band**
     
-    -   [Licensed Warehouse Scheme Type II](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
-    -   [Zero-GST Warehouse Scheme Type II](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
-    -   [Secure Trade Partnership](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
+    -   [Licensed Warehouse Scheme Type II](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
+    -   [Zero-GST Warehouse Scheme Type II](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
+    -   [Secure Trade Partnership](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
+    
 -   **Enhanced Band**
     
-    -   [Strategic Trade Scheme Bulk Permit](https://www.customs.gov.sg/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology)
-    -   [Licensed Warehouse Scheme Type III](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
-    -   [Zero-GST Warehouse Scheme Type III](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
-    -   [Petroleum and Biodiesel Blends Licence](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/petroleum-licences)
-    -   [Air Store Bond Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/air-store-bond-scheme)
-    -   [Duty Free Shop Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/duty-free-shop-scheme)
-    -   [Excise Factory Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/excise-factory-scheme)
-    -   [Container Freight Warehouse Licence](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/container-freight-warehouse)
-    -   [Company Declaration Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/company-declaration-scheme)
+    -   [Strategic Trade Scheme Bulk Permit](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/bulk-permit-export-transhipment-and-intangible-transfer-of-technology)
+    -   [Licensed Warehouse Scheme Type III](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
+    -   [Zero-GST Warehouse Scheme Type III](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
+    -   [Petroleum and Biodiesel Blends Licence](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/petroleum-licences)
+    -   [Air Store Bond Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/air-store-bond-scheme)
+    -   [Duty Free Shop Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/duty-free-shop-scheme)
+    -   [Excise Factory Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/excise-factory-scheme)
+    -   [Container Freight Warehouse Licence](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/container-freight-warehouse)
+    -   [Company Declaration Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/company-declaration-scheme)
+    
 -   **Premium Band**
     
     -   Waiver of security for most types of transactions
     -   Reduced container sealing
     -   Waiver of post-importation documentation checks
-    -   [Secure Trade Partnership Plus](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
-    -   [APEX Licence](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/apex-licence)
-    -   [Consolidated Declaration](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/consolidated-declaration)
-    -   [Bonded Truck Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/bonded-truck-scheme)
+    -   [Secure Trade Partnership Plus](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
+    -   [APEX Licence](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/apex-licence)
+    -   [Consolidated Declaration](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/apex-licence)
+    -   [Bonded Truck Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/bonded-truck-scheme)
     
     [Terms and Conditions](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/as-part-of-the-benefits-for-having-attained-the-premium-band-under-tradefirst.docx)  for the use of TradeFIRST Logo
     
