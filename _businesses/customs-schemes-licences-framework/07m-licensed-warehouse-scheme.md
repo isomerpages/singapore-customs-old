@@ -110,8 +110,6 @@ Traders may be penalised if they do not comply with Customs requirements or cond
 
 For minor offences under the Customs Act, Singapore Customs may offer to compound the offences for a sum not exceeding S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature.
 
-> Accordion
-
 You may view this table on common offences and the penalties upon conviction.
 
 | offence | Penalty Upon Conviction |
