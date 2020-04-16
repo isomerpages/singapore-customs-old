@@ -10,7 +10,7 @@ Since 1 Jan 2009, all individual sticks of cigarettes meant for sale and consump
 
 ## Marking Specification
 
-![](https://www.customs.gov.sg/-/media/cus/images/business/sdpc-specs.jpg)
+![](/images/sdpc.jpg)
 
 ## Application Procedure
 
@@ -20,7 +20,7 @@ Please complete the  [online application](https://form.gov.sg/5ccac0a442502b0010
 
 (a) Photographs of the cigarette sample against a ruler or measuring device; and
 
-![](https://www.customs.gov.sg/-/media/cus/images/business/sdpc-sample.jpg)
+![](/images/sdpc1.jpg)
 
 (b) Specifications of SDPC marking on the cigarette samples.
 
