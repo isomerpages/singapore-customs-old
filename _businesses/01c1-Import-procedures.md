@@ -45,25 +45,25 @@ More information [here](https://singapore-customs-staging.netlify.com/businesses
 
 Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/) on the arrangements to account for the GST.
 
--   [Controlled & Prohibited Goods](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-898a69d8-8e78-44d2-8ee2-87041946b930)
+-   [Controlled & Prohibited Goods](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
--   [Apply for a Customs Import Permit](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-c578e2d1-2bca-4d0b-a2bd-9b64de126a2b)
+-   [Apply for a Customs Import Permit](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
--   [Paying Duty and GST](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-67f87b0e-0b61-493b-96fd-bd74751245f1)
+-   [Paying Duty and GST](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
--   [Apply for a Short-Payment Permit](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-59d7db6c-1fe4-494a-90ec-afd5d4c54b90)
+-   [Apply for a Short-Payment Permit](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
--   [Depositing Goods in Free Trade Zones](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-891c760d-7388-4799-bb05-0a8eb371f7ae)
+-   [Depositing Goods in Free Trade Zones](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
--   [Depositing Goods in Licensed or Zero-GST Warehouses](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-25b4d8c4-af06-42a2-88c2-851ff8fb4825)
+-   [Depositing Goods in Licensed or Zero-GST Warehouses](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
--   [Retaining your Trade Documents](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-080ecec3-4848-4f18-bcb9-85bf9d8a5cf5)
+-   [Retaining your Trade Documents](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
--   [Documents for Clearance of Goods](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-8fe9bf78-8660-4c8b-bc7a-28749e2d9818)
+-   [Documents for Clearance of Goods](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
--   [Return of Customs Permits](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-1065f548-1e05-45fa-a822-4174ed98ea22)
+-   [Return of Customs Permits](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
--   [Sealing and Unstuffing](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-dedfa89c-626d-429e-979b-396a58ac2278)
+-   [Sealing and Unstuffing](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
     
 
 ### Errors & Offences
