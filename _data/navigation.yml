@@ -27,6 +27,6 @@ links:
     url: /test/
     sublinks:
     - title: Test 1a
-      url: /test1/test1a
+      url: /test/test1/test1a
     - title: Test 1b
-      url: /test1/test1b
+      url: /test/test1/test1b
