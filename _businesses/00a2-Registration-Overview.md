@@ -39,7 +39,7 @@ The IBG application usually requires 3 to 4 weeks for the bank’s approval. Onc
 
 ## Security Lodgement
 
-You, or your appointed Declaring Agent, are required to  [furnish security](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/security-lodgement)  for various scenarios including:
+You, or your appointed Declaring Agent, are required to  [furnish security](https://singapore-customs-staging.netlify.app/businesses/00e-security-lodgement)  for various scenarios including:
 
 -   Transactions involving dutiable goods
 -   Temporary import of goods for approved purposes
