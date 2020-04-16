@@ -8,9 +8,9 @@ third_nav_title: Importing Goods
 
 **Step 1: Applying for Singapore Customs’ Assessment of Vehicle’s Customs Value**
 
- [ For Individuals or Parallel Importers ](https://www.customs.gov.sg/businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles#item-heading-a2a33977-6a08-4b4d-9b54-e62c4e2b64eb)
+ [ For Individuals or Parallel Importers ](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles)
 
- [For Authorised Agents](https://www.customs.gov.sg/businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles#item-heading-19ddb277-d73b-4416-a1f5-f2787d41c3a3)
+ [For Authorised Agents](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles)
 
 **Step 2: Approval by Singapore Customs**
 
@@ -22,7 +22,7 @@ Once the approval letter is received, the importer should submit an In-Payment (
 
 A declaring agent or freight forwarder can be appointed to submit the permit on the importer's behalf.
 
-No refund of duty and GST except for cases of overpayment or erroneous payment will be allowed once the vehicle has been removed from [customs control](https://www.customs.gov.sg/businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles#customscontrol) or a [Free Trade Zone](https://www.customs.gov.sg/businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles#customscontrol).
+No refund of duty and GST except for cases of overpayment or erroneous payment will be allowed once the vehicle has been removed from [customs control](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles) or a [Free Trade Zone](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles).
 
 **Step 4: Clearance of Motor Vehicle**
 
