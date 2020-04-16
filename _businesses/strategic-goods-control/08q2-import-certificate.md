@@ -22,7 +22,7 @@ Download the  [application form.](https://www.customs.gov.sg/eservices/customs-f
     -   [Unique Entity No. (UEN)](http://www.uen.gov.sg/)
     -   Exporter's name and address
     -   End-user's name and address
-    -   8-digit  [HS Code](https://www.customs.gov.sg/Cwp/PageNotFound.aspx?item=web%3a%7b5F9D99C7-DBA4-4B82-8B42-FFDBDA69C491%7d%40en)
+    -   8-digit  HS Code
 -   Indicate whether the goods are for use in Singapore or for re-export. If the goods are for re-export, state the country where the goods will be re-exported to.
 -   A maximum of 10 items can be filled in each IC application. Please use another application sheet if you have more than 5 items on one sheet.
 -   Description of goods refers to the exact name of the items. The description must match the particulars in the end user's and foreign exporter's declarations, including brand, model number and technical specifications.
@@ -91,16 +91,16 @@ After receiving the approved IC, you should apply for an import permit via  [Tra
 
 You should obtain approval from Singapore Customs before re-exporting goods that have been imported into Singapore under an IC.
 
-If you had indicated in your IC application that the goods are for re-export, you may re-export the goods after obtaining an export permit. The  [application procedure](https://www.customs.gov.sg/businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate#applyingIC) for an export permit is the same as that for an import permit.
+If you had indicated in your IC application that the goods are for re-export, you may re-export the goods after obtaining an export permit. The  [application procedure](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate) for an export permit is the same as that for an import permit.
 
 If you did _not_ indicate  in your IC application that the goods are for re-export, you should obtain Customs’ approval with these documents before you apply for an export permit:
 
--   An  [End User Statement](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood) from the foreign end-user.
+-   An  [End User Statement](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links) from the foreign end-user.
 -   An export licence (and its English translation) from the foreign exporting country, or a confirmation from the exporting country that they do not control the re-export of the goods.
 
 ### Note:
 
--   You should obtain a strategic goods permit if you are re-exporting  [strategic goods](https://www.customs.gov.sg/businesses/strategic-goods-control/strategic-goods-control-list). Read about  [strategic goods permit requirements](https://www.customs.gov.sg/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit).
+-   You should obtain a strategic goods permit if you are re-exporting  [strategic goods](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/strategic-goods-control-list). Read about  [strategic goods permit requirements]https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit).
 -   If goods imported under the IC remain in the Free Trade Zone while pending re-export, you should still obtain both import and export permits.
 
 ### Notifying Changes and Transferring Ownership
