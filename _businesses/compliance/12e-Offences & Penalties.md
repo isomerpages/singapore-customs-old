@@ -25,11 +25,11 @@ Penalties are shaped to encourage voluntary compliance and to deter recalcitrant
 
 Traders may refer to the links below for information on specific offences and the corresponding penalties upon conviction for:
 
--   [Importing of Goods](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#Offences)
--   [Exporting of Goods](https://www.customs.gov.sg/businesses/exporting-goods/export-procedures#Offences)
--   [Transhipping of Goods](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures#Offences)
--   [Rules of Origin](https://www.customs.gov.sg/businesses/exporting-goods/certificates-of-origin#Offences)
+-   [Importing of Goods](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
+-   [Exporting of Goods](https://singapore-customs-staging.netlify.app/businesses/02c-export-procedures)
+-   [Transhipping of Goods](https://singapore-customs-staging.netlify.app/businesses/03c-transhipment-procedures)
+-   [Rules of Origin](https://singapore-customs-staging.netlify.app/businesses/certificates-of-origin/overview)
 -   [Temporary Import Scheme](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#Offences)
--   [Licensed Warehouse Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme#Offences)
--   [Strategic Goods (Control) Act](https://www.customs.gov.sg/businesses/strategic-goods-control/overview/enforcement#Offences)
--   [Chemical Weapons (Prohibition) Act](https://www.customs.gov.sg/businesses/chemical-weapons-convention/offences#Offences)
+-   [Licensed Warehouse Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
+-   [Strategic Goods (Control) Act](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/enforcement)
+-   [Chemical Weapons (Prohibition) Act](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/offences)
