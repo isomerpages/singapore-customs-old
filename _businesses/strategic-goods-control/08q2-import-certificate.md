@@ -1,6 +1,6 @@
 ---
 title: Import Certificate
-permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification
+permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate
 third_nav_title: Strategic Goods Control
 ---
 
