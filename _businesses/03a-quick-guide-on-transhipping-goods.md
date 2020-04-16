@@ -29,7 +29,7 @@ The transhipment of all goods is not subject to duty or Goods and Services Tax (
 
 As a Transhipment Agent, you are required to account for the movement of your goods while they are being transhipped through Singapore.
 
-Please refer to the following steps to obtain the relevant transhipment permits (where  [required](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits)) and authorisation (where the goods are subject to transhipment control) from the relevant Competent Authorities (CA).
+Please refer to the following steps to obtain the relevant transhipment permits (where  [required](https://singapore-customs-staging.netlify.app/businesses/03c1-types-of-transhipment-permits)) and authorisation (where the goods are subject to transhipment control) from the relevant Competent Authorities (CA).
 
 ***
 ( Accordion )
