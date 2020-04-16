@@ -8,7 +8,7 @@ third_nav_title: Strategic Goods Control
 
 The Bulk Permit is a single approval for the export, re-export, transhipment or transmission of strategic goods or their related technology. The Bulk Permit is valid for a period determined by Singapore Customs. It benefits businesses with a high transaction volume or short lead-time for order fulfilment.
 
-As long as the transaction is within the scope of the approved Bulk Permit, its holders can apply for the TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents, instead of having to apply for an  [Individual Permit](https://www.customs.gov.sg/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit#Individual) 5 working days before the shipment. This enables the Bulk Permit holder to enjoy greater certainty and efficiency in their operations.
+As long as the transaction is within the scope of the approved Bulk Permit, its holders can apply for the TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents, instead of having to apply for an  [Individual Permit](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit) 5 working days before the shipment. This enables the Bulk Permit holder to enjoy greater certainty and efficiency in their operations.
 
 
 ## Types of Bulk Permits
@@ -24,7 +24,7 @@ To qualify for the Bulk Permit, you must:
 
 -   Be a  [registered](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)  trader with Singapore Customs
 -   Have good compliance records
--   Achieve at least an ‘Enhanced’ band under  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst)
+-   Achieve at least an ‘Enhanced’ band under  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first)
 -   Implement an effective internal compliance programme (ICP)
 
 The 7 ICP elements are:
@@ -51,7 +51,7 @@ We will conduct a TradeFIRST assessment on the company during a site validation,
 
 If your strategic goods transactions are pre-approved under the Bulk Permit, you should apply for a TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents.
 
-For the transfer of strategic goods such as arms, munitions and chemical weapons precursors which are also controlled by other  [Competent Authorities (CAs)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items#CA), you need to submit only one TradeNet permit application, as the application will also be routed to the relevant CAs for processing.
+For the transfer of strategic goods such as arms, munitions and chemical weapons precursors which are also controlled by other  [Competent Authorities (CAs)](https://singapore-customs-staging.netlify.app/about-us/07a3-competent-authorities-requirements), you need to submit only one TradeNet permit application, as the application will also be routed to the relevant CAs for processing.
 
 ## Key Responsibilities of a Bulk Permit Holder
 
