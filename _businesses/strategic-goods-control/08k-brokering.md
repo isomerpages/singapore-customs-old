@@ -14,7 +14,7 @@ Before engaging in any brokering activities, you must submit a brokering registr
 
 You should register as a broker with Singapore Customs at least 14 working days before brokering in arms, explosives and other items listed in the  [Strategic Goods (Control) (Brokering) Order 2007](http://sso.agc.gov.sg/SL/SGCA2002-S640-2007).
 
-**Step 1:**  Complete the  [application form.](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)
+**Step 1:**  Complete the  [application form.](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links)
 
 **Step 2:**  Attach the supporting documents, where applicable:
 
@@ -24,7 +24,7 @@ You should register as a broker with Singapore Customs at least 14 working days 
 
 **Step 3:**  Submit the completed form and supporting documents.
 
-In addition, registered brokers are required to submit a  [half-yearly report on brokering activities](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)  that have been carried out during that period. The report must be submitted to Singapore Customs by the 30th  day of June and December every year. Singapore Customs may also require the records to be audited and verified by an authorised officer at any time.
+In addition, registered brokers are required to submit a  [half-yearly report on brokering activities](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links)  that have been carried out during that period. The report must be submitted to Singapore Customs by the 30th  day of June and December every year. Singapore Customs may also require the records to be audited and verified by an authorised officer at any time.
 
 Your application should be processed within 7 working days if the information and documents provided are complete. However, some applications may take longer to process, depending on the nature of the item, destination or parties involved in the transaction.
 
@@ -43,13 +43,13 @@ That the goods or technology you are brokering are intended or likely to be used
 
 This applies even if the goods are not strategic goods.
 
-**Step 1:**  Complete the  [application form](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)[.](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)
+**Step 1:**  Complete the  [application form](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links)
 
 **Step 2:**  Attach the supporting documents, where applicable:
 
 -   ACRA Bizfile business profile of applicant
 -   Company profile and/or website of other parties to the transaction
--   [End-User Statement](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#StrategicGood)  from the party receiving the brokered goods or technology
+-   [End-User Statement](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links)  from the party receiving the brokered goods or technology
 -   Export licence (and its English translation) from the foreign supplying country, or a confirmation from the supplying country that they do not control the re-transfer of the goods
 -   Import authorisation from the importing country
 -   Technical specifications of the item to be brokered (for example, manuals, brochures, data sheets, operating instructions)
