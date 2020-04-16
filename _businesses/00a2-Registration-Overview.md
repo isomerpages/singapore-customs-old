@@ -26,7 +26,7 @@ To apply for your own customs permits or on behalf of your clients, you have to 
 
 You may apply for customs permits via:
 
--   TradeNet front-end solution purchased from  [approved solution providers](https://www.customs.gov.sg/businesses/resources/directories-of-service-providers/list-of-tradenet-solution-providers), or
+-   TradeNet front-end solution purchased from  [approved solution providers](https://singapore-customs-staging.netlify.app/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers), or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal)
 
 ## Applying for Inter-Bank GIRO
