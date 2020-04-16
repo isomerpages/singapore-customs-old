@@ -8,7 +8,7 @@ third_nav_title: eServices
 
 Terms and conditions of participation in the Manifest Reconciliation Statement Scheme for Sea Shipments
 
-## 1  Definition of Terms
+## 1. Definition of Terms
 
 The following words and expressions shall have meanings hereby assigned to them except where the context otherwise requires:
 
@@ -31,7 +31,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 “Sign” with respect to MRS transmitted via electronic transmission, “sign” shall be deemed to be the keying in of the unique user identification and password associated with the User or the Declarant as the case may be.
 
-## 2  Compliance with the Regulation of Imports and Exports Regulations
+## 2. Compliance with the Regulation of Imports and Exports Regulations
 
 2.1 The Director-General, in accordance with the provisions of Regulation 11(3) and Regulation 12(3) of the Regulation of Imports and Exports Regulations (Cap 272A, Rg1), shall allow the User to submit Manifest Reconciliation Statements (MRS), in accordance with the terms and conditions as herein set out. The MRS shall be in lieu of the list of documents specified in Regulations 11(2) and 12(2) of the Regulation of Imports and Exports Regulations (Cap 272A, Rg1).
 
@@ -41,7 +41,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 2.4 The User shall submit the MRS via electronic transmission such as the Internet. The Director-General however reserves the right at all times to direct the mode(s) via which the MRS is to be transmitted by the Users.
 
-## 3  Registration
+## 3. Registration
 
 3.1 Any owner, master, agent or sub-operator required to deliver manifests and permits to the Director-General in compliance with Regulation 11(2) and Regulation 12(2) of the Regulation of Imports and Exports Regulations (Cap 272A Rg 1), and who wishes to participate in the Scheme must be registered with the Director-General as a User.
 
@@ -51,7 +51,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 3.4 Where any breach of these terms and conditions is committed by or is attributable to any of the employees of the User, whether they are Declarants or not, the User shall be deemed to be guilty of the breach and shall be liable to penalties as provided for in clause 7.2 below.
 
-## 4  Delivery of the Manifest Reconciliation Statement
+## 4. Delivery of the Manifest Reconciliation Statement
 
 4.1 All MRS shall be delivered to the Director-General in such form and format as the Director-General may, from time to time, specify.
 
@@ -66,7 +66,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 4.5 There shall be no amendments to or re-deliveries of any MRS once it has been duly sent to the Director-General except as allowed by the Director-General or where hereinafter provided for. The User will receive an acknowledgement for all MRS successfully delivered via the Internet to the Director-General . In the event that the User does not receive such acknowledgement within 24 hours of submission of the MRS, the User is to re-deliver the MRS via the Internet to the Director-General.
 
-## 5  Storage of Manifests and Supporting Documents
+## 5. Storage of Manifests and Supporting Documents
 
 5.1 The User shall, on a per vessel basis, store the manifests, permits and all other supporting documents at its premises. The period of storage shall be not less than one month from the date of submission of the MRS to the Director-General.
 
@@ -78,7 +78,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 5.3 The User shall make the manifests, permits and supporting documents available to the Director-General upon request.
 
-## 6  Audit
+## 6. Audit
 
 6.1 The User shall be subject to an Audit as and when required by the Director-General . The Director-General in its sole discretion will determine if the Audit is to be at the User’s premises or at the Director-General ’s office.
 
@@ -94,7 +94,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 6.5 At the conclusion of the Audit, unless otherwise indicated by the User at the time of delivery of the documents to the Director-General or at the time when the documents are taken by the Director-General from the User’s premises, the documents will be duly destroyed by the Director-General . The User shall not hold the Director-General liable or responsible for any consequences arising from the destruction of the said documents.
 
-## 7  Penalties for Non-Compliance with the Terms and Conditions
+## 7. Penalties for Non-Compliance with the Terms and Conditions
 
 7.1 The Director-Generalmay, in its sole discretion, take action against the User and/or the Declarant for breach of any of these terms and conditions including but not limited to:
 
@@ -118,7 +118,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 7.2.4 any other action permitted under the Regulation of Imports and Exports Act (Cap 272A) and/or any other regulations made thereunder or any other written law in Singapore administered by the Director-General
 
-## 8  General
+## 8. General
 
 8.1 The User shall comply with and be bound by all the terms and conditions stated in this document.
 
