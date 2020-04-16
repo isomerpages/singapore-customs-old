@@ -18,7 +18,7 @@ Please refer to the following key qualifying criteria:
 -   Equipped with global track-and trace capabilities
 -   Provides sufficient data elements for risk assessment
 -   Possess robust IT systems and linkages with Singapore Customs and other government agencies
--   Has undergone  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst)  assessment and achieved the Premium band
+-   Has undergone  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first)  assessment and achieved the Premium band
 
 ## How to Enquire?
 
