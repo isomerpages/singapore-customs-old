@@ -16,10 +16,10 @@ The Ministry of Foreign Affairs is the lead ministry of the CWPA. Singapore Cust
 
 The  [Chemical Weapons (Prohibition) Regulations 2007](https://sso.agc.gov.sg/SL/CWPA2000-S669-2007?DocDate=20111101)  (CWPR) puts in place a set of procedural guidelines for the administration of the CWPA. The Regulations spell out the conditions for licence approval, exemption for mixtures containing low concentrations of certain chemicals, and the requirement to submit reports to the Director-General of Customs pertaining to activities involving scheduled chemicals.
 
-Under Section 9 of the CWPA, companies that wish to carry out activities pertaining to scheduled chemicals or discrete organic chemicals in Singapore are required to obtain a CWC licence before the start of these activities. More information on the activities that requires a licence  [here](https://www.customs.gov.sg/businesses/chemical-weapons-convention/licensing-requirements).
+Under Section 9 of the CWPA, companies that wish to carry out activities pertaining to scheduled chemicals or discrete organic chemicals in Singapore are required to obtain a CWC licence before the start of these activities. More information on the activities that requires a licence  [here](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/licensing-requirements).
 
 Under Section 12 of the CWPA, and Regulation 10 of the CWPR, companies which intend to produce process or consume any Schedule 1, 2 or 3 chemicals controlled under the CWC are required to submit an Annual Declaration for Anticipated Activities to Singapore Customs.
 
 Under Section 12 of the CWPA, and Regulation 11 of the CWPR, companies which undertake any controlled activity in relation to scheduled chemicals or unscheduled discrete organic chemicals controlled under the CWC, are required to submit an Annual Declaration of Past Activities to Singapore Customs.
 
-More information on these annual declarations  [here](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations).
+More information on these annual declarations [here](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations).
