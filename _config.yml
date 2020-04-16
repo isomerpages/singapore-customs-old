@@ -33,6 +33,8 @@ collections:
     output: true
   test:
     output: true
+  test_hidden:
+    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
