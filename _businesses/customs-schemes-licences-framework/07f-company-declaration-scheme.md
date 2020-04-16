@@ -28,12 +28,12 @@ The following are excluded from the scheme:
 To qualify for the Company Declaration Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be an ALPS tenant
 -   Have direct control and responsibility for all the goods within its facility
 -   Ensure 80% of the goods are for exports
--   Undergo  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) assessment and attain the Enhanced Band
+-   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the Enhanced Band
 
 ## Key Responsibilities
 
@@ -85,8 +85,8 @@ No, you should not apply for the Company Declaration Scheme for the purpose of r
 
 **2) How do I check if the goods are controlled or dutiable?**
 
-For dutiable goods, please refer to the  [List of Dutiable Goods](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
+For dutiable goods, please refer to the  [List of Dutiable Goods](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
 
 For controlled items, you may check using this  [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authorities controlling the product.
 
-Find out more about  [Competent Authorities' Requirements for Controlled Items](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items)  to handle controlled goods.
+Find out more about  [Competent Authorities' Requirements for Controlled Items](https://singapore-customs-staging.netlify.app/about-us/07a3-competent-authorities-requirements)  to handle controlled goods.
