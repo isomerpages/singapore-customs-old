@@ -39,7 +39,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     
 -   **Standard Band**
 
-    -   [Licensed Warehouse Scheme Type I](hhttps://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
+    -   [Licensed Warehouse Scheme Type I](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
     -   [Zero-GST Warehouse Scheme Type I](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
     -   [Microbrewery](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/excise-factory-scheme)
     -   Compressed Natural Gas Station
