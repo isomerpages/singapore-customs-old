@@ -7,14 +7,14 @@ third_nav_title: Strategic Goods Control
 
 # Import Certificate and Delivery Verification (ICDV)
 
-You can apply for an Import Certificate (IC) if:
+*You can apply for an Import Certificate (IC) if*:
 
 -   You are importing goods into Singapore which are subject to the exporting country’s export control, or
 -   The exporting country requires an IC.
 
 Download the  [application form.](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#NetworkedTrade)
 
-## Completing an IC Application
+### Completing an IC Application
 
 -   Fill in these details:
     
@@ -30,13 +30,13 @@ Download the  [application form.](https://www.customs.gov.sg/eservices/customs-f
 -   For each item, state the Cost, Insurance and Freight (CIF) value in Singapore dollars.
 -   Sign off the application by an authorised person in the company, indicating the full name and designation.
 
-## Getting Started
+### Getting Started
 
 -   Before making an ICDV application, you should:
     -   Activate Customs Account; and
     -   Apply for Inter-Bank Giro (IBG)
 
-## Submission of and Payment for an ICDV Application
+### Submission of and Payment for an ICDV Application
 
 Please submit your completed application and supporting documents  via NTP.
 
@@ -46,7 +46,7 @@ A S$10 processing fee is payable for each IC application.
 
 Please note that each application will typically be processed within 2 working days upon receipt of the completed application with all relevant supporting documents, and payment of processing fee.  
 
-## Supporting Documents
+### Supporting Documents
 
 The supporting documents for your IC application include:
 
@@ -57,17 +57,17 @@ The supporting documents for your IC application include:
 -   Technical specifications of the goods to be imported (for example, operating instructions, manuals, brochures, data sheets, catalogues)
 -   Other relevant supporting documents
 
-## Approval of IC
+### Approval of IC
 
 Once the application is approved, we will upload the endorsed copy of the ICDV via NTP. You should keep a copy for your own records and forward one copy to your exporter in the exporting country.
 
 An approved ICDV is valid for  **one year**. Goods under the IC should be imported into Singapore within that period.
 
-## Extending an IC
+### Extending an IC
 
 If you wish to extend the validity by another year, you may apply via NTP for an extension at least 14 days before the IC expires.
 
-## Conditions of Import
+### Conditions of Import
 
 Under an approved IC, you must not:
 
@@ -75,11 +75,11 @@ Under an approved IC, you must not:
 -   Dispose the goods before they are imported into Singapore; or
 -   Export the goods or cause or allow them to be exported from Singapore after they have been imported into Singapore, except with Customs’ written approval.
 
-## Applying for a Permit to Import Goods under an IC
+### Applying for a Permit to Import Goods under an IC
 
 After receiving the approved IC, you should apply for an import permit via  [TradeNet](https://www.tradexchange.gov.sg/tradexchange/login.portal)  before the goods arrive in Singapore.
 
-## Do note the following:
+### Do note the following:
 
 -   State the ICDV number (for example, ICDV/010/2015) in the CA/SC Product Code field for each permit item.
 -   You may import goods under different ICs using a single import permit. Declare the respective ICDV numbers for each item in the permit application.
@@ -87,7 +87,7 @@ After receiving the approved IC, you should apply for an import permit via  [Tra
 -   For the CA/SC Product Quantity-UOM field, declare the quantity and unit as stated in your IC.
 -   Please submit a copy of approved ICDV, commercial invoice, bill of lading / airway bill, and packing list to Singapore Customs by uploading to TradeNet.
 
-## Re-exporting Goods from Singapore
+### Re-exporting Goods from Singapore
 
 You should obtain approval from Singapore Customs before re-exporting goods that have been imported into Singapore under an IC.
 
@@ -103,7 +103,7 @@ If you did _not_ indicate  in your IC application that the goods are for re-expo
 -   You should obtain a strategic goods permit if you are re-exporting  [strategic goods](https://www.customs.gov.sg/businesses/strategic-goods-control/strategic-goods-control-list). Read about  [strategic goods permit requirements](https://www.customs.gov.sg/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit).
 -   If goods imported under the IC remain in the Free Trade Zone while pending re-export, you should still obtain both import and export permits.
 
-## Notifying Changes and Transferring Ownership
+### Notifying Changes and Transferring Ownership
 
 You should notify us in writing immediately on any change in information for your IC.
 
@@ -111,11 +111,11 @@ If you are selling or transferring the imported goods to another person, please 
 
 The new owner of the goods should also submit a  [declaration](https://www.customs.gov.sg/-/media/icdv-and-brokering/new-owner-transfer-of-ownership.docx?la=en&hash=A6B97192714D134F6E263F54CD8A67FD2526211D) that the goods are for their use only.
 
-## Cancelling your IC
+### Cancelling your IC
 
 If you decide not to import the goods after obtaining the IC, you should notify us via email for cancellation at least 14 days before it expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore.
 
-## Penalties
+### Penalties
 
 Goods imported into Singapore under an IC are subject to inspection.
 
