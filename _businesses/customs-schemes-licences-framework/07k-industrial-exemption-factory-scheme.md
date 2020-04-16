@@ -18,7 +18,7 @@ The duty-exempted raw materials must not be sold, transferred or disposed of in 
 
 To qualify for the Industrial Exemption Factory Scheme, the company must:
 
--   Have a valid  [Customs Account](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the duty-exempted materials
 
@@ -31,7 +31,7 @@ An annual fee of S$600 is payable upon issuance of the certificate of exemption.
 -   **Accountability to Singapore Customs**
     
     -   Accountable for duty-exempted raw materials stored in the place of manufacture and for the payment of excise duty and Goods and Services Tax (GST) on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](https://www.customs.gov.sg/about-us/national-single-window/tradenet) for movement of all goods (including duty-exempted raw materials) in and out of the place of manufacture
+    -   Declare relevant Customs permits through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview) for movement of all goods (including duty-exempted raw materials) in and out of the place of manufacture
     -   Report to Singapore Customs if there is any discrepancy (for example, physical goods and permit information do not tally) by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the Customs Act, Customs Regulations and the Terms and Conditions issued
@@ -89,7 +89,7 @@ You may inform your designated account manager via email. Please state the quota
 
 **2)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](https://www.customs.gov.sg/about-us/national-single-window/tradenet). More information on declaring permits can be found  [here](https://www.customs.gov.sg/businesses/registering-to-trade/quick-guide-on-registration-matters).
+Customs permits can be declared through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview). More information on declaring permits can be found  [here](https://singapore-customs-staging.netlify.app/businesses/registration-matters/overview).
 
 **3) How much do I have to pay for the assessment?**
 
@@ -106,13 +106,13 @@ The four types of products excluded from the scheme are:
 
 **5) What happens if my duty-exempted raw materials exceeds the quota?**
 
-You will have to pay duty for the amount that exceeded the quota. There will not be any refund of the duty should these raw materials be exported. For more information on duties and dutiable goods, please visit our website [here](http://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods).
+You will have to pay duty for the amount that exceeded the quota. There will not be any refund of the duty should these raw materials be exported. For more information on duties and dutiable goods, please visit our website [here](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods).
 
 **6) My company has duty-exempted raw materials that are redundant. What can I do?**
 
-Your company shall arrange for the redundant duty-exempted raw materials to be destroyed at an incineration plant under Customs supervision, for which a supervision fee is payable in accordance with prescribed rates. For more information on the supervision fees, click  [here](http://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/permits-documentation-and-other-fees).
+Your company shall arrange for the redundant duty-exempted raw materials to be destroyed at an incineration plant under Customs supervision, for which a supervision fee is payable in accordance with prescribed rates. For more information on the supervision fees, click  [here](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/permits-documentation-and-other-fees).
 
-For exportation of duty-exempted raw materials, declaration of the relevant export permit is required. For more information, click  [here](http://www.customs.gov.sg/businesses/exporting-goods/quick-guide-for-exporters).
+For exportation of duty-exempted raw materials, declaration of the relevant export permit is required. For more information, click  [here](https://singapore-customs-staging.netlify.app/businesses/exporting-goods/overview).
 
 **7) What should I declare on TradeNet in order to enjoy the benefits of the IEF Scheme?**
 
