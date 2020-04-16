@@ -15,7 +15,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
 **Temporary Import**
 
--   [Qualifying Goods and Purposes](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-f81207d6-9f14-4a1c-9cf4-454f4b627d92)
+-   [Qualifying Goods and Purposes](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme2)
     
 -   [Permit Application Procedures](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-eb94d2bb-ce53-4be7-8818-6abb534db482)
     
@@ -46,18 +46,17 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
 Traders may be penalised under the Customs Act if they do not comply with the requirements of the Temporary Import Scheme.
 
--   [Examples of common offences](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-3c0887ba-8a44-4ea2-8680-c713019bdf80)
+-   Examples of common offences
     
--   [Penalties upon conviction for key offences](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-76c75b77-7a6b-4c1c-9cc8-a122bdfd0c6b)
+-   Penalties upon conviction for key offences
 
 ### Best Practices
 
 You are accountable as a trader or Declaring Agent for the goods imported under the TIS. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
--   [Do](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-630fa632-b1a0-4004-a89a-2884a60496d9)
-    
--   [Do Not](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-4b90ff76-c78a-4d43-bf01-e09d72208380)
-   
+-   Do
+
+-   Do Not
 
  **For more information on:**
 
