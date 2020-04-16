@@ -8,7 +8,7 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 ## What is it?
 
-The Licensed Warehouse (LW) Scheme allows approved companies to store imported dutiable goods, namely liquor, tobacco, motor vehicles,  [petroleum and biodiesel blends](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/petroleum-licences), for an indefinite period of time in a designated area licensed by Singapore Customs, with the duty and Goods and Services Tax (GST) suspended. This designated area is termed as licensed premises.
+The Licensed Warehouse (LW) Scheme allows approved companies to store imported dutiable goods, namely liquor, tobacco, motor vehicles,  [petroleum and biodiesel blends](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/petroleum-licences), for an indefinite period of time in a designated area licensed by Singapore Customs, with the duty and Goods and Services Tax (GST) suspended. This designated area is termed as licensed premises.
 
 Duty and GST will be payable when these goods are removed from the licensed warehouse for local use or consumption. Duty and GST are not payable when these goods are removed for export, or when supply or sale of these goods takes place while they are in the warehouse.
 
@@ -24,7 +24,7 @@ There are 3 licence types to cater to the different needs of companies:
 
 The level of facilitation accorded, as well as the criteria on the company’s record-keeping and internal controls standard, increase from Type I to Type III.
 
-Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
+Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
 A summary of the benefits for the 3 LW licence types can be found in the  [Licensed Warehouse Scheme Handbook](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/lwhandbook_may2017version.pdf?la=en&hash=FF4D53963CE9B5460ADFCDD9B6FA316250A385AC)  (Chapter 2.8).
 
@@ -33,12 +33,12 @@ A summary of the benefits for the 3 LW licence types can be found in the  [Licen
 To qualify for the Licensed Warehouse Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](hhttps://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place
 -   Have good stock record-keeping and warehouse procedures
 -   Be responsible for the security, accountability and control of the dutiable goods
--   Undergo  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) assessment and attain the minimum band to qualify for the respective licence types under the LW Scheme
+-   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the respective licence types under the LW Scheme
 
 ## Licence Fee
 
