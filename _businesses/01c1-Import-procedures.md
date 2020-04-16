@@ -70,18 +70,20 @@ Taxable companies should also check with the [Inland Revenue Authority of Singap
 
 Importers may be penalised if they do not comply with the requirements imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and their subsidiary legislation.
 
--   [Examples of common offences](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-2bb4b9b7-75d1-4ad8-9822-39995927d43a)
+-   Examples of common offences 
     
--   [Penalties upon conviction for key offences](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-53fb92b5-d454-4966-b3da-f8db3e1b6209)
+-   Penalties upon conviction for key offences
+
+[accordion]
     
 
 ### Best Practices
 
 You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
--   [Do](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-4e4371fb-60fd-4833-9b6f-d3872a1db570)
+-   Do
     
--   [Do Not](https://www.customs.gov.sg/businesses/importing-goods/import-procedures#item-heading-0af99a9a-7749-4e30-b287-a397224d2fa7)
+-   Do Not
 
 **For more information on:**
 
