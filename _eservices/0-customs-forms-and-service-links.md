@@ -8,11 +8,11 @@ third_nav_title: eServices
 
 Click on the segments below to view the forms and service links included under each of them:
 
--   [Certificate of Origin Related Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#CertificateOrigin)
--   [Chemical Weapons Convention Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#CWC)
--   [Customs Ruling]https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#hs-code)
+-   [Certificate of Origin Related Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links##CertificateOrigin)
+-   [Chemical Weapons Convention Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links##CWC)
+-   [Customs Ruling](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links##hs-code)
 -   [Customs Supervision Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#supervision)
--   [Manufacturing Cost Statement Formats](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#Manufacturing)
+-   [Manufacturing Cost Statement Formats](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links##Manufacturing)
 -   [Monthly Statement of Stores Supplied to Vessels/Aircraft](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#MonthlyStatement)
 -   [Networked Trade Platform (NTP) eServices](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#NetworkedTrade)
 -   [Permit and Licence Forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links#PermitLicence)
