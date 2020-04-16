@@ -20,7 +20,7 @@ Singapore Customs records statistics on air stores and jet fuel for consumption 
 
 The owner or agent of any aircraft leaving Singapore must submit to Singapore Customs, a monthly statement to declare the total value of air stores and the quantity of jet fuel supplied to the aircraft’s fuel tanks. The statement should be sent to the Permits Compliance Branch via email to [customs_tnreq@customs.gov.sg](mailto:customs_tnreq@customs.gov.sg), by the 15th day of the following month. If there are no aircraft departures or air stores/jet fuel supplied during the month, a nil submission is still required.
 
-The format of the "Monthly Statement of Stores and Jet Fuel Supplied to Aircraft" can be downloaded from this  [link](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Monthly%20Statement%20of%20Stores%20Supplied%20to%20Vessels/Aircraft).
+The format of the "Monthly Statement of Stores and Jet Fuel Supplied to Aircraft" can be downloaded from this  [link](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links).
 
 ## Sea Stores
 
@@ -89,4 +89,4 @@ Singapore Customs records statistics on sea stores for consumption on board vess
 
 The owner or agent of any vessel leaving Singapore must submit to Singapore Customs, a monthly statement to declare the total value of sea stores supplied to the vessel. The statement should be sent to the Permits Compliance Branch, Statistics Compliance Unit via email at  [customs_tnreq@customs.gov.sg](mailto:customs_tnreq@customs.gov.sg), by the 15th day of the following month. If there are no vessel departures or sea stores supplied during the month, a nil submission is still required.
 
-The format of the "Monthly Statement of Stores Supplied to Vessels" can be downloaded from this [link](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Monthly%20Statement%20of%20Stores%20Supplied%20to%20Vessels/Aircraft).
+The format of the "Monthly Statement of Stores Supplied to Vessels" can be downloaded from this [link](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links).
