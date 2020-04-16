@@ -12,7 +12,7 @@ The National Parks Board (NParks)  [Animal and Veterinary Service](https://www.n
 
 ## Procedures & Requirements
 
-[table missing]
+[complicated table missing]
 
 ## Procedures & Requirements for Importing Personal Pets for Transfer of Residence
 
@@ -31,8 +31,9 @@ An importer who is transferring residence to Singapore (including returning Sing
     
     If the DOF application is approved, the pet owner, his freight forwarding agents or pet clearing agent may inform their appointed Declaring Agent to apply for the Customs In-Non-Payment (GST Relief) permit within 5 working daysfrom the approval date of the DOF. A list of freight forwarding agents can be obtained  [here](https://www.customs.gov.sg/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents). Please refer to the details on  [Documentation and Other Fees](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/permits-documentation-and-other-fees).
     
-    If the DOF application is unsuccessful, a Customs In-Payment (GST) permit must be taken to import the pet instead. For more details, please refer to the **[table](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-of-personal-pets#procandreq)** above  **on** **the Procedures and Requirements for Importing Personal Pets.**
+    If the DOF application is unsuccessful, a Customs In-Payment (GST) permit must be taken to import the pet instead. For more details, please refer to the **[table]** above  **on** **the Procedures and Requirements for Importing Personal Pets.**
     
+   
 ***
 
 ## Procedures for Personal Pets Imported as Accompanied Baggage
