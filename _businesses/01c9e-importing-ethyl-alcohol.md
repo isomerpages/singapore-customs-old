@@ -9,7 +9,7 @@ third_nav_title: Importing Goods
 
 Importing  **dutiable ethyl alcohol**  or  **undenatured ethyl alcohol**  incurs Goods and Services Tax (GST) and duty.
 
-GST is calculated based on the  [Cost, Insurance and Freight (CIF) value](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods plus all duties and other charges incidental to the sale and delivery of the goods into Singapore, whether or not shown on the invoice. The duty rates can be found  [here](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods)**.**
+GST is calculated based on the  [Cost, Insurance and Freight (CIF) value](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods plus all duties and other charges incidental to the sale and delivery of the goods into Singapore, whether or not shown on the invoice. The duty rates can be found  [here](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)**.**
 
 A Customs In-Payment (Duty and GST) permit is required to account for its import and payment of the duty and GST.
 
