@@ -7,7 +7,7 @@ third_nav_title: Strategic Goods Control
 
 # Import Certificate and Delivery Verification (ICDV)
 
-*You can apply for an Import Certificate (IC) if*:
+**You can apply for an Import Certificate (IC) if**:
 
 -   You are importing goods into Singapore which are subject to the exporting country’s export control, or
 -   The exporting country requires an IC.
