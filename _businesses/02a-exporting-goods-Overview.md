@@ -31,19 +31,19 @@ If entity intends to:
 ### Step 2: Check if your goods are controlled
 Do check if the goods you intend to export are controlled goods subject to restrictions by Competent Authorities (CAs) in Singapore.
 
-You may  [search](https://www.customs.gov.sg/businesses/resources/hs-and-ca-product-code-search-engine)  using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
+You may  [search]( hs code search engine )  using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
 
-If you require advice on the full 8-digit  [HS code](https://www.customs.gov.sg/businesses/resources/hs-and-ca-product-code-search-engine)  of the product, you may apply for an  [official classification ruling](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/quick-guide-for-exporter/application-for-classification.doc?la=en&hash=87BD36B8C5A915EA1197C7CF3503297CC5EFFFAD)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
+If you require advice on the full 8-digit  [HS code]( hs code search engine )  of the product, you may apply for an  [official classification ruling](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/quick-guide-for-exporter/application-for-classification.doc?la=en&hash=87BD36B8C5A915EA1197C7CF3503297CC5EFFFAD)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
 ### Step 3:  Apply for Customs Export Permit
 You may:
 
 -   Appoint a  [declaring agent](https://www.customs.gov.sg/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
--   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/register-as-declaring-agent-or-declarant)  and  [apply for a TradeNet user ID](https://www.customs.gov.sg/about-us/national-single-window/tradenet/what-you-need-to-know-about-tradenet)
+-   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](https://singapore-customs-staging.netlify.app/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](https://singapore-customs-staging.netlify.app/about-us/07a-overview)
 
 All permit applications must be submitted electronically via TradeNet, which is accessible through:
 
--   TradeNet front-end solution from any  [approved solution provider](https://www.customs.gov.sg/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers), or
+-   TradeNet front-end solution from any  [approved solution provider](https://singapore-customs-staging.netlify.app/about-us/07a2-tradenet-solution-providers), or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
 
 Each permit application typically costs S$2.88. If you are engaging a declaring agent, you may wish to check with your appointed agent on the charges involved in obtaining a permit.
