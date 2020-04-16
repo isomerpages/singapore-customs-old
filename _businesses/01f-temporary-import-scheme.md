@@ -61,4 +61,4 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
 
  **For more information on:**
 
-[![](https://lh6.googleusercontent.com/Y-QpcZfTUI2q-8_G08oMFV1UH-7rZf25RxtiW_PZRayiyPieJSQddKmgBbxTuvpz7t-FNYSB6LEpJ_XKRTCfsE0uNZMvNUh6_fE61l8MsWs2SIZupl3VCol4cZsXMbN58zdP4braLtGUlWiw_g)](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme/approved-wine-event)
+[![](/images/AWE.jpg)](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme/approved-wine-event)
