@@ -10,7 +10,7 @@ third_nav_title: Registration Matters
 
 ## Application Procedure
 
-[Declaring Entities](http://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/activate-customs-account)  that wish to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Customs from your bank account to Singapore Customs directly (instead of through their  [Declaring Agent](http://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/register-as-declaring-agent-or-declarant)), and all Declaring Agents must apply for an Inter-Bank GIRO (IBG) with Singapore Customs.
+[Declaring Entities](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)  that wish to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Customs from your bank account to Singapore Customs directly (instead of through their  [Declaring Agent](https://singapore-customs-staging.netlify.app/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant), and all Declaring Agents must apply for an Inter-Bank GIRO (IBG) with Singapore Customs.
 
 The bank account must be linked to your entity's Unique Entity Number and under one of the IBG participating banks listed in  [The Association of Banks in Singapore](https://abs.org.sg/docs/library/swift_bic_codes.pdf)'s website.
 
@@ -26,9 +26,9 @@ If you have an existing IBG with Singapore Customs and wish to change the bank a
 
 You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)  to use your IBG for the payment of duties and GST for your customs permits.
 
-Learn more about  [authorising Declaring Agents](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/authorise-a-declaring-agent).
+Learn more about  [authorising Declaring Agents](https://singapore-customs-staging.netlify.app/businesses/00f-authorise-a-declaring-agent).
 
-When your customs permit application requiring duty and/or GST payment is approved, the payment mode will be denoted by the  [permit condition(s) for payment](https://www.customs.gov.sg/businesses/importing-goods/import-procedures).
+When your customs permit application requiring duty and/or GST payment is approved, the payment mode will be denoted by the  [permit condition(s) for payment](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/).
 
 ## Checking your IBG Deduction Status
 
