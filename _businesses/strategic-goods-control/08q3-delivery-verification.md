@@ -10,7 +10,7 @@ The exporting country may require a Delivery Verification (DV) after you have im
 
 ### Applying for Delivery Verification
 
-You should apply for a DV from Singapore Customs if it is required by your exporter. There are two types of DVs –  [partial delivery](https://www.customs.gov.sg/businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification#partial)  and  [complete delivery](https://www.customs.gov.sg/businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification#complete). For both types of DVs, please:
+You should apply for a DV from Singapore Customs if it is required by your exporter. There are two types of DVs - **partial delivery**  and  **complete delivery**. For both types of DVs, please:
 
 -   Upload your ICDV via NTP within 14 days after the goods have arrived in Singapore
 -   Ensure the ICDV number is indicated on your import permit
