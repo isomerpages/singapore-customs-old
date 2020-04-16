@@ -16,12 +16,12 @@ The areas where duty free goods are sold must be designated and licensed by Sing
 
 To qualify for the DFS Scheme, the company must:
 
--   Have a valid  [Customs Account](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Seek prior approval from the landlord, such as Changi Airport Group (CAG) and Singapore Cruise Centre (SCC), to operate a duty free shop
 -   Obtain necessary approval from the relevant competent authorities, such as Singapore Police Force (SPF) and Health Sciences Authority (HSA)
--   Undergo  [TradeFIRST assessment](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) and attain minimally the Enhanced band
+-   Undergo  [TradeFIRST assessment](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) and attain minimally the Enhanced band
 
 ## Licence Fee
 
@@ -32,7 +32,7 @@ An annual licence fee of $70,000 is payable when the licence is issued.
 -   **Accountability to Singapore Customs**
     
     -   Accountable for the dutiable goods stored in the licensed premises and for the payment of duty and Goods and Services Tax on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](https://www.customs.gov.sg/about-us/national-single-window/tradenet) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the Customs Act, Customs Regulations and the licensing Terms and Conditions
@@ -81,6 +81,6 @@ The licence is strictly non-transferrable. The duty free shop licensee must take
 
 **2)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](https://www.customs.gov.sg/about-us/national-single-window/tradenet).
+Customs permits can be declared through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview).
 
-Find out more about  [Permit Declaration](https://www.customs.gov.sg/businesses/registering-to-trade/quick-guide-on-registration-matters).
+Find out more about  [Permit Declaration](https://singapore-customs-staging.netlify.app/businesses/registration-matters/overview).
