@@ -12,13 +12,13 @@ It assures the exporting country that sensitive goods are delivered to approved 
 
 The ICDV is a 3-stage process:
 
-1.  **Apply for an  [Import Certificate](https://www.customs.gov.sg/businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate)** if:
+1.  **Apply for an  [Import Certificate](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate)** if:
     
     -   The goods imported into Singapore are controlled by the exporting country, or
     -   The exporting country requests for an Import Certificate
 2.  **Apply for an import permit**  via  [TradeNet](https://www.tradexchange.gov.sg/tradexchange/default.portal?_nfpb=true&_pageLabel=main_tn&_nfls=false)  before importing the goods
     
-3.  **Apply for a  [Delivery Verification](https://www.customs.gov.sg/businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification)**  after importing the goods, if the exporting country requests for such verification
+3.  **Apply for a  [Delivery Verification](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification)**  after importing the goods, if the exporting country requests for such verification
     
 
 ![import certificate and delivery verification](https://www.customs.gov.sg/-/media/cus/images/business/import-certificate-and-delivery-verification.png)
