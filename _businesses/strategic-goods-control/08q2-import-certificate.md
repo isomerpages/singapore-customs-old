@@ -5,7 +5,7 @@ third_nav_title: Strategic Goods Control
 ---
 
 
-# Import Certificate and Delivery Verification (ICDV)
+# Import Certificate 
 
 **You can apply for an Import Certificate (IC) if**:
 
