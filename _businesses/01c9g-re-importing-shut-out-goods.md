@@ -40,7 +40,7 @@ The importer or the appointed freight handling agent should follow the steps in 
 Please refer to  [Circular No. 02/2015](https://www.customs.gov.sg/~/media/cus/files/circulars/corp/2015/circular_02_2015.pdf) on the requirements for the movement of dutiable goods and the declaration for exportation of dutiable goods from a licensed warehouse.
 
 ## Duty Exemption and GST Relief for Re-Importing Dutiable Shut-Out Goods Previously under Transhipment with Inter-gateway Movement into a Licensed Warehouse (ie. Transhipment From First Checkpoint to Second Checkpoint, and Shut-out From Second Checkpoint)
-1) [Apply](hhttps://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/) for a Customs In-Non Payment (Approved Premises/Schemes) permit via TradeNet before the re-importation of dutiable goods into a licensed warehouse.
+1) [Apply](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/) for a Customs In-Non Payment (Approved Premises/Schemes) permit via TradeNet before the re-importation of dutiable goods into a licensed warehouse.
 
 2) When applying for the permit, please take note of the following:
 
