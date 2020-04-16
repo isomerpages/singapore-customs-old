@@ -6,9 +6,9 @@ third_nav_title: Importing Goods
 
 # Importing Used Household Articles and Personal Effects
 
-Importing used household articles and personal effects into Singapore will incur  [Goods and Services Tax](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) (GST).
+Importing used household articles and personal effects into Singapore will incur  [Goods and Services Tax](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) (GST).
 
-You are required to  [apply](https://www.customs.gov.sg/businesses/importing-goods/import-procedures) for a Customs In-Payment (GST) permit to account for the import and the payment of GST.
+You are required to  [apply](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/) for a Customs In-Payment (GST) permit to account for the import and the payment of GST.
 
 You may be eligible for GST relief. Please see the tabs below for more information on the criteria for GST relief, application procedures and the types of used household or personal goods permitted for import.
 
@@ -23,7 +23,7 @@ The GST relief is subject to the following conditions:
 -   That such person satisfies Customs that:
     
     -   He is changing his place of residence to Singapore;
-    -   He is the owner of the articles, personal effects and [personal pet](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-of-personal-pets) imported;
+    -   He is the owner of the articles, personal effects and [personal pet](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/importing-of-personal-pets) imported;
     -   The articles and personal effects have been in his possession and used for at least 3 months; and
     -   The articles and personal effects are imported through air or sea.
 
@@ -40,7 +40,7 @@ The import of intoxicating liquors, tobacco products, motor vehicles, private ai
 
 A Customs In-Payment (Duty and GST) permit is required for importing dutiable goods, while an In-Payment (GST) permit is required for importing non-dutiable goods.
 
-Before you import your goods, please also see the lists of [controlled and prohibited goods](https://www.customs.gov.sg/businesses/importing-goods/controlled-and-prohibited-goods-for-import) to check if your goods require authorisation beforehand.
+Before you import your goods, please also see the lists of [controlled and prohibited goods](https://singapore-customs-staging.netlify.app/businesses/importing-goods/controlled-and-prohibited-goods-for-import) to check if your goods require authorisation beforehand.
 
 ***
 
@@ -89,7 +89,7 @@ At the entry point, please produce the goods, Customs In-Non Payment (GST Relief
 ## Accompanied Personal Effects
 This refers to goods that are hand-carried in the owner’s accompanied baggage upon his or her arrival in Singapore.
 
-To apply for GST relief, the owner should complete the “[Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#PermitLicence)” form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore:
+To apply for GST relief, the owner should complete the “[Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links)” form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore:
 
 Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs
 
