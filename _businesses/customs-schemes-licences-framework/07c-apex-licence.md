@@ -10,7 +10,7 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 The Apex Licence is a premium licence designed for existing Singapore Customs licensees holding multiple licences to support their diverse warehouse operations.
 
-It allows approved companies to hold a single licence and pay a single licence fee. For example, an Apex Licence will cover both the storage of non-dutiable goods under the  [Zero-GST Warehouse Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme) and dutiable goods under the  [Licensed Warehouse Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme).
+It allows approved companies to hold a single licence and pay a single licence fee. For example, an Apex Licence will cover both the storage of non-dutiable goods under the  [Zero-GST Warehouse Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme) and dutiable goods under the  [Licensed Warehouse Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme).
 
 Companies holding an Apex Licence will enjoy savings in licence fees, simplified documentation requirements as well as greater flexibility in their business operations.
 
@@ -21,7 +21,7 @@ To qualify for the Apex Licence, the company must:
 -   Hold more than one existing licence with Singapore Customs
 -   Have good compliance records with Singapore Customs
 -   Operate a robust computerised inventory system which is able to track and account for the inventory status and movement of all goods across multiple locations
--   Undergo  [TradeFIRST assessment](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) and attain the Premium band
+-   Undergo  [TradeFIRST assessment](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme) and attain the Premium band
 
 ## Licence Fee
 
