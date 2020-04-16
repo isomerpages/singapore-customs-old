@@ -8,39 +8,39 @@ third_nav_title: Importing Goods
 
 The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
--   [Temporarily import](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#Temporary%20Import) goods for approved purposes up to a maximum of 6 months, with suspension of Goods and Services Tax (GST) and duty (where applicable), or
+-   [Temporarily import](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme) goods for approved purposes up to a maximum of 6 months, with suspension of Goods and Services Tax (GST) and duty (where applicable), or
     
--   [Temporarily export](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#Temporary%20Export) GST and/or duty-paid goods for approved purposes and re-import  the same goods without GST and duty (where applicable)
+-   [Temporarily export](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme) GST and/or duty-paid goods for approved purposes and re-import  the same goods without GST and duty (where applicable)
     
 
 **Temporary Import**
 
 -   [Qualifying Goods and Purposes](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme2)
     
--   [Permit Application Procedures](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-eb94d2bb-ce53-4be7-8818-6abb534db482)
+-   [Permit Application Procedures](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
--   [Permit Application Procedures for Temporary Import of Scientific or Technical Goods](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-6ce0a2e7-f659-4083-9e9d-d9617ce52c5b)
+-   [Permit Application Procedures for Temporary Import of Scientific or Technical Goods](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
--   [Temporary Import Duration and Extension](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-7d1aba62-3dbb-4902-8327-61e83009e82a)
+-   [Temporary Import Duration and Extension](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
--   [Additional Requirements](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-34cf315f-baef-496c-9161-2d32274d15dd)
+-   [Additional Requirements](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
 
 **Temporary Export**
 
--   [Qualifying Goods and Purposes](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-0db6e6c1-8446-4ee8-b313-c5ef1db1abef)
+-   [Qualifying Goods and Purposes](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
--   [Permit Application Procedures](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-725d9f1c-9b76-45c1-b230-c7dbd8044ddc)
+-   [Permit Application Procedures](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
--   [Temporary Export Duration and Extension](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-d66addb8-0a90-4093-b628-bdf9315efce0)
+-   [Temporary Export Duration and Extension](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
--   [Additional Requirements](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-eb94e4b5-6781-4084-9cb4-e2e4be81fd51)
+-   [Additional Requirements](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
 
 **Alternatives to the Temporary Import Scheme**
 
--   [Temporary Importation/Exportation of Hand-carried Non-commercial Goods](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-0a63be55-13bd-4e14-aca8-6020c1c7936b)
+-   [Temporary Importation/Exportation of Hand-carried Non-commercial Goods](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
--   [ATA Carnet](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme#item-heading-6b11eced-98c1-449f-b631-012994a7eca1)
+-   [ATA Carnet](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
 ### Errors and Offences
 
