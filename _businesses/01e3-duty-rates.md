@@ -8,7 +8,7 @@ third_nav_title: Importing Goods
 
 ## Cars
 
-For passenger, classic cars and vintage cars that are manufactured before 1940, an [](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods)[excise duty](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods) rate of 20% will be levied on the [](https://www.customs.gov.sg/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value)[customs value](https://www.customs.gov.sg/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value) of the vehicle.
+For passenger, classic cars and vintage cars that are manufactured before 1940, an [](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)[excise duty](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) rate of 20% will be levied on the [](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value)[customs value](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the vehicle.
 
 For vintage cars registered under the various [Vintage Vehicle Scheme](http://www.lta.gov.sg/content/ltaweb/en/roads-and-motoring/owning-a-vehicle/registering-your-vehicle/registration-of-vintage-vehicles.html)s with the Land Transport Authority of Singapore where the vehicle was previously exempted from excise duty and a transfer of ownership occurs, the excise duty will be the duty amount that would have been payable when the vehicle was first imported into Singapore.
 
@@ -18,7 +18,7 @@ Example on the calculation of duties payable for cars:
 
 Duties payable = customs value x excise duty rate
 
-Company A imports a motor car that was bought at S$100,000 on  [FOB (Free on Board) incoterms](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance#FreeOnBoard). The overseas freight, handling and insurance charges to ship the car to Singapore costs S$1,000.
+Company A imports a motor car that was bought at S$100,000 on  [FOB (Free on Board) incoterms](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance). The overseas freight, handling and insurance charges to ship the car to Singapore costs S$1,000.
 
 Customs value of car = S$101,000
 
@@ -34,7 +34,7 @@ Example on the calculation of duties payable for motorcycles or scooters:
 
 Duties payable = customs value x excise duty rate
 
-Company A imports a motorcycle that was bought at S$19,000 on  [FOB (Free on Board) incoterms](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance#FreeOnBoard). The overseas freight, handling and insurance charges to ship the motorcycle to Singapore costs S$100.
+Company A imports a motorcycle that was bought at S$19,000 on  [FOB (Free on Board) incoterms](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance). The overseas freight, handling and insurance charges to ship the motorcycle to Singapore costs S$100.
 
 Customs value of motorcycle = S$19,100
 
