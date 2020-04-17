@@ -6,7 +6,7 @@ third_nav_title: Business Resources
 
 # List of Local Forwarding Agents
 
--   [**Singapore Logistics Association**](http://www.sla.org.sg/)  
+-   [Singapore Logistics Association](http://www.sla.org.sg/)  
       
     
--   **[Singapore Air-cargo Agents Association](http://www.saaa.org.sg/)**
+-   [Singapore Air-cargo Agents Association](http://www.saaa.org.sg/)
