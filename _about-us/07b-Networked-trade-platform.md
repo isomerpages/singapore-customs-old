@@ -8,7 +8,7 @@ third_nav_title: National Single Window
 
 The Networked Trade Platform (NTP) is a one-stop trade and logistics ecosystem which supports digitalisation efforts and connects players across the trade value chain - in Singapore and abroad. It aims to provide the foundation for Singapore to be a leading trade, supply chain and trade financing hub.
 
-The **NTP** is a:
+The NTP is a:
 
 -   One-stop trade information management system linked to other platforms
 -   Next-generation platform offering a wide range of trade-related services
