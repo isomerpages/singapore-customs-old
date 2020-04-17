@@ -16,4 +16,4 @@ Click on the links below to view the Free Trade Zones Act and selected subsidiar
 -   [Free Trade Zones (Manufacture) Regulations](https://sso.agc.gov.sg/SL/FTZA1966-RG2?DocDate=20141031)
 -   [Free Trade Zones (Prescribed Goods) Notification](https://sso.agc.gov.sg/SL/FTZA1966-N1?DocDate=20141031)
 
-> <sup>*Please note that only key subsidiary legislation have been reproduced on this website.<sup/>
+*Please note that only key subsidiary legislation have been reproduced on this website.
