@@ -24,4 +24,4 @@ You are not allowed to cancel a transhipment permit if:
 -   It has expired for more than a calendar day; or
 -   It has been requested by the Manifest Compliance Unit of Singapore Customs for audit purposes.
 
-For such cases, please submit a  [voluntary disclosure](https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme)  to Singapore Customs.
+For such cases, please submit a  [voluntary disclosure](https://singapore-customs-staging.netlify.app/businesses/compliance/voluntary-disclosure-programme)  to Singapore Customs.
