@@ -38,7 +38,7 @@ Payment of Duties and GST can be made via the following payment modes:
 
 ## How to declare?
 
-Major traveller entry checkpoints in Singapore operate the Red and Green Channels system. The Red and Green Channel signs are above the examination counters in the arrival hall after immigration clearance. At certain checkpoints, forward security checks are conducted  __before immigration clearance__. If you are carrying any dutiable, taxable, controlled or prohibited goods, please declare them to the checking officer at the Red Channel or at the Customs Examination Area before immigration clearance.
+Major traveller entry checkpoints in Singapore operate the Red and Green Channels system. The Red and Green Channel signs are above the examination counters in the arrival hall after immigration clearance. At certain checkpoints, forward security checks are conducted  __before immigration clearance__ . If you are carrying any dutiable, taxable, controlled or prohibited goods, please declare them to the checking officer at the Red Channel or at the Customs Examination Area before immigration clearance.
 
 ***
 
