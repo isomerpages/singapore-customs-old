@@ -44,9 +44,9 @@ Courses for Businesses
 
 [Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)
 
-[General Feedback](https://form.gov.sg/#!/5e6862571db1b70011098bf5)
+[Quality Service Manager](https://form.gov.sg/#!/5e6862571db1b70011098bf5)
 
-Reporting of Customs Offences
+[Reporting of Customs Offences](https://form.gov.sg/#!/5e995f095dad670011b20509)
 
 
 For NTP system/technical enquiries and support, please contact the NTP help desk on (65) 6570 3053 or via email at ntp_helpdesk@ncs.com.sg.
