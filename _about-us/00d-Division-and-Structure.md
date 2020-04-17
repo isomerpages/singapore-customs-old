@@ -3,9 +3,9 @@ title: Division and Structure
 permalink: /about-us/division-and-structure
 ---
 
-# Divisions and Structure
+# Divisions and Branches
 
-The roles of the respective divisions of Singapore Customs are as follows:
+The Roles of the Divisions of Singapore Customs are as follows:
 
 ## Trade Division
 
@@ -128,9 +128,15 @@ The main roles of the Information Technology Directorate include:
 
 ## Singapore Customs Academy
 
-As Singapore’s first dedicated facility providing specialist Customs training, the Singapore Customs Academy serves as a centre of excellence in customs knowledge and competencies, reaching out to the local trading and logistics community to raise their compliance level and reduce their compliance costs.
-
-It also provides training in various customs domains for Singapore Customs officers and promotes knowledge-sharing amongst other overseas customs.
+The Singapore Customs Academy is dedicated to enable the our Customs officers, the business community and international counterparts to obtain the right training in the field of customs knowledge and competencies.  
+  
+**Vision  
+  
+**A leading academy that advances thought leadership in Customs.  
+  
+**Mission  
+  
+**Promote the sharing of Customs knowledge within Singapore and the global community.
 
 ## Internal Audit Branch
 
