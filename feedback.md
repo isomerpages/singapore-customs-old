@@ -42,7 +42,9 @@ Career with Customs
 
 Courses for Businesses
 
-Media Queries & General Feedback 
+[Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)
+
+[General Feedback](https://form.gov.sg/#!/5e6862571db1b70011098bf5/preview)
 
 Reporting of Customs Offences
 
