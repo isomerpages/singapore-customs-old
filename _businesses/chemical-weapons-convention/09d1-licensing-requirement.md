@@ -46,6 +46,10 @@ A CWC licence is required for the production of DOCs that meets either one or bo
 | Total DOCs (including both PSF-containing and non PSF-containing) | More than 200 tonnes |
 | Any one PSF-containing DOC |  More than 30 tonnes|
 
-
 **Note**:  
 [Plant sites](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/glossary) that **exclusively** produce hydrocarbons or explosives by synthesis do not require a CWC licence.
+
+## **[Application for Licence](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence)**
+
+
+## [Amendment to Existing Licence](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence)
