@@ -9,8 +9,10 @@ third_nav_title: Harmonized System (HS) Classification of Goods
 ### Singapore Trade Classification, Customs & Excise Duties (STCCED)
 
 Singapore adopts the 8-digit HS Codes in the  [ASEAN Harmonized Tariff Nomenclature](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/resources/stcced/stcced-2018-march-2019-version/index.html)  (AHTN), which is based on the World Customs Organization (WCO) 6-digit level HS Codes, for use by all ASEAN member countries. To assist you in your self-classification journey, you may use the following resources to obtain the HS code for your product.
-**![Layered Enforcement](/images/Find-my-HS-Code-2.png)**
-<sup>Is my Product a controlled item?
+
+![HSC5.png](https://github.com/isomerpages/singapore-customs/blob/staging/images/HSC5.png?raw=true)
+**Is my Product a controlled item?**
+  
 ## Harmonized System/Competent Authority (HS/CA) Product Code Search Engine
 
 The [HS/CA Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) is available for you to do a quick search for the HS codes, product codes and descriptions of a product within the Singapore Trade Classification, Customs & Excise Duties.
