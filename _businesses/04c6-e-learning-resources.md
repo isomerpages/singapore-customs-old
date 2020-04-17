@@ -8,4 +8,4 @@ third_nav_title: Valuation, Duties, Taxes & Fees
 
 You may refer to these resources for more information on valuation, duties and Goods and Services Tax matters:
 
--   [Course on Valuation](https://www.customs.gov.sg/businesses/resources/courses-and-events) (SC 101 – Customs Procedures)
+-   [Course on Valuation](https://singapore-customs-staging.netlify.app/businesses/resources/courses-and-events) (SC 101 – Customs Procedures)
