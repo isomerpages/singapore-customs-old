@@ -16,4 +16,4 @@ Click on the links below to view the Strategic Goods (Control) Act and selected 
 
 The Strategic Goods Control homepage may also be accessed [here](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/legislation).
 
-> <sup>*Please note that only key subsidiary legislation have been reproduced on this website.<sup/>
+*Please note that only key subsidiary legislation have been reproduced on this website.
