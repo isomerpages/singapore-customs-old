@@ -1,5 +1,5 @@
 ---
-title: Stratgic Goods (Control) Act
+title: Strategic Goods (Control) Act
 permalink: /about-us/acts-and-subsidiary-legislation/strategic-goods-control-act
 third_nav_title: Acts and Subsidiary Legislation
 ---
