@@ -23,9 +23,22 @@ The transhipment of all goods is not subject to duty or Goods and Services Tax (
 
 ***
 
-( Complicated Table)
+**Scenario A**
+Incoming Bill of Lading, Air Waybill or Manifest 
 
-***
+|  |  |  |  |
+|--|--|--|--|
+| Port of Loading | Port of Destination | Shipper | Consignee and/or Notifying Party | 
+| Not Singapore | Not Singapore | Overseas Party | Overseas party |  
+
+
+**Scenario B**
+Incoming Bill of Lading, Air Waybill or Manifest 
+
+|  |  |  |  |
+|--|--|--|--|
+| Not Singapore | Not Singapore | Overseas party | Local shipping agent, NVOCC, air cargo agent or freight forwarder | 
+| Not Singapore | Not Singapore | Local party | Overseas party or Local shipping agent/NVOCC/FF |  
 
 The transhipment of all goods is not subject to duty or Goods and Services Tax (GST).
 
