@@ -18,7 +18,7 @@ Licensees that intend to  **import**,  **export**, or  **locally transfer** any 
 
 ## Submission of Advance Notification
 
-1) Download the  [application forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#cwc-general).
+1) Download the  [application forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links).
 
 2) Submit the application forms with supporting documents by:
 
