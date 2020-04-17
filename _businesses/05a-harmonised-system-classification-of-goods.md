@@ -13,10 +13,10 @@ The information in this section aims to provide some background of HS classifica
 ### What is the Harmonized System (HS)?
 
 The Harmonized Commodity Description and Coding System, or simply the HS, is an international nomenclature (at 6-digit level) developed by the World Customs Organisation (WCO) for the classification of goods.
+
     
 ### Structure of the Harmonized System (HS)
-    
----- 
+   
 
 The HS comprises of 21 Sections covering 97 Chapters. It consists of:
 
@@ -30,7 +30,6 @@ The goods in the HS are arranged in order of their degree of manufacture. The sa
 
 ![HSC3.jpg](https://github.com/isomerpages/singapore-customs/blob/staging/images/HSC3.jpg?raw=true)
 
-----
 
 ### Process of Classification
   ![HSC4.jpg](https://github.com/isomerpages/singapore-customs/blob/staging/images/HSC4.jpg?raw=true)
@@ -41,7 +40,6 @@ When classifying your products, one will need to apply the  [General Interpretat
     
 Click  [here](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/gir/apply-gir.pdf?la=en&hash=360007CDA0B9CEB66FB84E5778544C3B3EFF5D7D)  for guiding questions on how to apply GIR.
 
-----
     
 ### ASEAN Harmonized Tariff Nomenclature (AHTN)
     
@@ -57,8 +55,6 @@ Key amendments on AHTN 2017 can be found  [here](https://www.customs.gov.sg/-/me
 **SC102 - Classification and the Harmonized System Course**
 
 If you wish to pick up basic skills on the HS classification of goods, you may register for our [SC 102 -](https://www.customs.gov.sg/businesses/resources/courses-and-events) [Classification and the Harmonised System](https://www.customs.gov.sg/businesses/resources/courses-and-events)  course.  
-  
-  ----
   
 **Self-Learning**
 
