@@ -52,4 +52,4 @@ For applications to the Controller of Undesirable Publications, the supporting d
 
 |  |  |
 |---|---|
-| [![]https://github.com/isomerpages/singapore-customs/blob/staging/images/Things%20to%20look%20out%20for2.jpg?raw=true](https://singapore-customs-staging.netlify.app/about-us/07a3-competent-authorities-requirements) |  |
+| [![](https://raw.githubusercontent.com/isomerpages/singapore-customs/staging/images/HSA.jpg)](https://singapore-customs-staging.netlify.app/about-us/07a3-competent-authorities-requirements) |  |
