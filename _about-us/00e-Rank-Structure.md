@@ -1,7 +1,7 @@
 ---
 title: Rank Structure
 permalink: /about-us/rank-structure
-third_nav_title: About Us
+third_nav_title: Organisation Overview
 ---
 
 # Rank Structure
