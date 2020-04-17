@@ -15,7 +15,7 @@ If you wish to produce, process, consume, store, import, export, transfer or dis
 
 Singapore Customs takes a serious view of the offences under the CWPA and will not hesitate to take enforcement action. You are reminded to exercise due diligence if you are involved in activities relating to controlled chemicals in or outside of Singapore. You should check for updates on CWC licensing matters regularly.
 
-**Examples of common offences**
+##**Examples of common offences**
 
    -   Failure to obtain a licence or comply with the conditions of a licence such as for the use, production, acquisition or transfer of scheduled chemicals or discrete organic chemicals
         
@@ -29,7 +29,7 @@ Singapore Customs takes a serious view of the offences under the CWPA and will n
     
 Penalties for offences under the CWPA and relevant sections of the Regulation of Imports and Exports Act (RIEA) include seizure and forfeiture of goods, fines and imprisonment. Singapore Customs may offer to compound offences for a sum not exceeding S$5,000 per offence.
 
-**Penalties upon conviction for key offences**
+##**Penalties upon conviction for key offences**
 
 | Offence | Penalty Upon Conviction |
 |--|--|
