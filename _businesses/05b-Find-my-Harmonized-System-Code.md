@@ -6,7 +6,7 @@ third_nav_title: Harmonized System (HS) Classification of Goods
 
 # Find my Harmonized System Code
 
-## Singapore Trade Classification, Customs & Excise Duties (STCCED)
+### Singapore Trade Classification, Customs & Excise Duties (STCCED)
 
 Singapore adopts the 8-digit HS Codes in the  [ASEAN Harmonized Tariff Nomenclature](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/resources/stcced/stcced-2018-march-2019-version/index.html)  (AHTN), which is based on the World Customs Organization (WCO) 6-digit level HS Codes, for use by all ASEAN member countries. To assist you in your self-classification journey, you may use the following resources to obtain the HS code for your product.
 **![Layered Enforcement](/images/Find-my-HS-Code-2.png)**
@@ -19,13 +19,13 @@ You can also check if a product is subject to control by any competent authority
 
 In view of the current COVID-19 situation, you may refer to the “HS Classification Reference for Covid-19 Medical Supplies” on the  [World Customs Organisation (WCO) website](http://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/activities-and-programmes/natural-disaster/covid_19/hs-classification-reference_en.pdf?la=en&hash=DF4F916B8AD5978E3C98A9D2EED0EA072E9DA01B&hash=DF4F916B8AD5978E3C98A9D2EED0EA072E9DA01B)  for more information.
 
-## Traders' Product Guide
+### Traders' Product Guide
 
 The  [Traders’ Product Guide](https://www.customs.gov.sg/-/media/trader-product-guide.pdf) provides a general description, stating the HS classification and dutiable status of the item. The pictures, drawings or photographs presented in this product guide are provided for illustrative purposes only.
 
-## Customs Ruling Database
+### Customs Ruling Database
 
-The [Customs Ruling Database](https://www.customs.gov.sg/businesses/harmonized-system-hs-classification-of-goods/resources/harmonized-system-competent-authority-product-code-search) is a list of commodities and their corresponding HS codes compiled from past Customs Rulings that were issued. You may refer to it to view products which had been assessed by Singapore Customs.
+The [Customs Ruling Database](https://singapore-customs-staging.netlify.app/tradenet/portlets/search/searchcountryport/searchinitcountryport) is a list of commodities and their corresponding HS codes compiled from past Customs Rulings that were issued. You may refer to it to view products which had been assessed by Singapore Customs.
 
 The classification of goods provided here is for general reference only. Every effort has been made to ensure that the information presented is complete and accurate. Singapore Customs assumes no responsibility and accepts no liability for any action taken or omitted by you on the basis of the classification provided.
 
