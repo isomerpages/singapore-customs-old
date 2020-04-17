@@ -37,10 +37,8 @@ The following health products are currently not subject to HSA’s licensing/app
 
 a) Cosmetic products;  
 b) Health supplements;  
-c) Quasi-medicines;  
-   _(e.g. anti-dandruff preparations, medicated soaps, medicated plasters, medicated beverages, vitamin or nutritional preparations from    any plant, animal or mineral, medicated toothpaste, medicated cosmetic products for treatment of pimples or acne which are exempted      from product registration)_  
-d) Traditional medicines such as Jamu and Ayurvedic medicines;  
-   _(excluding Chinese Proprietary Medicines)_  
+c) Quasi-medicines; <br> _(e.g. anti-dandruff preparations, medicated soaps, medicated plasters, medicated beverages, vitamin or nutritional preparations from    any plant, animal or mineral, medicated toothpaste, medicated cosmetic products for treatment of pimples or acne which are exempted      from product registration)_  
+d) Traditional medicines such as Jamu and Ayurvedic medicines;  <br> _(excluding Chinese Proprietary Medicines)_  
 e) Medicated oil and balm;  
 f) Herbal materials; and  
 g) Homoeopathic medicines
@@ -76,7 +74,8 @@ g) Homoeopathic medicines
 |               | Chinese Proprietary Medicines                                            |
 |               | They should not contain controlled drugs or psychotropic substances and imported for personal use only. |
 
-***
+
+
 **_License/Approval Information To Be Declared With HSA Product Codes_**
 
 In addition to the HSA Product Codes in Table 1 above, importers and dealers are also required to furnish all relevant HSA licence/approval information in the CA/SC code 1, 2 and 3 fields, where applicable. Details of the information to be furnished for therapeutic products, medical devices, Chinese Proprietary Medicines and other types of imports are provided in  [Tables 2 to 5](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/health-sciences-authority-hsa#tables2to5).  
@@ -93,6 +92,7 @@ When submitting a declaration, please observe the following requirements:
 ***
 
 **Tables 2 to 5**
+
 The Tables 2 to 5 below provide guidance to importers and dealers on licence information and/or other approval information that needs to be declared and the specific CA/SC Code fields that they should use to provide the information.
 
 [**Table 2**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table2_therapeutic-products.pdf)  Therapeutic Products
@@ -101,7 +101,8 @@ The Tables 2 to 5 below provide guidance to importers and dealers on licence inf
 
 [**Table 4**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table4_chinese-proprietary-medicines.pdf)  Chinese Proprietary Medicines
 
-[**Table 5**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table5_other-category-products.pdf)  Other Products regulated by HSA including Poisons, Controlled Drugs, Psychotropic Substances and Oral Dental Gums”
+[**Table 5**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table5_other-category-products.pdf)  Other Products regulated by HSA including Poisons, Controlled Drugs, Psychotropic Substances and Oral Dental Gums
+
 ***
 ### [Frequently Asked Questions (FAQs)](https://www.hsa.gov.sg/docs/default-source/hprg-ald/frequently_asked_questions.pdf)
-***
+
