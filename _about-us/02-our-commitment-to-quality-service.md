@@ -8,8 +8,8 @@ permalink: /about-us/our-commitment-to-quality-service/
 ## Your Satisfaction, Our Pride
 
 We are committed to provide excellent service as outlined in our Service Charter, and our pride resides in our customers’ satisfaction.
-<br>
-The service we provide will be:
+
+<br> The service we provide will be:
 
 |  |  |
 |--|--|
