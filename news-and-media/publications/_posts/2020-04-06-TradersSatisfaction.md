@@ -56,7 +56,7 @@ Singapore Customs will continue to be mindful of traders' feedback to streamline
 
 Traders are encouraged to visit our website regularly to check on the latest updates and developments. You may also wish to use the recently launched "Ask Jamie" to assist you in your queries. A summary of our responses to some common feedback and suggestions we received is appended below.
 
-( Missing Table )
+[Feedback and Suggestions](images/We%20Heard%20You.png)
 
 
 
