@@ -22,6 +22,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 Exports of Schedules 1, 2 and 3 chemicals for the following concentration limits are also subject to export control requirements under the Strategic Goods (Control) Act in Singapore.
 
 **Exports to Member States**
+
 | Types of Scheduled Chemicals | Concentration Limits |
 |--|--|
 | Schedules 1 / 2A* chemicals | All concentrations |
@@ -34,3 +35,5 @@ Exports of Schedules 1, 2 and 3 chemicals for the following concentration limits
 | Schedule 3 chemicals | Mixtures containing more than 30% of the scheduled chemical |
 
 Please refer to the [Strategic Goods Control](hhttps://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/overview).
+
+*Under Exporting of NA(CWC) Controlled Items
