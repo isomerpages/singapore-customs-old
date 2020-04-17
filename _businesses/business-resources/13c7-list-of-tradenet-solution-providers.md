@@ -15,6 +15,7 @@ This table shows the front-end solution providers for TradeNet
 Tel : (65) 6491 3999  
 Fax : (65) 6491 3998  
 Email:  [support.apac@blujaysolutions.com](mailto:support.apac@blujaysolutions.com)
+
 ***
 
 **Cargo Community Network Pte Ltd**
@@ -22,6 +23,7 @@ Email:  [support.apac@blujaysolutions.com](mailto:support.apac@blujaysolutions.c
 Tel : (65) 6776 4889  
 Fax : (65) 6778 1875  
 Email : [helpdesk@ccn.com.sg](mailto:helpdesk@ccn.com.sg)
+
 ***
 
 **Computor Lord Industrial Training Centre**
@@ -29,6 +31,7 @@ Email : [helpdesk@ccn.com.sg](mailto:helpdesk@ccn.com.sg)
 Tel: (65) 6222 3308  
 Fax: (65) 6299 5506  
 Email: [helpdesk@clord.com](mailto:helpdesk@clord.com)
+
 ***
 
 **GeTS Asia Pte Ltd**
@@ -36,19 +39,25 @@ Email: [helpdesk@clord.com](mailto:helpdesk@clord.com)
 Tel: (65) 6887 7333  
 Fax: (65) 6887 7429  
 Email:  [sales@globaletrade.services](mailto:sales@globaletrade.services)
+
 ***
+
 **Innosys Pte Ltd**
 
 Tel: (65) 6744 3002  
 Fax: (65) 6742 0004  
 Email:  [sales@innosys.com.sg](mailto:sales@innosys.com.sg)
+
 ***
+
 **Kaizen Trade Technology Pte Ltd**
 
 Tel: (65) 6950 7741  
 Fax: (65) 6950 7741  
 Email:  [contact@ktt.sg](mailto:contact@ktt.sg)
+
 ***
+
 **Tradenet Services Pte Ltd**
 
 Tel: (65) 6576 9100  
@@ -56,18 +65,23 @@ Fax: (65) 6842 2677
 Email:  [info@tnets.com.sg](mailto:info@tnets.com.sg)
 
 ***
+
 **vCargo Cloud Pte Ltd**
 
 Tel: (65) 6779 6218  
 Fax: (65) 6779 6216  
 Email:  [sales@vcargocloud.com](mailto:sales@vcargocloud.com)
+
 ***
+
 **WiseTech Global Singapore**
 
 Tel: (65) 6817 4790  
 Fax: (65) 6247 9419  
 Email:  [info@wisetechglobal.com](mailto:info@wisetechglobal.com)
+
 ***
+
 **Government Front-end Application**
 
 Tel: (65) 6887 7888  
@@ -77,6 +91,7 @@ Email: [customeradmin@crimsonlogic.com.sg](mailto:customeradmin@crimsonlogic.com
 For new users, you may wish to register as a TradeNet declaring agent with the TradeNet administrator.  
   
 This solution is free for existing TradeNet declaring agents. Please register with the TradeNet administrator and allow up to 3 working days for activation.
+
 ***
 
 ## How to be a TradeNet Front-end Solution Provider?
