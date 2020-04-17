@@ -17,12 +17,12 @@ accordion:
 
 Singapore Customs administers the:
 
--   [Customs Act](https://www.customs.gov.sg/about-us/acts-and-subsidiary-legislation#customs-act)
--   [Goods and Services Tax Act](https://www.customs.gov.sg/about-us/acts-and-subsidiary-legislation#gst-act)  (jointly with the Inland Revenue Authority of Singapore)
--   [Regulation of Imports and Exports Act](https://www.customs.gov.sg/about-us/acts-and-subsidiary-legislation#rie-act)
--   [Free Trade Zones Act](https://www.customs.gov.sg/about-us/acts-and-subsidiary-legislation#ftz-act)
--   [Strategic Goods (Control) Act](https://www.customs.gov.sg/about-us/acts-and-subsidiary-legislation#sgc-act)
--   [Chemical Weapons (Prohibition) Act](https://www.customs.gov.sg/businesses/chemical-weapons-convention)
+-   [Customs Act](https://singapore-customs-staging.netlify.app/about-us/acts-and-subsidiary-legislation/customs-act)
+-   [Goods and Services Tax Act](https://singapore-customs-staging.netlify.app/about-us/acts-and-subsidiary-legislation/goods-and-services-tax)  (jointly with the Inland Revenue Authority of Singapore)
+-   [Regulation of Imports and Exports Act](https://singapore-customs-staging.netlify.app/about-us/acts-and-subsidiary-legislation/regulation-of-imports-and-exports-act)
+-   [Free Trade Zones Act](https://singapore-customs-staging.netlify.app/about-us/acts-and-subsidiary-legislation/free-trade-zones-act)
+-   [Strategic Goods (Control) Act](https://singapore-customs-staging.netlify.app/about-us/acts-and-subsidiary-legislation/strategic-goods-control-act)
+-   [Chemical Weapons (Prohibition) Act](https://singapore-customs-staging.netlify.app/about-us/04f-chemical-weapons-prohibition-act)
 
 We strive for a high level of compliance by the trading community with Singapore’s trade and customs laws, through a multi-pronged approach of strengthening self-compliance, timely detection of violations, deterrence through effective enforcement and penalties, regular monitoring of compliance status, and risk reviews.
 
