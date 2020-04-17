@@ -10,9 +10,9 @@ Under the  [Chemical Weapons Convention (CWC),](https://www.customs.gov.sg/busin
 
 There are 4 types of declarations:
 
--   [Annual Declaration of Anticipated Activities for the coming year](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa)
--   [Annual Declaration of Past Activities for the preceding year](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/annual-declaration-for-past-activities)
--   [Ad-Hoc Declaration on Additionally Planned Activities](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/ad-hoc-declaration-on-additionally-planned-activities)
--   [Advanced Notification of Transfer of Schedule 1 Chemical(s)](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals)
+-   [Annual Declaration of Anticipated Activities for the coming year](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa)
+-   [Annual Declaration of Past Activities for the preceding year](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/annual-declaration-for-past-activities)
+-   [Ad-Hoc Declaration on Additionally Planned Activities](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations/ad-hoc-declaration-on-additionally-planned-activities)
+-   [Advanced Notification of Transfer of Schedule 1 Chemical(s)](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals)
 
 The requirements to submit declarations to NA(CWC) are mandated under the Chemical Weapons (Prohibition) Act. Every CWC licensee is required to submit declarations for declarable activities controlled by the NA(CWC).
