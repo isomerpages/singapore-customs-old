@@ -23,20 +23,12 @@ Singapore Customs is the National Authority to administer the SGCA. The function
 
 Singapore Customs also coordinates closely with other government agencies such as the  [**Immigration & Checkpoints Authority**](http://www.ica.gov.sg/)  and  [**Singapore Police Force**](http://www.spf.gov.sg/)  to enforce the SGCA.
 
-## [Legislation](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/legislation)
-
-## [Scope of Control](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/scope-of-control)
-
-## [Enforcement](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/enforcement)
-
-## [Permit and Registration Requirements](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements)
-
-## [Preliminary Advice for Strategic Goods Transaction](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction)
-
-## [Import Certificate and Delivery Verification](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/import-certificate-and-delivery-verification)
-
-## [Sanctioned Lists and Red Flags](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/sanctioned-lists-and-red-flags)
-
-## [Resources](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/resources)
-
-## [Useful Links](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/useful-links)
+**[Legislation](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/legislation)**
+**[Scope of Control](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/scope-of-control)**
+**[Enforcement](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/enforcement)**
+**[Permit and Registration Requirements](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements)**
+**[Preliminary Advice for Strategic Goods Transaction](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction)**
+**[Import Certificate and Delivery Verification](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/import-certificate-and-delivery-verification)**
+**[Sanctioned Lists and Red Flags](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/sanctioned-lists-and-red-flags)**
+**[Resources](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/resources)**
+**[Useful Links](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/useful-links)**
