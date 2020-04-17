@@ -6,7 +6,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 # Annual Declaration for Anticipated Activities (ADAA)
 
-The Annual Declaration for Anticipated Activities (ADAA) is required for licensees that intend to produce, process or consume  [scheduled chemicals](https://www.customs.gov.sg/businesses/chemical-weapons-convention/controlled-chemicals) in the coming year. Licensees should submit an  [ad-hoc declaration](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/ad-hoc-declaration-on-additionally-planned-activities) if there is any change to the anticipated activities after the ADAA submission.
+The Annual Declaration for Anticipated Activities (ADAA) is required for licensees that intend to produce, process or consume  [scheduled chemicals](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/controlled-chemicals) in the coming year. Licensees should submit an  [ad-hoc declaration](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations/ad-hoc-declaration-on-additionally-planned-activities) if there is any change to the anticipated activities after the ADAA submission.
 
 The table below indicates the activities that require an ADAA.
 
@@ -38,7 +38,7 @@ The ADAA exercise starts from  **15 June of each year**
 
 ### Submission of ADAA
 
-1) Download the  [application forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#adaa).
+1) Download the  [application forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links).
 
 2) Submit the application forms with supporting documents by:
 
