@@ -22,14 +22,14 @@ It is important to know your customer and the end-use application of your produc
 
 Below is a checklist to help you identify potential warning signs to avoid engaging in illegal strategic goods or UNSC prohibited transactions.
 
-![**Things to Look Out For**]()
+![**Things to Look Out For**](https://github.com/isomerpages/singapore-customs/blob/staging/images/Things%20to%20look%20out%20for2.jpg?raw=true)
 
 
 ### What You Need To Know About Nuclear Materials
 
 Nuclear materials are highly toxic and hazardous. Below is a list of things you should know before you trade or ship nuclear materials.
 
-![**Things to Look Out For**](https://github.com/isomerpages/singapore-customs/blob/staging/images/Things%20to%20look%20out%20for2.jpg?raw=true)
+![**Things to Look Out For**](https://github.com/isomerpages/singapore-customs/blob/staging/images/Things%20to%20look%20out%20for%20-%20Nuclear%20materials1.jpg?raw=true)
 
 
 ### Unilateral Sanctioned Lists
