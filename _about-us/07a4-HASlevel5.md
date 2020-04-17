@@ -37,8 +37,8 @@ The following health products are currently not subject to HSA’s licensing/app
 
 a) Cosmetic products;  
 b) Health supplements;  
-c) Quasi-medicines; <br> _(e.g. anti-dandruff preparations, medicated soaps, medicated plasters, medicated beverages, vitamin or nutritional preparations from    any plant, animal or mineral, medicated toothpaste, medicated cosmetic products for treatment of pimples or acne which are exempted      from product registration)_  
-d) Traditional medicines such as Jamu and Ayurvedic medicines;  <br> _(excluding Chinese Proprietary Medicines)_  
+c) Quasi-medicines; <br> _(e.g. anti-dandruff preparations, medicated soaps, medicated plasters, medicated beverages, vitamin or<br>nutritional preparations from any plant, animal or mineral, medicated toothpaste, medicated cosmetic products for treatment of<br>pimples or acne which are exempted from product registration)_  
+d) Traditional medicines such as Jamu and Ayurvedic medicines; <br> _(excluding Chinese Proprietary Medicines)_  
 e) Medicated oil and balm;  
 f) Herbal materials; and  
 g) Homoeopathic medicines
