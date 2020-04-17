@@ -16,8 +16,7 @@ Please refer to the table below for the terms used on this page:
 | Declaring Entity (DE) | Any importer, exporter, shipping agent, air cargo agent, freight forwarder, common carrier or other person who would like to obtain a permit, certificate, licence or any other document or form of approval. |
 | Declarant| An individual authorised by a Declaring Agent to make an application for a permit on behalf of the Declaring Agent (including where the Declaring Entity is concurrently registered as that Declaring Agent). |
 
-***
-Under the Framework:
+**Under the Framework**:
 
 -   DAs need to undergo an assessment during registration and renewals.
 -   Individuals have to take and pass the Customs Competency Test for Declarants (SC401) before they can be registered as Declarants.
@@ -25,7 +24,6 @@ Under the Framework:
 -   All Declarants are required to maintain confidentiality of the User ID(s) and password(s) that are registered to them and shall not share them with any person.
 -   DAs shall ensure that it abides by the conditions issued in the customs permit.
 
-***
 ( **Missing Accordion** )
 
-***
+
