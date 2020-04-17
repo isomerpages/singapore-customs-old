@@ -58,6 +58,7 @@ Key amendments on AHTN 2017 can be found  [here](https://www.customs.gov.sg/-/me
 
 If you wish to pick up basic skills on the HS classification of goods, you may register for our [SC 102 -](https://www.customs.gov.sg/businesses/resources/courses-and-events) [Classification and the Harmonised System](https://www.customs.gov.sg/businesses/resources/courses-and-events)  course.  
   
+  ----
   
 **Self-Learning**
 
