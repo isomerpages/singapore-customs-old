@@ -12,9 +12,9 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 # For Individuals
  
-Checkpoint Matters
+[Checkpoint Matters](https://form.gov.sg/5e9952b7d273ec0011deaeda)
 
-Tourist Refund
+[Tourist Refund](https://form.gov.sg/5e995867c8958100111be89f)
 
 
 # For Traders
@@ -44,7 +44,7 @@ Courses for Businesses
 
 [Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)
 
-[General Feedback](https://form.gov.sg/#!/5e6862571db1b70011098bf5/preview)
+[General Feedback](https://form.gov.sg/#!/5e6862571db1b70011098bf5)
 
 Reporting of Customs Offences
 
