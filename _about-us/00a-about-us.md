@@ -1,7 +1,6 @@
 ---
-title: Organisation Overview
+title: About Us
 permalink: /about-us
-third_nav_title: About Us
 ---
 
 # Organisation Overview
