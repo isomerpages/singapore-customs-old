@@ -6,14 +6,14 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 # Importing of NA(CWC) Controlled Items
 
-A  [Chemical Weapons Convention (CWC) licence](https://www.customs.gov.sg/businesses/chemical-weapons-convention/licensing-requirements) is required for any import of items controlled by the  [NA(CWC).](https://www.customs.gov.sg/businesses/chemical-weapons-convention)
+A  [Chemical Weapons Convention (CWC) licence](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/licensing-requirements) is required for any import of items controlled by the  [NA(CWC).](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/introduction)
 
 In addition to the CWC licence, an approved permit is required before every import of scheduled chemicals listed by the CWC.
 
 
 ### **Advance Notification for Transfer of Schedule 1 Chemicals**
 
-- Licensees that intend to import any Schedule 1 chemical from Member States must give [notification](https://www.customs.gov.sg/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals) to NA(CWC) before and after the transfer has been completed.
+- Licensees that intend to import any Schedule 1 chemical from Member States must give [notification](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals) to NA(CWC) before and after the transfer has been completed.
 
 ----
 
