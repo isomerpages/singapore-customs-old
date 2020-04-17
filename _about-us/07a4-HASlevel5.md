@@ -78,7 +78,7 @@ g) Homoeopathic medicines
 
 **_License/Approval Information To Be Declared With HSA Product Codes_**
 
-In addition to the HSA Product Codes in Table 1 above, importers and dealers are also required to furnish all relevant HSA licence/approval information in the CA/SC code 1, 2 and 3 fields, where applicable. Details of the information to be furnished for therapeutic products, medical devices, Chinese Proprietary Medicines and other types of imports are provided in  [Tables 2 to 5](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/health-sciences-authority-hsa#tables2to5).  
+In addition to the HSA Product Codes in Table 1 above, importers and dealers are also required to furnish all relevant HSA licence/approval information in the CA/SC code 1, 2 and 3 fields, where applicable. Details of the information to be furnished for therapeutic products, medical devices, Chinese Proprietary Medicines and other types of imports are provided in Tables 2 to 5
 
 **Information to be Declared for Health Products Subjected to Licensing/Approval Requirements**
 
