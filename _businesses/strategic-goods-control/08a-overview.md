@@ -37,6 +37,6 @@ Singapore Customs also coordinates closely with other government agencies such a
 
 ## [Sanctioned Lists and Red Flags](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/sanctioned-lists-and-red-flags)
 
-## **[Resources](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/resources)**
+## [Resources](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/resources)
 
-## **[Useful Links](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/useful-links)**
+## [Useful Links](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/useful-links)
