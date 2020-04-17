@@ -47,7 +47,7 @@ The Licensed Warehouse Scheme, Zero-Goods and Services Tax (ZG) Warehouse Scheme
 
 This is in line with Singapore Customs’ pro-enterprise regulatory approach.
 
-Visit this page for more information on our schemes and licences:
+Visit [this page](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) for more information on our schemes and licences
 
 ## Singapore’s Freeport
 
@@ -57,6 +57,5 @@ ZGS licensees operating in the Singapore Freeport are subject to the same regula
 
 Regular inspections are conducted on these companies as part of the enhanced regime which serves to prevent companies from being inadvertently used as a conduit for money-laundering and terrorist-financing activities, allowing Singapore to operate as a secure trade hub.
 
-Read more about the inspection in Singapore’s Freeport, and the enhanced regulatory regime in Singapore Customs’ corporate magazine, InSYNC:
+Read more about the inspection in Singapore’s Freeport, and the enhanced regulatory regime in Singapore Customs’ corporate magazine, InSYNC: [Enhanced Regulatory Regime To Combat Money Laundering And Terrorist Financing Risks](https://singapore-customs-staging.netlify.app/news-and-media/publications/2018-04-01-Issue49.pdf)
 
-( URLs not working yet )
