@@ -20,35 +20,22 @@ Singapore Customs is the National Authority to administer the SGCA. The function
 -   Enforcing the SGCA and its regulations
 -   Serving as the focal point for local and international enquiries
 
-Singapore Customs also coordinates closely with other government agencies such as the  [Immigration & Checkpoints Authority](http://www.ica.gov.sg/)  and  [Singapore Police Force](http://www.spf.gov.sg/)  to enforce the SGCA.
 
-[*Legislation*](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/legislation)
+Singapore Customs also coordinates closely with other government agencies such as the  [**Immigration & Checkpoints Authority**](http://www.ica.gov.sg/)  and  [**Singapore Police Force**](http://www.spf.gov.sg/)  to enforce the SGCA.
 
-[*Scope of Control*](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/scope-of-control)
+## [Legislation](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/legislation)
 
-[*Enforcement*](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/enforcement)
+## [Scope of Control](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/scope-of-control)
 
-[*Permit and Registration Requirements*](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements)
+## [Enforcement](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/enforcement)
 
-[*Preliminary Advice for Strategic Goods Transaction*](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction)
+## [Permit and Registration Requirements](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements)
 
-### **Import Certificate and Delivery Verification**
+## [Preliminary Advice for Strategic Goods Transaction](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction)
 
-The  **Import Certificate and Delivery Verification (ICDV)**  complement the export control regime of the foreign exporting country.
+## [Import Certificate and Delivery Verification](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/import-certificate-and-delivery-verification)
 
-It assures the exporting country that sensitive goods are delivered to approved end-users in Singapore, or that the goods are allowed to be re-exported through Singapore to approved end-users. The ICDV is also known as the International Import Certificate.
-
-The ICDV is a 3-stage process:
-
-1.  **Apply for an  [Import Certificate](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/import-certificate-and-delivery-verification)** if:
-    
-    -   The goods imported into Singapore are controlled by the exporting country, or
-    -   The exporting country requests for an Import Certificate
-2.  **Apply for an import permit**  via  [TradeNet](https://www.tradexchange.gov.sg/tradexchange/default.portal?_nfpb=true&_pageLabel=main_tn&_nfls=false)  before importing the goods
-    
-3.  **Apply for a  [Delivery Verification](https://www.customs.gov.sg/businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification)**  after importing the goods, if the exporting country requests for such verification
-
-## **[Sanctioned Lists and Red Flags](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/sanctioned-lists-and-red-flags)
+## [Sanctioned Lists and Red Flags](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/sanctioned-lists-and-red-flags)
 
 ## **[Resources](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/resources)**
 
