@@ -8,5 +8,5 @@ third_nav_title: Going Through Customs
 
 |  |  |  |  |
 |---|---|---|---|
-|  |[![](/images/D1.png)](https://singapore-customs-staging.netlify.com/individuals/0b1-tourist-refund-scheme)  | [![](/images/D2.png)](https://singapore-customs-staging.netlify.com/individuals/0b2-three-quarter-tank-rule)|  |
+|  |[![](/images/Departure(1).jpg)](https://singapore-customs-staging.netlify.com/individuals/0b1-tourist-refund-scheme)  | [![](/images/Departure(2).jpg)](https://singapore-customs-staging.netlify.com/individuals/0b2-three-quarter-tank-rule)|  |
 
