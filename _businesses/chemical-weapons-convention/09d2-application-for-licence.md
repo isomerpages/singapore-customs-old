@@ -8,14 +8,14 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 ### Who Should Apply?
 
-Companies that intend to engage in  [controlled activities](https://www.customs.gov.sg/businesses/chemical-weapons-convention/licensing-requirements) concerning scheduled chemicals or unscheduled discrete organic chemicals (DOCs) listed under the Chemicals Weapons Convention (CWC) must apply for a CWC licence.
+Companies that intend to engage in  [controlled activities](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/licensing-requirements) concerning scheduled chemicals or unscheduled discrete organic chemicals (DOCs) listed under the Chemicals Weapons Convention (CWC) must apply for a CWC licence.
 
 A valid CWC licence is required before the start of these activities.
 
 Before applying, please check:
 
 -   The chemical falls under the  [list of scheduled chemicals](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34)  or fits the definition of a DOC; and
--   The activity which you intend to engage in is a  [controlled activity](https://www.customs.gov.sg/businesses/chemical-weapons-convention/licensing-requirements)
+-   The activity which you intend to engage in is a  [controlled activity](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/licensing-requirements)
 
 ### Processing time
 
@@ -27,7 +27,7 @@ The CWC licence is valid until the end of the calendar year regardless of the da
 
 ### How to apply
 
-1) Please fill out the licence application forms from the links on the  [NA(CWC) website](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#CWC). Complete and submit the application forms with the relevant supporting documents.
+1) Please fill out the licence application forms from the links on the  [NA(CWC) website](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links). Complete and submit the application forms with the relevant supporting documents.
 
 2) Please refer to the following supporting documents (where applicable):  
 
