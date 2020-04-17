@@ -8,7 +8,7 @@ third_nav_title: Valuation, Duties, Taxes & Fees
 
 Traders may use the flat rate of 1% for insurance to compute the Customs value of imports:
 
--   For transaction values quoted in  [Cost and Freight (CFR) International Commercial Terms (incoterms)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rate-for-insurance#CF) and,
+-   For transaction values quoted in  [Cost and Freight (CFR) International Commercial Terms (incoterms)](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rate-for-insurance) and,
 -   Where the actual insurance charges are not known or not available to the importer
 
 ### Definition of Cost and Freight incoterms
