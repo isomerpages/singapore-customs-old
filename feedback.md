@@ -38,9 +38,9 @@ UN Security Council Sanctions / Strategic Goods
 
 # General Enquiries & Feedback
 
-Career with Customs 
+[Career with Customs](https://form.gov.sg/5e9aafb312ea63001101d2cd) 
 
-Courses for Businesses
+[Courses for Businesses](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
 
 [Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)
 
