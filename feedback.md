@@ -46,6 +46,8 @@ UN Security Council Sanctions / Strategic Goods
 
 [Quality Service Manager](https://form.gov.sg/#!/5e6862571db1b70011098bf5)
 
+[Customs Offences (Inland)](https://form.gov.sg/#!/5e9b8faad273ec0011e12066/admin)
+
 [Reporting of Customs Offences](https://form.gov.sg/#!/5e995f095dad670011b20509)
 
 
