@@ -82,6 +82,7 @@ If in doubt, always ask the checking officers at the Red Channel/Customs Examina
 
 It is the responsibility of travellers to make an accurate and complete declaration of all goods exceeding their duty-free concession and GST relief in their possession, including goods carried for or on behalf of other persons.
 
-Those who fail to do so can be fined and prosecuted in court. More information on customs offences is available [here.](https://singapore-customs-staging.netlify.com/individuals/0c-offences)
+Those who fail to do so can be fined and prosecuted in court. 
+More information on customs offences is available [here.](https://singapore-customs-staging.netlify.com/individuals/0c-offences)
 
 
