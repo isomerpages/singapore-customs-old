@@ -45,7 +45,7 @@ Please submit the  **Licence Amendment Application Cover Form**  (_compulsory_),
 |--|--|--|
 | 1. | Licence Amendment Application Cover Form | [Web Link](https://form.gov.sg/5cda29e4cac8390017349e5d) |
 | 2. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 2 Chemical(s) (Form B.2) | [Web Link](https://form.gov.sg/5cdbc50bcac839001734b786) |
-| 3. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 3 Chemical(s) (Form B.3) | [Click Here](https://form.gov.sg/5ceba76d5606aa0017d8dc8d) |
+| 3. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 3 Chemical(s) (Form B.3) | [Web Link](https://form.gov.sg/5ceba76d5606aa0017d8dc8d) |
 | 4. | Addition of new chemical(s) for Unscheduled Discrete Organic Chemical(s) (Form B.4) | [Web Link](https://form.gov.sg/5cece4aa5d6edc00173c1b5e) |
 | 5. | Increment of maximum aggregate for licensed Schedule 2, 3 and/ or Unscheduled Discrete Organic Chemical(s) (Form B.5) | [Web Link](https://form.gov.sg/5cf084133e2f9500177a4dbb) |
 
@@ -75,7 +75,7 @@ Please submit the  **Declaration Cover For Reporting Template** (_compulsory_), 
 
 ### Annual Declaration of Past Activities (ADPA)
 
-Please submit the  ****Declaration Cover For Reporting Template****  (_compulsory_), together with the relevant declaration templates for the controlled activities. Indicate ‘Nil Declaration’ if there is no any declarable activities for the year of declaration. You may wish to refer to the Guide for Filling in Annual Declaration of Past Activities Forms for assistance.
+Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_), together with the relevant declaration templates for the controlled activities. Indicate ‘Nil Declaration’ if there is no any declarable activities for the year of declaration. You may wish to refer to the Guide for Filling in Annual Declaration of Past Activities Forms for assistance.
 
 | No. | Forms | Related Link |
 |--|--|--|
@@ -112,6 +112,9 @@ Please submit the  ****Declaration Cover For Reporting Template****  (_compulsor
 | 1. | Monthly Statement of Stores and Jet Fuel Supplied to Aircraft | [Excel Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/monthly-statement-of-stores/sc-a-002-monthly-statement-of-stores-and-jet-fuel-supplied-to-aircraft-090519.xls?la=en&hash=50B47FE21BDE4532F1370004950A9ECA26271DED) (315KB) |
 | 2. | Monthly Statement of Stores Supplied to Vessels | [Excel Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/monthly-statement-of-stores/sc-a-001-monthly-statement-of-stores-supplied-to-vessels-100519.xls?la=en&hash=01099FD53D1F78E88A1863AD4E1850602EFD866D) (308KB) |
 
+## Networked Trade Platform (NTP) eServices
+
+Please sign up for a CorpPass Account and NTP Account to submit the applications via NTP. For more information, please visit the  [NTP website](https://www.ntp.gov.sg/).
 
 | No. | Forms | Related Link |
 |--|--|--|
@@ -185,7 +188,7 @@ Please submit the  ****Declaration Cover For Reporting Template****  (_compulsor
 | 13. | Sample Format of the End User Statement for Strategic Trade Scheme Bulk Permit | [Word Doc](https://www.customs.gov.sg/-/media/eus-for-bulk-permit-holder-(010919).docx?la=en&hash=B9D3C4C61058098E2EB6AB260795AE0AB47FD33B)  (14KB) |
 | 14. | Sample Format of the End User Statement for Strategic Trade Scheme Individual Permit | [Word Doc](https://www.customs.gov.sg/-/media/icdv-and-brokering/eus-for-individual-permit-holder.docx?la=en&hash=7D20562AB8A1879A6F559F8EFD088D3C586FDE75) (40KB) |
 | 15. | Sample Format of End User Certificate (EUC) for UNSC countries | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/euc_unsc.doc?la=en&hash=C052ACD98BD3A2883C19EB075B61A63D6BD12C13) (44KB) |
-| 16. | TradeFIRST Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) |
+| 16. | TradeFIRST Self-Assessment Checklist | [Web Link](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) |
 
 ## Voluntary Disclosure Forms
 
@@ -200,5 +203,5 @@ Please submit the  ****Declaration Cover For Reporting Template****  (_compulsor
 | 1. | Application for Registration of Manifest Reconciliation Statement (MRS) user | [Web Link](https://form.gov.sg/#!/5c9dd6bf5b6b230017d50306) |
 | 2. | Web Manifest Reconciliation System | [Web Link](https://eservices.customs.gov.sg/scripts/customs/mrs) |
 
-(*Please note that Application for Certificate of Free Sales, Certificate of Non-Manipulation, Import Certificate and Delivery Verification and Landing Certificate are now under "Networked Trade Platform eServices".)
+
 
