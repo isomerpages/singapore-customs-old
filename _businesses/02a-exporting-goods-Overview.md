@@ -38,7 +38,7 @@ If you require advice on the full 8-digit  [HS code]( hs code search engine )  o
 ### Step 3:  Apply for Customs Export Permit
 You may:
 
--   Appoint a  [declaring agent](https://www.customs.gov.sg/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
+-   Appoint a  [declaring agent](https://singapore-customs-staging.netlify.app/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
 -   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](https://singapore-customs-staging.netlify.app/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](https://singapore-customs-staging.netlify.app/about-us/07a-overview)
 
 All permit applications must be submitted electronically via TradeNet, which is accessible through:
@@ -59,7 +59,7 @@ An example of conditions in the permit indicating this requirement:
 
 |  |  |
 |--|--|
-| A2 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at a Free Trade Zone ‘Out’ Gate unless it is directed to the “Green Lane’ at the time of clearance\. |
+| A2 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at a Free Trade Zone 'Out' Gate unless it is directed to the 'Green Lane' at the time of clearance\. |
 | H1 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint\. |
 | A3 | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required\.  |
 
@@ -78,7 +78,7 @@ An example of conditions in the permit indicating this requirement:
 
 |  |  |
 |--|--|
-| A2 |  The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at a Free Trade Zone ‘Out’ Gate unless it is directed to the “Green Lane’ at the time of clearance\.|
+| A2 |  The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at a Free Trade Zone 'Out' Gate unless it is directed to the 'Green Lane' at the time of clearance\.|
 | H1  | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint\.  |
 |  A3 | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required\.  |
 
@@ -92,9 +92,11 @@ A Customs export permit is required for:
 Please note that partial clearance is not allowed for goods departing Singapore via Woodlands and Tuas checkpoints. You should submit one permit application for each container or vehicle of cargo.
 
 ### Step 5: Retain your Trade Documents
+
 Generally, you are required to retain the relevant supporting documents relating to the purchase, import, sale or export of the goods for a period of 5 years from the date of approval of the Customs permit.
 
-These documents can be stored as physical hardcopies or as [images](https://www.customs.gov.sg/-/media/cus/files/business/importing-goods/quick-guide-for-importers/customs_guide_on_keeping_and_maintaining_records_in_image_system.pdf?la=en&hash=8078ACE5357842E037BE67E75F01184A73C9E6E8). You are required to produce these supporting documents to Singapore Customs upon request.
+These documents can be stored as physical hardcopies or as [images](https://www.customs.gov.sg/-/media/cus/files/business/importing-goods/quick-guide-for-importers/customs_guide_on_keeping_and_maintaining_records_in_image_system.pdf?la=en&hash=8078ACE5357842E037BE67E75F01184A73C9E6E8). 
+<br> You are required to produce these supporting documents to Singapore Customs upon request.
 
 ***
 
