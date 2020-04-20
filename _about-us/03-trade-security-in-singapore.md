@@ -35,9 +35,9 @@ Singapore Customs also cooperates with its international counterparts to help pr
 
 Read about some of the regular enforcement operations conducted in the FTZs featured in Singapore Customs’ corporate magazine, inSYNC, here:
 
- - [Insync Oct-Dec 2017](https://singapore-customs-staging.netlify.com/news-and-media/publications/2017-10-01-Issue47.pdf)
- - [Insync Jan-Mar 2018](https://singapore-customs-staging.netlify.com/news-and-media/publications/2018-01-01-Issue48.pdf)
- - [TradeFirst](https://singapore-customs-staging.netlify.com/businesses/customs-schemes-licences-framework/trade-first)
+ - [Upholding The Security Of Free Trade Zone (page10)](https://singapore-customs-staging.netlify.com/news-and-media/publications/2017-10-01-Issue47.pdf)
+ - [Singapore Customs Foils Syndicates’ Attempts To Smuggle Duty-Unpaid Cigarettes Out Of Changi Airfreight Centre (page 5 & 6)](https://singapore-customs-staging.netlify.com/news-and-media/publications/2018-01-01-Issue48.pdf)
+ 
 
 ## Licensed facilities
 
