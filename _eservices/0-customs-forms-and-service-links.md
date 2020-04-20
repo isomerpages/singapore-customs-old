@@ -6,6 +6,8 @@ third_nav_title: eServices
 
 # Customs Forms & Service Links
 
+Please note that Application for Certificate of Free Sales, Certificate of Non-Manipulation, Import Certificate and Delivery Verification and Landing Certificate are now under "Networked Trade Platform eServices".
+
 ## Certificate of Origin Related Forms
 
 | No. | Forms | Related Link |
