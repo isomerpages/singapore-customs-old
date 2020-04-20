@@ -13,18 +13,18 @@ Facilities that produce, process, or consume scheduled chemicals and facilities 
 -   **National Inspections**
     
     -   **Pre-licence Inspection**
-        
-        An inspection conducted by NA(CWC) to verify the information declared in a facility’s licence application, and to inform the facility of the preparations required for an Organisation for the Prohibition of Chemical Weapons (OPCW) inspection.
+ 
+ An inspection conducted by NA(CWC) to verify the information declared in a facility’s licence application, and to inform the facility of the preparations required for an Organisation for the Prohibition of Chemical Weapons (OPCW) inspection.
         
     -   **Facility Audit**
-        
-        A routine audit conducted by NA(CWC) to verify the facility’s adherence to the requirements of the Chemical Weapons Convention (CWC) licence and its declarations to NA(CWC). During the audit, the facility would also be informed of the preparations required for an OPCW inspection.
+
+A routine audit conducted by NA(CWC) to verify the facility’s adherence to the requirements of the Chemical Weapons Convention (CWC) licence and its declarations to NA(CWC). During the audit, the facility would also be informed of the preparations required for an OPCW inspection.
         
 -   **Organisation for the Prohibition of Chemical Weapons (OPCW) Inspections**
     
     -   **Routine Inspections**
         
-        Declared facilities with production, processing or consumption levels that exceed verification thresholds (see below) stipulated in the Convention are subject to routine site inspections by OPCW inspectors. The aim of the inspection is to verify that activities are in accordance with the obligations under the Convention and consistent with the information provided in declarations. These are deemed to be co-operative events and do not adopt an investigative approach.
+Declared facilities with production, processing or consumption levels that exceed verification thresholds (see below) stipulated in the Convention are subject to routine site inspections by OPCW inspectors. The aim of the inspection is to verify that activities are in accordance with the obligations under the Convention and consistent with the information provided in declarations. These are deemed to be co-operative events and do not adopt an investigative approach.
 
 | Type of Facility | Verification Threshold Limits |
 |--|--|
