@@ -41,7 +41,7 @@ Please refer to the [list of scheduled chemicals](https://www.customs.gov.sg/-/m
 
 You may also check using the description of the goods, Harmonized System (HS) code or Competent Authority (CA) product code on this [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If the HS code is subject to control, the name of the CA and the chemical(s) that the CA controls will be indicated. You may check directly with the respective CAs on their licensing requirements.
 
-If you require further assistance to determine if your product is controlled, please fill out the Product Enquiry Form from the link on the [NA(CWC) website](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#CWC), and attach the relevant supporting documents (such as Safety Data Sheet and Certificate of Analysis).
+If you require further assistance to determine if your product is controlled, please fill out the Product Enquiry Form from the link on the [NA(CWC) website](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links), and attach the relevant supporting documents (such as Safety Data Sheet and Certificate of Analysis).
 
 The following information are required when filling out the form:
 
