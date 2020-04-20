@@ -14,18 +14,19 @@ third_nav_title: Exporting Goods
 ## Controlled & Non-Controlled Trade Samples
 
 You are advised to check if your trade sample is a controlled item before exporting it.
-***
+
 
 |Type of Trade Sample| Export Permit Required? |
 |--|--|
-|Non-controlled trade samples, including specimens for analysis or test, and gifts, of a total value **not exceeding S$400** <br><br>*Exporters should indicate the goods as “Trade Samples” in the commercial invoice and the Bill of Lading/Air Waybill.  |  No |
+|Non-controlled trade samples, including specimens for analysis or test, and gifts, of a total value **not exceeding S$400** <br><br> *Exporters should indicate the goods as “Trade Samples” in the commercial invoice and the Bill of Lading/Air Waybill.  |  No |
 | Non-controlled trade samples, including specimens for analysis or test, and gifts, of a total value **exceeding S$400** | Yes |
 | Controlled trade samples (regardless of value) | Yes |
 
 ***
 More information [here](https://singapore-customs-staging.netlify.app/businesses/02b-controlled-and-prohibited-goods-for-export) on controlled and prohibited goods, and how to check if your goods are subject to control.
+
 ## Temporary Export
 
 For trade samples that are temporarily exported and intended to be returned to Singapore, they must be re-imported to Singapore within 3 months from the date of export.
 
-Find out more about  [temporary export procedures](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme).
+Find out more about temporary export procedures [here](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme).
