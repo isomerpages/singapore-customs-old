@@ -30,7 +30,7 @@ Major Exporter Scheme
 -   [Temporary export of goods intended to be re-imported](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
 
-A strategic goods export permit is required for the export of [goods controlled under the Strategic Goods (Control) Act](https://www.customs.gov.sg/businesses/strategic-goods-control/strategic-goods-control-list).
+A strategic goods export permit is required for the export of [goods controlled under the Strategic Goods (Control) Act](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/strategic-goods-control-list).
 
 The table shows the period to submit your export permit application for the various types of goods:
 
