@@ -129,13 +129,3 @@ Find out more about  [Permit Declaration](https://singapore-customs-staging.netl
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 
 Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](https://www.customs.gov.sg/-/media/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf?la=en&hash=2C1D3B2F761BA1F6E7F9EB22920152D11EAE0ED9)  for more information.
-
-**6.** **How do I declare Customs permits?**
-
-Customs permits can be declared through  [TradeNet](https://www.customs.gov.sg/about-us/national-single-window/tradenet).
-
-Find out more about  [Permit Declaration](https://www.customs.gov.sg/businesses/registering-to-trade/quick-guide-on-registration-matters).
-
-**7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
-
-Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](https://www.customs.gov.sg/-/media/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf?la=en&hash=2C1D3B2F761BA1F6E7F9EB22920152D11EAE0ED9)  for more information.
