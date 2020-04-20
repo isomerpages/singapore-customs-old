@@ -9,7 +9,6 @@ third_nav_title: Going Through Customs
 
 ## Duty-Free Concession
 
-***
 
 ### Liquor Products
 Travellers are entitled to duty-free concession for liquors if all the following conditions are met:
