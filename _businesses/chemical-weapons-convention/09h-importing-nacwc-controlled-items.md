@@ -19,7 +19,7 @@ In addition to the CWC licence, an approved permit is required before every impo
 
 ### **Information Required For Import Permit**
 
-- If the import is not subject to the above restrictions, you may apply for an import permit via TradeNet:
+If the import is not subject to the above restrictions, you may apply for an import permit via TradeNet:
 
 **Import Permit**
 
