@@ -6,7 +6,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 ---
 # Declarations
 
-Under the  [Chemical Weapons Convention (CWC),](https://www.customs.gov.sg/businesses/chemical-weapons-convention) every Member State is required to declare to the  [Organisation for the Prohibition of Chemical Weapons](http://www.opcw.org/)  on controlled activities involving scheduled chemicals or unscheduled discrete organic chemicals (DOCs).
+Under the  [Chemical Weapons Convention (CWC),](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/introduction) every Member State is required to declare to the  [Organisation for the Prohibition of Chemical Weapons](http://www.opcw.org/)  on controlled activities involving scheduled chemicals or unscheduled discrete organic chemicals (DOCs).
 
 There are 4 types of declarations:
 
