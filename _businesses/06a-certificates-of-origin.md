@@ -44,7 +44,7 @@ Preferential COs are issued only by Singapore Customs.
 
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
-   [**Step 1: Register your Manufacturing Premises**]
+## Step 1: Register your Manufacturing Premises
 
 Register using the [manufacturer’s application form](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/certificate-of-origin-related-forms/sca006-manufacturers-application-ver-11--apr19.doc?la=en&hash=8F05954A10A3F8FB3E48CD92EE509C3A0EFC8C2C).
 
@@ -54,7 +54,7 @@ The manufacturer's registration will be valid for 2 years from the date of your 
 
 (You may skip this step if you are already registered with us as a manufacturer for the specific goods.)
     
-   [**Step 2: Submit the Manufacturing Cost Statement**]
+## Step 2: Submit the Manufacturing Cost Statement
     
 -   After registration, submit the manufacturing cost statement to Singapore Customs for verification that the goods in question meet the origin criteria under the respective Free Trade Agreements and Schemes.
     
@@ -62,14 +62,14 @@ The manufacturer's registration will be valid for 2 years from the date of your 
     
 -   The typical processing time for a Manufacturing Cost Statement is 7 working days upon receipt of the submission provided the submission is complete and accurate.
     
-[**Step 3: Apply for Certificate of Origin via TradeNet**]
+## Step 3: Apply for Certificate of Origin via TradeNet
 
 
 Apply for a CO with export permit under the respective Free Trade Agreements or Schemes via TradeNet.
 
 You may refer to this [handbook](https://www.customs.gov.sg/-/media/handbook_on_the_application_procedures_for_a_certificate_of_origin_via_tradenet_and_related_administrative_matters_jan_2020(2).pdf?la=en&hash=7893BC43DE3E255C97BAF5FF4ABBF5C872E55229) for more information on how to apply for a CO and export permit via TradeNet.
     
-[**Step 4: Collect the Certificate of Origin**]
+## Step 4: Collect the Certificate of Origin
 
 
 The CO must be collected within 1 month from its approval date. The exporter may authorise a person to collect the CO on their behalf.
