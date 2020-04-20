@@ -22,23 +22,17 @@ Company A bought a car from Supplier B at S$100,000 on  [CIF (Cost, Insurance an
 
 **Duty**
 
-Value of car = S$100,000
-
-Duties payable = S$100,000 x 20% = S$20,000
+Value of car = S$100,000 <br> Duties payable = S$100,000 x **20%** = S$20,000
 
 **GST**
 
 If Company A declares the payment permit:
 
-Value of car = S$100,000
-
-GST payable = 7% x S$(100,000 + 20,000) = S$8,400
+Value of car = S$100,000 <br> GST payable = **7%** x S$(100,000 + 20,000) = S$8,400
 
 If Company C declares the payment permit:
 
-Value of car = S$200,000 (to be declared in the LSP field in the permit declaration)
-
-GST payable = 7% x S$(200,000 + 20,000) = S$15,400
+Value of car = S$200,000 (to be declared in the LSP field in the permit declaration) <br> GST payable = **7%** x S$(200,000 + 20,000) = S$15,400
 
 Note:
 If Company A is a taxable company, it would also have to collect GST for the sale of the vehicle at S$200,000 to Company C and account the extra GST with the Inland Revenue Authority of Singapore (IRAS) in its accounting cycle. The total amount of GST collected by IRAS remains the same as the scenario where Company C pays GST on S$220,000.
