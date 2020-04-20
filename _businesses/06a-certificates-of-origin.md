@@ -44,9 +44,17 @@ Preferential COs are issued only by Singapore Customs.
 
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
-   [**Step 1: Register your Manufacturing Premises**](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-122521cb-b300-411f-b195-df2bb26e06a8)
+   [**Step 1: Register your Manufacturing Premises**]
+   
+   Register using the [manufacturer’s application form](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links).
+
+Singapore Customs will arrange to visit your factory to verify the production processes for the goods specified in your application to ensure that they meet the requirements. Financial and operation records may also be inspected as part of this visit.
+
+The manufacturer's registration will be valid for 2 years from the date of your successful registration.
+
+(You may skip this step if you are already registered with us as a manufacturer for the specific goods.)
     
-   [**Step 2: Submit the Manufacturing Cost Statement**](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-001d2a8f-611f-47de-8f26-8bdcf6b8d304)
+   [**Step 2: Submit the Manufacturing Cost Statement**]
     
 -   After registration, submit the manufacturing cost statement to Singapore Customs for verification that the goods in question meet the origin criteria under the respective Free Trade Agreements and Schemes.
     
@@ -54,9 +62,26 @@ Preferential COs are issued only by Singapore Customs.
     
 -   The typical processing time for a Manufacturing Cost Statement is 7 working days upon receipt of the submission provided the submission is complete and accurate.
     
-[**Step 3: Apply for Certificate of Origin via TradeNet**](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-3bc3cae1-f6af-4237-9b6a-6a8d171d3387)
+[**Step 3: Apply for Certificate of Origin via TradeNet**]
+
+
+Apply for a CO with export permit under the respective Free Trade Agreements or Schemes via TradeNet.
+
+You may refer to this [handbook](https://www.customs.gov.sg/-/media/handbook_on_the_application_procedures_for_a_certificate_of_origin_via_tradenet_and_related_administrative_matters_jan_2020(2).pdf?la=en&hash=7893BC43DE3E255C97BAF5FF4ABBF5C872E55229) for more information on how to apply for a CO and export permit via TradeNet.
     
-[**Step 4: Collect the Certificate of Origin**](https://www.customs.gov.sg/businesses/certificates-of-origin/certificates-of-origin#item-heading-cab3721b-bad1-46d6-8829-9d4a2e0f09d8)
+[**Step 4: Collect the Certificate of Origin**]
+
+
+The CO must be collected within 1 month from its approval date. The exporter may authorise a person to collect the CO on their behalf.
+
+The authorised person is required to produce the Letter of Authorisation **issued by the exporter** for verification during collection:
+
+-   [For collection of Form D/E](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/cert-of-origin/authorised-letterform-demar-2016.docx?la=en&hash=D0FFCD8DE7AEE6BAB0464F814DDB731BDEE99002)
+-   [For collection of Certificate of Origin other than Form D/E](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/cert-of-origin/authorised-letterother-co-mar-2016.docx?la=en&hash=E92FA2B66336A3ED53B0F8EEB3F2D784E16158FE)
+
+Note: Effective, 1 Apr 2016, all Letters of Authorisation for collection of CO must be issued by the exporter unless a blanket [appointment letter](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/cert-of-origin/appointment-letter-for-blanket-authorisation-for-co-collection.docx?la=en&hash=28A1FD1554E660D6BC1B3CCE7CCBB51D8347AC82) is provided to an entity to collect the CO on their behalf. In such cases, this letter from the exporter and the Letter of Authorisation from the appointed entity must be provided during each CO collection.
+
+Please ensure that the information on the CO is accurate and tick the relevant check boxes before signing on the CO and dispatching it to your overseas customer. Explanation on the check boxes are found on the overleaf notes of the CO.
     
 
 ## How to apply for back-to-back preferential Certificate of Origin with Singapore Customs?
