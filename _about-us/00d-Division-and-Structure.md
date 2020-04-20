@@ -131,13 +131,13 @@ The main roles of the Information Technology Directorate include:
 
 The Singapore Customs Academy is dedicated to enable the our Customs officers, the business community and international counterparts to obtain the right training in the field of customs knowledge and competencies.  
   
-**Vision  
+**Vision** 
   
-**A leading academy that advances thought leadership in Customs.  
+A leading academy that advances thought leadership in Customs.  
   
-**Mission  
+**Mission**  
   
-**Promote the sharing of Customs knowledge within Singapore and the global community.
+Promote the sharing of Customs knowledge within Singapore and the global community.
 
 ## Internal Audit Branch
 
