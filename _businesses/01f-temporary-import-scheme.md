@@ -4,13 +4,12 @@ permalink: /businesses/importing-goods/temporary-import-scheme
 third_nav_title: Importing Goods
 ---
 
-# Temporary Import Scheme (accordion)
-
+# Temporary Import Scheme 
 The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
--   [Temporarily import](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme) goods for approved purposes up to a maximum of 6 months, with suspension of Goods and Services Tax (GST) and duty (where applicable), or
+-   Temporarily import goods for approved purposes up to a **maximum of 6 months**, with suspension of Goods and Services Tax (GST) and duty (where applicable), or
     
--   [Temporarily export](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme) GST and/or duty-paid goods for approved purposes and re-import  the same goods without GST and duty (where applicable)
+-   Temporarily export GST and/or duty-paid goods for approved purposes and **re-import the same goods** without GST and duty (where applicable)
     
 
 ### Temporary Import (accordion)
