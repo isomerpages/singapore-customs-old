@@ -7,25 +7,10 @@ permalink: /about-us/awards-and-achievements/
 
 ---
 
-**Singapore Quality Award (SQA)**
-
-Singapore Customs received the prestigious Singapore Quality Award (SQA) on 20 Nov 2012.
-
-Clinching the SQA is an important milestone in Singapore Customs' organisational excellence journey as the SQA is a pinnacle award conferred only to organisations which have attained world-class standards of performance excellence.
-
-Singapore Customs also renewed the Singapore Quality Class (SQC) STAR in Nov 2016.
-
-![SQA](/images/sqa1.png) 
-
----
-
-**People Developer Standard (PDS)**
-
-Singapore Customs first attained the People Developer Standard in Dec 2000.
-
-We successfully renewed our certification for the People Developer Standard in Nov 2016.
-
-![PDS](/images/pdss1.jpg) 
+|  |  |
+|--|--|
+|**Singapore Quality Award (SQA)** <br><br> Singapore Customs received the prestigious Singapore Quality Award (SQA) on 20 Nov 2012. <br><br> Clinching the SQA is an important milestone in Singapore Customs' organisational excellence journey as the SQA is a pinnacle award conferred only to organisations which have attained world-class standards of performance excellence. <br><br> Singapore Customs also renewed the Singapore Quality Class (SQC) STAR in Nov 2016. | ![SQA](/images/sqa1.png) | 
+| **People Developer Standard (PDS)**  <br><br> Singapore Customs first attained the People Developer Standard in Dec 2000. <br><br> We successfully renewed our certification for the People Developer Standard in Nov 2016. | ![PDS](/images/pdss1.jpg) | 
 ---
 
 **Singapore Innovation Class (I-Class)**
