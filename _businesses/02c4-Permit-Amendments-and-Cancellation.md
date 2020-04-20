@@ -8,9 +8,9 @@ third_nav_title: Exporting Goods
 
 ## Permit Amendment
 
-You may amend an approved permit via TradeNet if it is within the permit’s validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](https://www.customs.gov.sg/about-us/national-single-window/tradenet/annexes-and-appendices)  for the non-exhaustive list of non-amendable fields.
+You may amend an approved permit via TradeNet if it is within the permit’s validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](https://singapore-customs-staging.netlify.app/about-us/07a5-annexes-and-appendices)  for the non-exhaustive list of non-amendable fields.
 
-Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](https://www.customs.gov.sg/about-us/national-single-window/tradenet/annexes-and-appendices).
+Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](https://singapore-customs-staging.netlify.app/about-us/07a5-annexes-and-appendices).
 
 ## Permit Cancellation
 
@@ -25,4 +25,4 @@ You are not allowed to cancel an export permit if:
 -   It has been requested by the Manifest Compliance Unit of Singapore Customs for audit purposes; or
 -   It is declared with a Certificate of Origin
 
-For such cases, please submit a  [voluntary disclosure](https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme)  to Singapore Customs.
+For such cases, please submit a  [voluntary disclosure](https://singapore-customs-staging.netlify.app/businesses/compliance/voluntary-disclosure-programme)  to Singapore Customs.
