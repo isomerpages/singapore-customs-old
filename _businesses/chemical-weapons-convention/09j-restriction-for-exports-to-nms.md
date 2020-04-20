@@ -29,6 +29,7 @@ Exports of Schedules 1, 2 and 3 chemicals for the following concentration limits
 | Schedules 2A / 2B / 3 chemicals | Mixtures containing more than 30% of the scheduled chemical |
 
 **Exports to Non-Member States**
+
 | Types of Scheduled Chemicals | Concentration Limits |
 |--|--|
 | Schedule 2A* chemicals | Mixtures containing no more than 1% of the 2A* chemical |
@@ -36,4 +37,3 @@ Exports of Schedules 1, 2 and 3 chemicals for the following concentration limits
 
 Please refer to the [Strategic Goods Control](hhttps://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/overview).
 
-*Under Exporting of NA(CWC) Controlled Items
