@@ -22,7 +22,7 @@ You are advised to check if your trade sample is a controlled item before export
 | Non-controlled trade samples, including specimens for analysis or test, and gifts, of a total value **exceeding S$400** | Yes |
 | Controlled trade samples (regardless of value) | Yes |
 
-***
+
 More information [here](https://singapore-customs-staging.netlify.app/businesses/02b-controlled-and-prohibited-goods-for-export) on controlled and prohibited goods, and how to check if your goods are subject to control.
 
 ## Temporary Export
