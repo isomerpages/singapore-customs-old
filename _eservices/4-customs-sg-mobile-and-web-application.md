@@ -64,7 +64,7 @@ You have to take up a Customs permit to account for any of the following goods:
 -   More than 10 litres of liquor products;
 -   Goods for trade, commercial or business use where the total amount of GST incurred exceeds S$300.
 
-Pleas appoint a [local freight forwarding agent](https://www.customs.gov.sg/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to help you declare a TradeNet permit for your goods.
+Pleas appoint a [local freight forwarding agent](https://singapore-customs-staging.netlify.app/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to help you declare a TradeNet permit for your goods.
 
 **8.** **I made a declaration and payment via the Customs@SG mobile app and web application. What should I do if I missed declaring and paying for some items via the mobile app and web application?**
 
