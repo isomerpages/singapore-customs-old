@@ -200,3 +200,34 @@ Companies may be penalised under the Regulation of Imports and Exports Act (RIEA
 
 You are accountable as an exporter or declaring agent for the export of goods and compliance with the Rules of Origin requirements. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
+## Do
+✔ Ensure you are a registered manufacturer with Singapore Customs if you intend to apply for a CO with Singapore Customs.
+
+✔ Familiarise yourself with the origin criteria for your goods (the criteria could vary across different Free Trade Agreements and Schemes of Preferences).
+
+✔ Verify that the Singapore-origin goods which you wish to apply for a preferential CO are manufactured in Singapore and that it met the required origin criteria under the relevant Free Trade Agreements and Schemes of Preferences.
+
+✔ Ensure the materials or components which you have classified as Singapore origin in your cost statement are indeed manufactured in Singapore.
+
+✔ Ensure that manufacturing cost statements submitted to Singapore Customs are accurate and up-to-date. Inform Singapore Customs if there are changes to your production methods and costing. Renew your manufacturing cost statement 2 months before the expiry date.
+
+✔ Ensure the CO covers all items for which preferential tariff treatment is to be claimed.
+
+✔ Retain copies of preferential COs/origin declaration and all supporting documents according to the time period stated in the respective Free Trade Agreements.
+
+✔ Send your employees to attend courses conducted by the Singapore Customs Academy, particularly SC103 (Rules of Origin/Free Trade Agreements) and OP002 (Outreach for Newly Registered Manufacturers).
+
+✔ Cooperate with Singapore Customs for request on documentation checks or access to your production facility.
+
+✔ Have clear procedures to notify Singapore Customs upon discovery of a possible error in origin declaration.
+
+
+
+## Do Not
+
+✖ Make an origin declaration without ensuring that the goods meet the origin criteria under the respective Free Trade Agreements or Schemes.
+
+✖ Agree to requests from customers to make incorrect origin declarations.
+
+✖ Re-label the country of origin on the goods or its packaging.
+
