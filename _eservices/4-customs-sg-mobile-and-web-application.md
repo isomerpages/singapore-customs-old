@@ -79,7 +79,7 @@ Please approach our officers at the Customs Tax Payment Office with your goods f
 
 The e-receipt is valid only on the date of arrival printed on the receipt. If the date you arrived in Singapore is different from the date of arrival on the e-receipt, please proceed directly to the Customs Tax Payment Office located at the arrival hall of the airport for assistance. Please provide the e-receipt and the notification documents from the airline on the change of flight details for verification.
 
-**11.** **What should I do if I have cancelled my trip to Singapore but have already declared and paid the duty and/or GST of my goods?
+**11.** **What should I do if I have cancelled my trip to Singapore but have already declared and paid the duty and/or GST of my goods?**
 
 Please email [customs_checkpoints@customs.gov.sg](mailto:customs_checkpoints@customs.gov.sg)  and provide all supporting documents (e.g. flight cancellation document). We will assess your case and advise you accordingly.
 
