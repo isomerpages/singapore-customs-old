@@ -1,7 +1,7 @@
 ---
 title: Manifest Reconciliation Statement Scheme
 permalink: /eservices/manifest-reconciliation-statement-scheme/
-third_nav_title: eServices
+third_nav_title: Manifest Reconciliation Statement (MRS) Scheme
 ---
 # Manifest Reconciliation Statement (MRS) Scheme
 
