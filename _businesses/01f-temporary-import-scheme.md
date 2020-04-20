@@ -68,7 +68,7 @@ For minor offences under the Customs Act, Singapore Customs may compound the off
 | Failure to comply with conditions imposed by the Director-General for the removal of dutiable goods from customs control. <br><br> _(Section 27(1)(c) of the Customs Act)_ | A fine not exceeding S$5,000. |
 | Making an incorrect declaration. <br><br> _(Section 128(1)(a) of the Customs Act)_ | A fine not exceeding S$10,000, or the equivalent of the customs duty, excise duty or GST payable, whichever is the greater; or imprisonment not exceeding 12 months; or both.|
 
-More information on the offences and penalties under the Customs Act [here](https://www.customs.gov.sg/individuals/going-through-customs/offences).
+More information on the offences and penalties under the Customs Act [here](https://singapore-customs-staging.netlify.app/individuals/0c-offences).
 
 ### Best Practices
 
