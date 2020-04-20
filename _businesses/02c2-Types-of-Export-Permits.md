@@ -13,7 +13,6 @@ third_nav_title: Exporting Goods
 |              | Temporary Consignments <br>Export of Goods under Temporary Import Scheme \(TIS\)<br>- For exhibition with sales or auctions <br>- For other purposes <br>- For repair <br>- Re-imported goods      | TCS<br>TCO<br> TCR<br> TCI |
 
 
-***
 Obtain a  [complete list](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/types-of-export-permits/complete-list-trade-net.pdf?la=en&hash=08945BF321E12490300AE58D4670D2B667532225)  of TradeNet permit declaration types.
 
 All Customs permit applications must be submitted via TradeNet, accessible through:
@@ -23,8 +22,8 @@ All Customs permit applications must be submitted via TradeNet, accessible throu
 
 You may:
 
--   Appoint a  [declaring agent](https://www.customs.gov.sg/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs permits on your behalf; or
--   [Register as a declaring agent](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/register-as-declaring-agent-or-declarant)  and  [apply for a TradeNet user ID](https://www.customs.gov.sg/about-us/national-single-window/tradenet/what-you-need-to-know-about-tradenet) to apply for Customs permits for your own shipments or on behalf of your clients
+-   Appoint a  [declaring agent](https://singapore-customs-staging.netlify.app/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs permits on your behalf; or
+-   [Register as a declaring agent](https://singapore-customs-staging.netlify.app/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](https://www.customs.gov.sg/about-us/national-single-window/tradenet/what-you-need-to-know-about-tradenet) to apply for Customs permits for your own shipments or on behalf of your clients
 
 Each permit application typically costs S$2.88. If you are engaging a declaring agent to assist you in declaring the permit, you may wish to check on the charges involved.
 
