@@ -22,7 +22,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 “Manifest Reconciliation Statement (MRS)” refers to the form and format of the information pertaining to manifest and permits that are required to be submitted in accordance with these terms and conditions and pursuant to Regulation 11(3) and Regulation 12(3) of the Regulation of Imports and Exports Regulations (Cap 272A, Rg1);
 
-“Scheme” refers to the: -
+“Scheme” refers to the: 
 
 -   the procedure, terms and conditions as herein set out, whereby the Director-General shall consider and accept the delivery of the MRS by the User; and
 -   the keeping of manifests, duly authorised declarations and other supporting documents at the User's premises for Audit purposes.
@@ -72,9 +72,9 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 5.2 Supporting documents in lieu of permits include:
 
-5.2.1 copies of ATA Carnet endorsed by Immigration and Checkpoints Authority (ICA).
+    5.2.1 copies of ATA Carnet endorsed by Immigration and Checkpoints Authority (ICA).
 
-5.2.2 copies of Carnet de Passage for used passenger motor vehicles endorsed by Automobile Association of Singapore.
+    5.2.2 copies of Carnet de Passage for used passenger motor vehicles endorsed by Automobile Association of Singapore.
 
 5.3 The User shall make the manifests, permits and supporting documents available to the Director-General upon request.
 
@@ -86,9 +86,9 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 6.3 For Audits to be conducted at the User’s premises, the Director-General : -
 
-6.3.1 will notify the User in writing at least one (1) working day in advance that the Customs officers will be visiting the User’s premises.
+    6.3.1 will notify the User in writing at least one (1) working day in advance that the Customs officers will be visiting the User’s premises.
 
-6.3.2 has the right to remove manifests and supporting documents for the most convenient conduct of the Audit at the Director-General’ s office.
+    6.3.2 has the right to remove manifests and supporting documents for the most convenient conduct of the Audit at the Director-General’ s office.
 
 6.4 The User shall co-operate and assist the Customs officers in collecting the manifests and supporting documents whether the Audit is conducted at the User’s premises or at the Director-General’s office.
 
@@ -98,25 +98,25 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 7.1 The Director-Generalmay, in its sole discretion, take action against the User and/or the Declarant for breach of any of these terms and conditions including but not limited to:
 
-7.1.1 non-delivery of the MRS to the Director-General ;
+    7.1.1 non-delivery of the MRS to the Director-General ;
 
-7.1.2 late delivery of the MRS beyond the stipulated time period;
+    7.1.2 late delivery of the MRS beyond the stipulated time period;
 
-7.1.3 furnishing information which is false or incorrect in a MRS;
+    7.1.3 furnishing information which is false or incorrect in a MRS;
 
-7.1.4 failure to produce the manifests and/or supporting documents during an Audit;
+    7.1.4 failure to produce the manifests and/or supporting documents during an Audit;
 
-7.1.5 unauthorised use of the User Identification or password.
+    7.1.5 unauthorised use of the User Identification or password.
 
 7.2 The action taken by the Director-General includes the following:
 
-7.2.1 increased frequency of Audits;
+    7.2.1 increased frequency of Audits;
 
-7.2.2 disallowing the Declarant from preparing and signing, the MRS on the User’s behalf;
+    7.2.2 disallowing the Declarant from preparing and signing, the MRS on the User’s behalf;
 
-7.2.3 ordering the User to authorise a new Declarant;
+    7.2.3 ordering the User to authorise a new Declarant;
 
-7.2.4 any other action permitted under the Regulation of Imports and Exports Act (Cap 272A) and/or any other regulations made thereunder or any other written law in Singapore administered by the Director-General
+    7.2.4 any other action permitted under the Regulation of Imports and Exports Act (Cap 272A) and/or any other regulations made thereunder or any other written law in Singapore administered by the Director-General
 
 ## 8. General
 
