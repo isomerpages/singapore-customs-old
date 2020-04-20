@@ -16,7 +16,6 @@ Generally, the validity periods for the different types of transhipment permits 
 |--|--|
 | Transhipment / Movement |  Approval date + 21 working days for goods covered by Through Bill of Lading or Airway Bill<br><Br>  Approval date + 22 working days for strategic goods covered by Through Bill of Lading or Airway Bill |
   
-***
 <sup>*Note: Please refer to the specific validity periods for each permit. If you are unable to utilise the permit within the stipulated period, please [extend the validity period](https://singapore-customs-staging.netlify.app/businesses/03c3-permit-amendments-and-cancellation)  of the permit via TradeNet before it expires.
 
 ## Error Messages
