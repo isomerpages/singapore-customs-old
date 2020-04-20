@@ -86,7 +86,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 -   [NParks Animal Veterinary Service (Animal)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/Nparks-AVS-Animal)
 -   [NParks Animal Veterinary Service (Ornamental Fish)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/Nparks-AVS-Ornamental-Fish)
 
-**10)  [Singapore Civil Defence Force (SCDF)]**(https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/singapore-civil-defence-force-scdf)
+**10)  [Singapore Civil Defence Force (SCDF)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/singapore-civil-defence-force-scdf)**
 
 **11) Singapore Customs (Customs)**
 
