@@ -20,7 +20,7 @@ A transhipment permit is required to account for the following transhipment move
 |Transhipment/Movement  | **Removal**<br>Movement of goods from:<br>-   Licensed warehouse to another licensed warehouse or<br>-   Zero-GST warehouse to another Zero-GST warehouse; or<br>-   movement of goods under the Temporary Import Scheme into a licensed warehouse or Zero-GST warehouse. |REM |
 | Transhipment/Movement | **Blanket Removal**<br>For declarations used to cover several movements within the month between licensed premises. | BRE|
 
-***
+
 A permit is not required for the transhipment of non-controlled goods within the same FTZ. Please refer to  [Circular 01/2020](https://www.customs.gov.sg/-/media/cus/files/circulars/circular012020ver1.pdf)  for more information on the storage of liquors and tobacco products in the FTZs.
 
 You may refer to the  [complete list of permit declaration types](https://www.customs.gov.sg/-/media/cus/files/e-learning/ea000007/doc1.pdf?la=en&hash=779CE7AD7F514BEB33C60A389E461D82639DCAA4)  for more information.
