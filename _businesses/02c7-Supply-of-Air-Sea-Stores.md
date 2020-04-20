@@ -40,9 +40,9 @@ Dutiable sea stores can only be uplifted to approved types of vessels (passenger
 | Beer or Stout (local or imported) |4  | Cans|
 
 
-### Customs Permit Requirements for Sea Stores
+## Customs Permit Requirements for Sea Stores
 
-#### Duty-unpaid or Suspended and/or GST-unpaid or Suspended Sea Stores
+### Duty-unpaid or Suspended and/or GST-unpaid or Suspended Sea Stores
 
 The uplift of all **duty-unpaid or suspended** and/or **GST-unpaid or suspended** sea stores should be accounted by the following Customs permits depending on the movement type:
 
@@ -57,7 +57,7 @@ In addition, **duty-unpaid or suspended** and/or **GST-unpaid or suspended** sea
 Please note that ship spares meant for installation onto vessels while the vessels are in Singapore are subject to GST payment and should not be declared as sea stores. You are required to take up the relevant In-Payment (GST) permits and report your input tax claims directly to the Inland Revenue Authority of Singapore (IRAS) during the corresponding accounting period. Alternatively, companies under IRAS Major Exporter Scheme (MES) or Import GST Deferment Scheme (IGDS) may take up the relevant In-Non-Payment permits to import such ship spares meant for installation onto vessels while the vessels are in Singapore.
 
 
-#### Duty and/or GST-Paid or Accounted Sea Stores
+### Duty and/or GST-Paid or Accounted Sea Stores
 
 The uplift of **duty** and/or **Goods and Services Tax (GST)-paid or accounted** (i.e. GST-accounted goods refer to those imported under IRAS' Major Exporter Scheme or Import Deferment GST Scheme) sea stores does not require any Customs permit, if the goods are not controlled for export. The uplift of such goods must be reported in the "[Monthly Statement of Stores Supplied to Vessels](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Monthly%20Statement%20of%20Stores%20Supplied%20to%20Vessels/Aircraft)" to be submitted to the Permits Compliance Branch.
 
