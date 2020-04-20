@@ -15,14 +15,12 @@ For vintage cars registered under the various [Vintage Vehicle Scheme](http://ww
 Example on the calculation of duties payable for cars:
 
 **Formula**
-
 Duties payable = customs value x excise duty rate
 
 Company A imports a motor car that was bought at S$100,000 on  [FOB (Free on Board) incoterms](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance). The overseas freight, handling and insurance charges to ship the car to Singapore costs S$1,000.
 
 Customs value of car = S$101,000
-
-Duties payable = S$101,000 x 20% = S$20,200
+Duties payable = S$101,000 x **20%** = S$20,200
 
 ## Motorcycles / Scooters
 
@@ -31,11 +29,10 @@ For all motorcycles and scooters, an excise duty rate of 12% will be levied on t
 Example on the calculation of duties payable for motorcycles or scooters:
 
 **Formula**
-
 Duties payable = customs value x excise duty rate
 
 Company A imports a motorcycle that was bought at S$19,000 on  [FOB (Free on Board) incoterms](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance). The overseas freight, handling and insurance charges to ship the motorcycle to Singapore costs S$100.
 
 Customs value of motorcycle = S$19,100
 
-Duties payable = S$19,100 x 12% = S$2,292
+Duties payable = S$19,100 x **12%** = S$2,292
