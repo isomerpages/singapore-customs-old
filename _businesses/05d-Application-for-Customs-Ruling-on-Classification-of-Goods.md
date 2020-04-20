@@ -18,8 +18,9 @@ You may submit the  [Application For Customs Ruling on Classification of Goods](
 -   Product specification/datasheet
 -   Full ingredients/chemical/material composition (in %)
 -   Manufacturing process
+-   Documentation provided by the manufacturer/supplier to establish the originating status of the product. 
 
-Each application is for the classification of  ONE  product. The contact details are enclosed in the application form.
+Each application is for the origin determination of ONE product. The contact details are enclosed in the application form.
 
 ### How much does it cost to apply?
 A fee of S$75 inclusive of Goods & Services Tax will be charged for each application. Payment must be made upon receiving the billing notification from Singapore Customs. The billing indicates the bill reference number and would only be generated after we received the complete submission of your application form and supporting documents.
