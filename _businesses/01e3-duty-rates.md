@@ -8,11 +8,11 @@ third_nav_title: Importing Goods
 
 ## Cars
 
-For passenger, classic cars and vintage cars that are manufactured before 1940, an [](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)[excise duty](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) rate of 20% will be levied on the [](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value)[customs value](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the vehicle.
+For passenger, classic cars and vintage cars that are manufactured before 1940, an [](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)[excise duty](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) rate of **20%** will be levied on the [](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value)[customs value](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the vehicle.
 
 For vintage cars registered under the various [Vintage Vehicle Scheme](http://www.lta.gov.sg/content/ltaweb/en/roads-and-motoring/owning-a-vehicle/registering-your-vehicle/registration-of-vintage-vehicles.html)s with the Land Transport Authority of Singapore where the vehicle was previously exempted from excise duty and a transfer of ownership occurs, the excise duty will be the duty amount that would have been payable when the vehicle was first imported into Singapore.
 
-Example on the calculation of duties payable for [cars]:
+Example on the calculation of duties payable for **cars**:
 
 **Formula**:
 <br> Duties payable = customs value x excise duty rate
@@ -24,9 +24,9 @@ Duties payable = S$101,000 x **20%** = S$20,200
 
 ## Motorcycles / Scooters
 
-For all motorcycles and scooters, an excise duty rate of 12% will be levied on the customs value of the motorcycle or scooter.
+For all motorcycles and scooters, an excise duty rate of **12%** will be levied on the customs value of the motorcycle or scooter.
 
-Example on the calculation of duties payable for [motorcycles or scooters]:
+Example on the calculation of duties payable for **motorcycles or scooters**:
 
 **Formula**:
 <br> Duties payable = customs value x excise duty rate
