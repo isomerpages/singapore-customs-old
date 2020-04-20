@@ -225,6 +225,7 @@ You may view more information on the prescribed offences and penalties under the
 You are accountable as an exporter or declaring agent for the export of goods and compliance with the Rules of Origin requirements. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
 **Do**
+
 ✔ Ensure you are a registered manufacturer with Singapore Customs if you intend to apply for a CO with Singapore Customs.
 
 ✔ Familiarise yourself with the origin criteria for your goods (the criteria could vary across different Free Trade Agreements and Schemes of Preferences).
