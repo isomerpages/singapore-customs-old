@@ -39,15 +39,30 @@ Dutiable sea stores can only be uplifted to approved types of vessels (passenger
 | Spirits | 0.25 | Bottle|
 | Beer or Stout (local or imported) |4  | Cans|
 
-***
 
 ### Customs Permit Requirements for Sea Stores
 
-***
+#### Duty-unpaid or Suspended and/or GST-unpaid or Suspended Sea Stores
 
-**( Missing Accordion )**
+The uplift of all **duty-unpaid or suspended** and/or **GST-unpaid or suspended** sea stores should be accounted by the following Customs permits depending on the movement type:
 
-***
+| Message Type | Declaration Type | Code |
+|--|--|--|
+| **In-Non-Payment** | **Re-Export**: <br>Re-export of sea stores via the same or different Free Trade Zone (FTZ) [not applicable to goods subject to export control by Competent Authorities (CAs)] | REX |
+| **Out** | **Approved Premises / Schemes**: <br> Export of dutiable sea stores from a Licensed Warehouse<br> Export of non-dutiable sea stores released from a Zero-GST warehouse | APS |
+| **Transhipment/Movement** | **Inter-gateway Movement**: <br> Movement of sea stores from one FTZ or foreign territory to another FTZ or foreign territory for re-export or storage | IGM |
+
+In addition, **duty-unpaid or suspended** and/or **GST-unpaid or suspended** sea stores that are controlled for export must be supported by proper authorisation (advance notification, licence or certificate approval) from the relevant CAs before they can be uplifted onto the vessels. You are advised to check with the respective CAs on their licensing requirements and to obtain the necessary authorisation before applying for a Customs permit.  
+  
+Please note that ship spares meant for installation onto vessels while the vessels are in Singapore are subject to GST payment and should not be declared as sea stores. You are required to take up the relevant In-Payment (GST) permits and report your input tax claims directly to the Inland Revenue Authority of Singapore (IRAS) during the corresponding accounting period. Alternatively, companies under IRAS Major Exporter Scheme (MES) or Import GST Deferment Scheme (IGDS) may take up the relevant In-Non-Payment permits to import such ship spares meant for installation onto vessels while the vessels are in Singapore.
+
+
+#### Duty and/or GST-Paid or Accounted Sea Stores
+
+The uplift of **duty** and/or **Goods and Services Tax (GST)-paid or accounted** (i.e. GST-accounted goods refer to those imported under IRAS' Major Exporter Scheme or Import Deferment GST Scheme) sea stores does not require any Customs permit, if the goods are not controlled for export. The uplift of such goods must be reported in the "[Monthly Statement of Stores Supplied to Vessels](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Monthly%20Statement%20of%20Stores%20Supplied%20to%20Vessels/Aircraft)" to be submitted to the Permits Compliance Branch.
+
+**Duty** and/or **Goods and Services Tax (GST)-paid or accounted**  sea stores that are controlled for export require proper authorisation (e.g. advance notification, licence or certificate approval) from the relevant CAs before they can be uplifted onto the vessels. The relevant CAs may also require a **Customs export permit [Message / Declaration Type Code = OUT(DRT)]** to account for the uplift of such controlled goods.
+
 
 Before applying for the above Customs permit, suppliers of dutiable sea stores or their appointed Declaring Agents are required to lodge a  [security](https://singapore-customs-staging.netlify.app/businesses/00e-security-lodgement).
 
@@ -69,7 +84,7 @@ You are reminded to comply with the following permit condition when uplifting se
 |--|--|
 | **A4** | The following acknowledgement must be obtained from the Master/ Captain of Vessel, Malayan Railway (KTM), Storekeeper: -- I certify that I have to-day received…….<br>packages/containers of goods as declared<br><br>……………………………………………………….<br>Vessel’s Name/ Godown No. Designation & Signature<br><br>…………………………………………………………… <br>Date Time Full Name in Block Letters |
 
-***
+
 
 ### Delivery and Consumption of Sea Stores
 
