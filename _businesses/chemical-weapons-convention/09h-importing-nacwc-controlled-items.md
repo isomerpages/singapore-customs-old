@@ -13,7 +13,7 @@ In addition to the CWC licence, an approved permit is required before every impo
 
 ### **Advance Notification for Transfer of Schedule 1 Chemicals**
 
-- Licensees that intend to import any Schedule 1 chemical from Member States must give [notification](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals) to NA(CWC) before and after the transfer has been completed.
+Licensees that intend to import any Schedule 1 chemical from Member States must give [notification](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals) to NA(CWC) before and after the transfer has been completed.
 
 ----
 
@@ -40,7 +40,7 @@ If the import is not subject to the above restrictions, you may apply for an imp
 
 ### **Restrictions for Import from Non-Member States**
 
-- The following restrictions apply to the import of [scheduled chemicals](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) from [non-Member States](http://www.opcw.org/about-opcw/member-states/).
+The following restrictions apply to the import of [scheduled chemicals](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) from [non-Member States](http://www.opcw.org/about-opcw/member-states/).
 
 | Schedules | Schedule 1 | Schedule 2 |  Schedule 3 |
 |---|---|---|---|
