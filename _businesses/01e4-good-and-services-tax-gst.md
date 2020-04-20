@@ -26,12 +26,10 @@ Value of car = S$100,000 <br> Duties payable = S$100,000 x **20%** = S$20,000
 
 ### **GST**
 
-If Company A declares the payment permit:
-
+If Company A declares the payment permit: <br>
 Value of car = S$100,000 <br> GST payable = **7%** x S$(100,000 + 20,000) = S$8,400
 
-If Company C declares the payment permit:
-
+If Company C declares the payment permit:<br>
 Value of car = S$200,000 (to be declared in the LSP field in the permit declaration) <br> GST payable = **7%** x S$(200,000 + 20,000) = S$15,400
 
 Note:
