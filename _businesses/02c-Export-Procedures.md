@@ -25,9 +25,9 @@ A Customs export permit is required for:
 
 Major Exporter Scheme
 
--   [Re-export of goods imported under the Temporary Import Scheme](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme)
+-   [Re-export of goods imported under the Temporary Import Scheme](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
--   [Temporary export of goods intended to be re-imported](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme)
+-   [Temporary export of goods intended to be re-imported](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
     
 
 A strategic goods export permit is required for the export of [goods controlled under the Strategic Goods (Control) Act](https://www.customs.gov.sg/businesses/strategic-goods-control/strategic-goods-control-list).
