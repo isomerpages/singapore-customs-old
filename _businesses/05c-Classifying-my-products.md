@@ -6,7 +6,7 @@ third_nav_title: Harmonized System (HS) Classification of Goods
 
 # Classifying my products
 
-## **Classifying your product - All you need to know**
+## Classifying your product - All you need to know
 
 The Harmonized System (HS) codes of goods is internationally harmonized at the 6-digit level  _(e.g.2203.00)_. In Singapore, the HS code of goods is harmonized across all ASEAN member countries at the 8-digit level  _(e.g. 2203.00.11)_.
 
@@ -14,7 +14,7 @@ The Harmonized System (HS) codes of goods is internationally harmonized at the 6
 
 ## Handy Guides
 
-Classification is the process of finding the most specific description in the HS. To do so, you may refer to the following infographics to understand how to identify and read the HS in the  [Singapore Trade Classification, Customs & Excise Duties (STCCED)](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/resources/stcced/stcced-2018-march-2019-version/index.html)[.](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/resources/stcced/stcced-2018-march-2019-version/index.html)
+Classification is the process of finding the most specific description in the HS. To do so, you may refer to the following infographics to understand how to identify and read the HS in the  [Singapore Trade Classification, Customs & Excise Duties (STCCED)](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/resources/stcced/stcced-2018-march-2019-version/index.html).
 
 A guidebook to classify chemicals and chemical products is also available to help you in classifying products in this category.
 
