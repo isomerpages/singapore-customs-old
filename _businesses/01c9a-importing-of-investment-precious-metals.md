@@ -15,13 +15,13 @@ For the full list of qualifying IPMs bars, wafers, ingots and coins and the resp
 ## Import Permit Requirements for IPMs
 
 ### IPM's Imported by Air/Sea Freight or by Land
-Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value#CIF)** **not exceeding** **S$400**, do not require a Customs permit**.**
+Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value#CIF)** **not exceeding** **S$400**, do not require a Customs permit.
 
 Import of IPMs by **air freight**, of a **total CIF value exceeding S$400**, requires an In-Non Payment (GST Relief) permit.
 
 Import of IPMs by **other freight modes such as by sea or land**, requires an In-Non Payment (GST Relief) permit, **regardless** of the CIF value of the IPMs.
 
-The following should be declared in the [In-Non Payment (GST Relief) permit](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/types-of-import-permits) application:
+The following should be declared in the [In-Non Payment (GST Relief) permit](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/types-of-import-permits) application:
 
 -   Place of Receipt Code=IGPM
 -   Claimant UEN=Importer UEN
@@ -34,22 +34,22 @@ The following should be declared in the [In-Non Payment (GST Relief) permit](htt
 
 The GST relief permit must be obtained before **the importation of IPMs** and presented at the checkpoint for clearance.
 
-However, if the IPMs are imported as [**trade samples**](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-trade-samples) and its CIF value is below or equivalent to S$400, GST relief is granted and no permit is required for importation.
+However, if the IPMs are imported as [**trade samples**](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/importing-trade-samples) and its CIF value is below or equivalent to S$400, GST relief is granted and no permit is required for importation.
 
 
 ### HS Codes For IPMs
 
 | **Types of IPMs** | **Applicable HS Codes** | |
 |--|--|--|
-| Gold | Bar or Wafer |a) Monetary Gold - 71082000 <br>b) Non-Monetary Gold - 71081300|
-| Gold | Ingot |a) Monetary Gold - 71082000 <br>b) Non-Monetary Gold - 71081200|
-| Gold | Coin |71189010|
-| Silver | Bar or Wafer |71069200|
-| Silver | Ingot |71069100|
-| Silver |Coin  |71181010 or 71189020|
-| Platinum | Bar or Wafer |71101900|
-| Platinum | Ingot |71101100|
-| Platinum | Coin |71181090 or 71189090|
+| **Gold** | Bar or Wafer |a) Monetary Gold - 71082000 <br>b) Non-Monetary Gold - 71081300|
+| **Gold** | Ingot |a) Monetary Gold - 71082000 <br>b) Non-Monetary Gold - 71081200|
+| **Gold** | Coin |71189010|
+| **Silver** | Bar or Wafer |71069200|
+| **Silver** | Ingot |71069100|
+| **Silver** |Coin  |71181010 or 71189020|
+| **Platinum** | Bar or Wafer |71101900|
+| **Platinum** | Ingot |71101100|
+| **Platinum** | Coin |71181090 or 71189090|
 
 <sup>[https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/)
 *Monetary gold refers to gold exchanged between national or international monetary authorities or authorised banks.
