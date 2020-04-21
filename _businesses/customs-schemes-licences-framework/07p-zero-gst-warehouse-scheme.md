@@ -40,7 +40,7 @@ To qualify for the Zero-GST Warehouse Scheme, the company must:
     -   Tenant/leaseholder has the legal authority and control over the premises, including the possession of tenancy agreement with the landlord, and the right to install or alter any security features or plans at the location as required by Singapore Customs
 -   Have good stock record-keeping and warehouse procedures
 -   Be responsible for the security, accountability and control of the goods
--   Undergo  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) assessment and attain the minimum band to qualify for the respective Zero-GST warehouse licence types
+-   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the respective Zero-GST warehouse licence types
 
 With effect from 1 Jan 2018, to mitigate money laundering and terrorism financing risks, Zero-GST warehouse licensees storing listed goods must:
 
