@@ -23,22 +23,22 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 [Harmonized System / Classification of Goods](https://form.gov.sg/5e6713af65cca600110d2d43)
 
-Import, Export & Transhipment
+[Import, Export & Transhipment](https://form.gov.sg/5e9e41fe1e9ed20011c727ac)
 
-Refunds
+[Refunds](https://form.gov.sg/5e9e51301e9ed20011c75ce5)
 
-Registration Matters
+[Registration Matters](https://form.gov.sg/5e9e507e1e9ed20011c75a5e)
 
-Schemes & Licences
+[Schemes & Licences](https://form.gov.sg/5e9e51cf1e9ed20011c75f2a)
 
-United Nations Security Council Sanctions / Strategic Goods Control / Chemical Weapons Convention 
+[United Nations Security Council Sanctions / Strategic Goods Control / Chemical Weapons Convention](https://form.gov.sg/5e9e50171e9ed20011c758e2) 
 
 [Valuation and Customs Exchange Rate](https://form.gov.sg/#!/5e6ed24b39ddca001164cce2)
 
 
 # General Enquiries & Feedback
 
-[Career with Customs](https://form.gov.sg/5e9aafb312ea63001101d2cd) 
+[Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)
 
 [Courses for Businesses](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
 
