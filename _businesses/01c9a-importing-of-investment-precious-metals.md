@@ -12,12 +12,9 @@ You should first be familiar with the qualifying criteria of IPMs and  **conduct
 
 For the full list of qualifying IPMs bars, wafers, ingots and coins and the respective criteria for GST exemption, please refer to IRAS website and e-Tax Guide "GST: Guide on Exemption on Investment Precious Metals (IPM)"  [here](https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Working-out-your-taxes/When-is-GST-not-charged/Supplies-Exempt-from-GST/).
 
-### Import Permit Requirements for IPMs
+## Import Permit Requirements for IPMs
 
-
-
-***
-## IPM's Imported by Air/Sea Freight or by Land
+### IPM's Imported by Air/Sea Freight or by Land
 Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value#CIF)** **not exceeding** **S$400**, do not require a Customs permit**.**
 
 Import of IPMs by **air freight**, of a **total CIF value exceeding S$400**, requires an In-Non Payment (GST Relief) permit.
@@ -39,9 +36,8 @@ The GST relief permit must be obtained before **the importation of IPMs** and pr
 
 However, if the IPMs are imported as [**trade samples**](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-trade-samples) and its CIF value is below or equivalent to S$400, GST relief is granted and no permit is required for importation.
 
-***
 
-## HS Codes For IPMs
+### HS Codes For IPMs
 
 | **Types of IPMs** | **Applicable HS Codes** | |
 |--|--|--|
@@ -58,15 +54,13 @@ However, if the IPMs are imported as [**trade samples**](https://www.customs.gov
 <sup>[https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/)
 *Monetary gold refers to gold exchanged between national or international monetary authorities or authorised banks.
 
-***
 
-## IPMs Imported By Post
+### IPMs Imported By Post
 
 No Customs permit is required if the IPMs are imported by [parcel post](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service). However, GST is payable for non-IPMs if the goods’ [CIF value](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value#CIF) exceed S$400.
 
-***
 
-## IPMs Imported By Hand-Carry
+### IPMs Imported By Hand-Carry
 
 All import of IPMs by hand-carry, for commercial purposes, requires an [In-Non Payment (GST Relief) permit](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/types-of-import-permits).
 
@@ -76,22 +70,20 @@ Import of IPMs, **hand-carried** by an individual for his or her personal use, o
 
 The GST relief permit must be obtained **before the importation** and presented at the checkpoint for clearance.
 
-***
 
-## Clearance of IPMs
+### Clearance of IPMs
 
 During cargo clearance, the relevant import permit (if required) and supporting documents (for example, commercial invoice, packing list, Bill of Lading/Airway Bill) must be produced to the checkpoint officers for verification.
 
 For hand-carried IPMs, you may proceed to the Customs Red Channel at the arrival hall after immigration clearance, and inform the checkpoint officer of the IPMs carried. You are required to produce the supporting documents (for example, Customs import permit (if applicable), commercial invoice(s), certificates, etc) to the checkpoint officers for verification.
 
-***
 
-## Approved Refiner & Consolidator Scheme
+### Approved Refiner & Consolidator Scheme
 
 The Approved Refiner and Consolidator Scheme (ARCS), administered by the Inland Revenue Authority of Singapore (IRAS), is designed to ease cash flow and compliance of qualifying refiners and consolidators of IPMs in their payment of GST on import and purchase of raw materials and relieve input tax incurred on refining activities.
 
 More information on ARCS can be found  [here](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/).
 
-***
+
 
 
