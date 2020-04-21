@@ -31,7 +31,7 @@ collections:
     output: true
   eservices:
     output: true
-  individuals_arrivals:
+  individuals-arrivals:
     output: true
   test:
     output: true
