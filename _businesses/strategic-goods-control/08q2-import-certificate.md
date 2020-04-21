@@ -100,7 +100,7 @@ If you did _not_ indicate  in your IC application that the goods are for re-expo
 
 ### Note:
 
--   You should obtain a strategic goods permit if you are re-exporting  [strategic goods](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/strategic-goods-control-list). Read about  [strategic goods permit requirements]https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit).
+-   You should obtain a strategic goods permit if you are re-exporting  [strategic goods](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/strategic-goods-control-list). Read about [strategic goods permit requirements](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit).
 -   If goods imported under the IC remain in the Free Trade Zone while pending re-export, you should still obtain both import and export permits.
 
 ### Notifying Changes and Transferring Ownership
