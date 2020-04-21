@@ -97,6 +97,7 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 ***
 
 ###  Penalties Upon Conviction for Key Offences
+
 |Offence| Penalty Upon Conviction |
 |--|--|
 | Making an incorrect declaration.<br><br>(Section 128(1)(a)of the Customs Act) | A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both. |
