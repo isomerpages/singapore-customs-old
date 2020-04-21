@@ -31,7 +31,7 @@ Registration Matters
 
 Schemes & Licences
 
-UN Security Council Sanctions / Strategic Goods 
+United Nations Security Council Sanctions / Strategic Goods Control / Chemical Weapons Convention 
 
 [Valuation and Customs Exchange Rate](https://form.gov.sg/#!/5e6ed24b39ddca001164cce2)
 
