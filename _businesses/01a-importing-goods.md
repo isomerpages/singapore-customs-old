@@ -4,6 +4,10 @@ permalink: /businesses/importing-goods/overview
 third_nav_title: Importing Goods
 ---
 
+# Quick Guide for Importers
+
+This page provides a quick guide on the import procedures for those who wish to import goods into Singapore.
+
 ## Imports
 
 An import refers to goods brought into customs territory from an entry point or a free trade zone (FTZ), or overseas goods brought into a free trade zone for storage and pending re-export.
@@ -28,6 +32,7 @@ To account for the entry of your goods, please follow the steps below to obtain 
 
 
 ## Step 1: Register for UEN and Activate Customs Account
+
 An entity that intends to:
 
 -   Engage in import or export activities in Singapore, or
