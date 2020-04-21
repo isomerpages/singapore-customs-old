@@ -33,7 +33,7 @@ Singapore has updated the categories of goods and technology which require a bro
 **Useful Resources:**
 
 -   [Strategic Goods (Control) Bill Second Reading Speech](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/nov2002_2ndreading.pdf?la=en&hash=9CA79F716BDB41E61BBF40B8BC85DAC41E685B3F)
--   [Strategic Goods Control Circulars](https://www.customs.gov.sg/news-and-media/circulars?pagesize=10&tag=Strategic-Controlled+Goods)
--   [Frequently Asked Questions (FAQs)](https://www.customs.gov.sg/ask-customs)
+-   [Strategic Goods Control Circulars](https://singapore-customs-staging.netlify.app/news-and-media/circulars/)
+-   [Frequently Asked Questions (FAQs)](https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx)
 
 _Note: Legislation is reproduced on this website with the permission of the Government of Singapore. Acts of Parliament are available without charge and updated monthly at the  [Singapore Government Statutes Online website.](https://sso.agc.gov.sg/)  Singapore Legal Publications can be purchased online from  [Toppan Leefung Pte Ltd.](http://www.toppanleefung.com/Header_LegalPub.aspx)_
