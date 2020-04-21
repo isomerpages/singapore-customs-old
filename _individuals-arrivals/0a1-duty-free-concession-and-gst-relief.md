@@ -1,6 +1,6 @@
 ---
 title: Duty Free Concession and GST Relief
-permaLink: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
+permaLink: /individuals/arrivals/duty-free-concession-and-gst-relief
 ---
 
 
