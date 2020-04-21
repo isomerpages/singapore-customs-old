@@ -1,6 +1,6 @@
 ---
 title: Guide For Travellers 
-permalink: /individuals/arrivals/guide-for-travellers
+permalink: //individuals/arrivals/declaration-and-payment-of-taxesarrivals/guide-for-travellers
 ---
 
 # Guide For Travellers 
