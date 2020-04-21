@@ -1,6 +1,7 @@
 ---
 title: Declaration and Payment of Taxes
-permalink: /arrivals/declaration-and-payment-of-taxes
+permalink: /individuals/arrivals/declaration-and-payment-of-taxes
+third_nav_title: Arrivals
 ---
 
 

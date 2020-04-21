@@ -1,6 +1,7 @@
 ---
 title: Prohibited and Controlled Goods
 permalink: /arrivals/prohibited-and-controlled-goods
+third_nav_title: Arrivals
 ---
 
 # Prohibited and Controlled Goods

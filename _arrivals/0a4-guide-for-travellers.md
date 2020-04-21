@@ -1,6 +1,7 @@
 ---
 title: Guide For Travellers 
 permalink: /arrivals/guide-for-travellers
+third_nav_title: Arrivals
 ---
 
 # Guide For Travellers 
