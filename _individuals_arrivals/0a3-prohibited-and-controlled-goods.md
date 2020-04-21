@@ -1,7 +1,6 @@
 ---
 title: Prohibited and Controlled Goods
-permaLink: /individuals/arrivals/prohibited-and-controlled-goods
-third_nav_title: Arrivals
+permaLink: /individuals/going-through-customs/arrivals/prohibited-and-controlled-goods
 ---
 
 # Prohibited and Controlled Goods
