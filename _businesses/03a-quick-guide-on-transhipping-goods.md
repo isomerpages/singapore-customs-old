@@ -97,7 +97,7 @@ Below are some examples of conditions in the permit indicating this requirement:
 | **H1** | The goods must be produced together with this permit, invoices, BL/AWB, etc for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint. |
 | **H3** | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required. |
 
-For a shipment which requires  partial clearance, the same permit should be presented each time for customs endorsement until the whole shipment is completely cleared.
+For a shipment which requires  **partial clearance**, the same permit should be presented each time for customs endorsement until the whole shipment is completely cleared.
 
 Please note that partial clearance is not allowed for goods coming into Singapore via Woodlands and Tuas checkpoints.
 
