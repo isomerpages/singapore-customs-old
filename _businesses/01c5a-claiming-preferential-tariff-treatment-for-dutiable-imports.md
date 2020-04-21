@@ -31,7 +31,7 @@ Leave the “Customs Duty Rate” field blank and indicate “PRF” in the “P
 
 Submit the preferential CO or self-certification with the permit, commercial invoice and bill of lading to Singapore Customs within 1 week from the clearance date.
 
-For goods bonded in a licensed warehouse:
+For goods bonded in a **licensed warehouse**:
 
 Submit the preferential CO or self-certification with the commercial invoice and In-Non Payment permit to Singapore Customs. After the documents are processed, declare an In-Payment permit with the “Customs Duty Rate” field left blank and “PRF” indicated in the “Preference Indicator” field.
 
