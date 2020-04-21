@@ -55,7 +55,7 @@ The  **export**,  **re-export**,  **transhipment**  or  **transit**  of these it
 
 ### **General Permit Requirements**
 
-With the exception of goods under the UNSC Procurement Channel, all other goods which are  **imported from, exported, re-exported, in transit or transhipment to Iran**  would require a permit to be applied for **at least 3 working days** before the intended shipment date to or from Singapore. Please refer to the permit requirements for the [import](https://www.customs.gov.sg/businesses/importing-goods/import-procedures), [export](https://www.customs.gov.sg/businesses/exporting-goods/export-procedures), [transhipment and transit](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures) of goods through Singapore.
+With the exception of goods under the UNSC Procurement Channel, all other goods which are  **imported from, exported, re-exported, in transit or transhipment to Iran**  would require a permit to be applied for **at least 3 working days** before the intended shipment date to or from Singapore. Please refer to the permit requirements for the [import](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/), [export](https://singapore-customs-staging.netlify.app/businesses/02c-export-procedures), [transhipment and transit](https://singapore-customs-staging.netlify.app/businesses/03c-transhipment-procedures) of goods through Singapore.
 
 If your shipment is permitted under the exceptions outlined in the UNSC Resolutions, please also submit supporting documents to show that the shipment falls under the exceptions (e.g. a letter of authorisation issued by a United Nations programme).
 
@@ -70,7 +70,7 @@ Please submit the following supporting documents together with your permit appli
 
 You are also reminded to comply with any stipulated permit conditions.
 
-While Singapore does not enforce [unilateral sanctions](https://www.customs.gov.sg/businesses/strategic-goods-control/sanctioned-lists-and-red-flags#USL) imposed by other countries, you may wish to conduct proper due diligence checks to ensure that your business is not at risk. Where legal advice is required, please seek advice from your legal advisors.
+While Singapore does not enforce [unilateral sanctions](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/sanctioned-lists-and-red-flags) imposed by other countries, you may wish to conduct proper due diligence checks to ensure that your business is not at risk. Where legal advice is required, please seek advice from your legal advisors.
 
 ## Other UNSC Sanctioned Countries
 
@@ -95,4 +95,4 @@ Please submit the following supporting documents together with your permit appli
 -   End-user certificate; and
 -   Other relevant supporting documents
 
-Please note that Singapore does not enforce [unilateral sanctions](https://www.customs.gov.sg/businesses/strategic-goods-control/sanctioned-lists-and-red-flags#USL) imposed by other countries. You are advised to look out for [red flags](https://www.customs.gov.sg/businesses/strategic-goods-control/sanctioned-lists-and-red-flags#redFlag) to ensure your trading activities comply with Singapore’s domestic laws and the UNSC Resolutions.
+Please note that Singapore does not enforce [unilateral sanctions](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/sanctioned-lists-and-red-flags) imposed by other countries. You are advised to look out for [red flags](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/sanctioned-lists-and-red-flags) to ensure your trading activities comply with Singapore’s domestic laws and the UNSC Resolutions.
