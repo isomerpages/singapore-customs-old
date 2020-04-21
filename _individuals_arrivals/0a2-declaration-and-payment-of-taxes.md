@@ -1,7 +1,7 @@
 ---
 title: Declaration and Payment of Taxes
-permaLink: /individuals/Going-through-customs/Arrivals-declaration-and-payment-of-taxes
-third_nav_title: Going Through Customs
+permaLink: /individuals/arrivals/declaration-and-payment-of-taxes
+third_nav_title: Arrivals
 ---
 
 

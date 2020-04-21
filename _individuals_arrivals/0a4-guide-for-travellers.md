@@ -1,7 +1,7 @@
 ---
 title: Guide For Travellers 
-permaLink: /individuals/going-through-customs/arrival/guide-for-travellers
-third_nav_title: Going Through Customs
+permaLink: /individuals/arrivals/guide-for-travellers
+third_nav_title: Arrivals
 ---
 
 # Guide For Travellers 

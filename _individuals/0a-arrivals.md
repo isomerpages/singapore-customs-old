@@ -6,9 +6,7 @@ third_nav_title: Going Through Customs
 
 # Arrival 
 
-|   |   |   |   |
-|---|---|---|---|
-|[![](/images/Arrival(1).jpg)](https://singapore-customs-staging.netlify.com/individuals/0a1-duty-free-concession-and-gst-relief)   | [![](/images/Arrival(2).jpg)](https://singapore-customs-staging.netlify.com/individuals/0a2-declaration-and-payment-of-taxes)  |  [![](/images/Arrival(3).jpg)](https://singapore-customs-staging.netlify.com/individuals/0a3-prohibited-and-controlled-goods) | [![](/images/Arrival(4).jpg)](https://singapore-customs-staging.netlify.app/individuals/0a4-guide-for-travellers) | 
+| [![](/images/Arrival(1).jpg)](/individuals/arrivals/duty-free-concession-and-gst-relief) | [![](/images/Arrival(2).jpg)](/individuals/arrivals/declaration-and-payment-of-taxes) | [![](/images/Arrival(3).jpg)](/individuals/arrivals/prohibited-and-controlled-goods) | [![](/images/Arrival(4).jpg)](/individuals/arrivals/guide-for-travellers) | 
     
 
 

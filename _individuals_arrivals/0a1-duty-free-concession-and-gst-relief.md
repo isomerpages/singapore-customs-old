@@ -1,7 +1,7 @@
 ---
 title: Duty Free Concession and GST Relief
-permaLink: /individuals/Going-through-customs/Arrivals-duty-free-concession-and-gst-relief
-third_nav_title: Going Through Customs
+permaLink: /individuals/arrivals/duty-free-concession-and-gst-relief
+third_nav_title: Arrivals
 ---
 
 
@@ -23,11 +23,11 @@ Travellers are given duty-free concession for liquors on one of the following op
 
 | Option  | Spirits | Wine     | Beer     |
 |---------|---------|----------|----------|
-| A       | 1 Litre | 1 Litre  |    -   |
-| B       | 1 Litre |   -   | 1 Litre  |
-| C       |  -  | 1 Litre  | 1 Litre  |
-| D       |  -  | 2 Litres |   -   |
-| E       | -    |    -  | 2 Litres |
+| A       | 1 Litre | 1 Litre  |    -     |
+| B       | 1 Litre |   -      | 1 Litre  |
+| C       |  -      | 1 Litre  | 1 Litre  |
+| D       |  -      | 2 Litres |   -      |
+| E       |  -      |    -     | 2 Litres |
 
 These options are also applicable for the following liquors:
 

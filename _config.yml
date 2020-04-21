@@ -31,6 +31,8 @@ collections:
     output: true
   eservices:
     output: true
+  individuals_arrivals:
+    output: true
   test:
     output: true
   test_hidden:
