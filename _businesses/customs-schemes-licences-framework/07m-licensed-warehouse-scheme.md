@@ -110,6 +110,23 @@ Traders may be penalised if they do not comply with Customs requirements or cond
 
 For minor offences under the Customs Act, Singapore Customs may offer to compound the offences for a sum not exceeding S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature.
 
+### Common Offences Include
+
+-   Failure to comply with conditions imposed on removal of goods from customs control
+    
+    -   Violation of A10 permit condition: Using passenger vehicles instead of commercial vehicles to deliver goods from LW to the place of receipt for export. _(The use of passenger vehicles to collect goods is only allowed for a small quantity of hand-carried exports by air not exceeding 22.5 litres of liquor and/or 1000 sticks of cigarettes [1 kg of tobacco])._
+    -   Violation of A10 permit condition: Detouring and/or transferring of goods to other vehicles when delivering goods from LW to the place of receipt for export.
+    -   Failure to produce goods together with the relevant permits and supporting documents at the checkpoint for customs clearance.
+
+-   Illegal removal of goods from customs control
+    
+    -   Discrepancies between physical stocks and inventory due to pilferage of goods or failure to maintain proper inventory records.
+
+-   Incorrect declarations
+    
+    -   Incorrect Harmonized System (HS) code, HS quantity & unit, packing/goods description
+    -   Incorrect outward transport details and/or place of receipt that do not tally with the actual export shipment.
+
 You may view this table on common offences and the penalties upon conviction.
 
 | offence | Penalty Upon Conviction |
