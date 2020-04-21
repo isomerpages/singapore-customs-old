@@ -1,6 +1,6 @@
 ---
 title: Guide For Travellers 
-permaLink: /individuals/arrivals/guide-for-travellers
+permalink: /individuals/arrivals/guide-for-travellers
 ---
 
 # Guide For Travellers 

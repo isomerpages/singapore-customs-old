@@ -1,6 +1,6 @@
 ---
 title: Declaration and Payment of Taxes
-permaLink: /individuals/arrivals/declaration-and-payment-of-taxes
+permalink: /individuals/arrivals/declaration-and-payment-of-taxes
 ---
 
 

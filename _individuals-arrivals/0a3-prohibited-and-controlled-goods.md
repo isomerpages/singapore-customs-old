@@ -1,6 +1,6 @@
 ---
 title: Prohibited and Controlled Goods
-permaLink: /individuals/arrivals/prohibited-and-controlled-goods
+permalink: /individuals/arrivals/prohibited-and-controlled-goods
 ---
 
 # Prohibited and Controlled Goods
