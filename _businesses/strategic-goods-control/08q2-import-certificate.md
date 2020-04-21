@@ -12,7 +12,7 @@ third_nav_title: Strategic Goods Control
 -   You are importing goods into Singapore which are subject to the exporting country’s export control, or
 -   The exporting country requires an IC.
 
-Download the  [application form.](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#NetworkedTrade)
+Download the  [application form.](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links)
 
 ### Completing an IC Application
 
