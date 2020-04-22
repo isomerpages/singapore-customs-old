@@ -17,7 +17,7 @@ Licensees may amend their existing licence to:
 
 ## How to amend?
 
-1) Please fill out the licence amendment application forms from the links on the  [NA(CWC) website](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links). Complete and submit the application forms with the relevant supporting documents.
+1) Please fill out the licence amendment application forms from the links on the  [NA(CWC) website](/eservices/customs-forms-and-service-links). Complete and submit the application forms with the relevant supporting documents.
 
 2) Please refer to the following supporting documents (where applicable):
 
