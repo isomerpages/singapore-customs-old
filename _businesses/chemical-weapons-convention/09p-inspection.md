@@ -19,7 +19,6 @@ Facilities that produce, process, or consume scheduled chemicals and facilities 
     -   **Facility Audit**
     <br>A routine audit conducted by NA(CWC) to verify the facility’s adherence to the requirements of the Chemical Weapons Convention (CWC) licence and its declarations to NA(CWC). During the audit, the facility would also be informed of the preparations required for an OPCW inspection.
 
-
         
 -   **Organisation for the Prohibition of Chemical Weapons (OPCW) Inspections**
     
@@ -37,6 +36,6 @@ Facilities that produce, process, or consume scheduled chemicals and facilities 
 **Challenge Inspections**  
 Challenge inspections are designed for clarifications and resolving questions or doubts concerning possible non-compliance with the Convention. A Member State is obligated to accept the challenge inspection and seek to clarify or resolve any doubts to prove its compliance during the inspection.
 
-## **[OPCW Inspection Process](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/inspections/opcw-inspection-process)** 
+## **[OPCW Inspection Process](/businesses/chemical-weapons-convention/inspections/opcw-inspection-process)** 
 
-## **[Notification Period](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/inspections/notification-period)**
+## **[Notification Period](/businesses/chemical-weapons-convention/inspections/notification-period)**
