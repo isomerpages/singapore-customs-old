@@ -6,7 +6,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 # Ad Hoc Declaration on Additionally Planned Activities
 
-If an activity involving  [scheduled chemicals](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/controlled-chemicals) was not declared during the  [Annual Declaration of Anticipated Activities (ADAA)](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa), the licensee should report the activity using the Ad-hoc Declaration on Additionally Planned Activities (AH).
+If an activity involving  [scheduled chemicals](/businesses/chemical-weapons-convention/controlled-chemicals) was not declared during the  [Annual Declaration of Anticipated Activities (ADAA)](/businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa), the licensee should report the activity using the Ad-hoc Declaration on Additionally Planned Activities (AH).
 
 The table below indicates the activities that may be reported in an AH.
 
@@ -42,7 +42,7 @@ An AH is not required for facilities involved in the production of DOCs.
 
 Licensees may submit the AH using the same declaration forms as the ADAA.
 
-1) Download the  [application forms](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links).
+1) Download the  [application forms](/eservices/customs-forms-and-service-links).
 
 2) Submit the application forms with supporting documents by:
 
