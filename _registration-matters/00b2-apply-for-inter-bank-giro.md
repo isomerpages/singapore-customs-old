@@ -1,6 +1,6 @@
 ---
 title: Apply For Inter-Bank GIRO (IBG) 
-permaLink: /businesses/registration-matters/registration-procedures/apply-for-inter-bank-giro
+permalink: /businesses/registration-matters/registration-procedures/apply-for-inter-bank-giro
 third_nav_title: Registration Procedures
 ---
 
