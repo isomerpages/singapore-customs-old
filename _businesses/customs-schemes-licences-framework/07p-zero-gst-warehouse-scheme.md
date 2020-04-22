@@ -24,7 +24,7 @@ There are 3 licence types to cater to the different needs of companies:
 
 The level of facilitation accorded, as well as the criteria on the company’s record-keeping and internal controls standard, increase from Type I to Type III.
 
-Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
+Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
 A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the  [Zero-GST Warehouse Scheme Handbook](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/3iizgshandbook_june2014version.pdf?la=en&hash=ABFBD55CD9308F1DB901FF6F688806EEF21AD1B2)  (Chapter 2.10).
 
@@ -33,19 +33,19 @@ A summary of the benefits for the 3 zero-GST warehouse licence types can be foun
 To qualify for the Zero-GST Warehouse Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore (IRAS)
--   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs and IRAS
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place whereby:
     -   The location is primarily used for warehousing of goods; and
     -   Tenant/leaseholder has the legal authority and control over the premises, including the possession of tenancy agreement with the landlord, and the right to install or alter any security features or plans at the location as required by Singapore Customs
 -   Have good stock record-keeping and warehouse procedures
 -   Be responsible for the security, accountability and control of the goods
--   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the respective Zero-GST warehouse licence types
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the respective Zero-GST warehouse licence types
 
 With effect from 1 Jan 2018, to mitigate money laundering and terrorism financing risks, Zero-GST warehouse licensees storing listed goods must:
 
 -   Seek Singapore Customs' approval in writing to store the listed goods
--   Obtain "Intermediate" band and ZGS Type II licence under the  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first)  framework
+-   Obtain "Intermediate" band and ZGS Type II licence under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first)  framework
 -   Obtain, maintain and update information on identity of the person(s) with control over the listed goods and the person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 -   Conduct screening, maintain and update the screening records of customers who deposit the goods, person(s) with control over the listed goods and person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 
@@ -67,7 +67,7 @@ An annual licence fee is payable when the licence is issued. It is based on the 
 -   **Accountability to Singapore Customs**
     
     -   Accountable for goods stored in the licensed premises and for the payment of GST on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the GST Act, GST (General) Regulations and the licensing Terms & Conditions
