@@ -8,8 +8,8 @@ third_nav_title: Organisation Overview
 
 The rank structure of the Singapore Customs Officer Scheme is as follows:
 
-![](https://www.customs.gov.sg/-/media/cus/images/about-us/newcoranks_13sept2013.jpg)
+![](/images/about-us/NewCOranks_13Sept2013.jpg)
 
 The rank structure of the Singapore Customs Specialist Scheme is as follows:
 
-![SCSp rank structure edited](https://www.customs.gov.sg/-/media/scsp-rank-structure-edited.jpg)
+![SCSp rank structure edited](/images/SCSp_rank_structure_edited.jpg)
