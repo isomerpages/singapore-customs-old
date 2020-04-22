@@ -6,25 +6,25 @@ third_nav_title: Valuation, Duties, Taxes & Fees
 
 # Establishing the Customs Value
 
-[Customs](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and/or [excise duty](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)  (with ad valorem rates) and  [Goods and Services Tax (GST)](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) are levied on the customs value of imports.
+[Customs](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and/or [excise duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)  (with ad valorem rates) and  [Goods and Services Tax (GST)](/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) are levied on the customs value of imports.
 
 However, some imports can:
 
--   [Qualify for preferential tariff treatment](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports)
+-   [Qualify for preferential tariff treatment](/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports)
 -   Be exempted from duties refer to  [Customs (Duties Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5#pr2-) and Section 2(1A) of  [Customs (Duties) Order](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)[)](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)
 -   Be  [exempted from GST](https://sso.agc.gov.sg/SL/GSTA1993-OR3)
 
 ## Transaction Value Method
 
-The transaction value method is first considered in establishing the customs value, which is the  [Cost, Insurance, and Freight (CIF) value](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value) under International Commercial Terms (incoterms).
+The transaction value method is first considered in establishing the customs value, which is the  [Cost, Insurance, and Freight (CIF) value](/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value) under International Commercial Terms (incoterms).
 
 To establish the customs value using this method, all other charges incidental to the sale and delivery of the imports must be added to the transaction value or the price paid or payable for the imports. Examples of these charges include selling commissions, assists (materials supplied by the importer), packing costs, proceeds of resale accruing to the seller, royalties and licence fees, freight and insurance charges.
 
-If any component of the customs value is settled in a foreign currency, that value should be converted to Singapore dollars using the prevailing [Customs exchange rate](https://singapore-customs-staging.netlify.app/eservices/exchange-rates-and-currency-converter/)  at the time of import.
+If any component of the customs value is settled in a foreign currency, that value should be converted to Singapore dollars using the prevailing [Customs exchange rate]()  at the time of import.
 
 Example 1:
 
-Company A bought 2 cartons of vitamins from Supplier B on  [Ex Works (EXW) incoterms](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value).
+Company A bought 2 cartons of vitamins from Supplier B on  [Ex Works (EXW) incoterms](/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value).
 
 |  |  |
 |--|--|
@@ -94,5 +94,5 @@ Traders can set the insurance to zero value if no insurance charges were incurre
 
 |  |  |  |
 |--|--|--|
-| **[![](/images/FR1.jpg)](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)** | **[![](/images/FR2.jpg)](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rate-for-insurance)** | **[![](/images/FR3.jpg)](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/customs-exchange-rates)** |
+| **[![](/images/FR1.jpg)](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)** | **[![](/images/FR2.jpg)](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rate-for-insurance)** | **[![](/images/FR3.jpg)](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/customs-exchange-rates)** |
 
