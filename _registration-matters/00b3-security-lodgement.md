@@ -1,7 +1,7 @@
 ---
 title: Security Lodgement
 permaLink: /businesses/registration-matters/registration-procedures/security-lodgement
-third_nav_title: Registration Matters
+third_nav_title: Registration Procedures
 ---
 
 # Security Lodgement
