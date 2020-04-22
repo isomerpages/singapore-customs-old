@@ -18,7 +18,7 @@ GST payable = 7% x (last selling price + duties payable)
 
 Example:
 
-Company A bought a car from Supplier B at S$100,000 on  [CIF (Cost, Insurance and Freight) incoterms](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value). The car was shipped to Singapore and stored in Company A’s licensed warehouse. Company A then sold the car to Company C for S$200,000. What is the value of the car for duty and GST purposes?
+Company A bought a car from Supplier B at S$100,000 on  [CIF (Cost, Insurance and Freight) incoterms](/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value). The car was shipped to Singapore and stored in Company A’s licensed warehouse. Company A then sold the car to Company C for S$200,000. What is the value of the car for duty and GST purposes?
 
 ### **Duty**
 
