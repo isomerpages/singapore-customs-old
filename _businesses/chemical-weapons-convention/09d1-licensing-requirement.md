@@ -33,7 +33,7 @@ c) import or export of mixture containing 30% or less of a Schedule 3 chemical t
 d) plant site that  **exclusively**  produces by synthesis hydrocarbons or explosives.
 
 See  [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34)  of scheduled chemicals.  
-Check if your product is  [controlled](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/controlled-chemicals).
+Check if your product is  [controlled](/businesses/chemical-weapons-convention/controlled-chemicals).
 
 ----
 
@@ -47,9 +47,9 @@ A CWC licence is required for the production of DOCs that meets either one or bo
 | Any one PSF-containing DOC |  More than 30 tonnes|
 
 **Note**:  
-[Plant sites](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/glossary) that **exclusively** produce hydrocarbons or explosives by synthesis do not require a CWC licence.
+[Plant sites](/businesses/chemical-weapons-convention/glossary) that **exclusively** produce hydrocarbons or explosives by synthesis do not require a CWC licence.
 
-## **[Application for Licence](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence)**
+## **[Application for Licence](/businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence)**
 
 
-## [Amendment to Existing Licence](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence)
+## [Amendment to Existing Licence](/businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence)
