@@ -93,9 +93,9 @@ An example of conditions in the customs permit indicating this requirement:
 
 |  |  |
 |--|--|
-| A1 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance/ endorsement at a Free Trade Zone "In" Gate. |
-|A3  | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required. |
-| H1 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint. |
+| **A1** | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance/ endorsement at a Free Trade Zone "In" Gate. |
+|**A3**  | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required. |
+| **H1** | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint. |
 
 **b)** **Documents Required for Conventional Cargo**
 
@@ -105,9 +105,9 @@ An example of conditions in the customs permit indicating this requirement:
 
 |  |  |
 |--|--|
-| A1 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance/ endorsement at a Free Trade Zone "In" Gate. |
-|A3  | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required. |
-| H1 | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint. |
+| **A1** | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance/ endorsement at a Free Trade Zone "In" Gate. |
+|**A3**  | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required. |
+| **H1** | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint. |
 
 For a consignment which requires  **partial clearance**, the same customs permit should be presented each time for endorsement till the whole consignment is completely cleared.
 
