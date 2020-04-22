@@ -15,13 +15,13 @@ For the full list of qualifying IPMs bars, wafers, ingots and coins and the resp
 ## Import Permit Requirements for IPMs
 
 ### IPM's Imported by Air/Sea Freight or by Land
-Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value)** **not exceeding** **S$400**, do not require a Customs permit.
+Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value)** **not exceeding** **S$400**, do not require a Customs permit.
 
 Import of IPMs by **air freight**, of a **total CIF value exceeding S$400**, requires an In-Non Payment (GST Relief) permit.
 
 Import of IPMs by **other freight modes such as by sea or land**, requires an In-Non Payment (GST Relief) permit, **regardless** of the CIF value of the IPMs.
 
-The following should be declared in the [In-Non Payment (GST Relief) permit](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/types-of-import-permits) application:
+The following should be declared in the [In-Non Payment (GST Relief) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) application:
 
 -   Place of Receipt Code=IGPM
 -   Claimant UEN=Importer UEN
@@ -34,7 +34,7 @@ The following should be declared in the [In-Non Payment (GST Relief) permit](htt
 
 The GST relief permit must be obtained before **the importation of IPMs** and presented at the checkpoint for clearance.
 
-However, if the IPMs are imported as [**trade samples**](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/importing-trade-samples) and its CIF value is below or equivalent to S$400, GST relief is granted and no permit is required for importation.
+However, if the IPMs are imported as [**trade samples**](/businesses/importing-goods/import-procedures/importing-trade-samples) and its CIF value is below or equivalent to S$400, GST relief is granted and no permit is required for importation.
 
 
 ### HS Codes For IPMs
@@ -57,12 +57,12 @@ However, if the IPMs are imported as [**trade samples**](https://singapore-custo
 
 ### IPMs Imported By Post
 
-No Customs permit is required if the IPMs are imported by [parcel post](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service). However, GST is payable for non-IPMs if the goods’ [CIF value](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) exceed S$400.
+No Customs permit is required if the IPMs are imported by [parcel post](businesses/importing-goods/import-procedures/importing-by-post-or-courier-service). However, GST is payable for non-IPMs if the goods’ [CIF value](businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) exceed S$400.
 
 
 ### IPMs Imported By Hand-Carry
 
-All import of IPMs by hand-carry, for commercial purposes, requires an [In-Non Payment (GST Relief) permit](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/types-of-import-permits).
+All import of IPMs by hand-carry, for commercial purposes, requires an [In-Non Payment (GST Relief) permit](businesses/importing-goods/import-procedures/types-of-import-permits).
 
 Import of IPMs, **hand-carried** by an individual for his or her personal use, of a **total weight not exceeding 0.5 kilogrammes**, do not require a Customs permit.
 
