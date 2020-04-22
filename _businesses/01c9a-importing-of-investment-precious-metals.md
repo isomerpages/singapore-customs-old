@@ -37,24 +37,6 @@ The GST relief permit must be obtained before **the importation of IPMs** and pr
 However, if the IPMs are imported as [**trade samples**](/businesses/importing-goods/import-procedures/importing-trade-samples) and its CIF value is below or equivalent to S$400, GST relief is granted and no permit is required for importation.
 
 
-### HS Codes For IPMs
-
-| **Types of IPMs** | **Applicable HS Codes** | |
-|--|--|--|
-| **Gold** | Bar or Wafer |a) Monetary Gold - 71082000 <br>b) Non-Monetary Gold - 71081300|
-| **Gold** | Ingot |a) Monetary Gold - 71082000 <br>b) Non-Monetary Gold - 71081200|
-| **Gold** | Coin |71189010|
-| **Silver** | Bar or Wafer |71069200|
-| **Silver** | Ingot |71069100|
-| **Silver** |Coin  |71181010 or 71189020|
-| **Platinum** | Bar or Wafer |71101900|
-| **Platinum** | Ingot |71101100|
-| **Platinum** | Coin |71181090 or 71189090|
-
-<sup>[https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/) <br>
-*Monetary gold refers to gold exchanged between national or international monetary authorities or authorised banks.
-
-
 ### IPMs Imported By Post
 
 No Customs permit is required if the IPMs are imported by [parcel post](businesses/importing-goods/import-procedures/importing-by-post-or-courier-service). However, GST is payable for non-IPMs if the goods’ [CIF value](businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) exceed S$400.
@@ -83,6 +65,27 @@ For hand-carried IPMs, you may proceed to the Customs Red Channel at the arrival
 The Approved Refiner and Consolidator Scheme (ARCS), administered by the Inland Revenue Authority of Singapore (IRAS), is designed to ease cash flow and compliance of qualifying refiners and consolidators of IPMs in their payment of GST on import and purchase of raw materials and relieve input tax incurred on refining activities.
 
 More information on ARCS can be found  [here](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/).
+
+
+
+### HS Codes For IPMs
+
+| **Types of IPMs** | **Applicable HS Codes** | |
+|--|--|--|
+| **Gold** | Bar or Wafer |a) Monetary Gold - 71082000 <br>b) Non-Monetary Gold - 71081300|
+| **Gold** | Ingot |a) Monetary Gold - 71082000 <br>b) Non-Monetary Gold - 71081200|
+| **Gold** | Coin |71189010|
+| **Silver** | Bar or Wafer |71069200|
+| **Silver** | Ingot |71069100|
+| **Silver** |Coin  |71181010 or 71189020|
+| **Platinum** | Bar or Wafer |71101900|
+| **Platinum** | Ingot |71101100|
+| **Platinum** | Coin |71181090 or 71189090|
+
+<sup>[https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/) <br>
+*Monetary gold refers to gold exchanged between national or international monetary authorities or authorised banks.
+
+
 
 
 
