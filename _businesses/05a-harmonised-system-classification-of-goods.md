@@ -8,7 +8,7 @@ third_nav_title: Harmonized System (HS) Classification of Goods
 
 The information in this section aims to provide some background of HS classification and the possible ways to build up your capability in HS classification.
 
-![HSC1.png](https://github.com/isomerpages/singapore-customs/blob/staging/images/HSC1.png?raw=true)
+![HSC1.png](/images/HSC1.png)
 
 ### What is the Harmonized System (HS)?
 
@@ -24,15 +24,15 @@ The HS comprises of 21 Sections covering 97 Chapters. It consists of:
 -   A list of headings arranged in systematic order, divided into subheadings, where appropriate
 -   General Interpretative Rules (GIR)
 
-![HSC2.png](https://github.com/isomerpages/singapore-customs/blob/staging/images/HSC2.png?raw=true)
+![HSC2.png](/images/HSC2.png)
 
 The goods in the HS are arranged in order of their degree of manufacture. The same order is arranged within each Chapter and its headings.
 
-![HSC3.jpg](https://github.com/isomerpages/singapore-customs/blob/staging/images/HSC3.jpg?raw=true)
+![HSC3.jpg](/images/HSC3.jpg)
 
 
 ### Process of Classification
-  ![HSC4.jpg](https://github.com/isomerpages/singapore-customs/blob/staging/images/HSC4.jpg?raw=true)
+  ![HSC4.jpg](/images/HSC4.jpg)
     
 In every case, the goods must first be classified in the appropriate 4-digit HS heading, followed by the appropriate 1-dash subheading, and the appropriate 2-dash subheading and so on. You should  **not**  proceed directly to the lower-level subheadings without first determining the appropriate heading.
     
@@ -54,7 +54,7 @@ Key amendments on AHTN 2017 can be found  [here](https://www.customs.gov.sg/-/me
 
 **SC102 - Classification and the Harmonized System Course**
 
-If you wish to pick up basic skills on the HS classification of goods, you may register for our [SC 102 -](https://www.customs.gov.sg/businesses/resources/courses-and-events) [Classification and the Harmonised System](https://www.customs.gov.sg/businesses/resources/courses-and-events)  course.  
+If you wish to pick up basic skills on the HS classification of goods, you may register for our [SC 102 -](/businesses/resources/courses-and-events) [Classification and the Harmonised System](/businesses/resources/courses-and-events)  course.  
   
 **Self-Learning**
 
