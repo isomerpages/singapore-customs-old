@@ -50,7 +50,7 @@ The status of your application may be one of the following:
 
 If it is rejected, you will need to meet the requirements or make the necessary amendments before re-submitting the application.
 
-[View sample of Cargo Clearance Permit.](https://www.customs.gov.sg/-/media/cus/files/about-us/national-single-window/sampleccporiginal.pdf?la=en&hash=95DDF4447D87B2155B03BE251D86C1C2E08727E8)
+[View sample of Cargo Clearance Permit.](/documents/about-us/sample-cargo-clearance-permit.pdf)
 
 ##### 3) What if you encounter problems when using TradeNet?
 
