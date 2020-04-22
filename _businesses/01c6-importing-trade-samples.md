@@ -17,9 +17,9 @@ Trade samples must also not be sold, consumed, put to normal use, or used in any
 
 ## Procedures for Importing Trade Samples
 
-Importers of trade samples are required to pay the  [Goods and Services Tax (GST)](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) and/or  [duty](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods).
+Importers of trade samples are required to pay the  [Goods and Services Tax (GST)](/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) and/or  [duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods).
 
-GST is calculated based on the  [Cost, Insurance and Freight (CIF) value](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods, together with all duties payable. The importer has to obtain the commercial value from the supplier if the value of the trade samples is not stated in the commercial invoice.
+GST is calculated based on the  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods, together with all duties payable. The importer has to obtain the commercial value from the supplier if the value of the trade samples is not stated in the commercial invoice.
 
 The commercial value should be based on the transaction value of identical or similar goods from the same country of origin that is exported at about the same time.
 
@@ -29,7 +29,7 @@ Please retain the relevant import permit (please refer to next section for permi
 
 ## Controlled and Non-Controlled Trade Samples
 
-You are advised to check if your trade sample is a controlled item before importing it.  Please click  [here](https://singapore-customs-staging.netlify.com/businesses/importing-goods/controlled-and-prohibited-goods-for-import) for more information on controlled and prohibited goods, and how to check if your samples are subject to control.
+You are advised to check if your trade sample is a controlled item before importing it.  Please click  [here](/businesses/importing-goods/controlled-and-prohibited-goods-for-import) for more information on controlled and prohibited goods, and how to check if your samples are subject to control.
 
 ### Non-Controlled Trade Samples
 

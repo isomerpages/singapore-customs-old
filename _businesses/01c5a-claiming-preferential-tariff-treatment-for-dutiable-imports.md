@@ -45,7 +45,7 @@ Declare the customs duty in the “Customs Duty Rate” field and leave the “P
 
 **Step 2: Submission of refund via TradeNet**
 
-Once your preferential CO or self-certification and supporting documents are available, please obtain Customs' endorsement on the documents before you can submit a request for [refund of customs duty](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/refund-of-duties-and-gst) via TradeNet® within 1 year from the date of duty payment.
+Once your preferential CO or self-certification and supporting documents are available, please obtain Customs' endorsement on the documents before you can submit a request for [refund of customs duty](/businesses/valuation-duties-taxes--fees/refund-of-duties-and-gst) via TradeNet® within 1 year from the date of duty payment.
 
 ## Where should I submit the supporting documents to?
 
