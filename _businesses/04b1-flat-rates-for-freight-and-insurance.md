@@ -8,7 +8,7 @@ third_nav_title: Valuation, Duties, Taxes & Fees
 
 Traders may use the flat rates provided by Singapore Customs for freight and insurance to compute the customs value of imports:
 
--   For transaction values quoted in  [Free On Board (FOB) International Commercial Terms (incoterms)](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance) and,
+-   For transaction values quoted in  [Free On Board (FOB) International Commercial Terms (incoterms)](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance) and,
 -   Where the actual freight and insurance charges are not known or not available to the importer.
 
 The flat rates for freight and insurance are:
