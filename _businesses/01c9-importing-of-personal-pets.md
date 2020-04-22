@@ -5,7 +5,7 @@ third_nav_title: Importing Goods
 ---
 # Importing Personal Pets
 
-The importation of goods, including pets, incurs Goods and Services Tax (GST). The GST for the importation of personal pets is based on the  [Cost, Insurance and Freight (CIF) value](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value#CIF) of the goods.
+The importation of goods, including pets, incurs Goods and Services Tax (GST). The GST for the importation of personal pets is based on the  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods.
 
 GST relief may be granted on the importation of personal pets if:
 
@@ -33,7 +33,7 @@ An importer who is transferring residence to Singapore (including returning Sing
 ### Procedures for Personal Pets Imported as Manifested Cargoes
 -   For personal pets that are imported as manifested cargoes (i.e. unaccompanied pets that are imported using commercial cargo forwarding services), the pet owner or his freight forwarding agent must obtain NParks AVS'approval before submitting an online [Declaration of Facts (DOF)](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP) to Singapore Customs for an assessment of eligibility for GST relief. For enquiries on the status of the DOF application, please click  [here](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP).
     
-    If the DOF application is approved, the pet owner, his freight forwarding agents or pet clearing agent may inform their appointed Declaring Agent to apply for the Customs In-Non-Payment (GST Relief) permit within 5 working daysfrom the approval date of the DOF. A list of freight forwarding agents can be obtained  [here](https://www.customs.gov.sg/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents). Please refer to the details on  [Documentation and Other Fees](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/permits-documentation-and-other-fees).
+    If the DOF application is approved, the pet owner, his freight forwarding agents or pet clearing agent may inform their appointed Declaring Agent to apply for the Customs In-Non-Payment (GST Relief) permit within 5 working daysfrom the approval date of the DOF. A list of freight forwarding agents can be obtained  [here](/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents). Please refer to the details on  [Documentation and Other Fees](/businesses/valuation-duties-taxes--fees/permits-documentation-and-other-fees).
     
     If the DOF application is unsuccessful, a Customs In-Payment (GST) permit must be taken to import the pet instead. For more details, please refer to the **[table]** above  **on** **the Procedures and Requirements for Importing Personal Pets.**
     
@@ -41,7 +41,7 @@ An importer who is transferring residence to Singapore (including returning Sing
 
 ### Procedures for Personal Pets Imported as Accompanied Baggage
 
-For personal pets that are hand-carried by the pet owner as part of his accompanied baggage through passenger terminals such as Changi Airport, Tuas Checkpoint etc, the pet owner must obtain NParks AVS'  [approval](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/general-information), before completing an "[Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#PermitLicence)" form. The application form must be submitted at least 3 working days before the pet owner's arrival in Singapore with the following supporting documents for verification:
+For personal pets that are hand-carried by the pet owner as part of his accompanied baggage through passenger terminals such as Changi Airport, Tuas Checkpoint etc, the pet owner must obtain NParks AVS'  [approval](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/general-information), before completing an "[Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets](/eservices/customs-forms-and-service-links)" form. The application form must be submitted at least 3 working days before the pet owner's arrival in Singapore with the following supporting documents for verification:
 
 -   NParks AVS' approval for the importation of personal pets
 -   Personal identification and pass details.
