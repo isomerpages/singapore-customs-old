@@ -15,8 +15,11 @@ An import refers to goods brought into customs territory from an entry point or 
 To import goods into Singapore, you are required to make a declaration to Singapore Customs. Goods and Services Tax (GST) is payable on non-dutiable goods. Both GST and duty are payable for dutiable goods if these goods are imported for local consumption.
 
 ## How to Import Your Goods?
+
+**General Import Flow Chart**
+
 ![how to import your goods](images/how-to-import-ur-goods.jpg)
-**_General Import Flow Chart_**
+
 
 As an importer, you will need to first  **determine if duty and/or GST payment should be made**  when your goods enter Singapore:
 
