@@ -9,7 +9,7 @@ third_nav_title: Importing Goods
 
 Overlanded goods refer to goods which are in excess of the quantity stated in the inward manifest, whether imported by  **air**,  **sea**  or  **rail**. You are required to pay the duty and/or Goods and Services Tax (GST) on the excess quantity.
 
-Shortlanded goods refer to goods that fall short of the quantity stated in the inward manifest, whether imported by  **air**,  **sea**  or  **rail**. You may apply for a refund if duty and/or GST has been paid. Please refer  [here](/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) for more information on refund application.
+Shortlanded goods refer to goods that fall short of the quantity stated in the inward manifest, whether imported by  **air**,  **sea**  or  **rail**. You may apply for a refund if duty and/or GST has been paid. Please refer  [here](/businesses/valuation-duties-taxes--fees/refund-of-duties-and-gst) for more information on refund application.
 
 Un-manifested goods refer to actual goods that are shipped but not listed in the inward manifest.
 
