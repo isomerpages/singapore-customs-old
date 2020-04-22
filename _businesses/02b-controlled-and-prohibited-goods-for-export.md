@@ -15,5 +15,5 @@ Controlled goods require proper authorisation (advance notification, licence or 
 | Rhinoceros horn (worked, unworked or prepared and any part, powder or waste of such horn) | National Parks Board |
 
 
-Please refer to the complete list of [items regulated by the Strategic Goods (Control) Act](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/strategic-goods-control-list).  
-A comprehensive list of [United Nations Security Council sanctions](https://singapore-customs-staging.netlify.app/businesses/united-nations-security-council-sanctions/) can be found on the UNSC Sanctions Committees Website.
+Please refer to the complete list of [items regulated by the Strategic Goods (Control) Act](/businesses/strategic-goods-control/strategic-goods-control-list).  
+A comprehensive list of [United Nations Security Council sanctions](/businesses/united-nations-security-council-sanctions/) can be found on the UNSC Sanctions Committees Website.
