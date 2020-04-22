@@ -40,4 +40,4 @@ Singapore Customs will process your application within 7 working days upon compl
 
 For queries on SDPC application procedures, email us at  [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg)  or contact our call centre at 6355 2000.
 
-You may also refer to our  [media release](https://singapore-customs-staging.netlify.app/news-and-media/media-releases/2012-11-29-Media-Release.pdf)  and  [Notice No. 12/2019](https://singapore-customs-staging.netlify.app/news-and-media/notices/2019-07-01-N.pdf) for more information.
+You may also refer to our  [media release](/news-and-media/media-releases/2012-11-29-Media-Release.pdf)  and  [Notice No. 12/2019](/news-and-media/notices/2019-07-01-N.pdf) for more information.
