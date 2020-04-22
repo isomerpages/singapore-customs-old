@@ -8,9 +8,9 @@ third_nav_title: Transhipping Goods
 
 ## Permit Amendment
 
-You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](https://singapore-customs-staging.netlify.app/about-us/07a5-annexes-and-appendices)  for the list of non-amendable fields.
+You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](/about-us/07a5-annexes-and-appendices)  for the list of non-amendable fields.
 
-Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](https://singapore-customs-staging.netlify.app/about-us/07a5-annexes-and-appendices).
+Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](/about-us/07a5-annexes-and-appendices).
 
 ## Permit Cancellation
 
@@ -24,4 +24,4 @@ You are not allowed to cancel a transhipment permit if:
 -   It has expired for more than a calendar day; or
 -   It has been requested by the Manifest Compliance Unit of Singapore Customs for audit purposes.
 
-For such cases, please submit a  [voluntary disclosure](https://singapore-customs-staging.netlify.app/businesses/compliance/voluntary-disclosure-programme)  to Singapore Customs.
+For such cases, please submit a  [voluntary disclosure](/businesses/compliance/voluntary-disclosure-programme)  to Singapore Customs.
