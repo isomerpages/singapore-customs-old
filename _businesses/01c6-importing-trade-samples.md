@@ -62,7 +62,7 @@ You are advised to check if your trade sample is a controlled item before import
 |--|--|--|--|--|
 | Non-Dutiable | Less than  or equal to S$400 | No | - | Yes |
 | Non-Dutiable | More than S$400 | Yes | - | Yes |
-| **Type of Controlled Dutiable Trade Sample** | **CIF Value** | **GST Payable** | **Duty Payable** | **Permit Required** |
+| **Type of Controlled Dutiable** <br> **Trade Sample** | **CIF Value** | **GST Payable** | **Duty Payable** | **Permit Required** |
 | Dutiable goods (**excluding liquor and tobacco**  **products**), where the goods are subject to total customs duty and excise duty amounts  **not**  exceeding S$20 | Less than  or equal to S$400 | No | No | Yes |
 | Dutiable goods (**excluding liquor and tobacco**  **products**), where the goods are subject to total customs duty and excise duty amounts exceeding S$20 | Less than  or equal to S$400 | Yes | Yes | Yes |
 | Dutiable goods (**excluding liquor and tobacco products**) |  More than S$400| Yes | Yes | Yes |
