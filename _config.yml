@@ -35,6 +35,8 @@ collections:
     output: true
   registration-matters:
     output: true
+  business-resources:
+    output: true
   test:
     output: true
   test_hidden:
