@@ -1,6 +1,6 @@
 ---
 title: Register Claimants 
-permaLink: /businesses/registration-matters/registration-procedures/register-claimants
+permalink: /businesses/registration-matters/registration-procedures/register-claimants
 third_nav_title: Registration Procedures
 ---
 

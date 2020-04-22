@@ -1,6 +1,6 @@
 ---
 title: Authorise a Declaring Agent
-permaLink: /businesses/registration-matters/registration-procedures/authorise-a-declaring-agent
+permalink: /businesses/registration-matters/registration-procedures/authorise-a-declaring-agent
 third_nav_title: Registration Procedures 
 ---
 
