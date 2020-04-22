@@ -23,10 +23,10 @@ You are advised to check if your trade sample is a controlled item before export
 | Controlled trade samples (regardless of value) | Yes |
 
 
-More information [here](https://singapore-customs-staging.netlify.app/businesses/02b-controlled-and-prohibited-goods-for-export) on controlled and prohibited goods, and how to check if your goods are subject to control.
+More information [here](/businesses/02b-controlled-and-prohibited-goods-for-export) on controlled and prohibited goods, and how to check if your goods are subject to control.
 
 ## Temporary Export
 
 For trade samples that are temporarily exported and intended to be returned to Singapore, they must be re-imported to Singapore within 3 months from the date of export.
 
-Find out more about temporary export procedures [here](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme).
+Find out more about temporary export procedures [here](/businesses/importing-goods/temporary-import-scheme).
