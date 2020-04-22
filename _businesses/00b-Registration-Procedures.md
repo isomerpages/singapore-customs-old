@@ -1,6 +1,6 @@
 ---
-title: Registeration Procedures
-permaLink: /businesses/registration-matters/registration-procedures
+title: Registration Procedures
+permalink: /businesses/registration-matters/registration-procedures
 third_nav_title: Registration Matters
 ---
 
