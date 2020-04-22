@@ -8,7 +8,7 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 ## What is it?
 
-The Licensed Warehouse (LW) Scheme allows approved companies to store imported dutiable goods, namely liquor, tobacco, motor vehicles,  [petroleum and biodiesel blends](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/petroleum-licences), for an indefinite period of time in a designated area licensed by Singapore Customs, with the duty and Goods and Services Tax (GST) suspended. This designated area is termed as licensed premises.
+The Licensed Warehouse (LW) Scheme allows approved companies to store imported dutiable goods, namely liquor, tobacco, motor vehicles,  [petroleum and biodiesel blends](/businesses/customs-schemes-licences-framework/petroleum-licences), for an indefinite period of time in a designated area licensed by Singapore Customs, with the duty and Goods and Services Tax (GST) suspended. This designated area is termed as licensed premises.
 
 Duty and GST will be payable when these goods are removed from the licensed warehouse for local use or consumption. Duty and GST are not payable when these goods are removed for export, or when supply or sale of these goods takes place while they are in the warehouse.
 
@@ -24,7 +24,7 @@ There are 3 licence types to cater to the different needs of companies:
 
 The level of facilitation accorded, as well as the criteria on the company’s record-keeping and internal controls standard, increase from Type I to Type III.
 
-Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
+Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
 A summary of the benefits for the 3 LW licence types can be found in the  [Licensed Warehouse Scheme Handbook](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/lwhandbook_may2017version.pdf?la=en&hash=FF4D53963CE9B5460ADFCDD9B6FA316250A385AC)  (Chapter 2.8).
 
@@ -33,12 +33,12 @@ A summary of the benefits for the 3 LW licence types can be found in the  [Licen
 To qualify for the Licensed Warehouse Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place
 -   Have good stock record-keeping and warehouse procedures
 -   Be responsible for the security, accountability and control of the dutiable goods
--   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the respective licence types under the LW Scheme
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the respective licence types under the LW Scheme
 
 ## Licence Fee
 
@@ -60,7 +60,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 -   **Accountability to Singapore Customs**
     
     -   Accountable for dutiable goods stored in the licensed premises and for the payment of duty and GST on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](https://www.customs.gov.sg/about-us/national-single-window/tradenet) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the Customs Act, Customs Regulations and the licensing Terms & Conditions
