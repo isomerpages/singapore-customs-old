@@ -15,7 +15,7 @@ The validity period of an import permit depends on the type of goods involved, p
 | **In-Non-Payment** |  Approval date + 9 working days <br><br>  For declaration type (Blanket - BKT): approval date declared blanket start date to until the end of the same calendar month |
 | **In-Payment** | Approval date + 9 working days <br><br>   Approval date + 1 working day if items are dutiable and released from Customs licensed premises |
 
-*Note: Please refer to the specific validity periods for each permit. If you are unable to utilise the permit within the stipulated period, please [extend the validity period of the permit](/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation) via TradeNet before it expires.
+<sup>*Note: Please refer to the specific validity periods for each permit. If you are unable to utilise the permit within the stipulated period, please [extend the validity period of the permit](/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation) via TradeNet before it expires.
 
 ## Error Messages
 
