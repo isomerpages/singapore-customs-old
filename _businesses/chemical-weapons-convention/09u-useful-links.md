@@ -14,7 +14,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 -   [National Environment Agency](http://www.nea.gov.sg/)
 -   [Singapore Civil Defence Force](http://www.scdf.gov.sg/)
 -   [Singapore Police Force](http://www.spf.gov.sg/)
--   [Strategic Goods Control, Singapore Customs](https://www.customs.gov.sg/businesses/strategic-goods-control/overview)
+-   [Strategic Goods Control, Singapore Customs](/businesses/strategic-goods-control/overview)
 
 ### Other Organisations
 
