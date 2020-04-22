@@ -12,7 +12,7 @@ Goods sent overseas may be re-imported into Singapore due to:
 -   Re-import of goods stored or used in a Free Trade Zone
 -   Return of damaged or rejected goods
 
-Similar to imports, all re-imports of goods into Singapore incur Goods and Services Tax (GST) and/or duty payments. You may find out more about  [duties](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and  [GST](https://singapore-customs-staging.netlify.com/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst).
+Similar to imports, all re-imports of goods into Singapore incur Goods and Services Tax (GST) and/or duty payments. You may find out more about  [duties](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and  [GST](/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst).
 
 Please view the tabs below for more information on re-importing goods under different scenarios.
 
@@ -20,18 +20,18 @@ Please view the tabs below for more information on re-importing goods under diff
 ## Re-Importing Temporary Exported Goods
 You may re-import your duty and/or GST-paid goods (including Singapore-registered motor vehicles, but excluding liquor and tobacco products) which were sent overseas **temporarily** for:
     
-    -   Exhibitions or fairs
-    -   Racing or other competitions
-    -   Shows or performances
-    -   Repairs or servicing
-    -   Soliciting trade
+   -   Exhibitions or fairs
+   -   Racing or other competitions
+   -   Shows or performances
+   -   Repairs or servicing
+   -   Soliciting trade
     
  GST and/or duty exemptions are granted for such re-imports subject to the following conditions:
     
-    -   Re-import of liquor and tobacco products are not allowed;
-    -   The goods were intended to be re-imported at the time of export;
-    -   The Customs OUT (Temporary Consignments - TCI) permit to cover the temporary export of the goods is obtained; and
-    -   The ownership of the goods was not transferred to a person outside Singapore at the time of export or during the time while the goods were abroad.
+   -   Re-import of liquor and tobacco products are not allowed;
+   -   The goods were intended to be re-imported at the time of export;
+   -   The Customs OUT (Temporary Consignments - TCI) permit to cover the temporary export of the goods is obtained; and
+   -   The ownership of the goods was not transferred to a person outside Singapore at the time of export or during the time while the goods were abroad.
     
 Before the **temporary export of goods**, you must apply for the **Customs OUT (Temporary Consignments - TCI) permit** and present it together with the goods and supporting documents (for example, commercial invoice, packing list and Bill of Lading/Airway Bill) to the checkpoint officers for  verification at the exit point.
     
@@ -40,11 +40,11 @@ To **re-import goods (excluding motor vehicles)**, you must apply for the corres
 To **re-import motor vehicles**, you should apply for the corresponding re-import **In-Non Payment (Duty and GST Relief)** permit and present it together with the goods and supporting documents to the checkpoint officers for verification.
     
 Full GST and/or duty will be payable on the re-import if you temporarily exported goods overseas but **omitted** to:
+   
+  -   Apply for the Customs OUT (Temporary Consignment – TCI) permit; and/or
+  -   Present the permit, goods and supporting documents to the checkpoint officers for verification
     
-    -   Apply for the Customs OUT (Temporary Consignment – TCI) permit; and/or
-    -   Present the permit, goods and supporting documents to the checkpoint officers for verification
-    
- More information on [temporary import/export requirements](https://singapore-customs-staging.netlify.com/businesses/importing-goods/temporary-import-scheme) and [permit application procedures](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/).
+ More information on [temporary import/export requirements](/businesses/importing-goods/temporary-import-scheme) and [permit application procedures](/businesses/importing-goods/import-procedures/).
 
 ## Returning Goods with Replacement or New Additional Parts
 
@@ -71,7 +71,7 @@ You should apply for the Customs In-Payment (GST) permit to cover the re-import,
 
 Taxable companies registered with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/) may claim the GST levied from IRAS. The company may submit the Customs OUT (Direct) permit, together with all relevant records (for example, Bill of Lading, commercial invoices, packing list, freight charges) to IRAS during the company’s monthly or quarterly accounting returns.
 
-Those who wish to store local or GST-paid goods in the Airport Logistics Park of Singapore (ALPS) may apply for the [Company Declaration Scheme](https://singapore-customs-staging.netlify.com/businesses/customs-schemes-licences-framework/company-declaration-scheme).
+Those who wish to store local or GST-paid goods in the Airport Logistics Park of Singapore (ALPS) may apply for the [Company Declaration Scheme](/businesses/customs-schemes-licences-framework/company-declaration-scheme).
 
 Under this scheme, approved operators are allowed to remove local goods or goods (previously covered by permits) that are GST-paid or GST accounted for from ALPS into customs territory using a Company Declaration form, in lieu of Customs permits. GST will not be payable on these goods again.
 
