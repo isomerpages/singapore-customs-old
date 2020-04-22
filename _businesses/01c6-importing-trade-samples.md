@@ -38,10 +38,10 @@ You are advised to check if your trade sample is a controlled item before import
 | Non-Dutiable | Less than  or equal to S$400 | No | - | No |
 | Non-Dutiable | More than S$400 | Yes | - | Yes |
 | **Type of Non-Controlled<br>Dutiable Trade Sample** | **CIF Value** | **GST Payable** | **Duty Payable** | **Permit Required** |
-| Dutiable goods (**excluding liquor and tobacco**  **products**), where the goods are subject to total customs duty and excise duty amounts  **not**  exceeding S$20 | less than  or equal to S$400 | No | No | No |
-| Dutiable goods (**excluding liquor and tobacco**  **products**), where the goods are subject to total customs duty and excise duty amounts exceeding S$20 | less than  or equal to S$400 | Yes| Yes| Yes|
+| Dutiable goods (**excluding liquor and tobacco**  **products**), where the goods are subject to total customs duty and excise duty amounts  **not**  exceeding S$20 | Less than  or equal to S$400 | No | No | No |
+| Dutiable goods (**excluding liquor and tobacco**  **products**), where the goods are subject to total customs duty and excise duty amounts exceeding S$20 | Less than  or equal to S$400 | Yes| Yes| Yes|
 | Dutiable goods (**excluding liquor and tobacco products**) | More than S$400  | Yes | Yes | Yes |
-| Liquor and tobacco products | a) Liquor products <br>lesser than or equal to S$400  **and**  lesser than or equal to 10 litres <br><br> b) Tobacco products less than or equal to S$400  **and**  less than or equal to 0.4 kilogramme | Yes | Yes | No |
+| Liquor and tobacco products | a) Liquor products <br>Less than or equal to S$400  **and**  Less than or equal to 10 litres <br><br> b) Tobacco products less than or equal to S$400  **and**  Less than or equal to 0.4 kilogramme | Yes | Yes | No |
 | Liquor and tobacco products | a) Liquor products more than S$400 **or** more than 10 litres <br><<br> b) Tobacco products more than S$400  **or**  more than 0.4 kilogramme | Yes | Yes |  Yes|
 
 **Non-dutiable trade samples** (including gifts and specimens for analysis or tests)
@@ -76,6 +76,6 @@ You are advised to check if your trade sample is a controlled item before import
 
 **Dutiable trade samples**
 
--   Dutiable trade samples (**excluding liquor and tobacco products**) with total CIF value  not exceeding  S$400 and where the goods are subject to  total customs and excise duty amounts not exceeding S$20, are granted GST relief and duty exemption. A Customs In-Non Payment (GTR) permit must be taken up to account for the controlled goods. The place of receipt code should be declared as “TRADESP”. Importers should inform their suppliers to indicate the goods as “trade samples” in the commercial invoice and the Bill of Lading/Air Waybill.
+-   Dutiable trade samples (**excluding liquor and tobacco products**) with total CIF value  **not exceeding**  S$400 and where the goods are subject to  **total customs and excise duty amounts not exceeding S$20** , are granted GST relief and duty exemption. A Customs In-Non Payment (GTR) permit must be taken up to account for the controlled goods. The place of receipt code should be declared as “TRADESP”. Importers should inform their suppliers to indicate the goods as “trade samples” in the commercial invoice and the Bill of Lading/Air Waybill.
 -   All intoxicating liquor and tobacco products imported as samples incur GST and duty. A Customs In-Payment (Duty and GST) must be taken up to account for the goods.
 -   For all other dutiable trade samples, with total CIF value exceeding S$400, duty and GST are payable. A Customs In-Payment (Duty and GST) must be taken up to account for the goods.
