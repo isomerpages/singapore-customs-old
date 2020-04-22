@@ -67,4 +67,4 @@ The Key Personnel or Authorised Personnel authorised by the Key Personnel can al
 
 ## Terms and Conditions
 
-[Terms and Conditions for Declaring Entities](https://www.customs.gov.sg/-/media/cus/files/business/registering-to-trade/tcsdefinal.pdf?la=en&hash=662350F0FDCF3198A26464B9C2CE042D1B83C13C)
+[Terms and Conditions for Declaring Entities](/businesses/TCsDEfinal.pdf)
