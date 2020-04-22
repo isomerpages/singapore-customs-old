@@ -16,7 +16,7 @@ For departure via other checkpoints, please note that HCES is not applicable.
 
 ## Exporting Trade Samples via Hand-Carry
 
-Please refer to  [Exporting Trade Samples](https://singapore-customs-staging.netlify.app/businesses/02c5-exporting-trade-samples)  for the permit requirements.
+Please refer to  [Exporting Trade Samples](/businesses/02c5-exporting-trade-samples)  for the permit requirements.
 
 ## Exporting Temporary Imported Goods via Hand-Carry
 
