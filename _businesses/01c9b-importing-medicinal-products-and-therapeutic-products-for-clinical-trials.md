@@ -22,7 +22,7 @@ Before applying for the GST relief for the CTMs, you should take note of the fol
     
 -   Obtain approval from the [National Environment Agency](http://www.nea.gov.sg/energy-waste/waste-management) if the CTMs are imported for destruction or disposal in Singapore.
     
--   Register for a [claimant account](/businesses/00h-register-claimants) with Singapore Customs.
+-   Register for a [claimant account](/businesses/register-claimants) with Singapore Customs.
     
 
 When applying for a TradeNet GST relief permit, please take note of the following:  
