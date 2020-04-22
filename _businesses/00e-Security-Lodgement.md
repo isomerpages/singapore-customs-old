@@ -19,7 +19,9 @@ Singapore Customs may also require security to be furnished for situations not m
 With effect from 1 Apr 2016, new security requirements will be imposed on liquor and tobacco products (see  [circular](https://singapore-customs-staging.netlify.app/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
 
 
-**( Missing Accordion )**
+|  |  | |  |
+|--|--|--|--|
+|![Layered Enforcement](/images/SL1.jpg) | ![Layered Enforcement](/images/SL2.jpg) |![Layered Enforcement](/images/SL3.jpg) | ![Layered Enforcement](/images/SL4.jpg) |
 
 
 ## Expired Security
