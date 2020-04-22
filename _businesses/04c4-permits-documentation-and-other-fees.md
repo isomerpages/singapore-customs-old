@@ -6,7 +6,7 @@ third_nav_title: Valuation, Duties, Taxes & Fees
 
 # Permits, Documentation and Other Fees
 
-The fees below apply to traders who submit their own permit applications. It does not include  [service fees charged by service providers such as freight forwarders](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service).
+The fees below apply to traders who submit their own permit applications. It does not include  [service fees charged by service providers such as freight forwarders](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service).
 
 ## Processing through TradeNet
 
