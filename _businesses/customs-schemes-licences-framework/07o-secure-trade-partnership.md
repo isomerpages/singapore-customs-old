@@ -64,9 +64,9 @@ Please refer to the  [Factsheet on Mutual Recognition](https://www.customs.gov.s
 
 To qualify for the STP, the company must:
 
--   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
--   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Intermediate” and “Premium” bands to qualify for the STP and STP-Plus certifications respectively
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Intermediate” and “Premium” bands to qualify for the STP and STP-Plus certifications respectively
 
 Click  [here](https://www.customs.gov.sg/-/media/stp-handbook-may-2019.pdf?la=en&hash=B07121FEAE8071C188F024CA85A768EEA1C6AD3F) for the Handbook on Secure Trade Partnership
 
