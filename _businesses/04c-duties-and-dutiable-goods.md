@@ -19,7 +19,7 @@ There are 4 categories of dutiable goods:
 -   Motor vehicles
 -   Petroleum products and biodiesel blends
 
-Please refer to the  [list of dutiable goods](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods) for their respective duty rates. All other products are non-dutiable.
+Please refer to the  [list of dutiable goods](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods) for their respective duty rates. All other products are non-dutiable.
 
 Examples on the calculation of duties payable:
 
@@ -76,7 +76,7 @@ Hence, duties payable = 100 x 2 x S$0.427 = S$85.40
 *Duties payable = Customs value x Excise duty rate*
 
   
-Company A imports a motor car that was bought at S$100,000 on [Free on Board (FOB) incoterms](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance). The overseas freight, handling and insurance charges to ship the car to Singapore cost S$1,000. Assuming the excise duty for motor cars is 20% of the customs value:
+Company A imports a motor car that was bought at S$100,000 on [Free on Board (FOB) incoterms](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance). The overseas freight, handling and insurance charges to ship the car to Singapore cost S$1,000. Assuming the excise duty for motor cars is 20% of the customs value:
 
 Customs value of car = S$101,000
 
