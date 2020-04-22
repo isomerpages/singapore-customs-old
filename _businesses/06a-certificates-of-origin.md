@@ -216,7 +216,7 @@ For minor offences under the RIEA, Singapore Customs may offer to compound the o
 | Making a false declaration <br>(Section 28(1)(a) of the RIEA) | A fine not exceeding S$10,000 or imprisonment for a term not exceeding 2 years or both. |
 | Incorrect trade descriptions<br>(Section 28A(1)(a) of the RIEA)<br><br>Failure to comply with requirements of the Director-General for the issue of preferential CO <br>(Regulation 24B(4) of the RIER) | First conviction:<br>A fine not exceeding S$100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 2 years or to both.<br><br>Second or subsequent conviction:<br>A fine not exceeding S$200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 3 years or to both. |
 
-You may view more information on the prescribed offences and penalties under the [RIEA and RIER](https://singapore-customs-staging.netlify.app/about-us/acts-and-subsidiary-legislation/customs-act).
+You may view more information on the prescribed offences and penalties under the [RIEA and RIER](/about-us/acts-and-subsidiary-legislation/customs-act).
 
     
 
