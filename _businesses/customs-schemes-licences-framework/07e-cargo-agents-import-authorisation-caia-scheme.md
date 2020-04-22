@@ -10,7 +10,7 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 The Cargo Agent’s Import Authorisation (CAIA) Scheme allows cargo agents to take delivery of their air cargoes from ground handling agents before obtaining all the relevant customs permits from the importers or partner cargo agents handling the house shipments. The CAIA cargo agents can then break-bulk the cargoes in their warehouses located within the Changi Free Trade Zone.
 
-Cargo agents cannot use this scheme to take delivery of air cargoes that contain goods controlled by  [Competent Authorities (CAs).](https://singapore-customs-staging.netlify.app/about-us/07a3-competent-authorities-requirements)
+Cargo agents cannot use this scheme to take delivery of air cargoes that contain goods controlled by  [Competent Authorities (CAs).](/about-us/07a3-competent-authorities-requirements)
 
 You may use this  [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) to check if the goods are controlled, using the description of the goods, Harmonised System (HS) code or CA product code. If the HS code is subject to control, the name of the CA will be indicated next to the HS code. You may check directly with the respective CA on their licensing requirements.
 
@@ -27,7 +27,7 @@ To qualify for the scheme, the cargo agent must meet the following criteria:
 
 ## How to Apply?
 
-Cargo agents should complete the [Application for Cargo Agent's Import Authorisation (CAIA)](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links) [](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links)form and email it to  [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg).
+Cargo agents should complete the [Application for Cargo Agent's Import Authorisation (CAIA)](/eservices/customs-forms-and-service-links) [](/eservices/customs-forms-and-service-links)form and email it to  [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg).
 
 The one-time registration fee for the CAIA Scheme is $240, which includes two CAIA cards. A $10.50 fee (including Goods and Services Tax) is payable for each additional CAIA card.
 
