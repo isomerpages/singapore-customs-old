@@ -52,7 +52,7 @@ You are advised to check if your trade sample is a controlled item before import
 
 **Dutiable trade samples**
 
--   Dutiable trade samples (**excluding liquor and tobacco products**) with total CIF value  not exceeding  S$400 and where the goods are subject to  total customs and excise duty amounts not exceeding S$20, are granted GST relief and duty exemption. These dutiable trade samples can be imported without an import permit. Importers should inform their suppliers to indicate the goods as “trade samples” in the commercial invoice and the Bill of Lading/Air Waybill.
+-   Dutiable trade samples (**excluding liquor and tobacco products**) with total CIF value  ***not exceeding**  S$400 and where the goods are subject to  **total customs and excise duty amounts not exceeding S$20**, are granted GST relief and duty exemption. These dutiable trade samples can be imported without an import permit. Importers should inform their suppliers to indicate the goods as “trade samples” in the commercial invoice and the Bill of Lading/Air Waybill.
 -   All intoxicating liquor and tobacco products imported as samples incur GST and duty. A Customs In-Payment (Duty and GST) permit must be taken up to account for the goods, except for the scenarios stated in the table above.
 -   For all other dutiable trade samples, with total CIF value exceeding S$400, duty and GST are payable. A Customs In-Payment (Duty and GST) permit must be taken up to account for the goods.
 
