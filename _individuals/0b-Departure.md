@@ -1,6 +1,6 @@
 ---
 title: Departure
-permaLink: /individuals/going-through-customs/departure
+permalink: /individuals/going-through-customs/departure
 third_nav_title: Going Through Customs
 ---
 
