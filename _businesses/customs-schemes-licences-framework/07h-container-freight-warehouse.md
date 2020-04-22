@@ -15,12 +15,12 @@ A Container Freight Warehouse Licence allows approved logistics operators to con
 To qualify for the licence, the company must:
 
 -   Be Goods and Services Tax (GST)-registered with the Inland Revenue Authority of Singapore (IRAS)
--   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs and IRAS
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place
 -   Operate a robust computerised inventory system which is able to track and account for the inventory status and movement of all goods stored in the container freight warehouse
 -   Be responsible for the security, accountability and control of the goods
--   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum Enhanced Band
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum Enhanced Band
 
 ## Licence Fee
 
@@ -31,7 +31,7 @@ An annual licence fee of $4,000 is payable when the licence is issued.
 -   **Accountability to Singapore Customs**
     -   Accountable for all goods held in the licensed premises and for the payment of GST on goods not accounted for
     -   Ensure timely and accurate reconciliation of all goods and submission of monthly reconciled report to Singapore Customs within the prescribed period
-    -   Declare relevant Customs permits through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the GST Act, GST (General) Regulations and the licensing Terms & Conditions
