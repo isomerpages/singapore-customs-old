@@ -11,7 +11,7 @@ The  [Organisation for the Prohibition of Chemical Weapons](http://www.opcw.org/
 
 Singapore ratified the CWC in May 1997 and Singapore Customs is the designated National Authority (NA) for the CWC (NA(CWC)).
 
-The NA(CWC) is the national focal point and liaison with the Organisation for the Prohibition of Chemical Weapons (the implementing body of the CWC), and other Member States of the Convention. The NA(CWC) administers the  [Chemical Weapons (Prohibition) Act and its subsidiary legislations](https://singapore-customs-staging.netlify.app/businesses/compliance/overview)  to fulfil Singapore’s obligations under the Convention.
+The NA(CWC) is the national focal point and liaison with the Organisation for the Prohibition of Chemical Weapons (the implementing body of the CWC), and other Member States of the Convention. The NA(CWC) administers the  [Chemical Weapons (Prohibition) Act and its subsidiary legislations](/businesses/compliance/overview)  to fulfil Singapore’s obligations under the Convention.
 
 ### General Obligations
 
@@ -29,33 +29,33 @@ Under the CWC, Member States are required to undertake the following general obl
 
 ### Verification Regime
 
-Member States are also required to declare any chemical weapons-related activities and industrial activities relating to the  [scheduled chemicals](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/controlled-chemicals)  and facilities producing unscheduled discrete organic chemicals.
+Member States are also required to declare any chemical weapons-related activities and industrial activities relating to the  [scheduled chemicals](/businesses/chemical-weapons-convention/controlled-chemicals)  and facilities producing unscheduled discrete organic chemicals.
 
-The declarations are the basis for data monitoring and on-site  [inspections](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/inspections)  at the declared facilities. These inspections seek to verify that activities at the declared facilities are in accordance with the obligations of the Convention, and consistent with the submitted declarations. It is a confidence-building measure for ensuring that Member States meet the requirements of the Convention, and serves as deterrence against any intention to contravene the provisions of the Convention.
+The declarations are the basis for data monitoring and on-site  [inspections](/businesses/chemical-weapons-convention/inspections)  at the declared facilities. These inspections seek to verify that activities at the declared facilities are in accordance with the obligations of the Convention, and consistent with the submitted declarations. It is a confidence-building measure for ensuring that Member States meet the requirements of the Convention, and serves as deterrence against any intention to contravene the provisions of the Convention.
 
 ----
 
 ### Member States
 For the full list of Member States, please click [here](http://www.opcw.org/about-opcw/member-states/).
 
-## [**Legislation**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/legislation)
+## [**Legislation**](/businesses/chemical-weapons-convention/legislation)
 
-## [**Controlled Chemicals**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/controlled-chemicals)
+## [**Controlled Chemicals**](/businesses/chemical-weapons-convention/controlled-chemicals)
 
-## [**Licensing Requirements**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/licensing-requirements)
+## [**Licensing Requirements**](/businesses/chemical-weapons-convention/licensing-requirements)
 
-## [**Importing NA(CWC) Controlled Items**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items)
+## [**Importing NA(CWC) Controlled Items**](/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items)
 
-## [**Exporting NA(CWC) Controlled Items**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items)
+## [**Exporting NA(CWC) Controlled Items**](/businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items)
 
-## [**Restrictions for Exports to Non-Member States**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/restriction-for-exports-to-nms)
+## [**Restrictions for Exports to Non-Member States**](/businesses/chemical-weapons-convention/restriction-for-exports-to-nms)
 
-## [**Declarations**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/declarations)
+## [**Declarations**](/businesses/chemical-weapons-convention/declarations)
 
-## [**Inspections**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/inspections)
+## [**Inspections**](/businesses/chemical-weapons-convention/inspections)
 
-## [**Offences**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/offences)
+## [**Offences**](/businesses/chemical-weapons-convention/offences)
 
-## [**Glossary**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/glossary)
+## [**Glossary**](/businesses/chemical-weapons-convention/glossary)
 
-## [**Useful Links**](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/useful-links)
+## [**Useful Links**](/businesses/chemical-weapons-convention/useful-links)
