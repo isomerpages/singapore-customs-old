@@ -25,12 +25,12 @@ A Customs export permit is required for:
 
 Major Exporter Scheme
 
--   [Re-export of goods imported under the Temporary Import Scheme](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
+-   [Re-export of goods imported under the Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme)
     
--   [Temporary export of goods intended to be re-imported](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
+-   [Temporary export of goods intended to be re-imported](/businesses/importing-goods/temporary-import-scheme)
     
 
-A strategic goods export permit is required for the export of [goods controlled under the Strategic Goods (Control) Act](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/strategic-goods-control-list).
+A strategic goods export permit is required for the export of [goods controlled under the Strategic Goods (Control) Act](/businesses/strategic-goods-control/strategic-goods-control-list).
 
 The table shows the period to submit your export permit application for the various types of goods:
 
@@ -48,17 +48,17 @@ The table shows the period to submit your export permit application for the vari
 | Steel bars                                                                                                                                                                                                                      | Within 3 working days after the date of vessel’s departure                                                                | Conditions: The steel bars are loaded directly into a carrier without any additional form of packing\.                                                                                                  |
 
 
-***
+
 Bulk petroleum and chemicals are those loaded directly into an oil/chemical tanker without any additional form of packing. It excludes petroleum and chemicals transported in ISO tanks and drums, as there are fixed quantities for these modes of export.
-***
+
 ( **Missing Accordions** )
-***
+
 
 ## For more information on:
 
 
 |   |   |   |   |
 |---|---|---|---|
-|[ ![](/images/e1.jpg)](https://singapore-customs-staging.netlify.com/businesses/02c1-exporting-hand-carried-commercial-goods) |[ ![](/images/e2.jpg)](https://singapore-customs-staging.netlify.com/businesses/02c2-types-of-export-permits)  |[ ![](/images/e3.jpg)](https://singapore-customs-staging.netlify.com/businesses/02c4-permit-amendments-and-cancellation)  |[ ![](/images/e4.jpg)](https://singapore-customs-staging.netlify.com/businesses/02c3-permit-validity-and-error-messages)  |
-|[ ![](/images/e5.jpg)](https://singapore-customs-staging.netlify.com/businesses/02c6-exporting-pets)  |[ ![](/images/e6.jpg)](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/authorised-piers-and-places)  |[  ![](/images/e7.jpg)](https://singapore-customs-staging.netlify.com/businesses/02c5-exporting-trade-samples) |[![](/images/e8.jpg)](https://singapore-customs-staging.netlify.com/businesses/02c7-supply-of-air-sea-stores)  |
+|[ ![](/images/e1.jpg)](/businesses/02c1-exporting-hand-carried-commercial-goods) |[ ![](/images/e2.jpg)](/businesses/02c2-types-of-export-permits)  |[ ![](/images/e3.jpg)](/businesses/02c4-permit-amendments-and-cancellation)  |[ ![](/images/e4.jpg)](/businesses/02c3-permit-validity-and-error-messages)  |
+|[ ![](/images/e5.jpg)](/businesses/02c6-exporting-pets)  |[ ![](/images/e6.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-and-places)  |[  ![](/images/e7.jpg)](/businesses/02c5-exporting-trade-samples) |[![](/images/e8.jpg)](/businesses/02c7-supply-of-air-sea-stores) |
   
