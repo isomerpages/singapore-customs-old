@@ -7,7 +7,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 # OPCW Inspection Process
 
-![](https://www.customs.gov.sg/-/media/cus/images/business/ocpw.jpg)
+![](/images/business/ocpw.jpg)
 
 ## Inspection Notification
 
