@@ -1,6 +1,6 @@
 ---
 title: Refund of Duties & GST
-permalink: /businesses/valuation-duties-taxes--fees/refund-of-duties-and-gst
+permalink: /businesses/valuation-duties-taxes-fees/refund-of-duties-and-gst
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
 
