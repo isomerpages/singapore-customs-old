@@ -33,6 +33,8 @@ collections:
     output: true
   going-through-customs:
     output: true
+  registration-matters:
+    output: true
   test:
     output: true
   test_hidden:
