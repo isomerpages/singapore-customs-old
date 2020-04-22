@@ -6,7 +6,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 # OPCW Inspection Process
 
-![](/images/business/ocpw.jpg)
+![](/images/OCPW.jpg)
 
 ## Inspection Notification
 
