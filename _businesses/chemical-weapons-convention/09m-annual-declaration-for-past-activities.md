@@ -6,7 +6,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 # Annual Declaration for Past Activities
 
-The Annual Declaration for Past Activities (ADPA) is required for facilities that have produced, processed, consumed, imported, and exported or locally transferred  [scheduled chemicals](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/controlled-chemicals) or  [unscheduled discrete organic chemicals (DOCs)](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/controlled-chemicals#udoc)  in the preceding year.
+The Annual Declaration for Past Activities (ADPA) is required for facilities that have produced, processed, consumed, imported, and exported or locally transferred  [scheduled chemicals](/businesses/chemical-weapons-convention/controlled-chemicals) or  [unscheduled discrete organic chemicals (DOCs)](/businesses/chemical-weapons-convention/controlled-chemicals#udoc)  in the preceding year.
 
 The table below indicates the activities involving scheduled chemicals that require an ADPA.
 
@@ -43,7 +43,7 @@ For instance, to report the past activities of 2020, the declaration exercise wi
 
 **Submission of ADPA**
 
-1) Download the  [application forms](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#adpa).
+1) Download the  [application forms](/eservices/customs-forms-and-service-links).
 
 2) Submit the application forms with supporting documents by:
 
