@@ -26,20 +26,20 @@ To apply for your own customs permits or on behalf of your clients, you have to 
 
 You may apply for customs permits via:
 
--   TradeNet front-end solution purchased from  [approved solution providers](https://singapore-customs-staging.netlify.app/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers), or
+-   TradeNet front-end solution purchased from  [approved solution providers](/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers), or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal)
 
 ## Applying for Inter-Bank GIRO
 
 You are required to maintain an Inter-Bank GIRO (IBG) with Singapore Customs to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore from your bank account to Singapore Customs directly.
 
-To apply, mail the completed  [Application for Inter-Bank GIRO form](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Registration) to Singapore Customs’ address as indicated in the form.
+To apply, mail the completed  [Application for Inter-Bank GIRO form](/eservices/customs-forms-and-service-links) to Singapore Customs’ address as indicated in the form.
 
 The IBG application usually requires 3 to 4 weeks for the bank’s approval. Once it is approved, you will receive a notification by fax or email depending on the contact details provided in your Customs Account.
 
 ## Security Lodgement
 
-You, or your appointed Declaring Agent, are required to  [furnish security](https://singapore-customs-staging.netlify.app/businesses/00e-security-lodgement)  for various scenarios including:
+You, or your appointed Declaring Agent, are required to  [furnish security](/businesses/00e-security-lodgement)  for various scenarios including:
 
 -   Transactions involving dutiable goods
 -   Temporary import of goods for approved purposes
