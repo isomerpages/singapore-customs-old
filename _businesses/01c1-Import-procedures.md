@@ -5,7 +5,7 @@ third_nav_title: Importing Goods
 ---
 
 
-# Import Procedures.
+# Import Procedures
 
 All goods imported into Singapore are regulated under the Customs Act, the Goods and Services Tax (GST) Act and the Regulation of Imports and Exports Act.
 
