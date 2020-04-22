@@ -19,11 +19,11 @@ Your company can enjoy improved cash flow under the Air Store Bond Scheme.
 To qualify for the Air Store Bond Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Obtain approval from the Changi Airport Group to operate an air store bond
--   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Enhanced” Band
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Enhanced” Band
 
 ## Licence Fee
 
@@ -44,7 +44,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 -   **Accountability to Singapore Customs**
     
     -   Accountable for dutiable goods stored in the licensed premises and for the payment of duty and GST on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any goods discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the Customs Act, Customs Regulations, and the licensing Terms & Conditions
@@ -87,7 +87,7 @@ For further assistance, please call 6251 3027 or email  [customs_schemes@customs
 
 **1)** **Where can I find the Harmonized System (HS) codes and duty rates of the dutiable goods?**
 
-You can find them  [here](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
+You can find them  [here](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
 
 **2)** **Can the air store bond operator remove the dutiable goods stored inside the air store bond for local consumption instead of supplying to airlines?**
 
@@ -100,7 +100,7 @@ Yes, the renewal of the licence is dependent on:
 -   Payment of the annual licence fee
 -   Lodgment of the Banker’s Guarantee or insurance bond, if applicable
 -   Compliance records with Singapore Customs
--   Outcome of the  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment
+-   Outcome of the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment
 
 **4)** **Is the licence transferable?**
 
@@ -108,6 +108,6 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 **5)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview).
+Customs permits can be declared through  [TradeNet](/about-us/07a-overview).
 
-Find out more about  [Permit Declaration](https://singapore-customs-staging.netlify.app/businesses/registration-matters/overview).
+Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
