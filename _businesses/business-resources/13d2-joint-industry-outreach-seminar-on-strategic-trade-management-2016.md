@@ -1,7 +1,7 @@
 ---
 title: Joint Industry Outreach Seminar on Strategic Trade Management
 permalink: /businesses/resources/courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management---9-sep-2016
-third_nav_title: Business Resources
+third_nav_title: Courses and Events
 ---
 
 # Application for Customs Strategic Goods Control Seminar
