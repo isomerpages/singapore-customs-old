@@ -8,9 +8,9 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 ## What is it?
 
-An excise factory is a designated area licensed by Singapore Customs for manufacturing and storing  [dutiable goods](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods), namely liquor, tobacco, motor vehicles, compressed natural gas, petroleum and biodiesel blends. This designated area is also known as licensed premises. Excise duty and Goods and Services Tax (GST) will be suspended if the manufactured goods are stored in the licensed premises.
+An excise factory is a designated area licensed by Singapore Customs for manufacturing and storing  [dutiable goods](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods), namely liquor, tobacco, motor vehicles, compressed natural gas, petroleum and biodiesel blends. This designated area is also known as licensed premises. Excise duty and Goods and Services Tax (GST) will be suspended if the manufactured goods are stored in the licensed premises.
 
-Under the Excise Factory Scheme, activities such as bottling, blending, compounding, varying intoxicating liquors as well as refining and treating of  [petroleum or biodiesel blends](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/petroleum-licences)  are allowed.
+Under the Excise Factory Scheme, activities such as bottling, blending, compounding, varying intoxicating liquors as well as refining and treating of  [petroleum or biodiesel blends](/businesses/customs-schemes-licences-framework/petroleum-licences)  are allowed.
 
 Your company will enjoy these benefits under the Excise Factory Scheme:
 
@@ -22,10 +22,10 @@ Your company will enjoy these benefits under the Excise Factory Scheme:
 To qualify for the Excise Factory Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
--   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the different activities under the scheme (Refer to “Licence Fee” section).
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the different activities under the scheme (Refer to “Licence Fee” section).
 
 ## Licence Fee
 
@@ -50,7 +50,7 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 -   **Accountability to Singapore Customs**
     
     -   Accountable for dutiable goods stored in the licensed premises and for the payment of excise duty on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the Customs Act, Customs Regulations, and the licensing Terms & Conditions
@@ -92,7 +92,7 @@ For further assistance, please call 6251 3027 or email  [customs_schemes@customs
 
 **1.** **Where can I find the Harmonised System (HS) codes and duty rates of dutiable goods?**
 
-Find out more about  [Duty Rates of Dutiable Goods](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods) and access the  [Harmonised System (HS) Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do).
+Find out more about  [Duty Rates of Dutiable Goods](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods) and access the  [Harmonised System (HS) Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do).
 
 **2.** **How do I compute the excise duty payable on locally manufactured liquors?**
 
@@ -114,7 +114,7 @@ Yes, the renewal of the licence is dependent on:
 -   Payment of the annual licence fee
 -   Lodgement of the Banker’s Guarantee or Insurance Bond, if applicable
 -   Compliance records with Singapore Customs
--   Outcome of the  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment
+-   Outcome of the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment
 
 **5.** **Is the licence transferable?**
 
@@ -122,9 +122,9 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 **6.** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview).
+Customs permits can be declared through  [TradeNet](/about-us/07a-overview).
 
-Find out more about  [Permit Declaration](https://singapore-customs-staging.netlify.app/businesses/registration-matters/overview).
+Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
 
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 
