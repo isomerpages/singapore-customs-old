@@ -8,9 +8,9 @@ third_nav_title: Importing Goods
 
 **Step 1: Applying for Singapore Customs’ Assessment of Vehicle’s Customs Value**
 
- [ For Individuals or Parallel Importers ](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles)
+ [ For Individuals or Parallel Importers ](/businesses/importing-goods/importing-dutiable-motor-vehicles)
 
- [For Authorised Agents](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles)
+ [For Authorised Agents](/businesses/importing-goods/importing-dutiable-motor-vehicles)
 
 **Step 2: Approval by Singapore Customs**
 
@@ -22,7 +22,7 @@ Once the approval letter is received, the importer should submit an In-Payment (
 
 A declaring agent or freight forwarder can be appointed to submit the permit on the importer's behalf.
 
-No refund of duty and GST except for cases of overpayment or erroneous payment will be allowed once the vehicle has been removed from [customs control](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles) or a [Free Trade Zone](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles).
+No refund of duty and GST except for cases of overpayment or erroneous payment will be allowed once the vehicle has been removed from [*customs control](/businesses/importing-goods/importing-dutiable-motor-vehicles) or a [^Free Trade Zone](/businesses/importing-goods/importing-dutiable-motor-vehicles).
 
 **Step 4: Clearance of Motor Vehicle**
 
@@ -32,11 +32,11 @@ Once the In-payment (Duty and GST) permit is approved, the importer may use the 
 
 Importers who wish to register their imported cars for usage on public roads should check with the LTA on their registration requirements and fees.
 
-**Customs Control**
+***Customs Control**
 
 Goods are deemed to be under customs control when they are in any free trade zone, Government warehouse, licensed warehouse, bottling warehouse, post office or any place from which they may not be removed except with the permission of the proper officer of Singapore Customs.
 
-**Free Trade Zone**
+**^Free Trade Zone**
 
 A Free Trade Zone (FTZ) is a demarcated area meant to facilitate entrepot trade and transhipment activities; where goods may be landed, handled, stored, re-exported or brought into Singapore. Duties and/or GST are not levied on goods brought into the FTZ until they are removed from the FTZ for use or sale in Singapore.
 
@@ -44,5 +44,5 @@ A Free Trade Zone (FTZ) is a demarcated area meant to facilitate entrepot trade 
 
 |  |  |  |  |
 |--|--|--|--|
-| [![](/images/IDMV1.jpg)](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value)| [![](/images/IDMV2.jpg)](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles/duty-rates) |  [![](/images/IDMV3.jpg)](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles/good-and-services-tax-gst)| [![](/images/IDMV4.jpg)](https://singapore-customs-staging.netlify.app/businesses/importing-goods/importing-dutiable-motor-vehicles/applying-for-singapore-customs-assessment-for-dutiable-motor-vehicles) |
+| [![](/images/IDMV1.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value)| [![](/images/IDMV2.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/duty-rates) |  [![](/images/IDMV3.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/good-and-services-tax-gst)| [![](/images/IDMV4.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/applying-for-singapore-customs-assessment-for-dutiable-motor-vehicles) |
 
