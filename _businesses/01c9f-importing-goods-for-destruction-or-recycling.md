@@ -43,7 +43,7 @@ Please submit the following supporting documents to the Permits Unit, Procedures
 -   Letter from LTA regarding the deregistration of the Singapore-registered motor vehicle or motorcycle
 -   Any other supporting documents
 
-The importer or his appointed Declaring Agent may  [apply](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
+The importer or his appointed Declaring Agent may  [apply](/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
 
 -   “DUMP” must be declared in the “Place of Receipt Code” field.
 -   The engine number, chassis number and the status of the motor vehicle or motorcycle (used or new) must be declared in the “CA/SC Code 1”, “CA/SC Code 2” and “CA/SC Code 3” fields respectively.
@@ -66,7 +66,7 @@ Please submit the following supporting documents to the Permits Unit, Procedures
 -   Email/letter from the Competent Authority authorising the destruction of the controlled goods, if applicable
 -   Any other supporting documents
 
-The importer or his appointed Declaring Agent may  [apply](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
+The importer or his appointed Declaring Agent may  [apply](/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
 
 -   “DUMP” must be declared in the “Place of Receipt Code” field.
 -   The name and address of the licensed incineration plant and the booking reference no. as well as the approval letter reference from the NEA must be declared in the "Trader's Remarks" field, if applicable.
@@ -74,7 +74,7 @@ The importer or his appointed Declaring Agent may  [apply](https://singapore-cus
 Please [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) for Singapore Customs’ escort and supervision of the destruction. As stated under the KS condition in the permit, the importer or his appointed Declaring Agent must submit the official receipt issued by the place of destruction or recycling and the permit to the Permits Compliance Branch of Singapore Customs within 4 working days after the clearance of the goods.
 
 ## Non-Controlled and Non-Dutiable Goods
-The importer or his appointed Declaring Agent may  [apply](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
+The importer or his appointed Declaring Agent may  [apply](/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
 
 -   “DUMP” must be declared in the “Place of Receipt Code” field.
 
@@ -88,7 +88,7 @@ Please [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supe
 ## Controlled Non-Dutiable Goods
 The importer or his appointed Declaring Agent may apply for the relevant Competent Authority's approval, escort , and supervision of the destruction of controlled goods.
 
-Upon approval by the Competent Authority, please  [apply](https://singapore-customs-staging.netlify.com/businesses/importing-goods/import-procedures/) for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation (where applicable). When applying, do note:
+Upon approval by the Competent Authority, please  [apply](/businesses/importing-goods/import-procedures/) for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation (where applicable). When applying, do note:
 
 -   “DUMP” must be declared in the “Place of Receipt Code” field.
 
