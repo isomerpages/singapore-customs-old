@@ -12,9 +12,9 @@ Please refer to the table below for the terms used on this page:
 
 |Term| Description  |
 |--|--|
-| Declaring Agent (DA) | An entity making an application for a permit, certificate, licence or any other document or form of approval (through a Declarant) on behalf of a Declaring Entity (including where the Declaring Entity is concurrently registered as that DA). |
-| Declaring Entity (DE) | Any importer, exporter, shipping agent, air cargo agent, freight forwarder, common carrier or other person who would like to obtain a permit, certificate, licence or any other document or form of approval. |
-| Declarant| An individual authorised by a Declaring Agent to make an application for a permit on behalf of the Declaring Agent (including where the Declaring Entity is concurrently registered as that Declaring Agent). |
+| **Declaring Agent (DA)** | An entity making an application for a permit, certificate, licence or any other document or form of approval (through a Declarant) on behalf of a Declaring Entity (including where the Declaring Entity is concurrently registered as that DA). |
+| **Declaring Entity (DE)** | Any importer, exporter, shipping agent, air cargo agent, freight forwarder, common carrier or other person who would like to obtain a permit, certificate, licence or any other document or form of approval. |
+| **Declarant**| An individual authorised by a Declaring Agent to make an application for a permit on behalf of the Declaring Agent (including where the Declaring Entity is concurrently registered as that Declaring Agent). |
 
 **Under the Framework**:
 
