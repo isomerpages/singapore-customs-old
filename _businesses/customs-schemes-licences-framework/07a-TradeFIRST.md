@@ -21,7 +21,7 @@ Each company will have a dedicated account manager regardless of the number of s
 
 We adopt a risk management approach to classify the level of facilitation into 5 bands - Basic, Standard, Intermediate, Enhanced and Premium.
 
-![tradefirst1 - Copy](https://www.customs.gov.sg/-/media/cus/images/business/tradefirst1---copy.jpg)
+![tradefirst1 - Copy](/images/tradefirst1%20-%20Copy.jpg)
 
 **The higher your TradeFIRST band, the greater the facilitation accorded to you.**
 
@@ -31,11 +31,11 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
 
 -   **Basic Band**
 
-    -   [Waiver of security amount of S$2000 and below](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2010/cir19201015nov2010.pdf)
-    -   [Temporary Import Scheme](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
-    -   [TradeNet Account](https://singapore-customs-staging.netlify.app/about-us/07a-overview)
-    -   [Cargo Agent’s Import Authorisation Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme)
-    -   [Certificate of Origin](https://singapore-customs-staging.netlify.app/businesses/certificates-of-origin/overview)
+    -   [Waiver of security amount of S$2000 and below](/news-and-media/circulars/2010-11-15-Circular192010.pdf)
+    -   [Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme)
+    -   [TradeNet Account](/about-us/07a-overview)
+    -   [Cargo Agent’s Import Authorisation Scheme](/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme)
+    -   [Certificate of Origin](/businesses/certificates-of-origin/overview)
     
 -   **Standard Band**
 
@@ -46,31 +46,31 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
   
 -   **Intermediate Band**
     
-    -   [Licensed Warehouse Scheme Type II](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
-    -   [Zero-GST Warehouse Scheme Type II](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
-    -   [Secure Trade Partnership](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
+    -   [Licensed Warehouse Scheme Type II](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
+    -   [Zero-GST Warehouse Scheme Type II](/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
+    -   [Secure Trade Partnership](/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
     
 -   **Enhanced Band**
     
-    -   [Strategic Trade Scheme Bulk Permit](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/bulk-permit-export-transhipment-and-intangible-transfer-of-technology)
-    -   [Licensed Warehouse Scheme Type III](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
-    -   [Zero-GST Warehouse Scheme Type III](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
-    -   [Petroleum and Biodiesel Blends Licence](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/petroleum-licences)
-    -   [Air Store Bond Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/air-store-bond-scheme)
-    -   [Duty Free Shop Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/duty-free-shop-scheme)
-    -   [Excise Factory Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/excise-factory-scheme)
-    -   [Container Freight Warehouse Licence](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/container-freight-warehouse)
-    -   [Company Declaration Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/company-declaration-scheme)
+    -   [Strategic Trade Scheme Bulk Permit](/businesses/strategic-goods-control/bulk-permit-export-transhipment-and-intangible-transfer-of-technology)
+    -   [Licensed Warehouse Scheme Type III](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
+    -   [Zero-GST Warehouse Scheme Type III](/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
+    -   [Petroleum and Biodiesel Blends Licence](/businesses/customs-schemes-licences-framework/petroleum-licences)
+    -   [Air Store Bond Scheme](/businesses/customs-schemes-licences-framework/air-store-bond-scheme)
+    -   [Duty Free Shop Scheme](/businesses/customs-schemes-licences-framework/duty-free-shop-scheme)
+    -   [Excise Factory Scheme](/businesses/customs-schemes-licences-framework/excise-factory-scheme)
+    -   [Container Freight Warehouse Licence](/businesses/customs-schemes-licences-framework/container-freight-warehouse)
+    -   [Company Declaration Scheme](/businesses/customs-schemes-licences-framework/company-declaration-scheme)
     
 -   **Premium Band**
     
     -   Waiver of security for most types of transactions
     -   Reduced container sealing
     -   Waiver of post-importation documentation checks
-    -   [Secure Trade Partnership Plus](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
-    -   [APEX Licence](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/apex-licence)
-    -   [Consolidated Declaration](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/apex-licence)
-    -   [Bonded Truck Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/bonded-truck-scheme)
+    -   [Secure Trade Partnership Plus](/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
+    -   [APEX Licence](/businesses/customs-schemes-licences-framework/apex-licence)
+    -   [Consolidated Declaration](/businesses/customs-schemes-licences-framework/apex-licence)
+    -   [Bonded Truck Scheme](/businesses/customs-schemes-licences-framework/bonded-truck-scheme)
     
     [Terms and Conditions](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/as-part-of-the-benefits-for-having-attained-the-premium-band-under-tradefirst.docx)  for the use of TradeFIRST Logo
     
@@ -117,7 +117,7 @@ The TradeFIRST assessment process is shown in the following table:
 | **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/31may2019-final-tradefirst-selfassessment-checklist-approved-.xlsx)  and sends it to the account manager with supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
 | **Step 3** | Account manager conducts preliminary assessment on suitability of company, advises on areas of improvement, and gives sufficient time for company to improve those areas where necessary. |
 | **Step 4** | On-site assessment will be conducted. |
-| **Step 5** | After the assessment, the account manager submits the evaluation and recommendation for approval.<br><br>The account manager will inform the company on its application outcome, the  [band](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst#band) it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement. | 
+| **Step 5** | After the assessment, the account manager submits the evaluation and recommendation for approval.<br><br>The account manager will inform the company on its application outcome, the  [band](/businesses/customs-schemes-licences-framework/trade-first) it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement. | 
 
 ## Renewal
 
