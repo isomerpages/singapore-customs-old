@@ -17,13 +17,13 @@ Obtain a  [complete list](https://www.customs.gov.sg/-/media/cus/files/business/
 
 All Customs permit applications must be submitted via TradeNet, accessible through:
 
--   TradeNet front-end solution purchased any  [approved solution provider](https://singapore-customs-staging.netlify.app/about-us/07a2-tradenet-solution-providers); or
+-   TradeNet front-end solution purchased any  [approved solution provider](/about-us/07a2-tradenet-solution-providers); or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal)
 
 You may:
 
--   Appoint a  [declaring agent](https://singapore-customs-staging.netlify.app/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs permits on your behalf; or
--   [Register as a declaring agent](https://singapore-customs-staging.netlify.app/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](https://www.customs.gov.sg/about-us/national-single-window/tradenet/what-you-need-to-know-about-tradenet) to apply for Customs permits for your own shipments or on behalf of your clients
+-   Appoint a  [declaring agent](/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs permits on your behalf; or
+-   [Register as a declaring agent](/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](/about-us/07a1-what-you-need-to-know) to apply for Customs permits for your own shipments or on behalf of your clients
 
 Each permit application typically costs S$2.88. If you are engaging a declaring agent to assist you in declaring the permit, you may wish to check on the charges involved.
 
@@ -37,4 +37,4 @@ For export, transhipment or bringing in transit of strategic goods under Tier 1 
 
 You may access Module 5 of the online e-Learning [Guide to Customs’ Procedures](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) for more information on ‘Important Permit Fields table’, ‘List of Message and Declaration Types for permit applications’ and ‘Types of Permit Applications’ via **Resources** > Module 5.
 
-Declarants may also attend the [course](https://singapore-customs-staging.netlify.app/businesses/resources/courses-and-events) SC 111 – Hands-On TradeNet Declaration which provides participants with an overview on the various TradeNet messages and declaration types and a guided practical session on preparing and submitting a permit application via TradeNet.
+Declarants may also attend the [course](/businesses/resources/courses-and-events) SC 111 – Hands-On TradeNet Declaration which provides participants with an overview on the various TradeNet messages and declaration types and a guided practical session on preparing and submitting a permit application via TradeNet.
