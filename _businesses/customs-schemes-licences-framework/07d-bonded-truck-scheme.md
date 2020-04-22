@@ -15,10 +15,10 @@ The Bonded Truck Scheme allows air express companies to handle time-sensitive tr
 To qualify for the Bonded Truck Scheme, the company must:
 
 -   Be Goods and Services Tax (GST)-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](https://singapore-customs-staging.netlify.app/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Have premises located within Changi Free Trade Zone for the purpose of bulk-breaking, consolidation and sorting of goods
--   Undergo  [TradeFIRST](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the “Premium” Band
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the “Premium” Band
 
 ## Key Responsibilities
 
@@ -68,7 +68,7 @@ Only non-controlled and non-dutiable goods are allowed to be moved under the Bon
 
 **3)** **How do I check if the goods are controlled or dutiable?**
 
-For dutiable goods, please refer to the  [List of Dutiable Goods](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
+For dutiable goods, please refer to the  [List of Dutiable Goods](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
 
 For controlled goods, you may check using this  [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authorities controlling the product.
 
@@ -86,6 +86,6 @@ The bonded vehicles’ compartments must meet all specifications listed below:
 
 **5)** **How do I declare Customs permits?**
 
-Customs permits can be declared electronically via  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview).
+Customs permits can be declared electronically via  [TradeNet](/about-us/07a-overview).
 
-Find out more about  [Permit Declaration](https://singapore-customs-staging.netlify.app/businesses/registration-matters/overview).
+Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
