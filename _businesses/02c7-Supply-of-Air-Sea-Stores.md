@@ -20,7 +20,7 @@ Singapore Customs records statistics on air stores and jet fuel for consumption 
 
 The owner or agent of any aircraft leaving Singapore must submit to Singapore Customs, a monthly statement to declare the total value of air stores and the quantity of jet fuel supplied to the aircraft’s fuel tanks. The statement should be sent to the Permits Compliance Branch via email to [customs_tnreq@customs.gov.sg](mailto:customs_tnreq@customs.gov.sg), by the 15th day of the following month. If there are no aircraft departures or air stores/jet fuel supplied during the month, a nil submission is still required.
 
-The format of the "Monthly Statement of Stores and Jet Fuel Supplied to Aircraft" can be downloaded from this  [link](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links).
+The format of the "Monthly Statement of Stores and Jet Fuel Supplied to Aircraft" can be downloaded from this  [link](/eservices/customs-forms-and-service-links).
 
 ## Sea Stores
 
@@ -59,12 +59,12 @@ Please note that ship spares meant for installation onto vessels while the vesse
 
 ### Duty and/or GST-Paid or Accounted Sea Stores
 
-The uplift of **duty** and/or **Goods and Services Tax (GST)-paid or accounted** (i.e. GST-accounted goods refer to those imported under IRAS' Major Exporter Scheme or Import Deferment GST Scheme) sea stores does not require any Customs permit, if the goods are not controlled for export. The uplift of such goods must be reported in the "[Monthly Statement of Stores Supplied to Vessels](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Monthly%20Statement%20of%20Stores%20Supplied%20to%20Vessels/Aircraft)" to be submitted to the Permits Compliance Branch.
+The uplift of **duty** and/or **Goods and Services Tax (GST)-paid or accounted** (i.e. GST-accounted goods refer to those imported under IRAS' Major Exporter Scheme or Import Deferment GST Scheme) sea stores does not require any Customs permit, if the goods are not controlled for export. The uplift of such goods must be reported in the "[Monthly Statement of Stores Supplied to Vessels](/eservices/customs-forms-and-service-links)" to be submitted to the Permits Compliance Branch.
 
 **Duty** and/or **Goods and Services Tax (GST)-paid or accounted**  sea stores that are controlled for export require proper authorisation (e.g. advance notification, licence or certificate approval) from the relevant CAs before they can be uplifted onto the vessels. The relevant CAs may also require a **Customs export permit [Message / Declaration Type Code = OUT(DRT)]** to account for the uplift of such controlled goods.
 
 
-Before applying for the above Customs permit, suppliers of dutiable sea stores or their appointed Declaring Agents are required to lodge a  [security](https://singapore-customs-staging.netlify.app/businesses/00e-security-lodgement).
+Before applying for the above Customs permit, suppliers of dutiable sea stores or their appointed Declaring Agents are required to lodge a  [security](/businesses/00e-security-lodgement).
 
 When applying for the permit, the following information must be declared:
 
@@ -96,7 +96,7 @@ All goods (dutiable and non-dutiable) that are uplifted as sea stores are not to
 
 You may re-import rejected or undelivered sea stores from a Free Trade Zone or authorised pier or place into a Licensed Warehouse/Zero-GST Warehouse as shut-out goods.
 
-Please refer to the information on the  [re-importing of shut-out goods](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/re-importing-shut-out-goods) and  [procedures for dutiable sea stores](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/supply-of-air-sea-stores/procedures-for-dutiable-sea-stores.pdf?la=en&hash=3A9846266DFF8F2D74F044B511628689B7926790).
+Please refer to the information on the  [re-importing of shut-out goods](/businesses/importing-goods/import-procedures/re-importing-shut-out-goods) and  [procedures for dutiable sea stores](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/supply-of-air-sea-stores/procedures-for-dutiable-sea-stores.pdf?la=en&hash=3A9846266DFF8F2D74F044B511628689B7926790).
 
 ### Submission of Statement for Sea Stores
 
@@ -104,4 +104,4 @@ Singapore Customs records statistics on sea stores for consumption on board vess
 
 The owner or agent of any vessel leaving Singapore must submit to Singapore Customs, a monthly statement to declare the total value of sea stores supplied to the vessel. The statement should be sent to the Permits Compliance Branch, Statistics Compliance Unit via email at  [customs_tnreq@customs.gov.sg](mailto:customs_tnreq@customs.gov.sg), by the 15th day of the following month. If there are no vessel departures or sea stores supplied during the month, a nil submission is still required.
 
-The format of the "Monthly Statement of Stores Supplied to Vessels" can be downloaded from this [link](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links).
+The format of the "Monthly Statement of Stores Supplied to Vessels" can be downloaded from this [link](/eservices/customs-forms-and-service-links).
