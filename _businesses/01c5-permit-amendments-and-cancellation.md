@@ -5,9 +5,9 @@ third_nav_title: Importing Goods
 ---
 ## Permit Amendment
 
-You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](https://singapore-customs-staging.netlify.com/about-us/07a5-annexes-and-appendices)  for the list of non-amendable fields.
+You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](/about-us/07a5-annexes-and-appendices)  for the list of non-amendable fields.
 
-Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](https://singapore-customs-staging.netlify.com/about-us/07a5-annexes-and-appendices).
+Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](/about-us/07a5-annexes-and-appendices).
 
 ## Permit Cancellation
 
@@ -24,4 +24,4 @@ You are not allowed to cancel an import permit if:
 -   It is an In-Payment permit with duty or tax amount being paid; or
 -   It has been requested by the Manifest Compliance Unit of Singapore Customs for audit purposes.
 
-For such cases, you are requested to submit a  [voluntary disclosure](https://singapore-customs-staging.netlify.com/businesses/compliance/voluntary-disclosure-programme)  to Singapore Customs.
+For such cases, you are requested to submit a  [voluntary disclosure](/businesses/compliance/voluntary-disclosure-programme)  to Singapore Customs.
