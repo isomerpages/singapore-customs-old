@@ -8,5 +8,5 @@ third_nav_title: Registration Matters
 
 |   |   |   |   |
 |---|---|---|---|
-|[ ![](/images/R1.jpg)](https://singapore-customs-staging.netlify.com/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)  |[ ![](/images/R2.jpg)](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/register-as-declaring-agent-or-declarant) |[ ![](/images/R3.jpg)](https://singapore-customs-staging.netlify.com/businesses/00e-security-lodgement)    |[ ![](/images/R4.jpg)](https://singapore-customs-staging.netlify.com/businesses/00f-authorise-a-declaring-agent)
-|[ ![](/images/R5.jpg)](https://singapore-customs-staging.netlify.com/businesses/00d-apply-for-ibg)  |[![](/images/R6.jpg)](https://singapore-customs-staging.netlify.com/businesses/00h-register-claimants)  |   |   |
+|[ ![](/images/R1.jpg)](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)  |[ ![](/images/R2.jpg)](/businesses/registration-matters/apply-for-inter-bank-giro(IBG)) |[ ![](/images/R3.jpg)](/businesses/security-lodgement)    |[ ![](/images/R4.jpg)](/businesses/authorise-a-declaring-agent)
+|[ ![](/images/R5.jpg)](/businesses/registration-matters/apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  |[![](/images/R6.jpg)](/businesses/register-claimants)  |   |   |
