@@ -38,12 +38,12 @@ If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg
 ### Step 3:  Apply for Customs Export Permit
 You may:
 
--   Appoint a  [declaring agent](https://singapore-customs-staging.netlify.app/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
--   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](https://singapore-customs-staging.netlify.app/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](https://singapore-customs-staging.netlify.app/about-us/07a-overview)
+-   Appoint a  [declaring agent](/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
+-   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](/about-us/07a-overview)
 
 All permit applications must be submitted electronically via TradeNet, which is accessible through:
 
--   TradeNet front-end solution from any  [approved solution provider](https://singapore-customs-staging.netlify.app/about-us/07a2-tradenet-solution-providers), or
+-   TradeNet front-end solution from any  [approved solution provider](/about-us/07a2-tradenet-solution-providers), or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
 
 Each permit application typically costs S$2.88. If you are engaging a declaring agent, you may wish to check with your appointed agent on the charges involved in obtaining a permit.
