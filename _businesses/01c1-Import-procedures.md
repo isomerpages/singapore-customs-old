@@ -110,7 +110,7 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 |  Importing, exporting or transhipping goods without permit.<br><br>(Regulation 3(1) of the Regulation of Imports and Exports Regulations [RIER])| First conviction:<br><br>A fine not exceeding S$100,000 or 3 times the value of the goods, whichever is greater, or imprisonment not exceeding 2 years, or both.<br><br>Second or subsequent conviction:<br><br>A fine not exceeding S$200,000 or 4 times the value of the goods, whichever is greater, or imprisonment not exceeding 3 years, or both. |
 |Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods.<br><br>(Regulation 16(4) of the Customs (Container) Regulations) | A fine not exceeding S$5,000 |
 
-<sup>Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/about-us/acts-and-subsidiary-legislation).
+<sup>Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](/about-us/acts-and-subsidiary-legislation).
 
 ***
     
