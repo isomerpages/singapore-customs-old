@@ -40,7 +40,7 @@ Penalties for offences under the CWPA and relevant sections of the Regulation of
 
 Companies which violate any regulatory requirements relating to scheduled chemicals may also be liable to enforcement actions under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and the Strategic Goods (Control) Act (SGCA).
 
-You may view more information on prescribed offences and penalties under the Customs Act, [CWPA, RIEA and SGCA](https://www.customs.gov.sg/about-us/acts-and-subsidiary-legislation).
+You may view more information on prescribed offences and penalties under the Customs Act, [CWPA, RIEA and SGCA](/about-us/acts-and-subsidiary-legislation/customs-act).
 
 ## Best Practices
 
