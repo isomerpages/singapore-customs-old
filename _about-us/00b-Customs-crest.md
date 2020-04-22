@@ -6,7 +6,7 @@ third_nav_title: Organisation Overview
 
 # Customs Crest
 
-![Custom Crest](https://www.customs.gov.sg/-/media/cus/images/about-us/customs_crest.gif)
+![Custom Crest](/images/customs_crest.gif)
 
 Our crest symbolises our twin functions both as a collector of revenue and a facilitator of trade and travel.
 
