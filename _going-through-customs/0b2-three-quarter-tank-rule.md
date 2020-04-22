@@ -1,7 +1,7 @@
 ---
 title: Three Quarter Tank Rule
-permaLink: /individuals/Going-through-customs/Departure-three-quarter-tank-rule
-third_nav_title: Going Through Customs
+permalink: /individuals/going-through-customs/departure/three-quarter-tank-rule
+third_nav_title: Departure
 ---
 
 # Three-Quarter Tank Rule
@@ -14,6 +14,6 @@ With effect from 1 April 2019, the three-quarter tank rule will be expanded to c
 
 Drivers who do not meet the rule may be issued with a composition sum of up to $500, or be prosecuted in court. Drivers may also be required to perform a U-turn at the land checkpoints if they are caught committing the offence.
 
-If the vehicle’s fuel gauge is tampered, the driver may be charged in court for illegal alteration of the fuel measuring equipment. More information on customs offences is available [here](https://singapore-customs-staging.netlify.com/individuals/0c-offences).
+If the vehicle’s fuel gauge is tampered, the driver may be charged in court for illegal alteration of the fuel measuring equipment. More information on customs offences is available [here](/individuals/0c-offences).
 
 To avoid any inconvenience to your overseas trip, Singapore Customs would like to remind drivers to ensure that their fuel tank is at least three-quarters full when exiting the land checkpoints.

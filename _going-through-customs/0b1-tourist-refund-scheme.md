@@ -1,7 +1,7 @@
 ---
 title: Tourist Refund Scheme
-permaLink: /individuals/Going-through-customs/Departure-tourist-refund-scheme
-third_nav_title: Going Through Customs
+permalink: /individuals/going-through-customs/departure/tourist-refund-scheme
+third_nav_title: Departure
 ---
 # Tourist Refund Scheme
 

@@ -1,6 +1,6 @@
 ---
 title: Offences
-permaLink: /individuals/going-through-customs/offences
+permalink: /individuals/going-through-customs/offences
 third_nav_title: Going Through Customs
 ---
 
