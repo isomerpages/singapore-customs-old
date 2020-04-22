@@ -21,4 +21,4 @@ This scheme will allow approved Goods and Services Tax (GST)-registered business
 
 For approved AISS traders, a Customs In-Non Payment (Approved Premises Scheme) permit must be declared before removing the goods from the Free Trade Zone/entry point or the zero-GST warehouse. The place of receipt code should be declared as “**AISS**”.
 
-Read more about how to apply for  [import permits](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/) and  [permit declaration for the AISS](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/circular22009tradenetdeclarationforaiss.pdf?la=en&hash=E0495945D29DC1D692849B7D774400A07440FD55).
+Read more about how to apply for  [import permits](/businesses/importing-goods/import-procedures/) and  [permit declaration for the AISS](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/circular22009tradenetdeclarationforaiss.pdf?la=en&hash=E0495945D29DC1D692849B7D774400A07440FD55).
