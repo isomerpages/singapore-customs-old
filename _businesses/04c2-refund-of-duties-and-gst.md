@@ -31,7 +31,7 @@ You or your declaring agent can apply for an online refund and be notified of th
 
 There are three possible outcomes:
 
--   Rejection: This could include requiring the taxable importer to claim from the  [Inland Revenue Authority of Singapore (IRAS)](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/refund-of-duties-and-gst#Inland).
+-   Rejection: This could include requiring the taxable importer to claim from the  [Inland Revenue Authority of Singapore (IRAS)](/businesses/valuation-duties-taxes-fees/refund-of-duties-and-gst).
 -   Approval: All successful refunds will be credited directly into the Inter-Bank GIRO (IBG) accounts of the payers who maintained IBG accounts with Singapore Customs.
 -   Pending supporting documents: The applicant will receive a notification to submit the following supporting documents:
 
