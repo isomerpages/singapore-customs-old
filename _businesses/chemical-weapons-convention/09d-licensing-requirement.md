@@ -32,7 +32,7 @@ b) import or export of mixture containing 30% or less of a Schedule 2B chemical 
 c) import or export of mixture containing 30% or less of a Schedule 3 chemical to a member state to the Chemical Weapons Convention;  
 d) plant site that  **exclusively**  produces by synthesis hydrocarbons or explosives.
 
-See  [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34)  of scheduled chemicals.  
+See  [full list](/documents/businesses/GuidetoNACWCLicencewithSchChemList.pdf)  of scheduled chemicals.  
 Check if your product is  [controlled](/businesses/chemical-weapons-convention/controlled-chemicals).
 
 ----
