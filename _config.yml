@@ -41,6 +41,8 @@ collections:
     output: true
   test_hidden:
     output: true
+  national-single-window:
+    output: true   
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
