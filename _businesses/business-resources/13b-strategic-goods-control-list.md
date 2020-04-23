@@ -15,4 +15,4 @@ The Schedule consists of two parts, each split into two divisions and further su
 ![](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/sgco-2019-overview.png)  
 ![](https://www.customs.gov.sg/-/media/cus/images/business/stg-gds-list.jpg)
 
-The  [List of Military Goods](https://www.customs.gov.sg/businesses/strategic-goods-control/strategic-goods-control-list/list-of-millitary-goods) and the  [List of Dual-Use Goods](https://www.customs.gov.sg/businesses/strategic-goods-control/strategic-goods-control-list/list-of-dual-use-goods) are found in Division 2 of Parts 1 and 2 of The Schedule to the Strategic Goods (Control) Order respectively.
+The  [List of Military Goods](/documents/businesses/list-of-military-goods.pdf) and the  [List of Dual-Use Goods](/documents/businesses/list-of-dual-use-goods.pdf) are found in Division 2 of Parts 1 and 2 of The Schedule to the Strategic Goods (Control) Order respectively.
