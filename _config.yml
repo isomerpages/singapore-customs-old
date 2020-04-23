@@ -53,6 +53,8 @@ collections:
     output: true 
   exporting-goods:
     output: true   
+  security-lodgement:
+    output: true     
     
 
 ##################################################################################################################
