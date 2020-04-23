@@ -1,5 +1,5 @@
 ---
-title: Annual Declaration for Past Activitiesc (Declarations)
+title: Annual Declaration for Past Activitiesc 
 permalink: /businesses/chemical-weapons-convention/declarations/annual-declaration-for-past-activities
 third_nav_title: Declarations
 ---
