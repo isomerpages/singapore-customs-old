@@ -1,7 +1,7 @@
 ---
 title: Annexes and Appendices
-permaLink: /about-us/National-Single-Window/Overview-Annexes-and-appendices
-third_nav_title: National Single Window
+permaLink: /about-us/National-Single-Window/Overview/Annexes-and-appendices
+third_nav_title: Overview
 ---
 
 # Annexes and Appendices
