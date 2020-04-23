@@ -36,4 +36,4 @@ Please note the following details when applying for the import permits:
     -   Declaration Type = GTR (GST relief and/or duty exemption)
     -   Place of Receipt Code = relevant exemption codes (for example, TOBSP, EXEMPTD)
 
-Read more about how to  [apply for import permits for IGDS](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/igdscircularupd20100825final.pdf?la=en&hash=C816F30AEF4B4A375E86C17606A5006CF5134A33).
+Read more about how to  [apply for import permits for IGDS](/news-and-media/circulars/2010-09-01-Circular162010.pdf).
