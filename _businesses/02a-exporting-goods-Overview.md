@@ -14,7 +14,7 @@ Goods exported from Singapore are regulated under the Customs Act, the Regulatio
 To export goods from Singapore, you are required to declare the goods to Singapore Customs. Goods and Services Tax (GST) and duty are not levied on goods exported from Singapore.
 
 ## How to Export Your Goods?
-![Export FlowChart](/images/ExportFlowChart.png) 
+![Export FlowChart](/images/ExportFlowChart.png) <br> General Export FlowChart
 
 To account for the export of your goods (for example, from customs territory, zero-GST warehouse, licensed warehouse or goods imported under the Major Exporter Scheme to a free trade zone (FTZ) or exit checkpoint), please follow the steps below to obtain the relevant export permits and authorisation (if the goods are subject to control) from the relevant CAs.
 
@@ -39,7 +39,7 @@ If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg
 You may:
 
 -   Appoint a  [declaring agent](/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
--   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](/about-us/07a-overview)
+-   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](/about-us/national-single-window/overview/what-you-need-to-know-about-tradenet)
 
 All permit applications must be submitted electronically via TradeNet, which is accessible through:
 
