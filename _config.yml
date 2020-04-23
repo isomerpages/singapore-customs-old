@@ -37,6 +37,10 @@ collections:
     output: true
   business-resources:
     output: true
+  importing-goods: 
+    output: true
+  national-single-window: 
+    output: true
   test:
     output: true
   test_hidden:
