@@ -1,6 +1,6 @@
 ---
-title: List of Service Providers
-permalink: /businesses/resources/directories-of-service-providers/list-of-service-providers
+title: Directories of Service Providers
+permalink: /businesses/business-resources/directories-of-service-providers
 third_nav_title: Business Resources
 ---
 
