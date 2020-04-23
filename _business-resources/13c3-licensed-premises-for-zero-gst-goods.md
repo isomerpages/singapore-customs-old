@@ -166,4 +166,4 @@ third_nav_title: Directories of Service Providers
 -   Yusen Logistics (Singapore) Pte. Ltd.
 -   Zuellig Pharma Specialty Solutions Group Pte. Ltd.
 
-[Download the list of licensed premises for Zero-GST goods.](https://www.customs.gov.sg/-/media/licensed-premises-for-zerogst-goods-201119.pdf?la=en&hash=000A18842084ADC2FFB7EA00394D8E3871CA5C79)
+[Download the list of licensed premises for Zero-GST goods.](/documents/businesses/Licensed-Premises-for-ZeroGST-Goods-201119.pdf)
