@@ -40,7 +40,7 @@ If the import is not subject to the above restrictions, you may apply for an imp
 
 ### **Restrictions for Import from Non-Member States**
 
-The following restrictions apply to the import of [scheduled chemicals](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) from [non-Member States](http://www.opcw.org/about-opcw/member-states/).
+The following restrictions apply to the import of [scheduled chemicals](/documents/businesses/GuidetoNACWCLicencewithSchChemList.pdf) from [non-Member States](http://www.opcw.org/about-opcw/member-states/).
 
 | Schedules | Schedule 1 | Schedule 2 |  Schedule 3 |
 |---|---|---|---|
