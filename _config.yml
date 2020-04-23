@@ -47,6 +47,8 @@ collections:
     output: true
   customs-schemes-licences-framework: 
     output: true
+  valuation-duties-taxes-fees: 
+    output: true
   test:
     output: true
   test_hidden:
