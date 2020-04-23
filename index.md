@@ -11,7 +11,7 @@ sections:
         background: /images/New Banner.jpg
         key_highlights:
             - title: Duty-Free Concession and GST Relief
-              url: https://singapore-customs-staging.netlify.app/individuals/0a1-duty-free-concession-and-gst-relief
+              url: https://singapore-customs-staging.netlify.app/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
             - title: Quick Guide for Importers
               url: https://singapore-customs-staging.netlify.app/businesses/importing-goods/overview
             - title: Registration Matters
