@@ -43,6 +43,8 @@ collections:
     output: true
   chemical-weapons-convention: 
     output: true
+  strategic-goods-control: 
+    output: true
   test:
     output: true
   test_hidden:
