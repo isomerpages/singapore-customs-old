@@ -1,7 +1,7 @@
 ---
 title: Exporting Hand-Carried Commercial Goods
 permaLink: /businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods
-third_nav_title: Exporting Procedures
+third_nav_title: Export Procedures
 ---
 
 # Exporting Hand-Carried Commercial goods
