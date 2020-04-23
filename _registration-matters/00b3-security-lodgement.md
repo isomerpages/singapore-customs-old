@@ -21,7 +21,7 @@ With effect from 1 Apr 2016, new security requirements will be imposed on liquor
 
 |  |  | |  |
 |--|--|--|--|
-|![Layered Enforcement](/images/SL1.jpg) | ![Layered Enforcement](/images/SL2.jpg) |![Layered Enforcement](/images/SL3.jpg) | ![Layered Enforcement](/images/SL4.jpg) |
+|[![Layered Enforcement](/images/SL1.jpg)](/businesses/registration-matters/registration-procedures/security-lodgement/Amount-of-security-required) | [![Layered Enforcement](/images/SL2.jpg)](/businesses/registration-matters/registration-procedures/security-lodgement/how-to-lodge-security) |[![Layered Enforcement](/images/SL3.jpg)](/businesses/registration-matters/registration-procedures/security-lodgement/Electronic-bankers-guarantee-programme) | [![Layered Enforcement](/images/SL4.jpg)](/businesses/registration-matters/registration-procedures/security-lodgement/Renew-extend-withdraw-security) |
 
 
 ## Expired Security
