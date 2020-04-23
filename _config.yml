@@ -58,8 +58,9 @@ collections:
   exporting-goods:
     output: true   
   security-lodgement:
-    output: true     
-    
+    output: true    
+  apply-update-renew-terminate-declarant-agent:
+    output: true         
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
