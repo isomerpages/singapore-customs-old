@@ -27,4 +27,4 @@ third_nav_title: Directories of Service Providers
 -   YTL PowerSeraya Pte. Limited  
     
 
-[Download the list of licensed premises for petroleum products.](https://www.customs.gov.sg/-/media/licensedpremisespetroleumconverted-updated-nov-2019.pdf?la=en&hash=0A2344B9EAEA1E1611818D62377F12A9AEB2C0D4)
+[Download the list of licensed premises for petroleum products.](/businesses/LicensedPremisesPetroleumconverted-Updated-112019.pdf)
