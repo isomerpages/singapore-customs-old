@@ -1,6 +1,6 @@
 ---
 title: Networked Trade Platform
-permaLink: /about-us/national-single-window/networked-trade-platform
+permalink: /about-us/national-single-window/networked-trade-platform
 third_nav_title: National Single Window
 ---
 
