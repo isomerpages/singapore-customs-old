@@ -1,7 +1,7 @@
 ---
 title: Types of Export Permits
 permaLink: /businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods
-third_nav_title: Exporting Procedures
+third_nav_title: Export Procedures
 ---
 
 # Types of Export Permits
