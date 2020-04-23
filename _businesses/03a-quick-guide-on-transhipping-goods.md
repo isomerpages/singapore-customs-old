@@ -1,9 +1,8 @@
 ---
-title: Overview
+title: Quick Guide on Transhipping Goods
 permalink: /businesses/transhipping-goods/quick-guide-on-transhipping-goods
 third_nav_title: Transhipping Goods
 ---
-
 
 # Quick Guide on Transhipping Goods
 
