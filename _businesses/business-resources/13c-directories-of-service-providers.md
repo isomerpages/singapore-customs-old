@@ -13,4 +13,4 @@ third_nav_title: Business Resources
 | 3. | [Licensed premises for Zero-GST Goods](/businesses/business-resources/directories-of-service-providers/licensed-premises-for-zero-gst-goods) |
 | 4. | [Licensed premises for Petroleum Products](/businesses/business-resources/directories-of-service-providers/licensed-premises-for-petroleum-products) |
 | 5. | [List of Local Freight Forwarding Agents](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents) |
-| 6. | [List of TradeNet Solution Providers](/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers) |
+| 6. | [List of TradeNet Solution Providers](/about-us/national-single-window/overview/tradenet-solution-providers) |
