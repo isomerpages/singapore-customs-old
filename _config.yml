@@ -39,6 +39,8 @@ collections:
     output: true
   importing-goods: 
     output: true
+  transhipping-goods: 
+    output: true
   national-single-window: 
     output: true
   test:
