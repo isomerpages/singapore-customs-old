@@ -25,7 +25,7 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 [Harmonized System / Classification of Goods](https://form.gov.sg/5e6713af65cca600110d2d43)
 
-[Import, Export & Transhipment](https://form.gov.sg/#!/5e7316a05e7c180011db03bb)
+[Import / Export / Transhipment](https://form.gov.sg/#!/5e7316a05e7c180011db03bb)
 
 [Refunds](https://form.gov.sg/5e9e51301e9ed20011c75ce5)
 
