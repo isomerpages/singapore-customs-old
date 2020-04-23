@@ -59,6 +59,6 @@ Bulk petroleum and chemicals are those loaded directly into an oil/chemical tank
 
 |   |   |   |   |
 |---|---|---|---|
-|[ ![](/images/e1.jpg)](/businesses/02c1-exporting-hand-carried-commercial-goods) |[ ![](/images/e2.jpg)](/businesses/02c2-types-of-export-permits)  |[ ![](/images/e3.jpg)](/businesses/02c4-permit-amendments-and-cancellation)  |[ ![](/images/e4.jpg)](/businesses/02c3-permit-validity-and-error-messages)  |
-|[ ![](/images/e5.jpg)](/businesses/02c6-exporting-pets)  |[ ![](/images/e6.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-and-places)  |[  ![](/images/e7.jpg)](/businesses/02c5-exporting-trade-samples) |[![](/images/e8.jpg)](/businesses/02c7-supply-of-air-sea-stores) |
+|[ ![](/images/e1.jpg)](/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods) |[ ![](/images/e2.jpg)](/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods)  |[ ![](/images/e3.jpg)](/businesses/exporting-goods/export-procedures/permit-amendments-and-cancellation)  |[ ![](/images/e4.jpg)](/businesses/exporting-goods/export-procedures/permit-validity-and-error-messages)  |
+|[ ![](/images/e5.jpg)](/businesses/exporting-goods/export-procedures/exporting-pets)  |[ ![](/images/e6.jpg)](/businesses/importing-goods/export-procedures/authorised-piers-and-places)  |[  ![](/images/e7.jpg)](/businesses/exporting-goods/export-procedures/supply-of-air-sea-stores) |
   
