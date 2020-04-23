@@ -45,6 +45,8 @@ collections:
     output: true
   strategic-goods-control: 
     output: true
+  customs-schemes-licences-framework: 
+    output: true
   test:
     output: true
   test_hidden:
