@@ -117,4 +117,4 @@ For applications to the Controller of Undesirable Publications, the supporting d
 
 |  |  |
 |---|---|
-| [![](https://raw.githubusercontent.com/isomerpages/singapore-customs/staging/images/HSA.jpg)](https://singapore-customs-staging.netlify.app/about-us/07a3-competent-authorities-requirements) |  |
+| [![](/images/HSA.jpg)](/about-us/national-single-window/overview/competent-authorities-requirements-for-controlled-items/HAS) |  |
