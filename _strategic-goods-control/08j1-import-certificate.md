@@ -1,7 +1,7 @@
 ---
 title: Import Certificate
 permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate
-third_nav_title: Import Certificate And Delivery Verification
+third_nav_title: Import Certificate and Delivery Verification
 ---
 
 # Import Certificate 
