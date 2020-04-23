@@ -1,7 +1,7 @@
 ---
 title: TradeNet Front-End Solution Providers
-permaLink: /about-us/National-Single-Window/Overview-TradeNet-Solution-Providers
-third_nav_title: National Single Window
+permaLink: /about-us/National-Single-Window/Overview/TradeNet-Solution-Providers
+third_nav_title: Overview
 ---
 
 # TradeNet Front-end Solution Providers
