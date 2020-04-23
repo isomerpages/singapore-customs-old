@@ -95,4 +95,4 @@ third_nav_title: Directories of Service Providers
 -   YCH Global Logistics Pte Ltd
 -   Yen Investments Pte Ltd
 
-[Download the list of licensed premises for liquor and tobacco products.](https://www.customs.gov.sg/-/media/licensed-premised-for-liquor--tobacco-products-201119.pdf?la=en&hash=41F8B7DA3009F7E7EF3982B2DBE779E5EB426B74)
+[Download the list of licensed premises for liquor and tobacco products.](/documents/businesses/Licensed-Premised-for-Liquor -Tobacco-Products-201119.pdf)
