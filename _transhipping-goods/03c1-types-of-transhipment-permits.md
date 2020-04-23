@@ -1,7 +1,7 @@
 ---
 title: Types of Transhipment Permits
 permaLink: /businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits
-third_nav_title: Transhipping Goods
+third_nav_title: Transhipment Procedures
 ---
 
 # Types of Transhipment/Movement Permits
