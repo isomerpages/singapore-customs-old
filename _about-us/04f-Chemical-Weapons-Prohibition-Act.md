@@ -1,6 +1,6 @@
 ---
 title: Chemical Weapons (Prohibition) Act
-permaLink: /about-us/acts-and-subsidiary-legislation/Chemical-Weapons-Prohibition-Act
+permalink: /about-us/acts-and-subsidiary-legislation/Chemical-Weapons-Prohibition-Act
 third_nav_title: Acts and Subsidiary Legislation
 ---
 # Chemical Weapons (Prohibition) Act
