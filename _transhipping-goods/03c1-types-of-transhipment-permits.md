@@ -21,7 +21,7 @@ A transhipment permit is required to account for the following transhipment move
 | Transhipment/Movement | **Blanket Removal**<br><br> For declarations used to cover several movements within the month between licensed premises. | BRE|
 
 
-A permit is not required for the transhipment of non-controlled goods within the same FTZ. Please refer to  [Circular 01/2020](https://singapore-customs-staging.netlify.app/news-and-media/circulars/circular012020ver1.pdf)  for more information on the storage of liquors and tobacco products in the FTZs.
+A permit is not required for the transhipment of non-controlled goods within the same FTZ. Please refer to  [Circular 01/2020](/news-and-media/circulars/circular012020ver1.pdf)  for more information on the storage of liquors and tobacco products in the FTZs.
 
 You may refer to the  [complete list of permit declaration types](https://www.customs.gov.sg/-/media/cus/files/e-learning/ea000007/doc1.pdf?la=en&hash=779CE7AD7F514BEB33C60A389E461D82639DCAA4)  for more information.
 
