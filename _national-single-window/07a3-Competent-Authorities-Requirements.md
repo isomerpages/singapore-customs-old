@@ -1,6 +1,6 @@
 ---
 title: Competent Authorities' Requirements for Controlled Items
-permaLink: /about-us/National-Single-Window/Overview/Competent-Authorities-Requirements
+permalink: /about-us/National-Single-Window/Overview/Competent-Authorities-Requirements
 third_nav_title: Overview
 ---
 # Competent Authorities' Requirements for Controlled Items
