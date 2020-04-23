@@ -19,7 +19,7 @@ The schedules are organised to reflect the risk posed by the chemical to the obj
 | 2 |  Schedule 2 covers chemicals which are potential chemical warfare agents (Schedule 2A and 2A*), <br> and other chemical weapons precursors (Schedule 2B). <br><br> They pose a significant risk to the objectives of <br> the Convention and have moderate level of commercial application.|  Methylphosphonyl dichloride <br><br>   Arsenic trichloride |  - Insecticides <br> - Herbicides <br> - Epoxy resins <br> - Flame-retardant additive research (plastics, resins, fibres) <br> - Medicinal & pharmaceutical preparations <br> -  Metal plating preparations |
 | 3 |  Schedule 3 covers chemicals which had previously <br> been produced, stockpiled or used as a <br> chemical weapon. <br><br> They pose a risk to the objectives <br> of the Convention by virtue of its importance in <br> the production of one or more chemicals listed in <br>Schedule 1 or Schedule 2B. Schedule 3 chemicals have widespread commercial application. |   Triethanolamine <br><br>  Methyldiethanolamine |  - Pesticides <br> - Insecticides <br> - Toiletries <br> - Pharmaceutical <br> - Metal plating preparations <br> - Surfactants for detergents, oil drilling emulsions <br> - Corrosion inhibitors <br> - Soil fumigants |
 
-See full list of scheduled chemicals [here](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34).
+See full list of scheduled chemicals [here](/documents/businesses/GuidetoNACWCLicencewithSchChemList.pdf).
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
 
@@ -37,7 +37,7 @@ There are 2 types of DOCs:
 
 ## Determining if your product is controlled
 
-Please refer to the [list of scheduled chemicals](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) to check if your product is controlled by the NA(CWC).
+Please refer to the [list of scheduled chemicals](/documents/businesses/GuidetoNACWCLicencewithSchChemList.pdf) to check if your product is controlled by the NA(CWC).
 
 You may also check using the description of the goods, Harmonized System (HS) code or Competent Authority (CA) product code on this [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If the HS code is subject to control, the name of the CA and the chemical(s) that the CA controls will be indicated. You may check directly with the respective CAs on their licensing requirements.
 
