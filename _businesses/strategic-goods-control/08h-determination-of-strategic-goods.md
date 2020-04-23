@@ -1,5 +1,5 @@
 ---
-title: Determination of Strategic Goods (Strategic Goods Control List)
+title: Determination of Strategic Goods
 permalink: /businesses/strategic-goods-control/strategic-goods-control-list/determination-of-strategic-goods
 third_nav_title: Strategic Goods Control
 ---
