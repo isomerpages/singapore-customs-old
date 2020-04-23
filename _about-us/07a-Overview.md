@@ -24,7 +24,7 @@ TradeNet has been the focus of several academic studies since its introduction. 
 
 |   |   |   |   |
 |---|---|---|---|
-| [![](https://lh6.googleusercontent.com/T1Wdn9TywwuVz-h6gmAlC1b2-oSOy81xKVrM1LmJ3MFC4TcENb5vA5M_vGV5AnIEK6raN59cgPHucByzHWDkiUE-5ck52a5nBqSUZgAiCFfEE-RNBsJjOneLOw5-NOL6G9PvMRgHSzNMTrx48w)](https://singapore-customs-staging.netlify.com/about-us/07a1-what-you-need-to-know) |[![](https://lh4.googleusercontent.com/8UGaHVvWO8Gm_hZmjPcwj8JOp2surHHFwe-3qMbg69pq011rLwynBIlaLtC6zTCvHbfkt-I87Iy6-RiNmlXsipMBD_vv8LgLIxCvx0RQem0sY8Wj0z00j0-qoseA6gZfeSkpkNqrhj3cQZB2hw)](https://singapore-customs-staging.netlify.com/about-us/07a2-tradenet-solution-providers)  | [![](https://lh5.googleusercontent.com/EiKbh--w-E6BJdHwFM2O3O-1ZySu5Bnf7dL5lwyX5Ma8xKkg_HAuD51Zx6De4zE51IKsPHDlzF13ogOLEV_v9vYSnwyUk5cruFqwn-FyDQCaRABCYmGHTA1SLYX3vbSkL9H2UnCEsLc7gr4aTQ)](https://singapore-customs-staging.netlify.com/about-us/07a3-competent-authorities-requirements) | [![](https://lh4.googleusercontent.com/vGhk_hbwjQ6kP0A26Rueiz-OhHEb0pWrpExr9HVBND9oVglIc_DxLK-4KKm3_MTQO9gSSjHDMuj8zPLnzu5GmX3hUgwAikVVFCAuT4Rvt0dZTINeOCEj2MkPU2KKC0RuhTBa1cOoWAy_CaMQBQ) ](https://singapore-customs-staging.netlify.com/about-us/07a5-annexes-and-appendices) |
+| [![](/images/TN1.png)](/about-us/national-single-window/tradenet/what-you-need-to-know-about-tradenet) |[![](/images/TN2.png)](/about-us/national-single-window/overview/TradeNet-Solution-Providers)  | [![](/images/TN3.png)](/about-us/National-Single-Window/Overview/Competent-Authorities-Requirements) | [![](/images/TN4.png) ](/about-us/National-Single-Window/Overview/Annexes-and-appendices) |
 
 
 
