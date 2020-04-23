@@ -94,5 +94,5 @@ You are accountable as a Transhipment Agent and Declaring Agent for the tranship
  
 |  |  |  |  | 
 |--|--|--| -- | 
-|[ ![](/images/t4.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/t3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/t2.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/t1.jpg)](https://singapore-customs-staging.netlify.app/businesses/exporting-goods/export-procedures/authorised-piers-and-places) | 
+|[ ![](/images/t4.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/t3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/t2.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/t1.jpg)](/businesses/importing-goods/export-procedures/authorised-piers-and-places) | 
 
