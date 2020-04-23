@@ -27,13 +27,13 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 [Import / Export / Transhipment](https://form.gov.sg/#!/5e7316a05e7c180011db03bb)
 
-[Refunds](https://form.gov.sg/5e9e51301e9ed20011c75ce5)
+[Refunds](https://form.gov.sg/5e732a0b5e7c180011db1f08)
 
 [Registration Matters](https://form.gov.sg/#!/5e7316a05e7c180011db03bb)
 
 [Schemes & Licences](https://form.gov.sg/5e9e51cf1e9ed20011c75f2a)
 
-[United Nations Security Council Sanctions / Strategic Goods Control / Chemical Weapons Convention](https://form.gov.sg/5e9e50171e9ed20011c758e2) 
+[United Nations Security Council Sanctions / Strategic Goods Control / Chemical Weapons Convention](https://form.gov.sg/5e7311f15ec7a00011a06429)
 
 [Valuation and Customs Exchange Rate](https://form.gov.sg/#!/5e6ed24b39ddca001164cce2)
 
