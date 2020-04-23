@@ -6,11 +6,11 @@ third_nav_title: Overview
 
 # Scope of Control
 
-![strategic goods control act1](https://www.customs.gov.sg/-/media/cus/images/business/strategic-goods-control-act1.png)
+![strategic goods control act1](/images/strategic%20goods%20control%20act1.png)
 
 ### Controlled Items
 
-The [Strategic Goods Control List](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/strategic-goods-control-list) specifies the items that are subject to controls under the  [Strategic Goods (Control) Act (SGCA)](https://sso.agc.gov.sg/Act/SGCA2002).
+The [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list) specifies the items that are subject to controls under the  [Strategic Goods (Control) Act (SGCA)](https://sso.agc.gov.sg/Act/SGCA2002).
 
 ### Catch-all Controls
 
@@ -22,16 +22,16 @@ The SGCA regulates the transfer and brokering of strategic goods and strategic g
 
 The types of activities controlled under the SGCA are:
 
-**[Export](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit)** : Goods taken out of Singapore by land, water or air, and includes the placing of the goods in a conveyance for the purpose of taking it out of Singapore (does not include the taking out from Singapore of goods that have been brought in transit or transhipped).
+**[Export](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit)** : Goods taken out of Singapore by land, water or air, and includes the placing of the goods in a conveyance for the purpose of taking it out of Singapore (does not include the taking out from Singapore of goods that have been brought in transit or transhipped).
 
-**[Re-export](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit)** : Goods imported into Singapore and subsequently re-exported to another destination. Includes transhipped goods consigned to a local party.
+**[Re-export](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit)** : Goods imported into Singapore and subsequently re-exported to another destination. Includes transhipped goods consigned to a local party.
 
-**[Transhipment](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit)** : Goods removed from the conveyance they were brought into Singapore, and subsequently placed on the same or another conveyance for the purpose of taking them out of Singapore. These acts are carried out on a through bill of lading, through air waybill or through manifest without being consigned to a local party.
+**[Transhipment](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit)** : Goods removed from the conveyance they were brought into Singapore, and subsequently placed on the same or another conveyance for the purpose of taking them out of Singapore. These acts are carried out on a through bill of lading, through air waybill or through manifest without being consigned to a local party.
 
-**[Transit](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit)** : Goods brought into Singapore, and subsequently taken out from Singapore on the same conveyance they are brought into Singapore. These acts are carried out on a through bill of lading, through air waybill or through manifest, without being consigned to a local party. Goods brought in transit are not unloaded and remain on board the conveyance.
+**[Transit](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit)** : Goods brought into Singapore, and subsequently taken out from Singapore on the same conveyance they are brought into Singapore. These acts are carried out on a through bill of lading, through air waybill or through manifest, without being consigned to a local party. Goods brought in transit are not unloaded and remain on board the conveyance.
 
-**[Intangible Transfer of Technology (ITT)](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt)** : Any electronic transmission of controlled strategic goods technology in Singapore (such as email or fax), or the act of making the controlled strategic goods technology available in Singapore on a computer, so that it becomes accessible to a person in a foreign country.
+**[Intangible Transfer of Technology (ITT)](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt)** : Any electronic transmission of controlled strategic goods technology in Singapore (such as email or fax), or the act of making the controlled strategic goods technology available in Singapore on a computer, so that it becomes accessible to a person in a foreign country.
 
-**[Brokering](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)**: The act of arranging or negotiating, or carrying out any act to facilitate the arrangement or negotiation of a contract to acquire or dispose of any controlled goods or technology if that person knows or has reason to believe that such a contract will or is likely to result in the removal of those goods and technology from one foreign country to another foreign country.
+**[Brokering](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)**: The act of arranging or negotiating, or carrying out any act to facilitate the arrangement or negotiation of a contract to acquire or dispose of any controlled goods or technology if that person knows or has reason to believe that such a contract will or is likely to result in the removal of those goods and technology from one foreign country to another foreign country.
 
-Any person engaged in any of the above activities involving strategic goods or strategic goods technology must abide by the  [permit and registration requirements](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements) under the SGCA.
+Any person engaged in any of the above activities involving strategic goods or strategic goods technology must abide by the  [permit and registration requirements](/businesses/strategic-goods-control/permit-and-registration-requirements) under the SGCA.
