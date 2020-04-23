@@ -24,5 +24,10 @@ Please refer to the table below for the terms used on this page:
 -   All Declarants are required to maintain confidentiality of the User ID(s) and password(s) that are registered to them and shall not share them with any person.
 -   DAs shall ensure that it abides by the conditions issued in the customs permit.
 
-( **Missing Accordion** )
+
+|  |  ||  |  
+|--|--|--|---|
+|![Layered Enforcement](/images/AURT1.jpg) |![Layered Enforcement](/images/AURT2.jpg)  |![Layered Enforcement](/images/AURT3.jpg)|![Layered Enforcement](/images/AURT4.jpg)|  
+
+
 
