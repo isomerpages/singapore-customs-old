@@ -1,6 +1,6 @@
 ---
 title: Businesses
-permaLink: /businesses/businesses
+permalink: /businesses/businesses
 ---
 # Businesses 
 

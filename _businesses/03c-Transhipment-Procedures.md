@@ -1,6 +1,6 @@
 ---
 title: Transhipment Procedures
-permaLink: /businesses/transhipping-goods/transhipment-procedures
+permalink: /businesses/transhipping-goods/transhipment-procedures
 third_nav_title: Transhipping Goods
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Find my Harmonized System Code
-permaLink: /businesses/Harmonized-System-HS-Classification-of-Goods/Find-my-code
+permalink: /businesses/Harmonized-System-HS-Classification-of-Goods/Find-my-code
 third_nav_title: Harmonized System (HS) Classification of Goods
 ---
 

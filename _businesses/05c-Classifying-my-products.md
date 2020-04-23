@@ -1,6 +1,6 @@
 ---
 title: Classifying My Products
-permaLink: /businesses/Harmonized-System-HS-Classification-of-Goods/Classifying-My-Products
+permalink: /businesses/Harmonized-System-HS-Classification-of-Goods/Classifying-My-Products
 third_nav_title: Harmonized System (HS) Classification of Goods
 ---
 

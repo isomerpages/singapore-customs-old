@@ -1,6 +1,6 @@
 ---
 title: Export Procedures
-permaLink: /businesses/exporting-goods/export-procedures
+permalink: /businesses/exporting-goods/export-procedures
 third_nav_title: Exporting Goods
 ---
 
