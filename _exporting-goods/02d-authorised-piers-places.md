@@ -37,7 +37,12 @@ The following passenger terminals are not intended for the import, export and tr
 -   Changi Ferry Terminal
 -   Marina South Pier
 -   West Coast Pier
--   Marina Bay Cruise Centre Singapore <br>(See [Customs Circular](/news-and-media/circulars/2012-05-23-Circular062012.pdf) No. 06/2012 for more information)
+-   Marina Bay Cruise Centre Singapore <br>(See [Customs Circular](/news-and-media/circulars/2012-05-23-Circular062012.pdf) for more information)
 
-[accordion]
+
+-   [Other Authorised Piers and Places](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/authorised-piers-and-places#item-heading-cbc5d8a3-0fd2-482e-99f2-714defc0a935)
+    
+-   [Other Piers and Places](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/authorised-piers-and-places#item-heading-05e603a2-2da9-4402-ad48-f632822faf11)
+    
+-   [Permit and Clearance Requirements](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/authorised-piers-and-places#item-heading-8890de4b-9e1f-4c6c-9ddc-fdb88af3725d)
 
