@@ -7,7 +7,7 @@ third_nav_title: Import Procedures
 # Claiming Preferential Tariff Treatment for Dutiable Imports
 
 
-As part of its [Free Trade Agreements](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview)’ (FTAs) obligations, Singapore grants preferential tariff treatment by exempting customs duty for the import of originating stout/porter, beer including ale, medicated samsu and other samsu from these [FTA Partners](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/cert-of-origin/preferential-tariffs-table_as-of-11-jun-2019.pdf?la=en&hash=4D4545EC656FDE990ADBCB70642027625482CBB3).
+As part of its [Free Trade Agreements](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview)’ (FTAs) obligations, Singapore grants preferential tariff treatment by exempting customs duty for the import of originating stout/porter, beer including ale, medicated samsu and other samsu from these [FTA Partners](/documents/[businesses/**preferential-tariffs-table-as-of-11-jun-2019.pdf**).
 
 ## How do I claim preferential tariff treatment?
 
@@ -17,7 +17,7 @@ Depending on the Free Trade Agreement, you should support your claim with:
 -   Self-certification by the exporter, producer or importer; or
 -   E-ATIGA Form D reference number for Form Ds transmitted electronically via the ASEAN Single Window from Thailand.
 
-You may refer to the  [Forms for Claiming Preferential Tariff Treatment for Dutiable Imports](https://www.customs.gov.sg/-/media/cus/files/business/certificates-of-origin/forms-for-claiming-preferential-tariff-treatment_aug-2019.pdf?la=en&hash=DA6A98204B6A5BF8FC3EDFC57A146D511B058F3D) in Singapore for more details.
+You may refer to the  [Forms for Claiming Preferential Tariff Treatment for Dutiable Imports](documents/businesses/forms-for-claiming-preferential-tariff-treatment-aug-2019.pdf) in Singapore for more details.
 
 Please obtain the forms issued and/or certified by the relevant parties as stated in the respective Free Trade Agreements and Schemes of Preferences.
 
