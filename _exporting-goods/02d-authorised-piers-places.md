@@ -39,10 +39,11 @@ The following passenger terminals are not intended for the import, export and tr
 -   West Coast Pier
 -   Marina Bay Cruise Centre Singapore <br>(See [Customs Circular](/news-and-media/circulars/2012-05-23-Circular062012.pdf) for more information)
 
+### For more information on: 
 
--   [Other Authorised Piers and Places](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/authorised-piers-and-places#item-heading-cbc5d8a3-0fd2-482e-99f2-714defc0a935)
+-   [Other Authorised Piers and Places](/businesses/exporting-goods/export-procedures/authorised-piers-places/other-authorised-piers-and-places)
     
--   [Other Piers and Places](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/authorised-piers-and-places#item-heading-05e603a2-2da9-4402-ad48-f632822faf11)
+-   [Other Piers and Places](/businesses/exporting-goods/export-procedures/authorised-piers-places/other-piers-and-places)
     
--   [Permit and Clearance Requirements](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/authorised-piers-and-places#item-heading-8890de4b-9e1f-4c6c-9ddc-fdb88af3725d)
+-   [Permit and Clearance Requirements](/businesses/exporting-goods/export-procedures/authorised-piers-places/permit-and-clearance-requirements)
 
