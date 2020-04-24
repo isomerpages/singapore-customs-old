@@ -15,7 +15,7 @@ The transhipment of all goods is not subject to duty or Goods and Services Tax (
 
 A Transhipment Agent is required to obtain a Customs transhipment permit (where applicable) before the transhipment of goods. The Transhipment Agent is the party who arranges for the transhipment of goods through Singapore and can include a freight forwarder, Non-Vessel Owning Common Carrier (NVOCC) or shipping agent.
 
-For more information on the types of Customs permits and situations where no customs permit is required, please click [here](https://singapore-customs-staging.netlify.app/businesses/03c1-types-of-transhipment-permits).
+For more information on the types of Customs permits and situations where no customs permit is required, please click [here](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits).
 
 {% include accordion.html %}
 
@@ -60,5 +60,5 @@ You are accountable as a Transhipment Agent and Declaring Agent for the tranship
  
 |  |  |  |  | 
 |--|--|--| -- | 
-|[ ![](/images/t4.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/t3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/t2.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/t1.jpg)](/businesses/importing-goods/export-procedures/authorised-piers-and-places) | 
+|[ ![](/images/t4.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/t3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/t2.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/t1.jpg)](/businesses/exporting-goods/export-procedures/authorised-piers-places) | 
 
