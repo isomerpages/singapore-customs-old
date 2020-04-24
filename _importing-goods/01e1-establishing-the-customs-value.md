@@ -8,21 +8,21 @@ third_nav_title: Importing Dutiable Motor Vehicles
 
 This page provides information about the valuation methods used to derive the customs value of both new and used dutiable motor vehicles.
 
-[Excise duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and  [Goods and Services Tax](/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) are levied on the customs value of  [dutiable motor vehicles](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods). Examples of such vehicles include passenger cars, motorcycles and motor scooters.
+[Excise duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and  [Goods and Services Tax](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst) are levied on the customs value of  [dutiable motor vehicles](/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods). Examples of such vehicles include passenger cars, motorcycles and motor scooters.
 
 ## New Motor Vehicles
 
 ### Transaction Value Method
 
-The transaction value method is first considered in establishing the customs value, which is the  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) under incoterms.
+The transaction value method is first considered in establishing the customs value, which is the  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value) under incoterms.
 
 To establish the customs value under this method, all other charges incidental to the sale and delivery of the motor vehicle must be added to the transaction value or the price paid or payable for the motor vehicle. Examples of these charges include selling commissions, assists (materials supplied by the importer), packing costs, proceeds of resale accruing to the seller, royalties and licence fees, freight and insurance charges.
 
-If any component of the customs value is settled in a foreign currency, that value should be converted to Singapore dollars using the prevailing  [Customs exchange rate]()  at the time of import.
+If any component of the customs value is settled in a foreign currency, that value should be converted to Singapore dollars using the prevailing Customs exchange rate at the time of import.
 
 **Example on the calculation of the customs value:**
 
-_Company A bought a new car from Supplier B on  [EXW (Ex-Works) incoterms](https://singapore-customs-staging.netlify.app/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value)._
+_Company A bought a new car from Supplier B on  [EXW (Ex-Works) incoterms](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value)._
 
 _Cost of new car = S$20,000_
 
@@ -64,7 +64,7 @@ The customs value of used motor vehicles will depend on the following scenarios:
     
     Depending on the age and condition of the vehicle, Singapore Customs might apply depreciation on the original purchase price. The customs value of the used vehicle would then be the sum of the depreciated purchase price, overseas freight and insurance costs, and all other costs incidental to the delivery of the vehicle to Singapore, such as handling and storage costs.
     
-    If a component of the customs value is quoted in foreign currency, it should be converted to Singapore dollars by using the prevailing  [Customs exchange rate]()  at the time of import.
+    If a component of the customs value is quoted in foreign currency, it should be converted to Singapore dollars by using the prevailing Customs exchange rate at the time of import.
     
 
 -   Individual owner or a company importing used vehicles that are purchased from other dealers prior to import  
