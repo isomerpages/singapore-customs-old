@@ -91,7 +91,8 @@ The authorised person is required to produce the Letter of Authorisation **issue
 
 Note: Effective, 1 Apr 2016, all Letters of Authorisation for collection of CO must be issued by the exporter unless a blanket [appointment letter](/documents/businesses/appointment-letter-for-blanket-authorisation-for-co-collection.docx) is provided to an entity to collect the CO on their behalf. In such cases, this letter from the exporter and the Letter of Authorisation from the appointed entity must be provided during each CO collection.
 
-Please ensure that the information on the CO is accurate and tick the relevant check boxes before signing on the CO and dispatching it to your overseas customer. Explanation on the check boxes are found on the overleaf notes of the CO.
+Please ensure that the information on the CO is accurate and tick the relevant check boxes before signing on the CO and dispatching it to your overseas customer. 
+<br> Explanation on the check boxes are found on the overleaf notes of the CO.
     
 
 ## How to apply for back-to-back preferential Certificate of Origin with Singapore Customs?
@@ -143,7 +144,7 @@ For back-to-back Form Ds, you may refer to an e-ATIGA Form D issued by the first
     
 -   The e-ATIGA Form D from the ASEAN Member States has been successfully received.
     
-You may refer to Electronic Exchange of Form D via the ASEAN Single Window for more information.
+You may refer to **Electronic Exchange of Form D via the ASEAN Single Window** for more information.
 
 ## How to renew the validity of expired manufacturing cost statements?
 
@@ -174,7 +175,7 @@ You may amend a CO electronically via TradeNet if:
 
 If the amendment is made after the CO has been generated for printing, all previously issued COs under the export permit will be considered null and void and must be returned to Singapore Customs for cancellation. A new CO number will be issued and the CO can be collected 2 working hours after approval.
 
-Electronic Exchange of Form D via the ASEAN Single Window (ASW)
+**Electronic Exchange of Form D via the ASEAN Single Window (ASW)**
 
 The ASEAN Single Window (ASW) is an environment that connects and integrates the National Single Windows (NSWs) of ASEAN Member States (AMS), thereby allowing the electronic exchange of data between the AMS.
 
@@ -223,8 +224,8 @@ For minor offences under the RIEA, Singapore Customs may offer to compound the o
 
 |Offence|Penalty Upon Conviction|
 |--|--|
-| Making a false declaration <br>(Section 28(1)(a) of the RIEA) | A fine not exceeding S$10,000 or imprisonment for a term not exceeding 2 years or both. |
-| Incorrect trade descriptions<br>(Section 28A(1)(a) of the RIEA)<br><br>Failure to comply with requirements of the Director-General for the issue of preferential CO <br>(Regulation 24B(4) of the RIER) | First conviction:<br>A fine not exceeding S$100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 2 years or to both.<br><br>Second or subsequent conviction:<br>A fine not exceeding S$200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 3 years or to both. |
+| **Making a false declaration** <br>(Section 28(1)(a) of the RIEA) | A fine not exceeding S$10,000 or imprisonment for a term not exceeding 2 years or both. |
+| **Incorrect trade descriptions** <br>(Section 28A(1)(a) of the RIEA)<br><br> **Failure to comply with requirements of the Director-General for the issue of preferential CO** <br>(Regulation 24B(4) of the RIER) | First conviction:<br>A fine not exceeding S$100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 2 years or to both.<br><br>Second or subsequent conviction:<br>A fine not exceeding S$200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 3 years or to both. |
 
 You may view more information on the prescribed offences and penalties under the [RIEA and RIER](/about-us/acts-and-subsidiary-legislation/customs-act).
 
