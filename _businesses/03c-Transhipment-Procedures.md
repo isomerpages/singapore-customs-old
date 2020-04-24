@@ -32,29 +32,18 @@ For more information on the types of Customs permits and situations where no cus
 Traders may be penalised if they do not comply with the Customs requirements imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), the Strategic Goods (Control) Act (SGCA) and their subsidiary legislation.
 
  **Examples of common offences**
+ 
+ ( Accordion missing )
 
--   Violation of permit conditions
-    -   Failure to produce a permit for Customs clearance at the FTZ “In” gate (second checkpoint) for inter-gateway movement
-
--   Making an incorrect declaration
-    -   Incorrectly declaring controlled goods as ship spares, where the controlled goods require prior approval from the relevant Competent Authority
-
--   Transhipping goods without a permit
-    -   Failure to apply for a Transhipment permit with Message Type “Out (with or without CO)” and Declaration Type “Direct (including storage in FTZ) (DRT)” when there is inter-gateway movement between two FTZs
-
--   Transfer of strategic goods without the correct permits
-    -   Transhipping information security equipment, which are controlled under the SGCA, with an Outward Transshipment (“OT”) permit instead of the Strategic Goods Transhipment (“XP”) permit
-
-Singapore Customs may compound the offences for a sum not exceeding S$5,000 per offence for minor offences under the Customs Act and RIEA, and not exceeding S$10,000 per offence for minor offences under SGCA. Offenders may be prosecuted if the offence committed is of a fraudulent or serious nature.
     
 **Penalties upon conviction for key offences**
 
 | Key Offences | Penalty Upon Conviction | 
 |--|--|
-| Failure to comply with conditions imposed on removal of goods from customs control. <br><br> _(Section 27(1)(c) of the Customs Act)_ | A fine not exceeding S$5,000. |
-| Making an incorrect declaration. <br><br> _(Section 128(1)(a) of the Customs Act)_ | A fine not exceeding S$10,000, or the equivalent of the customs duty, excise duty or GST payable, whichever is the greater amount; or imprisonment for a term not exceeding 12 months, or both. |
-| Importing, exporting or transhipping goods without a permit. <br><br> _(Regulation 3(1) of the Regulation of Imports and Exports Regulations [RIER])_ | **_First conviction:_** <br> A fine not exceeding S$100,000 or 3 times the value of the goods, whichever is greater, or imprisonment not exceeding 2 years, or both. <br><br> **_Second or subsequent conviction:_** <br> A fine not exceeding S$200,000 or 4 times the value of the goods, whichever is greater, or imprisonment not exceeding 3 years, or both.|
-| Transfer of strategic goods without a valid strategic goods export/transhipment permit. <br><br>_(Section 5(1)(a) of the Strategic Goods (Control) Act [SGCA])_ | **_First conviction:_** <br>A fine not exceeding S$100,000 or 3 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 2 years, or both. <br><br> **_Second or subsequent conviction:_** A fine not exceeding S$200,000 or 4 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 3 years, or both.
+| **Failure to comply with conditions imposed on removal of goods from customs control** <br><br> _(Section 27(1)(c) of the Customs Act)_ | A fine not exceeding S$5,000. |
+| **Making an incorrect declaration** <br><br> _(Section 128(1)(a) of the Customs Act)_ | A fine not exceeding S$10,000, or the equivalent of the customs duty, excise duty or GST payable, whichever is the greater amount; or imprisonment for a term not exceeding 12 months, or both. |
+| **Importing, exporting or transhipping goods without a permit** <br><br> _(Regulation 3(1) of the Regulation of Imports and Exports Regulations [RIER])_ | **_First conviction:_** <br> A fine not exceeding S$100,000 or 3 times the value of the goods, whichever is greater, or imprisonment not exceeding 2 years, or both. <br><br> **_Second or subsequent conviction:_** <br> A fine not exceeding S$200,000 or 4 times the value of the goods, whichever is greater, or imprisonment not exceeding 3 years, or both.|
+| **Transfer of strategic goods without a valid strategic goods export/transhipment permit** <br><br>_(Section 5(1)(a) of the Strategic Goods (Control) Act [SGCA])_ | **_First conviction:_** <br>A fine not exceeding S$100,000 or 3 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 2 years, or both. <br><br> **_Second or subsequent conviction:_** A fine not exceeding S$200,000 or 4 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 3 years, or both.
 
 You may refer to more information on the offences and penalties under the Customs Act, RIEA and SGCA  [here](https://singapore-customs-staging.netlify.app/about-us/acts-and-subsidiary-legislation/customs-act).
     
