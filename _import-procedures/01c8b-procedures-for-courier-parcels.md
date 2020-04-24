@@ -18,8 +18,8 @@ The goods must be covered by relevant import permits and supporting documents su
 | Non-Dutiable, Controlled | < or = S$400 <br> (Delivery by air freight only) | No | No | Yes, **In-Non-Payment (GST Relief and/or duty exemption)**permit | 
 |  | < or = S$400 <br> (Delivery by land/sea freight)| Yes | No | Yes, **In-Payment (GST including Duty exemption)** permit |
 |  | >S$400 | Yes | No | Yes, **In-Payment (GST including Duty exemption)** permit | 
-| Dutiable,Non-Controlled | < or = S$400 | Yes | Yes | Yes, **In-Payment (Duty and GST)**permit |
-|  | >S$400 | Yes | Yes | Yes, **In-Payment (Duty and GST)**permit |
+| Dutiable,Non-Controlled | < or = S$400 | Yes | Yes | Yes, **In-Payment (Duty and GST)** permit |
+|  | >S$400 | Yes | Yes | Yes, **In-Payment (Duty and GST)** permit |
 | Dutiable, Controlled | < or = S$400 | Yes | Yes | Yes, if required by CA, <br> **In-Payment (Duty and GST)** permit |
 |  | >S$400 | Yes | Yes | Yes, **In-Payment (Duty and GST)** permit |
 | Non-Dutiable, Non-Controlled goods imported by taxable persons under IRAS' [Major Exporter Scheme (MES)](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/) | < or = S$400 <br> (Delivery by air freight only) | No | No | No |
