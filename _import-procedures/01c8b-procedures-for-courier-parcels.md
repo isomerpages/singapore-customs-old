@@ -15,7 +15,7 @@ The goods must be covered by relevant import permits and supporting documents su
 | Non-Dutiable, Non-Controlled |< or = S$400 <br> (Delivery by air freight only) | No |No |No |
 |  | < or = S$400 <br> (Delivery by land/sea freight)| Yes |No | Yes, **In-Payment (GST including Duty exemption)** permit |
 |  | >S$400 | Yes | No | Yes, **In-Payment (GST including Duty exemption)** permit | 
-| Non-Dutiable, Controlled | < or = S$400 <br> (Delivery by air freight only) | No | No | Yes, **In-Non-Payment (GST Relief and/or duty exemption)**permit | 
+| Non-Dutiable, Controlled | < or = S$400 <br> (Delivery by air freight only) | No | No | Yes, **In-Non-Payment (GST Relief and/or duty exemption)** permit | 
 |  | < or = S$400 <br> (Delivery by land/sea freight)| Yes | No | Yes, **In-Payment (GST including Duty exemption)** permit |
 |  | >S$400 | Yes | No | Yes, **In-Payment (GST including Duty exemption)** permit | 
 | Dutiable,Non-Controlled | < or = S$400 | Yes | Yes | Yes, **In-Payment (Duty and GST)** permit |
