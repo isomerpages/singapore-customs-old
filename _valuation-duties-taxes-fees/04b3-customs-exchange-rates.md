@@ -13,6 +13,6 @@ E.g. Exchange rates for the period 4 May – 10 May 2020 are based on the weekly
 
 Please refer to here on the guide to retrieve the weekly rates.
 
-If the relevant foreign currency is not listed in the Monetary Authority of Singapore, please refer to [here](https://www.customs.gov.sg/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/customs-exchange-rates) for more information.
+If the relevant foreign currency is not listed in the Monetary Authority of Singapore, please refer to [here](/_valuation-duties-taxes-fees/Weekly-Rates.pdf) for more information.
 
 Note: Exchange Rates are applicable for traders/travellers making declaration to Customs only. Exchange Rates are subject to change without notice.
