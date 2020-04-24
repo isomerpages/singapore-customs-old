@@ -53,31 +53,8 @@ You may refer to more information on the offences and penalties under the Custom
 You are accountable as a Transhipment Agent and Declaring Agent for the transhipment and inter-gateway movement of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
 
-### Do 
-✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.
+( Missing Accordion )
 
-✔ Know the transhipment procedures and declaration requirements before you tranship goods. Check with the relevant Competent Authority on requirements to tranship controlled items.
-
-✔ Know the contents you are transhipping for each consignment by clarifying with the forwarder or other relevant parties.
-
-✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders.
-
-✔ Ensure product details such as the Harmonized System (HS) code, quantity and description are correctly declared.
-
-✔ Remind drivers to produce the goods and related permit for clearance at the checkpoints declared. Remarks such as “Customs Endorsement Required” could be stamped on a prominent place on the permit.
-
-✔ Keep your supporting documents for a minimum of 5 years.
-
-### Do Not
-✖ Manipulate (for example, re-pack or re-label) the goods during the inter-gateway movement.
-
-✖ Use transhipment procedures for unauthorised purposes (for example, temporarily bringing goods from FTZ into customs territory for exhibition or other use).
-
-✖ Make a declaration without verifying the authenticity of all supporting documents.
-
-✖ Share your TradeNet user ID and password with other persons.
-
-✖ Use your company’s Unique Entity Number (UEN) to tranship goods not belonging to you unless you are acting as a handling agent for overseas customers (without an UEN). In doing so, you also undertake the responsibility to ensure that all regulatory requirements are complied with.
   
 ## For more information on: 
  
