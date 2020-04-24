@@ -51,6 +51,8 @@ collections:
     output: true
   import-procedures: 
     output: true
+  export-procedures:
+    output: true
   test:
     output: true
   test_hidden:
