@@ -6,7 +6,7 @@ third_nav_title: Import Procedures
 
 # Importing Used Household Articles and Personal Effects
 
-Importing used household articles and personal effects into Singapore will incur  [Goods and Services Tax](/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) (GST).
+Importing used household articles and personal effects into Singapore will incur  [Goods and Services Tax](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst) (GST).
 
 You are required to  [apply](/businesses/importing-goods/import-procedures/) for a Customs In-Payment (GST) permit to account for the import and the payment of GST.
 
