@@ -15,7 +15,7 @@ To export goods from Singapore, you are required to declare the goods to Singapo
 
 ## How to Export Your Goods?
 
-General Export FlowChart
+### General Export FlowChart
 
 ![Export FlowChart](/images/ExportFlowChart.png) 
 
