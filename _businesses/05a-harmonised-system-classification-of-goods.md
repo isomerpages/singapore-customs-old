@@ -45,17 +45,26 @@ Click  [here](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-s
     
 The ASEAN Harmonized Tariff Nomenclature (AHTN) is an 8-digit HS nomenclature used by all ASEAN member countries. The AHTN facilitates trade among ASEAN member countries through consistent and uniform interpretation in the classification of goods. It is based on the 6-digit Harmonized Commodity Description and Coding System Nomenclature developed by WCO.
 
-The last amendment to AHTN was done in 2017 where all 233 sets of 2017 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in  [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2018.](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/resources/stcced/stcced-2018_apr-20.pdf?la=en&hash=9AB15067B858BF7A171832DE5CBDF9A160456DB1)
+The last amendment to AHTN was done in 2017 where all 233 sets of 2017 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in  [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2018.](/documents/businesses/stcced-2018-apr-20.pdf)
     
-Key amendments on AHTN 2017 can be found  [here](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/ahtn-2017_21-may.pdf).
-
+Further to the awareness briefing on AHTN 2017 held on 21 May 2018, you may view the slides [here](/documents/businesses/AHTN-2017-21-May-HSC.pdf) for highlights on the key amendments.
 
 ### Course and Self-Learning Resources
 
-**SC102 - Classification and the Harmonized System Course**
+**SC102 - Classification and the Harmonised System Course**
 
-If you wish to pick up basic skills on the HS classification of goods, you may register for our [SC 102 -](/businesses/resources/courses-and-events) [Classification and the Harmonised System](/businesses/resources/courses-and-events)  course.  
-  
-**Self-Learning**
+If you wish to pick up basic skills on the Harmonised System (HS) classification of goods, you may register for our [SC 102 - Classification and the Harmonised System](/businesses/business-resources/courses-and-events) course, which provides a better understanding on the classification of goods and the HS.
 
-If you wish to learn how to classify products across more than 30 HS Chapters, try our [Multiple Choice Questions (MCQs)](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/resources/mcqs-on-hs-classification-storyline/story_html5.html). Categories in the MCQ questions includes products ranging from food and beverages to chemical preparations to plastic articles, and machines. Both answers and classification rationale are provided.
+**Handy Guides on HS Classification**
+
+Download handy guide on [How to determine HS code](/documents/businesses/How-to-determine-HS-code.pdf).
+
+Download handy guide on [How to read the HS](/documents/businesses/How-to-read-the-HS.pdf).
+
+
+**E-learning Modules**
+
+If you wish to learn classification of products from across more than 30 HS Chapters, try our [Multiple Choice Questions (MCQs)](/documents/businesses/MCQs.pdf).
+Categories in the MCQ questions includes products ranging from food and beverages to chemical preparations to plastic articles, and machines. Please click on this [link](/documents/businesses/Answers-to-MCQs-(1).pdf) for answers and classification rationale.
+
+
