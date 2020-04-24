@@ -10,15 +10,15 @@ The addressee indicated on postal parcels from overseas is deemed to be the impo
 
 | **Types of Goods** | **CIF value** | **GST Payable** | **Duty Payable** | **Permit Required** |
 |---|---|---|---|---|
-| Non-Dutiable, non-Controlled |< or = S$400 | No |No |No |
+| Non-Dutiable, Non-Controlled |< or = S$400 | No |No |No |
 |  | >S$400 | Yes |No |No |
 | Non-Dutiable, Controlled | < or = S$400 | No | No | Yes, if required by CA, <br> **In-Non-Payment (GST Relief) and/or duty exemption)** permit |
 |  | >S$400 | Yes | No | Yes, if required by CA, <br> **In-Payment (GST including Duty exemption)** permit
-| Dutiable,non-Controlled | < or = S$400 | Yes | Yes | No |
+| Dutiable, Non-Controlled | < or = S$400 | Yes | Yes | No |
 |  | >S$400 | Yes | Yes | No |
 | Dutiable, Controlled | < or = S$400 | Yes | Yes | Yes, if required by CA, <br> **In-Payment (Duty and GST)** permit |
 |  | >S$400 | Yes | Yes | Yes, **In-Payment (Duty and GST)** permit |
-| Non-Dutiable,non-Controlled goods imported by taxable persons under IRAS' [Major Exporter Scheme (MES)](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/) | < or = S$400 | No | No | No |
+| Non-Dutiable, Non-Controlled goods imported by taxable persons under IRAS' [Major Exporter Scheme (MES)](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/) | < or = S$400 | No | No | No |
 |  | >S$400 | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit |
 | Non-Dutiable, Controlled goods imported by taxable persons under IRAS' [MES](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/)| < or = S$400  | No | No | Yes, if required by CA, **In-Non-Payment (**Approved Premises/Schemes**)** permit|
 |  | >S$400 | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit | 
