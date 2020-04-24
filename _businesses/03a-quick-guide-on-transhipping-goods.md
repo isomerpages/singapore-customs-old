@@ -55,7 +55,7 @@ Singapore Customs will provide an email reply to inform you of the outcome of th
 
 ### Step 2 : Check If Your Goods are Controlled or Prohibited for Transhipment
 
--   Do check if the goods you intend to tranship are strategic goods, controlled or prohibited goods subject to restrictions by Competent Authorities in Singapore.
+Do check if the goods you intend to tranship are strategic goods, controlled or prohibited goods subject to restrictions by Competent Authorities in Singapore.
     
     You may refer to the  [list of controlled goods and prohibited goods](/businesses/transhipping-goods/controlled-and-prohibited-goods-for-transhipment) for transhipment for more information. you are advised to search  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) to check if your goods are controlled using the description of the product and Harmonized System (HS) or CA product codes to check if your goods are controlled or prohibited. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
     
