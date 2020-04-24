@@ -193,9 +193,8 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 |  |  |  |  |  
 |  |  |  |  |
 |  |  |  |  |
-| 87111012 | CKD mopeds and motorised bicycles with reciprocating internal combustion engine not over 50cc | Nil | 12%  |
-| Other CKD motorcycles and motor scooters with reciprocating internal combustion engine not over 50cc |  | Nil | 12%  |  
-| 87111015 |  | Nil | 12%  |  
+| 87111012 | CKD mopeds and motorised bicycles with reciprocating internal combustion engine not over 50cc | Nil | 12%  |  
+| 87111015 | Other CKD motorcycles and motor scooters with reciprocating internal combustion engine not over 50cc | Nil | 12%  |  
 | 87111019 | Other CKD cycles with reciprocating internal combustion engine not over 50cc | Nil | 12%  |  
 | 87111092 | Non CKD mopeds and motorised bicycles with reciprocating internal combustion not over 50cc | Nil | 12%  |  
 | 87111095 | Other non CKD motorcycles and motor scooters with reciprocating internal combustion engine not over 50cc | Nil | 12%  |  
@@ -207,8 +206,7 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87112016 | CKD motorcycles including motor scooters with reciprocating internal combustion engine over 50cc but not over 150cc | Nil | 12%  |  
 | 87112019 | Other CKD cycles with reciprocating internal combustion engine over 50cc but not over 250cc | Nil | 12%  |  
 | 87112091 | Non CKD motocross motorcycles with reciprocating internal combustion engine over 50cc but not over 250cc | Nil | 12%  |
-| 87112092 |   
-Non CKD mopeds & motorised bicycles with reciprocating internal combustion engine over 50cc but not over 250cc | Nil | 12%  |
+| 87112092 |   Non CKD mopeds & motorised bicycles with reciprocating internal combustion engine over 50cc but not over 250cc | Nil | 12%  |
 | 87112094 | Other non CKD motorcycles including motor scooters with reciprocating internal combustion engine over 150cc but not over 200cc | Nil | 12%  |  
 | 87112095 | Other non CKD motorcycles including motor scooters with reciprocating internal combustion engine over 200cc but not over 250cc | Nil | 12%  |  
 | 87112096 | Other non CKD motorcycles including motor scooters with reciprocating internal combustion engine over 50cc but not over 150cc | Nil | 12%  |  
@@ -229,5 +227,6 @@ Non CKD mopeds & motorised bicycles with reciprocating internal combustion engin
 | 87116099 | Other non CKD cycles with electric motor | Nil | 12%  |  
 | 87119060 | Other CKD cycles excluding reciprocating internal combustion engine and electric motor | Nil | 12%  |  
 | 87119090 | Other non CKD cycles excluding reciprocating internal combustion engine and electric motor | Nil | 12%  |
+ 
 
 Download full List of Dutiable Goods [here](/documents/businesses/list-of-dutiable-items-15apr2020.xlsx).
