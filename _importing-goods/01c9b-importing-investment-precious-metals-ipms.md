@@ -15,7 +15,7 @@ For the full list of qualifying IPMs bars, wafers, ingots and coins and the resp
 ## Import Permit Requirements for IPMs
 
 ### IPM's Imported by Air/Sea Freight or by Land
-Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value)** **not exceeding** **S$400**, do not require a Customs permit.
+Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value)** **not exceeding** **S$400**, do not require a Customs permit.
 
 Import of IPMs by **air freight**, of a **total CIF value exceeding S$400**, requires an In-Non Payment (GST Relief) permit.
 
@@ -39,7 +39,7 @@ However, if the IPMs are imported as [**trade samples**](/businesses/importing-g
 
 ### IPMs Imported By Post
 
-No Customs permit is required if the IPMs are imported by [parcel post](businesses/importing-goods/import-procedures/importing-by-post-or-courier-service). However, GST is payable for non-IPMs if the goods’ [CIF value](businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/establishing-the-customs-value) exceed S$400.
+No Customs permit is required if the IPMs are imported by [parcel post](businesses/importing-goods/import-procedures/importing-by-post-or-courier-service). However, GST is payable for non-IPMs if the goods’ [CIF value](businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value) exceed S$400.
 
 
 ### IPMs Imported By Hand-Carry
