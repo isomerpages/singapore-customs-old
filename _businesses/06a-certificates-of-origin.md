@@ -4,11 +4,21 @@ permalink: /businesses/certificates-of-origin/overview
 third_nav_title: Certificates of Origin
 ---
 
+# Certificates of Origin
+
+**NOTICE:**
+
+With effect from 24 Dec 2019, Lao PDR & Myanmar will join Brunei Darussalam, Cambodia, Indonesia, Malaysia, Singapore, Thailand and Vietnam to commence live operation of the ASEAN Single Window (ASW) for the electronic exchange of Form D under the ASEAN Trade in Goods Agreement of the ASEAN Free Trade Area (ATIGA). This is an update to Circular No. 15/2017 under News & Media > Circulars.
+
+More information on the electronic transmission of Form D via the ASW can be found under “Electronic Exchange of Form D via the ASEAN Single Window (ASW)”.
+
+A Certificate of Origin (CO) helps to attest the origin of goods. There are two types of COs, namely ordinary COs and preferential COs.
+
 ## What is an ordinary Certificate of Origin?
 
 An ordinary CO, also known as a non-preferential CO, is a trade document that helps to identify the origin of the good.
 
-You may refer to this [handbook](https://www.customs.gov.sg/-/media/handbook-on-the-rules-of-origin-for-ordinary-certificate-of-origin.pdf?la=en&hash=F4A319AF9B646B15AD523E8C89CAEA48FA034D2C) for more information on the rules of origin for ordinary COs.
+You may refer to this [handbook](/documents/businesses/handbook-on-the-rules-of-origin-for-oco.pdf) for more information on the rules of origin for ordinary COs.
 
 ## What is a preferential Certificate of Origin?
 
@@ -16,12 +26,12 @@ A preferential CO allows your buyer to pay lower or no customs duty when you exp
 
 These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
 
--   [Handbook on rules of origin for preferential Certificates of Origin](https://www.customs.gov.sg/-/media/handbookonrooforpcomar2020ttsb.pdf?la=en&hash=8B73B48B6088DE124CC0BE55B8A2787505B2F502)
+-   [Handbook on rules of origin for preferential Certificates of Origin](/documents/businesses/handbookonrooforpcomar2020TTttsb.pd)
     
--   [Handbook on the rules of origin for Schemes of Preference](https://www.customs.gov.sg/-/media/handbookonrooforschemeofpreferencesttsbmar-2020.pdf?la=en&hash=DCD0E64ACC7A50DD1E40541FAFA3495518D9C23F)
+-   [Handbook on the rules of origin for Schemes of Preference](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf)
     
 
-You may use the [FTA Cost Statement Calculator](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/cert-of-origin/ftacoststatementcalculatorbetaver30112015.xlsm?la=en&hash=227EE4E79976EC14A173D6FEBC61040936FA29EF) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
+You may use the [FTA Cost Statement Calculator](/documents/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
 
 ## Who can issue Certificate of Origin?
 
@@ -46,7 +56,7 @@ Preferential COs are issued only by Singapore Customs.
 
 ## Step 1: Register your Manufacturing Premises
 
-Register using the [manufacturer’s application form](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/certificate-of-origin-related-forms/sca006-manufacturers-application-ver-11--apr19.doc?la=en&hash=8F05954A10A3F8FB3E48CD92EE509C3A0EFC8C2C).
+Register using the [manufacturer’s application form](/documents/businesses/SCA006-manufacturers-application-ver-11-apr19.doc).
 
 Singapore Customs will arrange to visit your factory to verify the production processes for the goods specified in your application to ensure that they meet the requirements. Financial and operation records may also be inspected as part of this visit.
 
@@ -58,7 +68,7 @@ The manufacturer's registration will be valid for 2 years from the date of your 
     
 -   After registration, submit the manufacturing cost statement to Singapore Customs for verification that the goods in question meet the origin criteria under the respective Free Trade Agreements and Schemes.
     
--   The submission should be made using the latest [Manufacturing Cost Statement](https://www.customs.gov.sg/-/media/manufacturing-cost-statement-2020-mar.xlsx?la=en&hash=113B91564A1EB8986601433A2EC3FD606EF18B21). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
+-   The submission should be made using the latest [Manufacturing Cost Statement](/documents/businesses/manufacturing-cost-statement-2020-mar.xlsx). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
     
 -   The typical processing time for a Manufacturing Cost Statement is 7 working days upon receipt of the submission provided the submission is complete and accurate.
     
@@ -67,7 +77,7 @@ The manufacturer's registration will be valid for 2 years from the date of your 
 
 Apply for a CO with export permit under the respective Free Trade Agreements or Schemes via TradeNet.
 
-You may refer to this [handbook](https://www.customs.gov.sg/-/media/handbook_on_the_application_procedures_for_a_certificate_of_origin_via_tradenet_and_related_administrative_matters_jan_2020(2).pdf?la=en&hash=7893BC43DE3E255C97BAF5FF4ABBF5C872E55229) for more information on how to apply for a CO and export permit via TradeNet.
+You may refer to this [handbook](/documents/businesses/handbook-on-the-Application-procedures-for-a-certificate-of-origin-via-tradenet-and-related-administrative-matters-Jan-2020(2).pdf) for more information on how to apply for a CO and export permit via TradeNet.
     
 ## Step 4: Collect the Certificate of Origin
 
@@ -76,10 +86,10 @@ The CO must be collected within 1 month from its approval date. The exporter may
 
 The authorised person is required to produce the Letter of Authorisation **issued by the exporter** for verification during collection:
 
--   [For collection of Form D/E](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/cert-of-origin/authorised-letterform-demar-2016.docx?la=en&hash=D0FFCD8DE7AEE6BAB0464F814DDB731BDEE99002)
--   [For collection of Certificate of Origin other than Form D/E](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/cert-of-origin/authorised-letterother-co-mar-2016.docx?la=en&hash=E92FA2B66336A3ED53B0F8EEB3F2D784E16158FE)
+-   [For collection of Form D/E](documents/businesses/authorised-letterform-demar-2016.docx)
+-   [For collection of Certificate of Origin other than Form D/E](/documents/businesses/authorised-letterother-co-mar-2016.docx)
 
-Note: Effective, 1 Apr 2016, all Letters of Authorisation for collection of CO must be issued by the exporter unless a blanket [appointment letter](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/cert-of-origin/appointment-letter-for-blanket-authorisation-for-co-collection.docx?la=en&hash=28A1FD1554E660D6BC1B3CCE7CCBB51D8347AC82) is provided to an entity to collect the CO on their behalf. In such cases, this letter from the exporter and the Letter of Authorisation from the appointed entity must be provided during each CO collection.
+Note: Effective, 1 Apr 2016, all Letters of Authorisation for collection of CO must be issued by the exporter unless a blanket [appointment letter](/documents/businesses/appointment-letter-for-blanket-authorisation-for-co-collection.docx) is provided to an entity to collect the CO on their behalf. In such cases, this letter from the exporter and the Letter of Authorisation from the appointed entity must be provided during each CO collection.
 
 Please ensure that the information on the CO is accurate and tick the relevant check boxes before signing on the CO and dispatching it to your overseas customer. Explanation on the check boxes are found on the overleaf notes of the CO.
     
@@ -100,7 +110,7 @@ In general, the re-export may be eligible for a back-to-back preferential CO iss
     
 -   The goods do not undergo any further processing in Singapore; and
     
--   The goods fulfill the relevant requirements in the [Operational Certification Procedures](https://www.customs.gov.sg/-/media/cus/files/business/certificates-of-origin/back-to-back-pco-legal-text-reference_aug_2019.pdf?la=en&hash=9CB49439C36892AEF15D5A7692D11A81911D01A4) of the FTA.
+-   The goods fulfill the relevant requirements in the [Operational Certification Procedures](/documents/businesses/Back-to-back-pco-legal-text-reference-Aug-2019.pdf) of the FTA.
 
 Please refer to the legal text of the respective [Free Trade Agreements](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview) for the eligibility requirements for back-to-back preferential CO application.
 
@@ -120,7 +130,7 @@ The required supporting documents include:
     
 -   Exporter’s invoice
     
--   [Working sheet for partial consignments](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/cert-of-origin/working-sheet-for-back-to-back-application.doc?la=en&hash=810CDABF68ABE95A755A85BD7A1B8CAC0A790145)
+-   [Working sheet for partial consignments](/documents/businesses/working-sheet-for-back-to-back-application.doc)
     
 -   Import permit (required only for application of Certificate Types 20, 28 and 32)
     
@@ -185,7 +195,7 @@ To transmit an e-ATIGA Form D, the exporter must first be registered with Singap
 
 To register, please fill in the application form to register for the ASW [here](https://form.gov.sg/5d1330b145677e0011c1c97a).
 
-You may also find an infographic of the process [here](https://www.customs.gov.sg/-/media/cus/files/business/certificates-of-origin/certificates-of-origin/asw-infograhic_myanmar_lao.pdf?la=en&hash=BDBC5C0BB1CAED1781E6865D1764BFC600CA8AE6).
+You may also find an infographic of the process [here](/documents/businesses/asw-infograhic-myanmar-lao.pdf).
 
 ### Errors and Offences
 
@@ -198,11 +208,11 @@ Companies may be penalised under the Regulation of Imports and Exports Act (RIEA
         -   Deliberate false declaration of country of origin
         -   Declaring non-Singapore origin materials from local suppliers as Singapore-origin
     
-    -   Incorrect trade descriptions
+   -   Incorrect trade descriptions
         
         -   Affixing false labels of origin on textile goods
     
-    -   Failure to retain documents for the minimum retention period
+   -   Failure to retain documents for the minimum retention period
         
         -   Retaining supporting documents for preferential tariffs claimed under the US-Singapore Free Trade Agreement for 3 years instead of the minimum 5 years
     
@@ -218,7 +228,6 @@ For minor offences under the RIEA, Singapore Customs may offer to compound the o
 
 You may view more information on the prescribed offences and penalties under the [RIEA and RIER](/about-us/acts-and-subsidiary-legislation/customs-act).
 
-    
 
 ### Best Practices
 
