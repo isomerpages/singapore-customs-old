@@ -31,7 +31,7 @@ Non-dutiable sea stores can be uplifted onto all vessel types.
 Dutiable sea stores can only be uplifted to approved types of vessels (passenger vessels, cargo vessels, oil rigs, dredges, fishing vessels, supply boats and tug boats) and are subject to the following ration allowance restrictions:
 
 | Dutiable Good | Ration Allowance per Crew per Day |
-|--|--|--|
+|--|--|
 |**Cigarettes**  | 40 Sticks|  
 | **Smoking tobacco (for example, pipe or shag)** | 15 Grammes | 
 |**Cigars and Cheroots**| 3 Sticks  | 
