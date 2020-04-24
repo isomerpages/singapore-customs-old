@@ -22,7 +22,7 @@ To establish the customs value using this method, all other charges incidental t
 
 If any component of the customs value is settled in a foreign currency, that value should be converted to Singapore dollars using the prevailing [Customs exchange rate]()  at the time of import.
 
-Example 1:
+**Example 1**:
 
 Company A bought 2 cartons of vitamins from Supplier B on  [Ex Works (EXW) incoterms](/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value).
 
@@ -37,7 +37,7 @@ Company A bought 2 cartons of vitamins from Supplier B on  [Ex Works (EXW) incot
 
 Therefore, the customs value should be the sum of all the costs, which is S$1,800.
 
-Example 2:
+**Example 2**:
 
 Individual A purchased a bag listed for sale on an online website by a foreign seller. B (a local service provider) arranged for the bag to be collected from the foreign seller. The bag would then be stored in an overseas holding area, packaged and then shipped to Singapore. For the services rendered, B charged individual A a concierge/handling fee in addition to the cost of international freight. No insurance was purchased.
 
