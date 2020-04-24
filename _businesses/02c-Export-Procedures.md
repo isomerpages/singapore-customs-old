@@ -107,5 +107,5 @@ You are accountable as an exporter or declaring agent for the export of your goo
 |   |   |   |   |
 |---|---|---|---|
 |[ ![](/images/e1.jpg)](/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods) |[ ![](/images/e2.jpg)](/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods)  |[ ![](/images/e3.jpg)](/businesses/exporting-goods/export-procedures/permit-amendments-and-cancellation)  |[ ![](/images/e4.jpg)](/businesses/exporting-goods/export-procedures/permit-validity-and-error-messages)  |
-|[ ![](/images/e5.jpg)](/businesses/exporting-goods/export-procedures/exporting-pets)  |[ ![](/images/e6.jpg)](/businesses/importing-goods/export-procedures/authorised-piers-and-places)  |[  ![](/images/e7.jpg)](/businesses/exporting-goods/export-procedures/supply-of-air-sea-stores) |
+|[ ![](/images/e5.jpg)](/businesses/exporting-goods/export-procedures/exporting-pets)  |[ ![](/images/e6.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places)  |[  ![](/images/e7.jpg)](/businesses/exporting-goods/export-procedures/supply-of-air-sea-stores) |
   
