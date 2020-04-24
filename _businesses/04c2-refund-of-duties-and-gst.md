@@ -34,16 +34,15 @@ There are three possible outcomes:
 -   Rejection: This could include requiring the taxable importer to claim from the  [Inland Revenue Authority of Singapore (IRAS)](/businesses/valuation-duties-taxes-fees/refund-of-duties-and-gst).
 -   Approval: All successful refunds will be credited directly into the Inter-Bank GIRO (IBG) accounts of the payers who maintained IBG accounts with Singapore Customs.
 -   Pending supporting documents: The applicant will receive a notification to submit the following supporting documents:
-
-1.  Refund permit
-2.  Replacement permit (if applicable)
-3.  Commercial invoice
-4.  Packing list
-5.  Arrival notice/freight notification or delivery order
-6.  Bill of Lading/Airway Bill
-7.  GST/Duty computation
-8.  Bank slip and bank statement (for payment made at the bank)
-9.  Any other documents required by Singapore Customs to verify the claim
+  - Refund permit
+  - Replacement permit (if applicable)
+  - Commercial invoice
+  - Packing list
+  - Arrival notice/freight notification or delivery order
+  - Bill of Lading/Airway Bill
+  - GST/Duty computation
+  - Bank slip and bank statement (for payment made at the bank)
+  - Any other documents required by Singapore Customs to verify the claim
 
 ---- 
 
