@@ -22,4 +22,14 @@ Where the insurance and freight charges are excluded from the value of the goods
 
 Please also check if your goods are  [controlled goods](/businesses/importing-goods/controlled-and-prohibited-goods-for-import)  or goods subject to restrictions by Competent Authorities (CAs) in Singapore, and obtain the relevant Import permits and authorisation from the relevant CAs if necessary.
 
-[accordion]
+-   [Procedures for Postal Parcels](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/procedures-for-pp)
+    
+-   [Procedures for Courier Parcels](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/procedures-for-courier-parcels)
+    
+-   [Fees Charged by Service Providers](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/fees-charged-by-sp)
+    
+-   [How to Make GST and Duty Payment](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/gst-and-duty-payment)
+    
+-   [Enquiries](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/enquiries)
+    
+-   [Refund of Taxes](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/refund-of-taxes)
