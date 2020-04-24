@@ -6,7 +6,7 @@ third_nav_title: Importing by Post or Courier Service
 
 ## How to Make GST and Duty Payment
 
-****For Postal Parcels****
+### For Postal Parcels
 
 **At the ICA counter at Singapore Post Centre:** Payment can be made by NETS, CashCard, Visa/MasterCard or Inter-Bank GIRO.
 
@@ -14,7 +14,7 @@ third_nav_title: Importing by Post or Courier Service
 
 Alternatively, you can also apply for a Customs permit for clearance and payment of the postal parcels, and present the permit to ICA (for collection at SPC) or Singapore Post (for delivery) as proof of payment for the relevant GST and/or duty charges for your parcel.
 
-****For Courier Parcels****
+### For Courier Parcels
 
 **Delivery by Courier Service Companies:** Please check with the courier service company who is handling the delivery of your parcel. Please note that additional service fees for services rendered (i.e. customs clearance and documentation) may apply.
 
