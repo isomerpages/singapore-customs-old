@@ -1,5 +1,5 @@
 ---
-title: Certificates Of Origin
+title: Overview
 permalink: /businesses/certificates-of-origin/overview
 third_nav_title: Certificates of Origin
 ---
