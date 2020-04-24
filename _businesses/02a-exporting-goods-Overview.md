@@ -14,7 +14,10 @@ Goods exported from Singapore are regulated under the Customs Act, the Regulatio
 To export goods from Singapore, you are required to declare the goods to Singapore Customs. Goods and Services Tax (GST) and duty are not levied on goods exported from Singapore.
 
 ## How to Export Your Goods?
-![Export FlowChart](/images/ExportFlowChart.png) <br> General Export FlowChart
+
+General Export FlowChart
+
+![Export FlowChart](/images/ExportFlowChart.png) 
 
 To account for the export of your goods (for example, from customs territory, zero-GST warehouse, licensed warehouse or goods imported under the Major Exporter Scheme to a free trade zone (FTZ) or exit checkpoint), please follow the steps below to obtain the relevant export permits and authorisation (if the goods are subject to control) from the relevant CAs.
 
