@@ -94,5 +94,5 @@ Traders can set the insurance to zero value if no insurance charges were incurre
 
 |  |  |  |
 |--|--|--|
-| **[![](/images/FR1.jpg)](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)** | **[![](/images/FR2.jpg)](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rate-for-insurance)** | **[![](/images/FR3.jpg)](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/customs-exchange-rates)** |
+| **[![](/images/FR1.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)** | **[![](/images/FR2.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rate-for-insurance)** | **[![](/images/FR3.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates)** |
 
