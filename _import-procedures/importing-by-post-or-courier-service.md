@@ -8,7 +8,7 @@ third_nav_title: Importing by Post or Courier Service
 
 The addressee indicated on postal parcels from overseas is deemed to be the importer. Goods imported by **post** or Speedpost services are processed and managed by [SingPost](http://www.singpost.com/). (**Note**: Please refer to the next section on Procedures for Courier Parcels for information on goods imported under vPost, SingPost's eCommerce service.) The collection procedures for postal parcels is dependent on the type of goods and CIF value as shown in the table below.
 
-**Types of Goods** | **CIF value** | **GST Payable** | **Duty Payable** | **Permit Required** |
+| **Types of Goods** | **CIF value** | **GST Payable** | **Duty Payable** | **Permit Required** |
 |---|---|---|---|---|
 | Non-Dutiable, non-Controlled |< or = S$400 | No |No |No |
 |  | >S$400 | Yes |No |No |
