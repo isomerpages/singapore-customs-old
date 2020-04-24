@@ -26,4 +26,4 @@ An In-Payment (GST) permit should be declared to account for the import of the f
 
 The temporary import of used freight pallets and packing, for use in the conveyance and packaging of goods meant for import as well as subsequent export to other countries (such as for recycling purposes), is granted GST relief. An In-Non Payment (GST Relief) permit, with the Place of Receipt code “**RECYCL**”, is required.
 
-Before applying for the permit, the importer must register for a claimant account with Singapore Customs. Find out more about claimant registration  [here](/businesses/register-claimants).
+Before applying for the permit, the importer must register for a claimant account with Singapore Customs. Find out more about claimant registration  [here](/businesses/registration-matters/registration-procedures/register-claimants).
