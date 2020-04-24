@@ -42,7 +42,7 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 [Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)
 
-[Courses for Businesses](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
+[Enquiries on SC 401](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
 
 [Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)
 
