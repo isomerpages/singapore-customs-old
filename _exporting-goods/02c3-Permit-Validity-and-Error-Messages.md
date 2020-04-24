@@ -15,7 +15,7 @@ Generally, the validity periods for the export permits are as follow:
 
 |**Export Permit (Message Type)**| **Validity Period*** |
 |--|--|
-| OUT |  Approval date + 9 working days<br><br>  Approval date + 2 working days if goods are dutiable and released from Customs licensed premises<br><br>  Approval date + 1 working day for movement of dutiable sea stores |
+| **OUT** |  - Approval date + 9 working days<br><br>  - Approval date + 2 working days if goods are dutiable and released from Customs licensed premises<br><br>  - Approval date + 1 working day for movement of dutiable sea stores |
 
 <sup>*Note: Please refer to the specific validity periods for each permit. If you are unable to utilise the permit within the stipulated period, please [extend the validity period](https://singapore-customs-staging.netlify.app/businesses/02c4-permit-amendments-and-cancellation)  of the permit via TradeNet before it expires
 
