@@ -1,7 +1,7 @@
 ---
 title: Authorised Piers and Places
-permalink: /businesses/importing-goods/export-procedures/authorised-piers-and-places
-third_nav_title: Export Procedures
+permalink: /businesses/importing-goods/import-procedures/authorised-piers-places
+third_nav_title: Import Procedures 
 ---
 
 # Authorised Piers and Places
