@@ -30,14 +30,14 @@ Non-dutiable sea stores can be uplifted onto all vessel types.
 
 Dutiable sea stores can only be uplifted to approved types of vessels (passenger vessels, cargo vessels, oil rigs, dredges, fishing vessels, supply boats and tug boats) and are subject to the following ration allowance restrictions:
 
-| Dutiable Good | Ration Allowance per Crew per Day | | 
+| Dutiable Good | Ration Allowance per Crew per Day |
 |--|--|--|
-|Cigarettes  | 40 | Sticks |
-| Smoking tobacco (for example, pipe or shag) | 15 | Grammes|
-|Cigars and Cheroots| 3  | Sticks|
-| Wine |0.25  | Bottle|
-| Spirits | 0.25 | Bottle|
-| Beer or Stout (local or imported) |4  | Cans|
+|**Cigarettes**  | 40 Sticks|  
+| **Smoking tobacco (for example, pipe or shag)** | 15 Grammes | 
+|**Cigars and Cheroots**| 3 Sticks  | 
+| **Wine** |0.25 Bottle | 
+| **Spirits** | 0.25 Bottle| 
+| **Beer or Stout (local or imported)** |4 Cans | 
 
 
 ## Customs Permit Requirements for Sea Stores
@@ -60,6 +60,8 @@ Please note that ship spares meant for installation onto vessels while the vesse
 ### Duty and/or GST-Paid or Accounted Sea Stores
 
 The uplift of **duty** and/or **Goods and Services Tax (GST)-paid or accounted** (i.e. GST-accounted goods refer to those imported under IRAS' Major Exporter Scheme or Import Deferment GST Scheme) sea stores does not require any Customs permit, if the goods are not controlled for export. The uplift of such goods must be reported in the "[Monthly Statement of Stores Supplied to Vessels](/eservices/customs-forms-and-service-links)" to be submitted to the Permits Compliance Branch.
+
+***
 
 **Duty** and/or **Goods and Services Tax (GST)-paid or accounted**  sea stores that are controlled for export require proper authorisation (e.g. advance notification, licence or certificate approval) from the relevant CAs before they can be uplifted onto the vessels. The relevant CAs may also require a **Customs export permit [Message / Declaration Type Code = OUT(DRT)]** to account for the uplift of such controlled goods.
 
