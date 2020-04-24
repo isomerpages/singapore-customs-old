@@ -49,6 +49,8 @@ collections:
     output: true
   valuation-duties-taxes-fees: 
     output: true
+  import-procedures: 
+    output: true
   test:
     output: true
   test_hidden:
