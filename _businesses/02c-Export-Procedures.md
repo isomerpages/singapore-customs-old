@@ -51,6 +51,54 @@ The table shows the period to submit your export permit application for the vari
 ( **Missing Accordions** )
 
 
+## Errors & Offences
+
+Exporters may be penalised if they do not comply with the requirements and conditions imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and their subsidiary legislation such as the Regulation of Imports and Exports Regulations (RIER).
+
+For minor offences, Singapore Customs may compound offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if they do not pay the composition sums. Offenders may also be prosecuted if the offence committed is of a fraudulent or serious nature.
+
+(**Missing Accordion**)
+
+
+## Best Practices
+
+You are accountable as an exporter or declaring agent for the export of your goods. We encourage you to take note of the following Dos and Don’ts:
+
+## Do
+
+✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.
+
+✔ Know the export procedures and declaration requirements before you export.
+
+✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders.
+
+✔ Ensure your declaring agents and freight forwarders understand and properly execute your instructions.
+
+✔ Know the contents of each consignment you export and clarify with relevant parties if needed.
+
+✔ Keep your supporting documents for a minimum of 5 years.
+
+✔ Check with the relevant Competent Authority on their requirements to export controlled items.
+
+✔ Ensure product details (for example, HS code, quantity) are correctly declared.
+
+✔ Ensure you comply with all permit conditions stated in the permit.
+
+✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition.
+
+## Do Not
+
+✖ Deny Singapore Customs officers’ requests to enter your premises or to check your documents.
+
+✖ Make a declaration without verifying the authenticity of all supporting documents.
+
+✖ Declare that goods are of Singapore origin when they were only imported and re-exported from Singapore without qualifying for their origin status.
+
+✖ Share your TradeNet user ID and password with other persons.
+
+✖ Use your company’s UEN to export goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.
+
+
 
 
 ## For more information on:
