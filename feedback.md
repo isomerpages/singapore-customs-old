@@ -49,5 +49,3 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 [Quality Service Manager](https://form.gov.sg/#!/5e6862571db1b70011098bf5)
 
 [Reporting of Customs Offences](https://form.gov.sg/5e995f095dad670011b20509)
-
-
