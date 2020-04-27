@@ -17,15 +17,19 @@ A Transhipment Agent is required to obtain a Customs transhipment permit (where 
 
 For more information on the types of Customs permits and situations where no customs permit is required, please click [here](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits).
 
-{% include accordion.html %}
-
--   [Depositing Goods in Free Trade Zones Pending Transhipment]
+-   [Controlled & Prohibited Goods](businesses/transhipping-goods/transhipment-procedures/controlled-prohibited-goods)
     
--   [Transhipment of Class II/Dangerous Cargo]
+-   [Vessel Registration Requirement](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures#item-heading-1fa8c22a-2186-49db-8a24-2faf2951ab01)
     
--   [Retaining Your Trade Documents]
+-   [Applying for a Customs Permit](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures#item-heading-d5c88423-4b9c-491c-88f5-a50c02f0a416)
     
--   [Documentation for Clearance of Goods]
+-   [Depositing Goods in Free Trade Zones Pending Transhipment](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures#item-heading-3641f459-ff7d-4c46-aae0-91d4b50d1efc)
+    
+-   [Transhipment of Class II/Dangerous Cargo](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures#item-heading-994bd7e7-bf3e-4488-a783-6476887f935e)
+    
+-   [Retaining Your Trade Documents](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures#item-heading-50e3d4ac-8d9a-4703-b1a8-53f0323d4734)
+    
+-   [Documentation for Clearance of Goods](https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures#item-heading-5f29ab34-3b31-4cc3-bbc8-02f2641a9ca4)
 
 ## Errors and Offences
 
