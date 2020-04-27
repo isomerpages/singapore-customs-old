@@ -22,16 +22,17 @@ _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC
 -   cosmetics and perfumes;
 -   cutlery of gold, silver or platinum (collectively called in this paragraph precious metal) or clad or plated with precious metal;
 -   items of lead crystal;
+
 -   electronic items as follows -
 
--   computers (including desktop computers, laptop computers, notebook computers, personal digital assistants (PDAs), portable computers, tablet computers and wearable computers)
--   digital cameras;
--   DVD (digital video disc) players and Blu-ray disc players;
--   personal digital music players;
--   smart phones;
--   televisions;
--   video camera recorders;
--   web cameras;
+  -   computers (including desktop computers, laptop computers, notebook computers, personal digital assistants (PDAs), portable computers, tablet computers and wearable computers)
+  -   digital cameras;
+  -   DVD (digital video disc) players and Blu-ray disc players;
+  -   personal digital music players;
+  -   smart phones;
+  -   televisions;
+  -   video camera recorders;
+  -   web cameras;
 
 -   equipment used for producing movies or in home theatre systems (including amplifiers, Hi-Fi sound systems, speakers, projectors, projection screens, headphones and microphones);
 -   fur products;
@@ -126,7 +127,7 @@ _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC
 -   High-speed imaging cameras except those used in medical imaging systems
 -   Truck chassis with 6 or more axles
 
-**Chemical/Biological Weapons-usable Items**:
+- **Chemical/Biological Weapons-usable Items**:
 
    -   Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2.5 meters;
    -   Batch centrifuges with a rotor capacity of 4 L or greater, usable with biological material;
