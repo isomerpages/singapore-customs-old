@@ -53,6 +53,8 @@ collections:
     output: true
   importing-by-post-or-courier-service:
     output: true
+  temporary-import-scheme:
+    output: true
   export-procedures:
     output: true
   authorised-piers-places: 
