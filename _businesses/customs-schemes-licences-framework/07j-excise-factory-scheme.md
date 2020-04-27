@@ -22,7 +22,7 @@ Your company will enjoy these benefits under the Excise Factory Scheme:
 To qualify for the Excise Factory Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the different activities under the scheme (Refer to “Licence Fee” section).
@@ -50,7 +50,7 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 -   **Accountability to Singapore Customs**
     
     -   Accountable for dutiable goods stored in the licensed premises and for the payment of excise duty on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/about-us/national-single-window/tradenet) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the Customs Act, Customs Regulations, and the licensing Terms & Conditions
@@ -68,7 +68,7 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/tradefirst-selfassessment-checklist-approved-31may2019.xlsx?la=en&hash=ED74065B31B86785B1F625E9D4DBCE2AFFF77DF7).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 
@@ -92,7 +92,7 @@ For further assistance, please call 6251 3027 or email  [customs_schemes@customs
 
 **1.** **Where can I find the Harmonised System (HS) codes and duty rates of dutiable goods?**
 
-Find out more about  [Duty Rates of Dutiable Goods](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods) and access the  [Harmonised System (HS) Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do).
+Find out more about  [Duty Rates of Dutiable Goods](/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods) and access the  [Harmonised System (HS) Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do).
 
 **2.** **How do I compute the excise duty payable on locally manufactured liquors?**
 
@@ -122,10 +122,10 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 **6.** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/07a-overview).
+Customs permits can be declared through  [TradeNet](/about-us/national-single-window/tradenet).
 
 Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
 
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 
-Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](https://www.customs.gov.sg/-/media/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf?la=en&hash=2C1D3B2F761BA1F6E7F9EB22920152D11EAE0ED9)  for more information.
+Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/documents/businesses/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf)  for more information.
