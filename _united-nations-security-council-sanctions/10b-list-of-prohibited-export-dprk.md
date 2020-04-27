@@ -21,7 +21,7 @@ third_nav_title: United Nations Security Council Sanctions
 -   cutlery of gold, silver or platinum (collectively called in this paragraph precious metal) or clad or plated with precious metal;
 -   items of lead crystal;
 
--   electronic items as follows -
+-  **electronic items** as follows:
 
    -   computers (including desktop computers, laptop computers, notebook computers, personal digital assistants (PDAs), portable computers, tablet computers and wearable computers)
    -   digital cameras;
@@ -32,7 +32,7 @@ third_nav_title: United Nations Security Council Sanctions
    -   video camera recorders;
    -   web cameras;
 
--   equipment used for producing movies or in home theatre systems (including amplifiers, Hi-Fi sound systems, speakers, projectors, projection screens, headphones and microphones);
+- equipment used for producing movies or in home theatre systems (including amplifiers, Hi-Fi sound systems, speakers, projectors, projection screens, headphones and microphones);
 -   fur products;
 -   gold, sliver and platinum,
 -   articles of goldsmiths' and sliversmiths' wares, and parts of such articles, made of precious metal or of metal clad or plated with precious metal;
