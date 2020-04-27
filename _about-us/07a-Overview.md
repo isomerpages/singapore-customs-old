@@ -24,7 +24,7 @@ TradeNet has been the focus of several academic studies since its introduction. 
 
 |   |   |   |   |
 |---|---|---|---|
-| [![](/images/TN1.png)](/about-us/national-single-window/tradenet/what-you-need-to-know-about-tradenet) |[![](/images/TN2.png)](/about-us/national-single-window/overview/TradeNet-Solution-Providers)  | [![](/images/TN3.png)](/about-us/National-Single-Window/Overview/Competent-Authorities-Requirements) | [![](/images/TN4.png) ](/about-us/National-Single-Window/Overview/Annexes-and-appendices) |
+| [![](/images/TN1.png)](/about-us/national-single-window/overview/what-you-need-to-know-about-tradenet) |[![](/images/TN2.png)](/about-us/national-single-window/overview/TradeNet-Solution-Providers)  | [![](/images/TN3.png)](/about-us/National-Single-Window/Overview/Competent-Authorities-Requirements) | [![](/images/TN4.png) ](/about-us/National-Single-Window/Overview/Annexes-and-appendices) |
 
 
 
