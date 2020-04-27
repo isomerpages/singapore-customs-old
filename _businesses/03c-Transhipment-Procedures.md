@@ -17,19 +17,19 @@ A Transhipment Agent is required to obtain a Customs transhipment permit (where 
 
 For more information on the types of Customs permits and situations where no customs permit is required, please click [here](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits).
 
--   [Controlled & Prohibited Goods](businesses/transhipping-goods/transhipment-procedures/controlled-prohibited-goods)
+-   [Controlled & Prohibited Goods](/businesses/transhipping-goods/transhipment-procedures/controlled-prohibited-goods)
     
--   [Vessel Registration Requirement](businesses/transhipping-goods/transhipment-procedures/vessel-registration-requirement)
+-   [Vessel Registration Requirement](/businesses/transhipping-goods/transhipment-procedures/vessel-registration-requirement)
     
--   [Applying for a Customs Permit](businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit)
+-   [Applying for a Customs Permit](/businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit)
     
--   [Depositing Goods in Free Trade Zones Pending Transhipment](businesses/transhipping-goods/transhipment-procedures/depositing-goods-in-ftzpt)
+-   [Depositing Goods in Free Trade Zones Pending Transhipment](/businesses/transhipping-goods/transhipment-procedures/depositing-goods-in-ftzpt)
     
--   [Transhipment of Class II/Dangerous Cargo](businesses/transhipping-goods/transhipment-procedures/transhipment-of-class-II-dangerous-cargo)
+-   [Transhipment of Class II/Dangerous Cargo](/businesses/transhipping-goods/transhipment-procedures/transhipment-of-class-II-dangerous-cargo)
     
--   [Retaining Your Trade Documents](businesses/transhipping-goods/transhipment-procedures/retaining-trade-documents)
+-   [Retaining Your Trade Documents](/businesses/transhipping-goods/transhipment-procedures/retaining-trade-documents)
     
--   [Documentation for Clearance of Goods](businesses/transhipping-goods/transhipment-procedures/documentation-for-clearance-of-goods)
+-   [Documentation for Clearance of Goods](/businesses/transhipping-goods/transhipment-procedures/documentation-for-clearance-of-goods)
 
 ## Errors and Offences
 
