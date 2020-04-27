@@ -48,19 +48,19 @@ The table shows the period to submit your export permit application for the vari
 <sup>^Bulk petroleum and chemicals are those loaded directly into an oil/chemical tanker without any additional form of packing. It excludes petroleum and chemicals transported in ISO tanks and drums, as there are fixed quantities for these modes of export.
     
 
--   [Controlled & Prohibited Goods](/businesses/exporting-goods/esporting-procedures/controlled-prohibited-goods)
+-   [Controlled & Prohibited Goods](/businesses/exporting-goods/exporting-procedures/controlled-prohibited-goods)
     
--   [Permit Exemptions](/businesses/exporting-goods/esporting-procedures/permit-exemptions)
+-   [Permit Exemptions](/businesses/exporting-goods/exporting-procedures/permit-exemptions)
     
--   [Apply for Customs Export Permit](/businesses/exporting-goods/esporting-procedures/apply-customs-export-permit)
+-   [Apply for Customs Export Permit](/businesses/exporting-goods/exporting-procedures/apply-customs-export-permit)
     
--   [Depositing Goods in the Free Trade Zones](/businesses/exporting-goods/esporting-procedures/depositing-goods-in-ftz)
+-   [Depositing Goods in the Free Trade Zones](/businesses/exporting-goods/exporting-procedures/depositing-goods-in-ftz)
     
--   [Retaining your Trade Documents](/businesses/exporting-goods/esporting-procedures/retaining-trade-documents)
+-   [Retaining your Trade Documents](/businesses/exporting-goods/exporting-procedures/retaining-trade-documents)
     
--   [Documentation for Clearance of Goods](/businesses/exporting-goods/esporting-procedures/documentation-for-clearance-of-goods)
+-   [Documentation for Clearance of Goods](/businesses/exporting-goods/exporting-procedures/documentation-for-clearance-of-goods)
     
--   [Return of Permit](https://www.customs.gov.sg/businesses/exporting-goods/export-procedures#item-heading-fd6bb194-fcaf-425b-9d45-a34488c99cca)
+-   [Return of Permit](/businesses/exporting-goods/export-procedures/return-of-permit)
 
 
 ## Errors & Offences
