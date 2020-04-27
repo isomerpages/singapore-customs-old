@@ -18,7 +18,7 @@ The duty-exempted raw materials must not be sold, transferred or disposed of in 
 
 To qualify for the Industrial Exemption Factory Scheme, the company must:
 
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the duty-exempted materials
 
@@ -31,7 +31,7 @@ An annual fee of S$600 is payable upon issuance of the certificate of exemption.
 -   **Accountability to Singapore Customs**
     
     -   Accountable for duty-exempted raw materials stored in the place of manufacture and for the payment of excise duty and Goods and Services Tax (GST) on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods (including duty-exempted raw materials) in and out of the place of manufacture
+    -   Declare relevant Customs permits through  [TradeNet](about-us/national-single-window/overview) for movement of all goods (including duty-exempted raw materials) in and out of the place of manufacture
     -   Report to Singapore Customs if there is any discrepancy (for example, physical goods and permit information do not tally) by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the Customs Act, Customs Regulations and the Terms and Conditions issued
