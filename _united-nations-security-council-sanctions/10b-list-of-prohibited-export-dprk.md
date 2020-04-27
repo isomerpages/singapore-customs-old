@@ -25,14 +25,14 @@ _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC
 
 -   electronic items as follows -
 
-  -   computers (including desktop computers, laptop computers, notebook computers, personal digital assistants (PDAs), portable computers, tablet computers and wearable computers)
-  -   digital cameras;
-  -   DVD (digital video disc) players and Blu-ray disc players;
-  -   personal digital music players;
-  -   smart phones;
-  -   televisions;
-  -   video camera recorders;
-  -   web cameras;
+   -   computers (including desktop computers, laptop computers, notebook computers, personal digital assistants (PDAs), portable computers, tablet computers and wearable computers)
+   -   digital cameras;
+   -   DVD (digital video disc) players and Blu-ray disc players;
+   -   personal digital music players;
+   -   smart phones;
+   -   televisions;
+   -   video camera recorders;
+   -   web cameras;
 
 -   equipment used for producing movies or in home theatre systems (including amplifiers, Hi-Fi sound systems, speakers, projectors, projection screens, headphones and microphones);
 -   fur products;
