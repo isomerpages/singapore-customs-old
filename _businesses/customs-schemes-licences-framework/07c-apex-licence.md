@@ -21,7 +21,7 @@ To qualify for the Apex Licence, the company must:
 -   Hold more than one existing licence with Singapore Customs
 -   Have good compliance records with Singapore Customs
 -   Operate a robust computerised inventory system which is able to track and account for the inventory status and movement of all goods across multiple locations
--   Undergo  [TradeFIRST assessment](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme) and attain the Premium band
+-   Undergo  [TradeFIRST assessment](/businesses/customs-schemes-licences-framework/trade-first) and attain the Premium band
 
 ## Licence Fee
 
