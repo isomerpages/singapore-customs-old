@@ -1,7 +1,7 @@
 ---
 title: Transhipment of Class II/Dangerous Cargo
 permalink: /businesses/transhipping-goods/transhipment-procedures/transhipment-of-class-II-dangerous-cargo
-third_nav_title: Transhipment Procedures 
+third_nav_title: Transhipment Requirements 
 ---
 
 ## Transhipment of Class II/Dangerous Cargo
