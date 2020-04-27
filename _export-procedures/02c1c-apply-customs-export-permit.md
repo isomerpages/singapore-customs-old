@@ -1,6 +1,6 @@
 ---
 title: Apply for Customs Export Permit
-permalink: /businesses/exporting-goods/exporting-procedures/apply-customs-export-permit
+permalink: /businesses/exporting-goods/export-procedures/apply-customs-export-permit
 third_nav_title: Exporting Requirements
 ---
 
