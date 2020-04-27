@@ -1,6 +1,6 @@
 ---
 title: Documentation for Clearance of Goods
-permalink: businesses/transhipping-goods/transhipment-procedures/documentation-for-clearance-of-goods
+permalink: /businesses/transhipping-goods/transhipment-procedures/documentation-for-clearance-of-goods
 third_nav_title: Transhipment Procedures 
 ---
 
