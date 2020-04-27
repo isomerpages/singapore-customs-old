@@ -1,6 +1,6 @@
 ---
 title: Return of Permit 
-permalink: /businesses/exporting-goods/esporting-procedures/return-of-permit
+permalink: /businesses/exporting-goods/exporting-procedures/return-of-permit
 third_nav_title: Exporting Requirements
 ---
 
