@@ -6,7 +6,6 @@ third_nav_title: United Nations Security Council Sanctions
 
 ### **List of Prohibited Imports and (Inward) Transhipment or goods in Transit from the DPRK**
 
-<sup> _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC Sanctions Committees website_](https://www.un.org/sc/suborg/en/)_. Where legal advice is required, please seek advice from your legal advisors._
 
 -   Arms and related matériel and conventional arms dual-use items set out in the lists of United Nations Security Council documents S/2016/1069, which are updated from time to time and made available on the Internet through the official [United Nations website](https://www.un.org/sc/suborg/en/sanctions/1718/prohibited-items).
 
@@ -111,3 +110,5 @@ third_nav_title: United Nations Security Council Sanctions
   -   Wood (HS Code chapter 44).
   -   Vessels (HS Code chapter 89).
   -   Any goods that are for the purposes of trade with any person in the Democratic People's Republic of Korea.
+  
+ <sup> _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC Sanctions Committees website_](https://www.un.org/sc/suborg/en/)_. Where legal advice is required, please seek advice from your legal advisors._
