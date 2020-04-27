@@ -1,6 +1,6 @@
 ---
 title: Permit Exemptions
-permalink: businesses/exporting-goods/esporting-procedures/permit-exemptions
+permalink: /businesses/exporting-goods/esporting-procedures/permit-exemptions
 third_nav_title: Exporting Requirements
 ---
 
