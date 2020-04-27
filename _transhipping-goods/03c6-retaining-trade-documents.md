@@ -1,6 +1,6 @@
 ---
 title: Retaining Your Trade Documents
-permalink: businesses/transhipping-goods/transhipment-procedures/retaining-trade-documents
+permalink: /businesses/transhipping-goods/transhipment-procedures/retaining-trade-documents
 third_nav_title: Transhipment Procedures
 ---
 
