@@ -15,7 +15,7 @@ The Bonded Truck Scheme allows air express companies to handle time-sensitive tr
 To qualify for the Bonded Truck Scheme, the company must:
 
 -   Be Goods and Services Tax (GST)-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Have premises located within Changi Free Trade Zone for the purpose of bulk-breaking, consolidation and sorting of goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the “Premium” Band
@@ -26,7 +26,7 @@ To qualify for the Bonded Truck Scheme, the company must:
     
     -   Notify Singapore Customs within 14 days on any changes including but not limited to the modification, replacement, or intention to de-register the bonded vehicles
     -   Comply with the Customs Act and Customs Regulations and other conditions imposed
-    -   Declare relevant Customs permits through  [TradeNet](https://singapore-customs-staging.netlify.app/about-us/07a-overview) for movement of all goods in and out of Changi Free Trade Zone, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/about-us/national-single-window/overview) for movement of all goods in and out of Changi Free Trade Zone, and abide by the stipulated permit conditions
 
 -   **Accountability to Other Competent Authorities**
     
@@ -40,7 +40,7 @@ To qualify for the Bonded Truck Scheme, the company must:
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/tradefirst-selfassessment-checklist-approved-31may2019.xlsx?la=en&hash=ED74065B31B86785B1F625E9D4DBCE2AFFF77DF7).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 
@@ -68,11 +68,11 @@ Only non-controlled and non-dutiable goods are allowed to be moved under the Bon
 
 **3)** **How do I check if the goods are controlled or dutiable?**
 
-For dutiable goods, please refer to the  [List of Dutiable Goods](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
+For dutiable goods, please refer to the  [List of Dutiable Goods](/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods).
 
 For controlled goods, you may check using this  [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authorities controlling the product.
 
-Find out more about  [Competent Authorities' Requirements for Controlled Items](https://singapore-customs-staging.netlify.app/about-us/07a3-competent-authorities-requirements) to handle controlled goods.
+Find out more about  [Competent Authorities' Requirements for Controlled Items](/about-us/national-single-window/overview/competent-authorities-requirements) to handle controlled goods.
 
 **4)** **What types of vehicles can I use to transport goods under the Bonded Truck Scheme?**
 
@@ -86,6 +86,6 @@ The bonded vehicles’ compartments must meet all specifications listed below:
 
 **5)** **How do I declare Customs permits?**
 
-Customs permits can be declared electronically via  [TradeNet](/about-us/07a-overview).
+Customs permits can be declared electronically via  [TradeNet](/about-us/national-single-window/overview).
 
 Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
