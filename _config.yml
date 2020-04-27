@@ -68,8 +68,9 @@ collections:
   apply-update-renew-terminate-declarant-agent:
     output: true   
   organisation-overview:
+    output: true 
+  importing-investment-precious-metals:
     output: true      
-
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
