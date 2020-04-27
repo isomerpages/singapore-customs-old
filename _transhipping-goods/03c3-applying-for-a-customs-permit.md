@@ -1,7 +1,7 @@
 ---
 title: Applying for a Customs Permit
 permalink: /businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit
-third_nav_title: Transhipment Procedures 
+third_nav_title: Transhipment Requirements 
 ---
 
 ## Applying for a Customs Permit
