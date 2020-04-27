@@ -8,7 +8,7 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 ## What is it?
 
-The Kimberley Process Certification Scheme (KPCS) is an international scheme to stop the trade of "conflict diamonds” and to ensure that diamond purchases do not finance violence by rebel movements and their allies seeking to undermine legitimate governments. Singapore has been a Kimberley Process (KP)  [participant](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/cir072004.pdf?la=en&hash=16FD7D5ABB336C039C3617F25BDEA97AD8622123)  since 2004.
+The Kimberley Process Certification Scheme (KPCS) is an international scheme to stop the trade of "conflict diamonds” and to ensure that diamond purchases do not finance violence by rebel movements and their allies seeking to undermine legitimate governments. Singapore has been a Kimberley Process (KP)  [participant](/documents/businesses/cir072004.pdf)  since 2004.
 
 Find out more about the [KPCS](https://www.kimberleyprocess.com/)  and [list of KP participants](http://www.kimberleyprocess.com/en/kp-participants-and-observers).
 
@@ -23,9 +23,9 @@ To import rough diamonds under Harmonized System (HS) codes 7102 1000, 7102 2100
 
 To export rough diamonds under HS codes 7102 1000, 7102 2100 and or 7102 3100:
 
--   You must hold a valid  [KP Licence;](/businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme)
+-   You must hold a valid  [KP Licence;]
 -   Your shipment must be sealed and secured;
--   You must obtain a  [Singapore KP Certificate](/businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme)  issued by Singapore Customs; and
+-   You must obtain a  [Singapore KP Certificate]  issued by Singapore Customs; and
 -   You or your agent must produce the shipment, Singapore KP Certificate, export permit and supporting documents to the checkpoint officers at the time of exportation for endorsement.
 
 Singapore Customs may conduct inspections on your import and export shipments of rough diamonds at our office or at any premises specified. For exports, the Singapore KP Certificate will only be issued when the inspection (if any) of the rough diamonds is found to be in order.
@@ -54,7 +54,7 @@ To apply for a KP Certificate, you need to:
 
 -   Have a valid KP Licence with Singapore Customs; and
 -   Have a valid  [Inter-Bank GIRO (IBG) account](/eservices/customs-forms-and-service-links)  with Singapore Customs for the deduction of a S$5.00 fee per KP Certificate issued; and
--   Submit the  ["Application for Kimberley Process Certificate"](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links)  form with all supporting documents; and ensure that you adhere to all the terms and conditions for the KP Certificate.
+-   Submit the  ["Application for Kimberley Process Certificate"](/eservices/customs-forms-and-service-links)  form with all supporting documents; and ensure that you adhere to all the terms and conditions for the KP Certificate.
 
 Most applications will be processed within 1 working day upon: (a) receipt of the completed KP Certificate application form and full set of supporting documents namely, the overseas KP Certificate, KP licence, commercial invoice, packing list and Airway Bill; and (b) passing of an inspection of the shipment to be held at Customs' office or your entity's premises.
 
@@ -67,11 +67,11 @@ Customs permits are required for the importation and exportation of rough diamon
 You may:
 
 -   Appoint a  [declaring agent](/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs permits on your behalf; or
--   Apply for Customs permits on your own. To do so, you need to register as a declaring agent and  [apply for a TradeNet User ID](/about-us/07a1-what-you-need-to-know).
+-   Apply for Customs permits on your own. To do so, you need to register as a declaring agent and  [apply for a TradeNet User ID](/about-us/national-single-window/overview/what-you-need-to-know-about-tradenet).
 
 All permit applications must be submitted via TradeNet, accessible through:
 
--   [TradeNet front-end solution](/about-us/07a2-tradenet-solution-providers) from any approved solution provider, or
+-   [TradeNet front-end solution](/about-us/national-single-window/overview/tradenet-solution-providers) from any approved solution provider, or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
 
 If you choose to engage a declaring agent to assist you, you may wish to check with your appointed agent on the charges involved.
