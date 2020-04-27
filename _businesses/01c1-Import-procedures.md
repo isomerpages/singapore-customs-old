@@ -45,25 +45,25 @@ More information [here](/businesses/importing-goods/import-procedures/types-of-i
 
 Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/) on the arrangements to account for the GST.
 
--   [Controlled & Prohibited Goods](/businesses/importing-goods/import-procedures/)
+-   [Controlled & Prohibited Goods](/businesses/importing-goods/import-procedures/controlled-prohibited-goods)
     
--   [Apply for a Customs Import Permit](/businesses/importing-goods/import-procedures/)
+-   [Apply for a Customs Import Permit](/businesses/importing-goods/import-procedures/apply-customs-import-permit)
     
--   [Paying Duty and GST](/businesses/importing-goods/import-procedures/)
+-   [Paying Duty and GST](/businesses/importing-goods/import-procedures/paying-duty-and-gst)
     
--   [Apply for a Short-Payment Permit](/businesses/importing-goods/import-procedures/)
+-   [Apply for a Short-Payment Permit](/businesses/importing-goods/import-procedures/apply-short-payment-permit)
     
--   [Depositing Goods in Free Trade Zones](/businesses/importing-goods/import-procedures/)
+-   [Depositing Goods in Free Trade Zones](/businesses/importing-goods/import-procedures/depositing-goods-in-ftz)
     
--   [Depositing Goods in Licensed or Zero-GST Warehouses](/businesses/importing-goods/import-procedures/)
+-   [Depositing Goods in Licensed or Zero-GST Warehouses](/businesses/importing-goods/import-procedures/depositing-goods-in-licensed-zerogstwarehouses)
     
--   [Retaining your Trade Documents](/businesses/importing-goods/import-procedures/)
+-   [Retaining your Trade Documents](/businesses/importing-goods/import-procedures/retaining-trade-documents)
     
--   [Documents for Clearance of Goods](/businesses/importing-goods/import-procedures/)
+-   [Documents for Clearance of Goods](/businesses/importing-goods/import-procedures/documents-for-clearance-of-goods)
     
--   [Return of Customs Permits](/businesses/importing-goods/import-procedures/)
+-   [Return of Customs Permits](/businesses/importing-goods/import-procedures/return-customs-permits)
     
--   [Sealing and Unstuffing](/businesses/importing-goods/import-procedures/)
+-   [Sealing and Unstuffing](/businesses/importing-goods/import-procedures/sealing-and-unstuffling)
     
 
 ## Errors & Offences
