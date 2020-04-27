@@ -51,6 +51,8 @@ collections:
     output: true
   import-procedures: 
     output: true
+  importing-by-post-or-courier-service:
+    output: true
   export-procedures:
     output: true
   united-nations-security-council-sanctions: 
