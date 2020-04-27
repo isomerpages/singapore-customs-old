@@ -1,7 +1,7 @@
 ---
 title: Controlled & Prohibited Goods
 permalink: businesses/exporting-goods/esporting-procedures/controlled-prohibited-goods
-third_nav_title: Transhipment Requirements
+third_nav_title: Exporting Requirements
 ---
 
 ### Controlled & Prohibited Goods
