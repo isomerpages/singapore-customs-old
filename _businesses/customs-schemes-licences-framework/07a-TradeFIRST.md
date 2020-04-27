@@ -72,7 +72,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     -   [Consolidated Declaration](/businesses/customs-schemes-licences-framework/apex-licence)
     -   [Bonded Truck Scheme](/businesses/customs-schemes-licences-framework/bonded-truck-scheme)
     
-    [Terms and Conditions](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/as-part-of-the-benefits-for-having-attained-the-premium-band-under-tradefirst.docx)  for the use of TradeFIRST Logo
+    [Terms and Conditions](/documents/businesses/as-part-of-the-benefits-for-having-attained the-premium-band-under-TradeFIRST.docx)  for the use of TradeFIRST Logo
     
 ## TradeFIRST Assessment
 
@@ -108,13 +108,14 @@ There are 6 sections under the TradeFIRST assessment framework:
 
 -   Company’s compliance records
 
-To view the entire TradeFIRST assessment criteria, you may download the checklist  [here](https://www.customs.gov.sg/-/media/31may2019-final-tradefirst-selfassessment-checklist-approved-.xlsx).
+To view the entire TradeFIRST assessment criteria, you may download the checklist  [here](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
 The TradeFIRST assessment process is shown in the following table:
 
-| **Step 1**  | Account manager sends company the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/31may2019-final-tradefirst-selfassessment-checklist-approved-.xlsx)  that explains the assessment framework for the company’s self-assessment. |
+|  |  |
 |--|--|
-| **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/31may2019-final-tradefirst-selfassessment-checklist-approved-.xlsx)  and sends it to the account manager with supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
+| **Step 1**  | Account manager sends company the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx)  that explains the assessment framework for the company’s self-assessment. |
+| **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx)  and sends it to the account manager with supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
 | **Step 3** | Account manager conducts preliminary assessment on suitability of company, advises on areas of improvement, and gives sufficient time for company to improve those areas where necessary. |
 | **Step 4** | On-site assessment will be conducted. |
 | **Step 5** | After the assessment, the account manager submits the evaluation and recommendation for approval.<br><br>The account manager will inform the company on its application outcome, the  [band](/businesses/customs-schemes-licences-framework/trade-first) it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement. | 
@@ -130,7 +131,7 @@ For any Customs scheme applied successfully, your company will be subject to rev
 | Intermediate | Once in 2 Years |
 | Standard | Once in 2 Years |
 
-During the renewal process, your company is required to submit the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/31may2019-final-tradefirst-selfassessment-checklist-approved-.xlsx)  and all relevant supporting documents, and undergo the on-site assessment again.
+During the renewal process, your company is required to submit the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx)  and all relevant supporting documents, and undergo the on-site assessment again.
 
 Reviews may also be conducted at shorter intervals under special circumstances, such as for companies granted conditional approval with areas identified for improvement within a stipulated time period.
 
@@ -158,7 +159,7 @@ The company should not indicate “N.A.” on outsourced functions, for example 
 
 **Company is a Tenant**
 
-The company should abide by these  [guidelines](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/selfassessmtguidelines.doc)  if it is a tenant.
+The company should abide by these  [guidelines](/documents/businesses/selfassessmtguidelines.doc)  if it is a tenant.
 
 
 **Companies with Global or Regional Offices**
