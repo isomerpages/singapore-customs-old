@@ -43,6 +43,10 @@ collections:
     output: true
   chemical-weapons-convention: 
     output: true
+  inspections: 
+    output: true
+  licensing-requirements: 
+    output: true
   strategic-goods-control: 
     output: true
   customs-schemes-licences-framework: 
