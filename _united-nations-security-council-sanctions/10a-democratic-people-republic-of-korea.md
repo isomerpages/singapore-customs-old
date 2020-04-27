@@ -1,7 +1,7 @@
 ---
 title: Democratic People’s Republic of Korea (DPRK)
 permalink: /businesses/united-nations-security-council-sanctions/democratic-people-republic-of-korea
-third_nav_title:
+third_nav_title: United Nations Security Council Sanctions
 ---
 
 ## **Democratic People’s Republic of Korea (DPRK)**
