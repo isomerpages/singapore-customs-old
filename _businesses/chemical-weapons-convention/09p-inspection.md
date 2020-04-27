@@ -36,6 +36,6 @@ Facilities that produce, process, or consume scheduled chemicals and facilities 
 **Challenge Inspections**  
 Challenge inspections are designed for clarifications and resolving questions or doubts concerning possible non-compliance with the Convention. A Member State is obligated to accept the challenge inspection and seek to clarify or resolve any doubts to prove its compliance during the inspection.
 
-## **[![](/images/Picture1.jpg)](/businesses/chemical-weapons-convention/inspections/opcw-inspection-process)** 
-
-## **[![](/images/Picture2.jpg)](/businesses/chemical-weapons-convention/inspections/notification-period)**
+|  |  |
+|--|--|
+| ## **[![](/images/Picture1.jpg)](/businesses/chemical-weapons-convention/inspections/opcw-inspection-process)** | ## **[![](/images/Picture2.jpg)](/businesses/chemical-weapons-convention/inspections/notification-period)** |
