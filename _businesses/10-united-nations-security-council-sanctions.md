@@ -11,7 +11,11 @@ As a member of the United Nations, Singapore implements the [resolutions adopted
 
 ## **Democratic People’s Republic of Korea (DPRK)**
 
-[accordion] 
+-   [List of Prohibited Imports and (Inward) Transhipment or goods in Transit from the DPRK](/businesses/united-nations-security-council-sanctions/list-of-prohibited-import-dprk)
+    
+
+-   [List of Prohibited Exports and (Outward) Transhipment or goods in Transit to the DPRK](/businesses/united-nations-security-council-sanctions/list-of-prohibited-export-dprk)
+
 
 ### **Permit Requirements**
 
