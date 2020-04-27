@@ -1,6 +1,6 @@
 ---
 title: Retaining your Trade Documents
-permalink: businesses/exporting-goods/esporting-procedures/retaining-trade-documents
+permalink: /businesses/exporting-goods/esporting-procedures/retaining-trade-documents
 third_nav_title: Exporting Requirements
 ---
 
