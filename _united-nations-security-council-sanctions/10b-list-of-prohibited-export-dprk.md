@@ -4,9 +4,7 @@ permalink: /businesses/united-nations-security-council-sanctions/list-of-prohibi
 third_nav_title: United Nations Security Council Sanctions
 ---
 
-## List of Prohibited Exports and (Outward) Transhipment or goods in Transit to the DPRK
-
-_Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC Sanctions Committees website_](https://www.un.org/sc/suborg/en/)_. Where legal advice is required, please seek advice from your legal advisors._
+### List of Prohibited Exports and (Outward) Transhipment or goods in Transit to the DPRK
 
 -   Arms and related matériel and conventional arms dual-use items set out in the lists of United Nations Security Council documents  _S/2016/1069_, which are updated from time to time and made available on the Internet through the official [United Nations website](https://www.un.org/sc/suborg/en/sanctions/1718/prohibited-items).
 -   All items, materials, equipment, goods and technology related to nuclear programmes, ballistic missile programmes or other weapons of mass destruction programmes set out in the lists in the United Nations Security Council documents  _INFCIRC/254/Rev.12/Part 1, INFCIRC/254/Rev.9/Part 2, S/2014/253, S/2006/853,_ and _S/2006/853/Corr.1,_ which are updated from time to time and made available on the Internet through the official [United Nations website](https://www.un.org/sc/suborg/en/sanctions/1718/prohibited-items).
@@ -142,3 +140,5 @@ _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC
 -   Transportation vehicles (HS Code chapters 86 through 89).
 -   Iron, steel and other metals (HS Code chapters 72 through 83).
 -   Any goods that are for the purposes of trade with any person in the Democratic People's Republic of Korea.
+
+<sup> _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC Sanctions Committees website_](https://www.un.org/sc/suborg/en/)_. Where legal advice is required, please seek advice from your legal advisors._
