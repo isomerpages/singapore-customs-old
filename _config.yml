@@ -53,7 +53,7 @@ collections:
     output: true
   export-procedures:
     output: true
-  transhipment-procedures:
+  united-nations-security-council-sanctions: 
     output: true
   test:
     output: true
