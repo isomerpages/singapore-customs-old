@@ -19,7 +19,7 @@ Your company can enjoy improved cash flow under the Air Store Bond Scheme.
 To qualify for the Air Store Bond Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Obtain approval from the Changi Airport Group to operate an air store bond
@@ -41,31 +41,31 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 
 ## Key Responsibilities
 
--   **Accountability to Singapore Customs**
+**Accountability to Singapore Customs**
     
-    -   Accountable for dutiable goods stored in the licensed premises and for the payment of duty and GST on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
-    -   Report to Singapore Customs if there is any goods discrepancy in the licensed premises by the next working day
-    -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
-    -   Comply with the Customs Act, Customs Regulations, and the licensing Terms & Conditions
+   -   Accountable for dutiable goods stored in the licensed premises and for the payment of duty and GST on goods not accounted for
+   -   Declare relevant Customs permits through  [TradeNet](/about-us/national-single-window/overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+   -   Report to Singapore Customs if there is any goods discrepancy in the licensed premises by the next working day
+   -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
+   -   Comply with the Customs Act, Customs Regulations, and the licensing Terms & Conditions
 
--   **Accountability to Other Competent Authorities**
+**Accountability to Other Competent Authorities**
     
-    -   Obtain the necessary approvals from the relevant competent authorities
+   -   Obtain the necessary approvals from the relevant competent authorities
 
--   **Inventory Control**
+**Inventory Control**
     
-    -   Ensure inventory records and supporting documents are properly maintained and updated
+   -   Ensure inventory records and supporting documents are properly maintained and updated
 
--   **Physical Security Control**
+**Physical Security Control**
     
-    -   Ensure adequate security measures in the licensed premises
-    -   Ensure all entrances and exits are secured when there is no movement of dutiable goods in the licensed premises
-    -   Obtain prior approval from Singapore Customs for any structural alteration to the licensed premises
+   -   Ensure adequate security measures in the licensed premises
+   -   Ensure all entrances and exits are secured when there is no movement of dutiable goods in the licensed premises
+   -   Obtain prior approval from Singapore Customs for any structural alteration to the licensed premises
 
 ## How to Apply?
 
-**Step 1:**  Complete the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/tradefirst-selfassessment-checklist-approved-31may2019.xlsx?la=en&hash=ED74065B31B86785B1F625E9D4DBCE2AFFF77DF7)
+**Step 1:**  Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx)
 
 **Step 2:**  Prepare these supporting documents:
 
@@ -87,7 +87,7 @@ For further assistance, please call 6251 3027 or email  [customs_schemes@customs
 
 **1)** **Where can I find the Harmonized System (HS) codes and duty rates of the dutiable goods?**
 
-You can find them  [here](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
+You can find them  [here](/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods).
 
 **2)** **Can the air store bond operator remove the dutiable goods stored inside the air store bond for local consumption instead of supplying to airlines?**
 
@@ -108,6 +108,6 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 **5)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/07a-overview).
+Customs permits can be declared through  [TradeNet](/about-us/national-single-window/overview).
 
 Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
