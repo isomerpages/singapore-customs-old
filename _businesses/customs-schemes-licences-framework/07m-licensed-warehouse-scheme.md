@@ -12,7 +12,7 @@ The Licensed Warehouse (LW) Scheme allows approved companies to store imported d
 
 Duty and GST will be payable when these goods are removed from the licensed warehouse for local use or consumption. Duty and GST are not payable when these goods are removed for export, or when supply or sale of these goods takes place while they are in the warehouse.
 
-You may refer to an  [overview of the procedures](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/overview1.doc?la=en&hash=790A90DAE8C3F8E538FFB8C41ECEDDDDA87CF88C)  for storing dutiable imports in licensed warehouses.
+You may refer to an  [overview of the procedures](/documents/businesses/overview1.doc)  for storing dutiable imports in licensed warehouses.
 
 ## Types of Licences under the LW Scheme
 
@@ -26,14 +26,14 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 LW licence types can be found in the  [Licensed Warehouse Scheme Handbook](https://www.customs.gov.sg/-/media/cus/files/business/customs-schemes-licences-framework/lwhandbook_may2017version.pdf?la=en&hash=FF4D53963CE9B5460ADFCDD9B6FA316250A385AC)  (Chapter 2.8).
+A summary of the benefits for the 3 LW licence types can be found in the  [Licensed Warehouse Scheme Handbook](/documents/businesses/lwhandbook-may2017version.pdf)  (Chapter 2.8).
 
 ## How to Qualify?
 
 To qualify for the Licensed Warehouse Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place
 -   Have good stock record-keeping and warehouse procedures
@@ -60,7 +60,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 -   **Accountability to Singapore Customs**
     
     -   Accountable for dutiable goods stored in the licensed premises and for the payment of duty and GST on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/about-us/national-single-window/overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the Customs Act, Customs Regulations and the licensing Terms & Conditions
@@ -86,7 +86,7 @@ Goods that are not fit for human consumption may be destroyed under Customs’ s
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/tradefirst-selfassessment-checklist-approved-31may2019.xlsx?la=en&hash=ED74065B31B86785B1F625E9D4DBCE2AFFF77DF7).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 
