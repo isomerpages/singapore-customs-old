@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /about-us
+permalink: /about-us/overview
 ---
 
 # Organisation Overview
