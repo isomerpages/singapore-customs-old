@@ -128,9 +128,9 @@ _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC
 
 **Chemical/Biological Weapons-usable Items**:
 
-  -   Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2.5 meters;
-  -   Batch centrifuges with a rotor capacity of 4 L or greater, usable with biological material;
-  -   Fermenters with an internal volume of 10-20 L (.01-.02 cubic meters), usable with biological materials.
+   -   Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2.5 meters;
+   -   Batch centrifuges with a rotor capacity of 4 L or greater, usable with biological material;
+   -   Fermenters with an internal volume of 10-20 L (.01-.02 cubic meters), usable with biological materials.
 
 -   Helicopters and vessels.
 -   Aviation fuel, including aviation gasoline, naptha-type jet fuel, kerosene-type jet fuel, and kerosene-type rocket fuel.
