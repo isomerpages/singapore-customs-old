@@ -25,12 +25,12 @@ _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC
 
 -   The following items, materials, equipment, goods and technology listed in  Annex III  of resolution  _2094 (2013)_  :
 
--   **nuclear items**:
+**nuclear items**:
 
 -   perfluorinated lubricants;
 -   UF6 corrosion resistant bellow-sealed valves;
 
-*missile items**:
+**missile items**:
 
 -   special corrosion resistant steels — limited to steels resistant to Inhibited Red Fuming Nitric Acid (IRFNA) or nitric acid, such as nitrogen stabilized duplex stainless steel (N-DSS);
 -   ultra high-temperature ceramic composite materials in solid form (i.e. blocks, cylinders, tubes or ingots) in any of the following form factors:
