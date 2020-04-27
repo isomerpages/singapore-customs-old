@@ -10,7 +10,7 @@ third_nav_title: Strategic Goods Control
 
 As a member of the United Nations, Singapore implements the  [Resolutions](http://www.un.org/en/sc/documents/resolutions/index.shtml)  passed by the United Nations Security Council (UNSC) through our domestic laws. These include arms embargoes and sanctions on missiles or nuclear related goods. Activities which contravene the decisions of the United Nations Security Council (UNSC) in their Resolutions are prohibited.
 
-Please refer to the  **[United Nations Security Sanctions](https://singapore-customs-staging.netlify.app/businesses/united-nations-security-council-sanctions/)** page for more information.
+Please refer to the  **[United Nations Security Sanctions](/businesses/united-nations-security-council-sanctions/)** page for more information.
 
 You are also advised to look out for red flags to ensure your trading activities comply with Singapore’s domestic laws and the UNSC Resolutions. Please note Singapore does not enforce unilateral sanctions imposed by other countries.
 
