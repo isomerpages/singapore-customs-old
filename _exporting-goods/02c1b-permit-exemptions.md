@@ -1,7 +1,7 @@
 ---
 title: Permit Exemptions
 permalink: businesses/exporting-goods/esporting-procedures/permit-exemptions
-third_nav_title: Transhipment Requirements
+third_nav_title: Exporting Requirements
 ---
 
 ### Permit Exemptions
