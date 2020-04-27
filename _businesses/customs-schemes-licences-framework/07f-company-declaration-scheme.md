@@ -28,7 +28,7 @@ The following are excluded from the scheme:
 To qualify for the Company Declaration Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs)
 -   Have good compliance records with Singapore Customs
 -   Be an ALPS tenant
 -   Have direct control and responsibility for all the goods within its facility
@@ -60,7 +60,7 @@ To qualify for the Company Declaration Scheme, the company must:
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/tradefirst-selfassessment-checklist-approved-31may2019.xlsx?la=en&hash=ED74065B31B86785B1F625E9D4DBCE2AFFF77DF7).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 
@@ -85,8 +85,8 @@ No, you should not apply for the Company Declaration Scheme for the purpose of r
 
 **2) How do I check if the goods are controlled or dutiable?**
 
-For dutiable goods, please refer to the  [List of Dutiable Goods](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods).
+For dutiable goods, please refer to the  [List of Dutiable Goods](/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods).
 
 For controlled items, you may check using this  [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authorities controlling the product.
 
-Find out more about  [Competent Authorities' Requirements for Controlled Items](/about-us/07a3-competent-authorities-requirements)  to handle controlled goods.
+Find out more about  [Competent Authorities' Requirements for Controlled Items](/about-us/national-single-window/overview/competent-authorities-requirements)  to handle controlled goods.
