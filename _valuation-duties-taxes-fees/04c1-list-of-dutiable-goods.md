@@ -187,6 +187,202 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87032358 | Non CKD sedan with only spark-ignition combustion reciprocating engine over 2500cc but not over 3000cc |Nil| 20% |  
 |87032361   |Non CKD motor cars with only spark-ignition combustion reciprocating engine over 1500cc but not over 1800cc four wheel drive|  Nil| 20%   |
 |87032362  |Non CKD motor cars with only spark-ignition combustion reciprocating engine over 1800cc but not over 2000cc four wheel drive  |Nil| 20% |
+| 87032363 |Non CKD motor cars with only spark-ignition combustion reciprocating engine over 2000cc but not over 2500cc four wheel drive  |Nil| 20% |  
+| 87032364 | Non CKD motor cars with only spark-ignition combustion reciprocating engine over 2500cc but not over 3000cc four wheel drive |Nil| 20% |
+| 87032365 | Non CKD motor cars with only spark-ignition combustion reciprocating engine over 1500cc but not over 1800cc excluding four wheel drive |Nil|  20%|  
+| 87032366 | Non CKD motor cars with only spark-ignition combustion reciprocating engine over 1800cc but not over 2000cc excluding four wheel drive |Nil| 20% |  
+| 87032367 | Non CKD motor cars with only spark-ignition combustion reciprocating engine over 2000cc but not over 2500cc excluding four wheel drive |Nil| 20% |  
+| 87032368 |Non CKD motor cars with only spark-ignition combustion reciprocating engine over 2500cc but not over 3000cc excluding four wheel drive  |Nil| 20% |
+| 87032371 | Other non CKD motor vehicles with only spark-ignition combustion reciprocating engine over 1500cc but not over 1800cc |Nil| 20% |
+| 87032372 | Other non CKD motor vehicles with only spark-ignition combustion reciprocating engine over 1800cc but not over 2000cc |Nil| 20% |  
+| 87032373 | Other non CKD motor vehicles with only spark-ignition combustion reciprocating engine over 2000cc but not over 2500cc |Nil| 20% |  
+| 87032374 | Other non CKD motor vehicles with only spark-ignition combustion reciprocating engine over 2500cc but not over 3000cc |Nil| 20% |  
+| 87032411 | CKD ambulances with only spark-ignition combustion reciprocating engine over 3000cc |Nil| 20% |
+| 87032412 | CKD hearses with only spark-ignition combustion reciprocating engine over 3000cc |Nil| 20% |
+| 87032413 | CKD prison vans with only spark-ignition combustion reciprocating engine over 3000cc |Nil| 20% |  
+| 87032414 |CKD motor homes with only spark-ignition combustion reciprocating engine over 3000cc  |Nil| 20% |  
+| 87032415 | CKD sedan with only spark-ignition combustion reciprocating engine over 3000cc |Nil|20%  |  
+| 87032421 |CKD motor cars with only spark-ignition combustion reciprocating engine over 3000cc four wheel drive  |Nil| 20% |
+|87032429  | CKD motor cars with only spark-ignition combustion reciprocating engine over 3000cc excluding four wheel drive |Nil| 20% |
+|87032430  | Other CKD motor vehicles with only spark-ignition combustion reciprocating engine over 3000cc |Nil| 20% |  
+| 87032441 | Non CKD ambulances with only spark-ignition combustion reciprocating engine over 3000cc |Nil| 20% |  
+| 87032442 | Non CKD hearses with only spark-ignition combustion reciprocating engine over 3000cc |Nil| 20% |  
+| 87032443 | Non CKD prison vans with only spark-ignition combustion reciprocating engine over 3000cc |Nil|20%  |
+| 87032444 | Non CKD motor homes with only spark-ignition combustion reciprocating engine over 3000cc |Nil| 20% |
+| 87032445 | Non CKD sedan with only spark-ignition combustion reciprocating engine over 3000cc four wheel drive |Nil| 20% |  
+| 87032449 | Non CKD sedan with only spark-ignition combustion reciprocating engine over 3000cc excluding four wheel drive |Nil| 20% |  
+| 87032451 | Non CKD motor cars with only spark-ignition combustion reciprocating engine over 3000cc four wheel drive  | Nil | 20%  |  
+| 87032459 | Non CKD motor cars with only spark-ignition combustion reciprocating engine over 3000cc excluding four wheel drive |Nil| 20% |
+| 87032461 | Other non CKD motor vehicles with only spark-ignition combustion reciprocating engine over 3000cc four wheel drive |Nil|20%  |
+| 87032469 | Other non CKD motor vehicles with only spark-ignition combustion reciprocating engine over 3000cc excluding four wheel drive |Nil| 20% |
+| 87033113 |  CKD ambulances with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc|Nil| 20% |  
+| 87033114 | CKD hearses with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |  
+| 87033115 | CKD prison vans with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |  
+| 87033116 | CKD motor homes with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |
+| 87033117 |CKD sedan with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc  |Nil| 20% |
+| 87033121 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc four wheel drive |Nil| 20% |  
+| 87033129 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc excluding four wheel drive |Nil| 20% |  
+| 87033130 | Other CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |  
+| 87033143 | Non CKD ambulances with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20%  |
+| 87033144 |Non CKD hearses with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc  |Nil| 20% |
+|87033145  | Non CKD prison vans with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |  
+| 87033146 | Non CKD motor homes with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |  
+| 87033147 | Non CKD sedan with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil|20%  |  
+| 87033151 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc four wheel drive |Nil| 20% |
+| 87033159 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc excluding four wheel drive |Nil| 20% |
+|87033190  | Other non CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |  
+| 87033211 |CKD ambulances with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc  |Nil| 20% |  
+| 87033212 | CKD hearses with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc |Nil| 20% |  
+| 87033213 | CKD prison vans with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc |Nil| 20% |
+|87033214  | CKD motor homes with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc |Nil| 20% |
+| 87033221 | CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 1800cc |Nil| 20% |  
+|87033222  | CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 1800cc but not over 2000cc |Nil| 20% |  
+| 87033223 | CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 2000cc but not over 2500cc |Nil| 20% |  
+| 87033231 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 1800cc four wheel drive |Nil|  20%|
+| 87033232 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 1800cc but not over 2000cc four wheel drive |Nil| 20% |
+| 87033233 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 2000cc but not over 2500cc four wheel drive |Nil| 20% |  
+| 87033234 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 1800cc excluding four wheel drive |Nil| 20% |  
+| 87033235 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 1800cc but not over 2000cc excluding four wheel drive |Nil| 20% |  
+| 87033236 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 2000cc but not over 2500cc excluding four wheel drive |Nil| 20% |
+| 87033241 | Other CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 1800cc |Nil| 20% |
+| 87033242 | Other CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine over 1800cc but not over 2000cc |Nil| 20% |  
+| 87033243 | Other CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine over 2000cc but not over 2500cc |Nil| 20% |  
+| 87033251 | Non CKD ambulances with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc |Nil| 20% |  
+| 87033252 | Non CKD hearses with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc |Nil| 20% |
+| 87033253 | Non CKD prison vans with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc |Nil| 20% |
+| 87033254 | Non CKD motor homes with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc |Nil| 20% |  
+| 87033261 | Non CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 1800cc |Nil| 20% |  
+| 87033262 | Non CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 1800cc but not over 2000cc |Nil| 20% |  
+| 87033263 | Non CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 2000cc but not over 2500cc |Nil| 20% |
+| 87033271 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 1800cc four wheel drive |Nil| 20% |
+| 87033272 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 1800cc but not over 2000cc four wheel drive |Nil| 20% |  
+| 87033273 |Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 2000cc but not over 2500cc four wheel drive  |Nil| 20% |  
+| 87033274 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 1800cc excluding four wheel drive |Nil| 20% |  
+| 87033275 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 1800cc but not over 2000cc excluding four wheel drive |Nil| 20% |
+| 87033276 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 2000cc but not over 2500cc excluding four wheel drive |Nil| 20% |
+| 87033281 |Other non CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 1800cc  |Nil| 20% |  
+| 87033282 | Other non CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine over 1800cc but not over 2000cc |Nil| 20% |  
+|87033283  | Other non CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine over 2000cc but not over 2500cc |Nil| 20% |  
+| 87033311 | CKD ambulances with only compression-ignition combustion diesel or semi-diesel engine over 2500cc |Nil| 20% |
+| 87033312 | CKD hearses with only compression-ignition combustion diesel or semi-diesel engine over 2500cc |Nil| 20% |
+| 87033313 | CKD prison vans with only compression-ignition combustion diesel or semi-diesel engine over 2500cc |Nil| 20% |  
+|87033314  |CKD motor homes with only compression-ignition combustion diesel or semi-diesel engine over 2500cc  |Nil| 20% |  
+| 87033321 | CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 2500cc but not over 3000cc |Nil| 20% |  
+|87033322  | CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 3000cc |Nil| 20% |
+| 87033331 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 2500cc but not over 3000cc four wheel drive |Nil| 20% |  
+| 87033332 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 3000cc four wheel drive |Nil| 20% |  
+| 87033333 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 2500cc but not over 3000cc excluding four wheel drive |Nil| 20% |  
+| 87033334 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 3000cc excluding four wheel drive |Nil|20%  |
+| 87033340 |Other CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine over 2500cc  |Nil|  20%|
+| 87033351 | Non CKD ambulances with only compression-ignition combustion diesel or semi-diesel engine over 2500cc |Nil| 20% |  
+| 87033352 | Non CKD hearses with only compression-ignition combustion diesel or semi-diesel engine over 2500cc |Nil| 20% |  
+| 87033353 | Non CKD prison vans with only compression-ignition combustion diesel or semi-diesel engine over 2500cc |Nil| 20% |  
+|87033354  | Non CKD motor homes with only compression-ignition combustion diesel or semi-diesel engine over 2500cc |Nil| 20% |
+| 87033361 |Non CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 2500cc but not over 3000cc  |Nil| 20%|
+| 87033362 | Non CKD sedan with only compression-ignition combustion diesel or semi-diesel engine over 3000cc |Nil| 20% |  
+| 87033371 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 2500cc but not over 3000cc four wheel drive |Nil| 20% |  
+| 87033372  | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 3000cc four wheel drive |Nil| 20% |  
+|87033380  |Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine over 2500cc excluding four wheel drive  |Nil| 20% |
+| 87033390 | Other non CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine over 2500cc |Nil| 20% |
+| 87034013| CKD ambulances with both spark-ignition combustion reciprocating engine and electric motor excluding those charged by external electric source |Nil| 20% |  
+| 87034014 | CKD hearses with both spark-ignition combustion reciprocating engine and electric motor excluding those charged by external electric source |Nil| 20% |  
+| 87034015 | CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor excluding those charged by external electric source |Nil| 20% |  
+| 87034016 | CKD motor homes with both spark-ignition combustion reciprocating engine and electric motor not over 2000cc excluding those charged by external electric source |Nil| 20% |
+| 87034017 | CKD motor homes with both spark-ignition combustion reciprocating engine and electric motor over 2000cc excluding those charged by external electric source |Nil|20%  |
+|87034018  | CKD sedan with both spark-ignition combustion reciprocating engine and electric motor not over 1500cc excluding those charged by external electric source |Nil| 20% |  
+| 87034019 | CKD sedan with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 2000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034021 |CKD sedan with both spark-ignition combustion reciprocating engine and electric motor over 2000cc excluding those charged by external electric source  |Nil| 20% |  
+| 87034022 | CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor not over 1500cc four wheel drive excluding those charged by external electric source |Nil| 20% |
+| 87034023 | CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 2000cc four wheel drive excluding those charged by external electric source |Nil| 20% |
+| 87034024 | CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 2000cc four wheel drive excluding those charged by external electric source |Nil| 20% |
+| 87034025 | CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor not over 2000cc excluding those charged by external electric source not four wheel drive |Nil| 20% |  
+| 87034026 | CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 2000cc excluding those charged by external electric source not four wheel drive |Nil| 20% |  
+|87034027  | Other CKD motor vehicles with both spark-ignition combustion reciprocating engine and electric motor not over 2000cc excluding those charged by external electric source|Nil| 20% |  
+|87034028  | Other CKD with motor vehicles with both spark-ignition combustion reciprocating engine and electric motor over 2000cc excluding those charged by external electric source |Nil| 20% |
+| 87034034 | Non CKD ambulances with both spark-ignition combustion reciprocating engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source |Nil| 20% |
+| 87034035 | Non CKD ambulances with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 3000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034036 | Non CKD ambulances with both spark-ignition combustion reciprocating engine and electric motor over 3000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034041 | Non CKD hearses with both spark-ignition combustion reciprocating engine and electric motor not over 1000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034042 | Non CKD hearses with both spark-ignition combustion reciprocating engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source |Nil| 20% |
+| 87034043 | Non CKD hearses with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 1800cc excluding those charged by external electric source |Nil| 20% |
+| 87034044 | Non CKD hearses  both spark-ignition combustion reciprocating engine and electric motor over 1800cc but not over 2000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034045 | Non CKD hearses with both spark-ignition combustion reciprocating engine and electric motor over 2000cc but not over 2500cc excluding those charged by external electric source |Nil| 20% |  
+| 87034046 |Non CKD hearses with both spark-ignition combustion reciprocating engine and electric motor over 2500cc but not over 3000cc excluding those charged by external electric source  |Nil| 20% |  
+| 87034047 | Non CKD hearses with both spark-ignition combustion reciprocating engine and electric motor over 3000cc excluding those charged by external electric source |Nil| 20% |
+| 87034051 | Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor not over 1000cc excluding those charged by external electric source |Nil| 20% |
+| 87034052 | Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source |Nil| 20% |  
+| 87034053 | Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 1800cc excluding those charged by external electric source |Nil| 20% |  
+| 87034054 | Non CKD prison vans both spark-ignition combustion reciprocating engine and electric motor over 1800cc but not over 3000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034055 | Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor over 3000cc excluding those charged by external electric source |Nil| 20% |
+| 87034056 | Non CKD motor homes with both spark-ignition combustion reciprocating engine and electric motor not over 1500cc excluding those charged by external electric source |Nil| 20% |
+| 87034057 | Non CKD motor homes with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 2000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034058 |Non CKD motor homes with both spark-ignition combustion reciprocating engine and electric motor over 2000cc excluding those charged by external electric source  |Nil| 20% |  
+| 87034061 | Non CKD sedan with both spark-ignition combustion reciprocating engine and electric motor not over 1000cc excluding those charged by external electric source |Nil| 20%|  
+| 87034062 | Non CKD sedan with both spark-ignition combustion reciprocating engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source |Nil|20%  |
+| 87034063 | Non CKD sedan with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 1800cc excluding those charged by external electric source |Nil| 20% |
+|87034064  | Non CKD sedan with both spark-ignition combustion reciprocating engine and electric motor over 1800cc but not over 2000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034065 | Non CKD sedan with both spark-ignition combustion reciprocating engine and electric motor over 2000cc but not over 2500cc excluding those charged by external electric source |Nil| 20% |  
+| 87034066 | Non CKD sedan with both spark-ignition combustion reciprocating engine and electric motor over 2500cc but not over 3000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034067 | Non CKD sedan with both spark-ignition combustion reciprocating engine and electric motor over 3000cc excluding those charged by external electric source four wheel drive |Nil| 20% |
+|87034068  | Non CKD sedan with both spark-ignition combustion reciprocating engine and electric motor over 3000cc excluding those charged by external electric source not four wheel drive |Nil| 20% |  
+|87034071  |Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor not over 1000cc excluding those charged by external electric source four wheel drive  |Nil| 20% |  
+| 87034072 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source four wheel drive |Nil| 20% |  
+| 87034073 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 1800cc excluding those charged by external electric source four wheel drive |Nil| 20% |
+| 87034074 |Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 1800cc but not over 2000cc excluding those charged by external electric source four wheel drive  |Nil| 20% |
+| 87034075 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 2000cc but not over 2500cc excluding those charged by external electric source four wheel drive |Nil|20%  |  
+| 87034076 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 2500cc but not over 3000cc excluding those charged by external electric source four wheel drive |Nil| 20% |  
+| 87034077 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 3000cc excluding those charged by external electric source four wheel drive |Nil| 20% |  
+|  87034081| Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor not over 1000cc excluding those charged by external electric source not four wheel drive |Nil| 20% |
+| 87034082 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source not four wheel drive |Nil| 20% |
+| 87034083 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 1800cc excluding those charged by external electric source not four wheel drive |Nil| 20% |  
+| 87034084 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 1800cc but not over 2000cc excluding those charged by external electric source not four wheel drive |Nil| 20% |  
+| 87034085 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 2000cc but not over 2500cc excluding those charged by external electric source not four wheel drive |Nil| 20% |  
+| 87034086 | Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 2500cc but not over 3000cc excluding those charged by external electric source not four wheel drive |Nil| 20% |
+| 87034087 |Non CKD motor cars with both spark-ignition combustion reciprocating engine and electric motor over 3000cc excluding those charged by external electric source not four wheel drive  |Nil| 20% |
+| 87034091 | Other non CKD motor vehicles with both spark-ignition combustion reciprocating engine and electric motor not over 1000cc excluding those charged by external electric source |Nil| 20% |  
+| 87034092 |Other non CKD motor vehicles with both spark-ignition combustion reciprocating engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source  |Nil| 20% |  
+| 87034093 | Other non CKD motor vehicles with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 1800cc excluding those charged by external electric source |Nil| 20% |  
+| 87034094 | Other non CKD motor vehicles with both spark-ignition combustion reciprocating engine and electric motor over 1800cc but not over 2000cc excluding those charged by external electric source |Nil| 20% |
+|87034095  | Other non CKD motor vehicles with both spark-ignition combustion reciprocating engine and electric motor over 2000cc but not over 2500cc excluding those charged by external electric source |Nil| 20% |
+| 87034096 | Other non CKD motor vehicles with both spark-ignition combustion reciprocating engine and electric motor over 2500cc but not over 3000cc excluding those charged by external electric source |Nil|20%|  
+| 87034097 | Other non CKD motor vehicles with both spark-ignition combustion reciprocating engine and electric motor over 3000cc excluding those charged by external electric source four wheel drive |Nil| 20%|  
+| 87034098 | Other non CKD motor vehicles with both spark-ignition combustion reciprocating engine and electric motor over 3000cc excluding those charged by external electric source not four wheel drive |Nil| 20% |  
+| 87035013 | CKD ambulances with both compression-ignition combustion diesel or semi-diesel engine and electric motor excluding those charged by external electric source |Nil| 20% |
+| 87035014 | CKD hearses with both compression-ignition combustion diesel or semi-diesel engine and electric motor excluding those charged by external electric source |Nil| 20% |
+| 87035015 |  CKD prison vans with both compression-ignition combustion diesel or semi-diesel engine and electric motor excluding those charged by external electric source|Nil| 20% |
+| 87035016 | CKD motor homes with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 2000cc excluding those charged by external electric source |Nil | 20% |  
+| 87035017 | CKD motor homes with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2000cc excluding those charged by external electric source |Nil| 20% |  
+| 87035018 |CKD sedan with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 1500cc excluding those charged by external electric source  |Nil| 20% |  
+| 87035019 | CKD sedan with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1500cc but not over 2000cc excluding those charged by external electric source |Nil| 20% |
+| 87035021 | CKD sedan with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2000cc excluding those charged by external electric source |Nil| 20% |
+| 87035022 | CKD motor cars with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 1500cc excluding those charged by external electric source four wheel drive |Nil| 20% |  
+| 87035023 | CKD motor cars with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1500cc but not over 2000cc excluding those charged by external electric source four wheel drive |Nil|20%  |  
+| 87035024 | CKD motor cars with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2000cc excluding those charged by external electric source four wheel drive |Nil| 20% |  
+| 87035025 | CKD motor cars with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 2000cc excluding those charged by external electric source not four wheel drive |Nil| 20% |
+| 87035026 | CKD motor cars with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2000cc excluding those charged by external electric source not four wheel drive |Nil| 20% |
+| 87035027 | Other CKD motor vehicles with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 2000cc excluding those charged by external electric source |Nil| 20% |  
+| 87035028 | Other CKD motor vehicles with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2000cc excluding those charged by external electric source |Nil| 20% |  
+| 87035034 | Non CKD ambulances with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 1500cc excluding those charged by external electric source |Nil| 20% |  
+| 87035035 | Non CKD ambulances with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1500cc but not over 2500cc excluding those charged by external electric source |Nil| 20% |
+| 87035036 | Non CKD ambulances with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2500cc excluding those charged by external electric source |Nil|20%  |
+| 87035041 | Non CKD hearses with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 1000cc excluding those charged by external electric source |Nil| 20% |  
+| 87035042 |Non CKD hearses with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source  |Nil| 20% |  
+| 87035043 | Non CKD hearses with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1500cc but not over 1800cc excluding those charged by external electric source |Nil|20%  |  
+| 87035044 | Non CKD hearses with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1800cc but not over 2000cc excluding those charged by external electric source |Nil| 20% |
+| 87035045 | Non CKD hearses with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2000cc but not over 2500cc excluding those charged by external electric source |Nil| 20% |
+| 87035046 | Non CKD hearses with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2500cc but not over 3000cc excluding those charged by external electric source |Nil| 20% |  
+|87035047  | Non CKD hearses with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 3000cc excluding those charged by external electric source |Nil| 20% |  
+| 87035051 |Non CKD prison vans with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 1000cc excluding those charged by external electric source  |Nil| 20% |  
+| 87035052 | Non CKD prison vans with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source |Nil| 20% |
+| 87035053 | Non CKD prison vans with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1500cc but not over 1800cc excluding those charged by external electric source |Nil| 20% |
+| 87035054 | Non CKD prison vans with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1800cc but not over 2500cc excluding those charged by external electric source |Nil| 20% |  
+| 87035055 |Non CKD prison vans with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2500cc excluding those charged by external electric source  |Nil| 20% |  
+| 87035056 | Non CKD motor homes with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 1500cc excluding those charged by external electric source |Nil| 20% |  
+| 87035057 | Non CKD motor homes with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1500cc but not over 2000cc excluding those charged by external electric source |Nil| 20% |
+| 87035058 | Non CKD motor homes with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 2000cc excluding those charged by external electric source |Nil| 20% |  
+| 87035061 | Non CKD sedan both with both compression-ignition combustion diesel or semi-diesel engine and electric motor not over 1000cc excluding those charged by external electric source |Nil| 20% |  
+| 87035062 | Non CKD sedan with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1000cc but not over 1500cc excluding those charged by external electric source |Nil| 20% |  
+|87035063  | Non CKD sedan with both compression-ignition combustion diesel or semi-diesel engine and electric motor over 1500cc but not over 1800cc excluding those charged by external electric source |Nil| 20% |
 |  |  |  |  |
 |  |  |  |  |  
 |  |  |  |  |  
