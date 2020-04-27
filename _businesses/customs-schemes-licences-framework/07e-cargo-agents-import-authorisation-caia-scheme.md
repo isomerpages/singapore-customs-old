@@ -10,7 +10,7 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 The Cargo Agent’s Import Authorisation (CAIA) Scheme allows cargo agents to take delivery of their air cargoes from ground handling agents before obtaining all the relevant customs permits from the importers or partner cargo agents handling the house shipments. The CAIA cargo agents can then break-bulk the cargoes in their warehouses located within the Changi Free Trade Zone.
 
-Cargo agents cannot use this scheme to take delivery of air cargoes that contain goods controlled by  [Competent Authorities (CAs).](/about-us/07a3-competent-authorities-requirements)
+Cargo agents cannot use this scheme to take delivery of air cargoes that contain goods controlled by  [Competent Authorities (CAs).](/about-us/national-single-window/overview/competent-authorities-requirements)
 
 You may use this  [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) to check if the goods are controlled, using the description of the goods, Harmonised System (HS) code or CA product code. If the HS code is subject to control, the name of the CA will be indicated next to the HS code. You may check directly with the respective CA on their licensing requirements.
 
