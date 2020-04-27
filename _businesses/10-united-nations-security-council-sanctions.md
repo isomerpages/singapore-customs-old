@@ -9,12 +9,12 @@ The  **United Nations Security Council (UNSC)**  resolutions impose sanctions in
 
 As a member of the United Nations, Singapore implements the [resolutions adopted by the UNSC](http://www.un.org/en/sc/documents/resolutions/index.shtml). Specifically, the import into, export from, transhipment and transit through Singapore of certain goods which contravene the UNSC sanctions are prohibited under Regulation 6(1)(b) of the  **Regulation of Imports and Exports Regulations (RIER)**. A comprehensive list of UNSC sanctions can be found on the [UNSC Sanctions Committees website](https://www.un.org/sc/suborg/en/).
 
-## **Democratic People’s Republic of Korea (DPRK)**
+### **Democratic People’s Republic of Korea (DPRK)**
 
--   [List of Prohibited Imports and (Inward) Transhipment or goods in Transit from the DPRK](/businesses/united-nations-security-council-sanctions/list-of-prohibited-import-dprk)
+-   [**List of Prohibited Imports and (Inward) Transhipment or goods in Transit from the DPRK**](/businesses/united-nations-security-council-sanctions/list-of-prohibited-import-dprk)
     
 
--   [List of Prohibited Exports and (Outward) Transhipment or goods in Transit to the DPRK](/businesses/united-nations-security-council-sanctions/list-of-prohibited-export-dprk)
+-   [**List of Prohibited Exports and (Outward) Transhipment or goods in Transit to the DPRK**](/businesses/united-nations-security-council-sanctions/list-of-prohibited-export-dprk)
 
 
 ### **Permit Requirements**
@@ -23,7 +23,7 @@ A permit is required if you intend to  **import,  export,  tranship**  and  **tr
 
 The import, export, transhipment or transit of any goods listed above are  **strictly prohibited**  under the  _Seventh Schedule of the RIER_, read with  _Regulation 6(2)(c) of the RIER_. This includes  **goods for the purposes of trade with any person in the DPRK**.
 
-For **all non-prohibited goods arriving from or destined for the DPRK**, you are required to apply for the permit **at least 3 working days** before the intended shipment date to or from Singapore. Please refer to the permit requirements for the [import](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/), [export](https://singapore-customs-staging.netlify.app/businesses/02c-export-procedures), [transhipment and transit](https://singapore-customs-staging.netlify.app/businesses/03c-transhipment-procedures) of goods through Singapore.
+For **all non-prohibited goods arriving from or destined for the DPRK**, you are required to apply for the permit **at least 3 working days** before the intended shipment date to or from Singapore. Please refer to the permit requirements for the [import](/businesses/importing-goods/import-procedures/), [export](/businesses/02c-export-procedures), [transhipment and transit](https://singapore-customs-staging.netlify.app/businesses/03c-transhipment-procedures) of goods through Singapore.
 
 If your shipment is permitted under the exceptions outlined in the UNSC Resolutions, please also submit supporting documents to show that the shipment falls under the exceptions (e.g. a letter of authorisation issued by a United Nations programme).
 
