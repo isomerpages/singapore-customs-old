@@ -53,6 +53,8 @@ collections:
     output: true
   export-procedures:
     output: true
+  transhipment-procedures:
+    output: true
   test:
     output: true
   test_hidden:
