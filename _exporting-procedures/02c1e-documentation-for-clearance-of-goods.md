@@ -1,6 +1,6 @@
 ---
 title: Documentation for Clearance of Goods
-permalink: /businesses/exporting-goods/esporting-procedures/documentation-for-clearance-of-goods
+permalink: /businesses/exporting-goods/exporting-procedures/documentation-for-clearance-of-goods
 third_nav_title: Exporting Requirements
 ---
 
