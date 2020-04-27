@@ -253,6 +253,40 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+//Dennis tweak to reorder the news section above NTP
+/*#main-content {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.bg-hero {
+  order: 1;
+}
+
+#key-highlights {
+  order: 2;
+}
+
+.bp-section{
+  order: 4;
+}
+
+.bp-section {
+  &.bg-newssection {
+    order: 3;
+  }
+}
+*/
+//End of Dennis tweak to reorder the news section above NTP
+
 // Post-content
 .content {
 	h1, h2, h3, h4, h5 {
@@ -270,6 +304,24 @@ $desktop: 960px + (2 * $gap) !default;
 	blockquote > ul {
 		color: $secondary;
 	}
+
+  img {
+    width: auto;
+    max-width: 100%;
+  }
+
+// Dennis tweak to use tbody instead of tr for table row
+  table{
+    tbody {
+     border: 1px solid #202020;
+     border-width: 0 0 1px; 
+    }
+    td{
+      border: 0;
+    }
+  }
+// End of Dennis tweak to use tbody instead of tr for table row
+
 }
 
 // Media category buttons - not used now but will be used in the future
@@ -334,4 +386,8 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+	  
+.bp-hero-body {
+	background: unset;
 }

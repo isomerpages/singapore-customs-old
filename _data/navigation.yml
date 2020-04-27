@@ -4,9 +4,11 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/ic-logo.png
 
 links:
+  - title: Home
+    url: /
   - title: About Us
     collection: about-us
   - title: Individuals
@@ -14,6 +16,17 @@ links:
   - title: Businesses
     collection: businesses
   - title: News And Media
-    collection: news-and-media
-  - title: Eservices
+    resource_room: true
+  - title: E-Services
     collection: eservices
+  - title: Contact Us 
+    url: /contact-us/
+  - title: FAQ
+    url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
+  - title: Test
+    url: /test/
+    sublinks:
+    - title: Test 1a
+      url: /test/test1/test1a
+    - title: Test 1b
+      url: /test/test1/test1b

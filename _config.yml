@@ -1,23 +1,24 @@
-title: Title
+title: Singapore Customs
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.png
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#041D42'
+  secondary-color: '#041D42'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#A2AAAD'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#041D42'
     - title: media-color-three
-      color: '#00838f'
+      color: '#F0E113'
     - title: media-color-four
-      color: '#00838f'
+      color: '#F6323E'
     - title: media-color-five
-      color: '#00838f'
+      color: '#305072'
 
+resources_name: news-and-media
 
 collections:
   about-us:
@@ -30,6 +31,44 @@ collections:
     output: true
   eservices:
     output: true
+  going-through-customs:
+    output: true
+  registration-matters:
+    output: true
+  business-resources:
+    output: true
+  importing-goods: 
+    output: true
+  transhipping-goods: 
+    output: true
+  chemical-weapons-convention: 
+    output: true
+  strategic-goods-control: 
+    output: true
+  customs-schemes-licences-framework: 
+    output: true
+  valuation-duties-taxes-fees: 
+    output: true
+  import-procedures: 
+    output: true
+  export-procedures:
+    output: true
+  united-nations-security-council-sanctions: 
+    output: true
+  test:
+    output: true
+  test_hidden:
+    output: true
+  national-single-window:
+    output: true 
+  exporting-goods:
+    output: true   
+  security-lodgement:
+    output: true    
+  apply-update-renew-terminate-declarant-agent:
+    output: true   
+  organisation-overview:
+    output: true      
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
