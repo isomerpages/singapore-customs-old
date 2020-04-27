@@ -538,12 +538,35 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87038016 | CKD motor homes with electric motor only |Nil| 20% |
 | 87038017 | CKD sedan with electric motor only |Nil|20%  |
 | 87038018 | CKD motor cars with electric motor only |Nil| 20% |  
-|  |  |  |  |
-|  |  |  |  |  
-|  |  |  |  |  
-|  |  |  |  |  
-|  |  |  |  |
-|  |  |  |  |
+| 87038019 | Other CKD motor vehicles with electric motor only |Nil| 20% |  
+| 87038093 | Non CKD ambulances with electric motor only |Nil| 20% |
+| 87038094 | Non CKD hearses with electric motor only |Nil| 20% |
+| 87038095 | Non CKD prison vans with electric motor only |Nil| 20% |  
+| 87038096 | Non CKD motor homes with electric motor only |Nil| 20% |  
+| 87038097 | Non CKD sedan with electric motor only |Nil|20%  |  
+| 87038098 | Non CKD motor cars with electric motor only |Nil| 20% |
+| 87038099 | Other non CKD motor vehicles with electric motor only |Nil|  20%|
+|87039013  | Other CKD ambulances, not elsewere specified |Nil| 20% |  
+|87039014  | Other CKD hearses, not elsewere specified |Nil| 20% |  
+| 87039015 | Other CKD prison vans, not elsewhere specified |Nil| 20% |  
+| 87039016 | Other CKD motor homes, not elsewhere specified |Nil| 20% |
+|87039017  | Other CKD sedan, not elsewhere specified |Nil| 20% |
+| 87039018 | Other CKD motor cars, not elsewhere specified |Nil| 20% |  
+| 87039019 | Other CKD motor vehicles, not elsewhere specified |Nil| 20% |  
+| 87039093 | Other non CKD ambulances, not elsewere specified |Nil| 20% |  
+| 87039094 | Other non CKD hearses, not elsewere specified |Nil| 20% |
+| 87039095 | Other non CKD prison vans, not elsewhere specified |Nil|20%  |
+| 87039096 | Other non CKD motor homes, not elsewhere specified |Nil| 20% |
+| 87039097 | Other non CKD sedan, not elsewhere specified |Nil| 20% |  
+| 87039098 | Other non CKD motor cars, not elsewhere specified |Nil|20%  |  
+|87039099  | Other non CKD motor vehicles, not elsewhere specified |Nil|  20%|  
+| 87060021 | Chassis fitted with engines for motor cars for transport of 10 or more persons including stretch limousines but excluding coaches buses minibuses or vans |Nil| 20% |
+| 87060032 | Chassis fitted with engines for ambulances |Nil| 20% |
+| 87060033 | Chassis fitted with engines for motor cars |Nil| 20% |  
+| 87060039 | Chassis fitted with engines for other vehicles of heading 8703 |Nil| 20% |  
+| 87071020 |Bodies including cabs for ambulances  |Nil| 20% |  
+|87071090  | Bodies including cabs for other vehicles of heading 8703 |Nil| 20% |
+| 87079021 | Bodies including cabs for motor cars for transport of 10 or more persons including stretch limousines but excluding coaches buses minibuses or vans |Nil| 20% |
 | 87111012 | CKD mopeds and motorised bicycles with reciprocating internal combustion engine not over 50cc | Nil | 12%  |  
 | 87111015 | Other CKD motorcycles and motor scooters with reciprocating internal combustion engine not over 50cc | Nil | 12%  |  
 | 87111019 | Other CKD cycles with reciprocating internal combustion engine not over 50cc | Nil | 12%  |  
