@@ -9,11 +9,11 @@ The Strategic Goods (Control) Act (Chapter 300) is an Act to control the transfe
 
 Click on the links below to view the Strategic Goods (Control) Act and selected subsidiary legislation:
 
--   [Strategic Goods (Control) Act](https://sso.agc.gov.sg/Act/SGCA2002)
--   [Strategic Goods (Control) Regulations](https://sso.agc.gov.sg/SL/SGCA2002-RG1)
--   [Strategic Goods (Control) Order 2018](https://sso.agc.gov.sg/SL-Supp/S536-2018/Published/20180904?DocDate=20180904)
--   [Strategic Goods (Control) (Brokering) Order 2007](https://sso.agc.gov.sg/SL/SGCA2002-S640-2007)
+-   [Strategic Goods (Control) Act](https://sso.agc.gov.sg/Act/SGCA2002){:target="_blank"}
+-   [Strategic Goods (Control) Regulations](https://sso.agc.gov.sg/SL/SGCA2002-RG1){:target="_blank"}
+-   [Strategic Goods (Control) Order 2018](https://sso.agc.gov.sg/SL-Supp/S536-2018/Published/20180904?DocDate=20180904){:target="_blank"}
+-   [Strategic Goods (Control) (Brokering) Order 2007](https://sso.agc.gov.sg/SL/SGCA2002-S640-2007){:target="_blank"}
 
-The Strategic Goods Control homepage may also be accessed [here](/businesses/strategic-goods-control/overview/legislation).
+The Strategic Goods Control homepage may also be accessed [here](/businesses/strategic-goods-control/overview/legislation){:target="_blank"}.
 
 *Please note that only key subsidiary legislation have been reproduced on this website.*
