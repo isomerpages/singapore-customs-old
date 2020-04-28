@@ -61,7 +61,6 @@ A company arranged with a foreign government to remove expired and damaged ammun
 
 In another case, 2 individuals were sentenced to 9 and 18 months imprisonment for brokering arms to Syria. ([Media Release](/news-and-media/media-releases/2006-10-11-Press-Release.pdf)).
 
-----
 
 ## Key Offences
 
