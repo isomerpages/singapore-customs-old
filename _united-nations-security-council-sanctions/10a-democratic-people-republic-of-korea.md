@@ -22,7 +22,7 @@ third_nav_title: United Nations Security Council Sanctions
 
 -   The following items, materials, equipment, goods and technology listed in  Annex III  of resolution  _2094 (2013)_  :
 
-- **nuclear items**:
+**nuclear items**:
 
 -   perfluorinated lubricants;
 -   UF6 corrosion resistant bellow-sealed valves;
@@ -42,7 +42,7 @@ third_nav_title: United Nations Security Council Sanctions
   -   measurement and control equipment usable for wind tunnels (balance, thermal stream measurement, flow control);
   -   sodium perchlorate;
 
-- **chemical weapons list:**
+**chemical weapons list:**
 
   -   vacuum pumps with a manufacturer’s specified maximum flow-rate greater than 1 m3/h (under standard temperature and pressure conditions), casings (pump bodies), preformed casing liners, impellers, rotors, and jet pump nozzles designed for such pumps, in which all surfaces that come into direct contact with the chemicals being processed are made from the following controlled materials:
 
@@ -74,7 +74,7 @@ third_nav_title: United Nations Security Council Sanctions
 
   -   The following items, materials, equipment, goods and technology listed in  Annex III  of resolution  _2321 (2016)_ :
 
-- **Nuclear- and/or Missile-usable Items**:
+**Nuclear- and/or Missile-usable Items**:
 
   -   Isocyanates (TDI (Toluene di-isocyanate), MDI (Methylene bis (phenyl isocyanate)), IPDI (Isophorone diiosocyanate), HNMDI or HDI (Hexamethylene diisocyanate), and DDI (dimeryl diisocyanate) and production equipment;
   -   Ammonium nitrate, chemically pure or in phase stabilized version (PSAN);
@@ -91,7 +91,7 @@ third_nav_title: United Nations Security Council Sanctions
   -   High-speed imaging cameras except those used in medical imaging systems;
   -   Truck chassis with 6 or more axles;
 
-- **Chemical/Biological Weapons-usable Items**:
+**Chemical/Biological Weapons-usable Items**:
 
   -   Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2.5 meters;
   -   Batch centrifuges with a rotor capacity of 4 L or greater, usable with biological materials;
