@@ -22,19 +22,27 @@ It is important to know your customer and the end-use application of your produc
 
 Below is a checklist to help you identify potential warning signs to avoid engaging in illegal strategic goods or UNSC prohibited transactions.
 
-![**Things to Look Out For**](https://github.com/isomerpages/singapore-customs/blob/staging/images/Things%20to%20look%20out%20for2.jpg?raw=true)
+### Things to Look Out For**
+
+| **Customer** | **End-use/Product** |
+|--|--|
+| 1.  You are approached by a customer whose identity is not clear. <br> 2.   The customer has little or no business background. <br> 3.  The customer is usually involved in military related business. <br> 4.   The customer or his address is similar to one of the parties listed in the United Nations Security Council sanctioned entity list. <br> 5.  The customer or purchasing agent is reluctant to offer information about the end-use of the goods. <br> 6.   The customer requests shipment or labelling of goods that are inconsistent with usual shipping and labelling practices. <br> 7.   The customer is unfamiliar with the product's performance characteristics but still wants the product. <br> 8.  The customer declines routine installation, training, or maintenance services. | 1. Delivery dates are vague, or deliveries are planned for out of the way destinations. <br> 2.  The product's capabilities do not fit the buyer's line of business (for example, an order for sophisticated computers for a small bakery). <br> 3.   When questioned, the buyer is evasive and unclear about whether the product is for domestic use, export, or re-export. <br> 4.   The ordered product is incompatible with the technical level of the country it is being shipped to (for example, semi-conductor manufacturing equipment shipped to a country that has no electronics industry). <br> 5.   The shipping route is abnormal for the product and destination. <br> 6.  The freight forwarding firm is listed as the product's final destination. <br> 7.  Packaging is inconsistent with the stated method of shipment or destination. <br> 8.  Equipment is to be installed in an area under strict security control (for example, an area in, or close to, military facilities, or an area where access is severely restricted), or in a suspicious or unusual location. |
 
 
 ### What You Need To Know About Nuclear Materials
 
 Nuclear materials are highly toxic and hazardous. Below is a list of things you should know before you trade or ship nuclear materials.
 
-![**Things to Look Out For**](https://github.com/isomerpages/singapore-customs/blob/staging/images/Things%20to%20look%20out%20for%20-%20Nuclear%20materials1.jpg?raw=true)
+### **Things to Look Out For**
+
+|  |  |
+|--|--|
+| 1. Is a sample of the nuclear material available to the buyer for analysis? <br> 2.   What is the material’s form? For example, metal, powder, liquid or gas? <br> 3.  If contained in a compound or solution, what is the weight, concentration, or activity level of the nuclear materials? <br> 4.  What are the origin and history of the material? <br> 5.  What is the seller’s isotopic analysis of the material? <br> 6.  If the sale involves a manufactured unit containing special nuclear material, can the seller provide: <br>  -   Detailed weight, dimensions, or technical specifications <br> -   Detailed photograph <br> -   Dimensions and details of all markings on the shipping container (if there is one) <br> -   Details of all surface markings <br> -   Description of how and where the items were obtained | 1.   What are the dimensions and weight of the containers the material is packaged in? <br> 2. Does the container for the nuclear material meet certified national and international standards? <br> 3. What are the markings on the container? <br> 4.  How much nuclear material (for example, uranium, plutonium or thorium) is in each container? <br> 5. Is the technical data proprietary, commercially sensitive, or in the public domain? <br> 6. What are the radiation levels on the surface of each container? <br> 7. What kind of facility or factory is the item from? <br> 8. What safeguards are in place at the facility or factory? <br> 9.  How is the material removed from the facility or factory? <br> 10. Is the material removed by employees of the facility or factory? |
 
 
 ### Unilateral Sanctioned Lists
 
-In addition to  [United Nations Security Council (UNSC) sanctions](https://singapore-customs-staging.netlify.app/businesses/united-nations-security-council-sanctions/), certain countries also impose unilateral sanctions.
+In addition to  [United Nations Security Council (UNSC) sanctions](/businesses/united-nations-security-council-sanctions/), certain countries also impose unilateral sanctions.
 
 While Singapore does not enforce the laws of other countries, parties in Singapore may be affected by unilateral sanctions imposed by other countries as they may have extraterritorial implications.
 
