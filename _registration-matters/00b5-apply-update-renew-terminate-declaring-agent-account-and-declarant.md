@@ -4,9 +4,9 @@ permalink: /businesses/registration-matters/registration-procedures/apply-update
 third_nav_title: Registration Procedures
 ---
 
-# Apply / Update / Renew / Terminate Declaring Agent (DA) Account and Declarant
+## Declaring Agent (DA) Account and Declarant
 
-The  [Declaring Agent Governance Framework](https://singapore-customs-staging.netlify.app/news-and-media/circulars/2016-01-22-Circular022016.pdf)  aims to raise the level of proficiency and professionalism of Declaring Agents by incentivising Declaring Agents with good internal control procedures and processes and compliance records. 
+The  [Declaring Agent Governance Framework](/news-and-media/circulars/2016-01-22-Circular022016.pdf)  aims to raise the level of proficiency and professionalism of Declaring Agents by incentivising Declaring Agents with good internal control procedures and processes and compliance records. 
 
 Please refer to the table below for the terms used on this page:
 
