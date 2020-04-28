@@ -4,21 +4,21 @@ permalink: /businesses/importing-goods/overview
 third_nav_title: Importing Goods
 ---
 
-# Quick Guide for Importers
+## Quick Guide for Importers
 
 This page provides a quick guide on the import procedures for those who wish to import goods into Singapore.
 
-## Imports
+### Imports
 
 An import refers to goods brought into customs territory from an entry point or a free trade zone (FTZ), or overseas goods brought into a free trade zone for storage and pending re-export.
 
 To import goods into Singapore, you are required to make a declaration to Singapore Customs. Goods and Services Tax (GST) is payable on non-dutiable goods. Both GST and duty are payable for dutiable goods if these goods are imported for local consumption.
 
-## How to Import Your Goods?
+### How to Import Your Goods?
 
 **General Import Flow Chart**
 
-![how to import your goods](images/how-to-import-ur-goods.jpg)
+![how to import your goods](/images/how-to-import-ur-goods.jpg)
 
 
 As an importer, you will need to first  **determine if duty and/or GST payment should be made**  when your goods enter Singapore:
@@ -34,7 +34,7 @@ As an importer, you will need to first  **determine if duty and/or GST payment s
 To account for the entry of your goods, please follow the steps below to obtain the relevant import permits and authorisation (if the goods are subject to control) from the relevant Competent Authorities.
 
 
-## Step 1: Register for UEN and Activate Customs Account
+### Step 1: Register for UEN and Activate Customs Account
 
 An entity that intends to:
 
@@ -46,41 +46,41 @@ will need to:
 -   Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/)  or the relevant  [Unique Entity Number](http://www.uen.gov.sg/)  (UEN) issuance agency to obtain a UEN; and
 -   [Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
 
-## Step 2: Check if Your Goods are Controlled
+### Step 2: Check if Your Goods are Controlled
 Do check if the goods you intend to import are controlled goods or goods subject to restrictions by Competent Authorities (CAs) in Singapore.
 
-You may  [search](/tradenet/portlets/search/searchcountryport/searchinitcountryport) using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, the name of the CA will be indicated next to its HS code. You may check directly with the respective CAs on their licensing requirements.
+You may  [search](/businesses/business-resources/country-and-port-codes) using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, the name of the CA will be indicated next to its HS code. You may check directly with the respective CAs on their licensing requirements.
 
-If you require advice on the full 8-digit  [HS code]/tradenet/portlets/search/searchcountryport/searchinitcountryport)  of the product, you may apply for an  [official classification ruling](/documents/businesses/SCA004 (1).doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
+If you require advice on the full 8-digit  [HS code](/businesses/business-resources/country-and-port-codes)  of the product, you may apply for an  [official classification ruling](/documents/businesses/SCA004-(2).doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
-## Step 3: Apply for Inter-Bank GIRO
+### Step 3: Apply for Inter-Bank GIRO
 You or your Declaring Agent must maintain an Inter-Bank GIRO (IBG) with Singapore Customs to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Custom from your bank account to Singapore Customs directly.
 
 Mail the completed  [Application for Inter-Bank GIRO form](/eservices/customs-forms-and-service-links) to Singapore Customs’ address as indicated in the form.
 
 You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP) to use your IBG for the payment of duties and GST for your customs permit one day after the approval of your IBG application. If you do not maintain an IBG with Singapore Customs, the duties and GST will be deducted from your Declaring Agent’s IBG.
 
-## Step 4: Furnish Security
+### Step 4: Furnish Security
 You are required to furnish security for transactions involving dutiable goods, temporary import of goods for approved purposes, and for the operation of licensed premises such as licensed warehouses and excise factories.
 
 The security furnished should be in the form of a Banker’s Guarantee, Finance Company Guarantee or an Insurance Bond.
 
-[More information on security lodgement](/businesses/00e-security-lodgement).
+[More information on security lodgement](/businesses/registration-matters/registration-procedures/security-lodgement).
 
-## Step 5: Apply for Customs Import Permit
+### Step 5: Apply for Customs Import Permit
 You may:
 
--   Appoint a  [Declaring Agent](/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for customs permits on your behalf; or
+-   Appoint a  [Declaring Agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for customs permits on your behalf; or
 -   Apply for customs permits for your own or on behalf of your clients. To do so, you will need to register as a  [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct).
 
 All permit applications must be submitted via TradeNet, which is accessible through:
 
--   TradeNet front-end software from an  [approved software vendor;](/about-us/07a2-tradenet-solution-providers) or
+-   TradeNet front-end software from an  [approved software vendor;](/about-us/national-single-window/overview/tradenet-solution-providers) or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
 
 Each permit application typically costs S$2.88. This does not include service fees charged by service providers such as freight forwarders, Declaring Agents etc. If you are engaging a Declaring Agent for assistance to submit the permit application, you may wish to check the amount of service fees that they charge.
 
-## Step 6: Prepare Documents for Cargo Clearance
+### Step 6: Prepare Documents for Cargo Clearance
 Approved permits applications are issued with a validity period. You should ensure the validity of the permit presented for goods clearance. For imports of containerised cargo, the container number and shipper seal number are required when applying for a permit.
 
 **a)** **Documents Required for Containerised Cargo**
@@ -113,7 +113,7 @@ For a consignment which requires  **partial clearance**, the same customs permit
 
 **Please note partial clearance is not allowed for goods brought in via Woodlands and Tuas checkpoints.**
 
-## Step 7: Retain your Trade Documents
+### Step 7: Retain your Trade Documents
 Generally, you are required to retain the relevant supporting documents relating to the purchase, import, sale or export of the goods for a period of 5 years from the date of the permit application approval.
 
 These documents can be stored as physical hardcopies or as  [images](/documents/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf). You are required to produce these supporting documents to Singapore Customs upon request.
