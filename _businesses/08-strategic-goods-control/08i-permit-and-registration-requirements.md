@@ -20,7 +20,7 @@ The permit procedures under the STS consist of:
 **Individual Permit**
 
 -   [Individual Permit](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit)  to be applied  _at least 5 working days_  before every  **export, re-export, transhipment or transit of strategic goods**
--   [ITT permit](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt)  to be applied  _at least 7 working days_  before the  **transmission of strategic goods software or technology**
+-   [ITT permit](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt)  to be applied  _at least 7 working days_  before the  **transmission of strategic goods software or technology**
 
 **Bulk Permit**
 
