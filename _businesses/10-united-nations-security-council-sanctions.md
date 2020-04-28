@@ -82,13 +82,13 @@ While Singapore does not enforce [unilateral sanctions](/businesses/strategic-go
 
 ## Other UNSC Sanctioned Countries
 
-[List of Prohibited Items to or from Other UNSC Sanctioned Countries](/businesses/united-nations-security-council-sanctions/prohibited-items-unsc-sanctioned-countries)
+[**List of Prohibited Items to or from Other UNSC Sanctioned Countries**](/businesses/united-nations-security-council-sanctions/prohibited-items-unsc-sanctioned-countries)
 
 ### **Permit Requirements**
 
 To  **import, export, tranship or transit**  goods **permitted under the exceptions or exclusions outlined in the UNSC Resolutions**, you are required to apply for a permit via TradeNet before the intended shipment date from or to Singapore.
 
-Please refer to the permit requirements for the [import](/businesses/importing-goods/import-procedures/), [export](/businesses/02c-export-procedures), [transhipment and transit](https://singapore-customs-staging.netlify.app/businesses/03c-transhipment-procedures) of goods through Singapore.
+Please refer to the permit requirements for the [import](/businesses/importing-goods/import-procedures/), [export](/businesses/exporting-goods/export-procedures), [transhipment and transit](/businesses/transhipping-goods/transhipment-procedures) of goods through Singapore.
 
 If your shipment is permitted under the exceptions outlined in the UNSC Resolutions, please also submit supporting documents to show that the shipment falls under the exceptions (e.g. a letter of authorisation issued by a United Nations programme).
 
