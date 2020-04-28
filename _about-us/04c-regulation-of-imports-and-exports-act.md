@@ -16,4 +16,4 @@ Click on the links below to view the Regulation of Imports and Exports Act and s
 + [Regulation of Imports And Exports (Prescribed Fees) Regulations](https://sso.agc.gov.sg/SL/RIEA1995-RG5?DocDate=20130401)
 + [Regulation of Imports And Exports (Composition of Offences) Regulations](https://sso.agc.gov.sg/SL/RIEA1995-RG6?DocDate=20030401)
 
-*Please note that only key subsidiary legislation have been reproduced on this website.
+*Please note that only key subsidiary legislation have been reproduced on this website.*
