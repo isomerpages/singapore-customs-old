@@ -1,6 +1,6 @@
 ---
 title: Country/Port Code Search
-permalink: /tradenet/portlets/search/searchCountryPort/searchInitCountryPort
+permalink: /businesses/business-resources/country-and-port-codes
 third_nav_title: Business Resources
 ---
 
