@@ -4,7 +4,7 @@ permalink: /businesses/registration-matters/registration-procedures/security-lod
 third_nav_title: Registration Procedures
 ---
 
-## Security Lodgement
+# Security Lodgement
 
 [Declaring Entities](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account), or their appointed  [Declaring Agents](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant), are required to furnish security for various scenarios, such as:
 
