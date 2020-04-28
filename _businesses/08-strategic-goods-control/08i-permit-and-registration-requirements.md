@@ -32,3 +32,12 @@ For more information on STS, please refer to the [STS Handbook](/documents/busin
 ## Brokering
 
 A  **[brokering registration](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)** is to be applied _at least 14 working days_  before the brokering of items and technology listed in the  [Strategic Goods (Control) (Brokering) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019?DocDate=20190801=20190801). A  [brokering permit](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)  is also required under certain circumstances.
+
+
+### For more information on: 
+
+|  |  |  |
+|--|--|--|
+| [![](/images/prp1.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit) | [![](/images/prp2.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology) | [![](/images/prp3.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt) |
+| [![](/images/prp4.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering) | [![](/images/prp5.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction) |  |
+
