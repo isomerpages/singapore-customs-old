@@ -14,6 +14,6 @@ Click on the links below to view the Strategic Goods (Control) Act and selected 
 -   [Strategic Goods (Control) Order 2018](https://sso.agc.gov.sg/SL-Supp/S536-2018/Published/20180904?DocDate=20180904)
 -   [Strategic Goods (Control) (Brokering) Order 2007](https://sso.agc.gov.sg/SL/SGCA2002-S640-2007)
 
-The Strategic Goods Control homepage may also be accessed [here](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/legislation).
+The Strategic Goods Control homepage may also be accessed [here](/businesses/strategic-goods-control/overview/legislation).
 
 *Please note that only key subsidiary legislation have been reproduced on this website.
