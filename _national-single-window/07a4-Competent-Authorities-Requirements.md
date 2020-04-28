@@ -41,7 +41,7 @@ You may refer to the lists below for the Harmonized System (HS) codes of control
 **Step 3**: Comply with the specific [CA's requirements](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/annex-d---competent-authorities-requirements.pdf?la=en&hash=057440FE313CE92B2EDFD74E5E173D0CD9DEAD70) to avoid delays in processing, and obtain approval from the CA.
 After submitting the permit application, you may be required to fax immediately to the CAs the relevant supporting documents with the Unique Reference Number quoted on the top right hand corner of each document.
 
-For applications to the Controller of Undesirable Publications, the supporting documents must be attached to the permit application.
+For applications to the Controller of Undesirable Publications, the supporting documents **must be** attached to the permit application.
 
 ### Competent Authorities' Specific Requirements
 
