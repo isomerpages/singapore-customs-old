@@ -1,6 +1,6 @@
 ---
 title: National Environment Agency - Pollution Control Department (Basel Convention)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/Basal-convention
+permalink: /about-us/national-single-window/overview/competent-authorities-requirements/Basel-convention
 third_nav_title: Competent Authorities Requirements
 ---
 
