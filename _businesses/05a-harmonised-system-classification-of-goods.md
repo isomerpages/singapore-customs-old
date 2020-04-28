@@ -36,9 +36,9 @@ The goods in the HS are arranged in order of their degree of manufacture. The sa
     
 In every case, the goods must first be classified in the appropriate 4-digit HS heading, followed by the appropriate 1-dash subheading, and the appropriate 2-dash subheading and so on. You should  **not**  proceed directly to the lower-level subheadings without first determining the appropriate heading.
     
-When classifying your products, one will need to apply the  [General Interpretative Rules (GIR)](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/generalrulesfortheinterpretation.pdf?la=en&hash=1723AB6DCC18B7D790E9A6FE96A77EC2085C6A28)  which provide a step-by-step basis for the classification of goods and to ensure uniform interpretation of the Harmonized System (HS) nomenclature.  _(Note: GIR must be applied in sequential order)._
+When classifying your products, one will need to apply the  [General Interpretative Rules (GIR)](/documents/businesses/generalrulesfortheinterpretation.pdf)  which provide a step-by-step basis for the classification of goods and to ensure uniform interpretation of the Harmonized System (HS) nomenclature.  _(Note: GIR must be applied in sequential order)._
     
-Click  [here](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/gir/apply-gir.pdf?la=en&hash=360007CDA0B9CEB66FB84E5778544C3B3EFF5D7D)  for guiding questions on how to apply GIR.
+Click  [here](/documents/businesses/apply-gir.pdf)  for guiding questions on how to apply GIR.
 
     
 ### ASEAN Harmonized Tariff Nomenclature (AHTN)
