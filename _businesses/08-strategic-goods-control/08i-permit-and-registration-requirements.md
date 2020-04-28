@@ -24,11 +24,11 @@ The permit procedures under the STS consist of:
 
 **Bulk Permit**
 
--   Pre-approvals (for a period determined by Singapore Customs) to be applied before the  **[export, re-export, or transhipment](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology)** **of strategic goods**, or the  **[transmission of strategic goods software or technology](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt)**.
+-   Pre-approvals (for a period determined by Singapore Customs) to be applied before the  **[export, re-export, or transhipment](businesses/strategic-goods-control/overview/scope-of-control)** **of strategic goods**, or the  **[transmission of strategic goods software or technology](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt)**.
 -   TradeNet permit to be declared before the cargo is lodged with the sea port operators or air cargo ground handling agents, or brought into Singapore for transhipment.
 
 For more information on STS, please refer to the [STS Handbook](https://www.customs.gov.sg/-/media/strategic-trade-scheme-handbook-updated-1-oct-2019.pdf?la=en&hash=B422E1A2CFBEAEB2EA4CE84E56113FD240CFBCBA).
 
 ## Brokering
 
-A  **[brokering registration](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)** is to be applied _at least 14 working days_  before the brokering of items and technology listed in the  [Strategic Goods (Control) (Brokering) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019?DocDate=20190801=20190801). A  [brokering permit](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)  is also required under certain circumstances.
+A  **[brokering registration](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)** is to be applied _at least 14 working days_  before the brokering of items and technology listed in the  [Strategic Goods (Control) (Brokering) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019?DocDate=20190801=20190801). A  [brokering permit](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)  is also required under certain circumstances.
