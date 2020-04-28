@@ -1,6 +1,6 @@
 ---
 title: Info-communications Media Development Authority (IMDA) - Controller of Undesirable Publications (CUP)
-permalink: /about-us/national-single-window/overview/CUP
+permalink: /about-us/national-single-window/overview/competent-authorities-requirements/CUP
 third_nav_title: Competent Authorities Requirements
 ---
 
