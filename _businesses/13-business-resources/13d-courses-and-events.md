@@ -1,6 +1,6 @@
 ---
 title: Courses and Events
-permalink: /businesses/resources/courses-and-events
+permalink: /businesses/business-resources/courses-and-events
 third_nav_title: Business Resources
 ---
 
