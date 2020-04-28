@@ -36,7 +36,8 @@ The declarations are the basis for data monitoring and on-site  [inspections](/b
 ----
 
 ### Member States
-For the full list of Member States, please click [here](http://www.opcw.org/about-opcw/member-states/).
+For the full list of Member States, please click [here](http://www.opcw.org/about-opcw/member-states/){:target="_blank"}
+.
 
 |  |  |  |  |
 |--|--|--|--|
