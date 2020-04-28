@@ -16,4 +16,4 @@ Click on the links below to view the Strategic Goods (Control) Act and selected 
 
 The Strategic Goods Control homepage may also be accessed [here](/businesses/strategic-goods-control/overview/legislation).
 
-*Please note that only key subsidiary legislation have been reproduced on this website.
+*Please note that only key subsidiary legislation have been reproduced on this website.*
