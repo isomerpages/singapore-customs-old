@@ -17,4 +17,4 @@ Click on the links below to view the Goods and Services Tax Act and selected sub
 + [Goods and Services Tax (General) Regulations](https://sso.agc.gov.sg/SL/GSTA1993-RG1?DocDate=20180329)
 
 
-*Please note that only key subsidiary legislation have been reproduced on this website.
+*Please note that only key subsidiary legislation have been reproduced on this website.*
