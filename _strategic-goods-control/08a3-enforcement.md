@@ -13,7 +13,7 @@ Documentary checks and audits are conducted on past shipments. Customs officers 
 
 Enforcement action is carried out based on specific intelligence and risk profiling. Singapore works closely with foreign governments to share intelligence and exchange information on strategic goods offences, in a manner consistent with our respective laws. Customs takes a serious view of strategic goods offences and will not hesitate to take enforcement actions.
 
-You are reminded to exercise due diligence if you are involved in activities relating to the transfer or brokering of strategic goods or strategic goods technology. To ensure compliance with the Strategic Goods (Control) Act (SGCA) and its subsidiary legislations, you are advised to implement an internal compliance programme as outlined in the  [Strategic Trade Scheme Handbook](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/strategic-trade-scheme-handbook_wef-from-1-nov-2018.pdf?la=en&hash=D32A18E140F9CBB3CE91C98FE9EB999B660214E7).
+You are reminded to exercise due diligence if you are involved in activities relating to the transfer or brokering of strategic goods or strategic goods technology. To ensure compliance with the Strategic Goods (Control) Act (SGCA) and its subsidiary legislations, you are advised to implement an internal compliance programme as outlined in the  [Strategic Trade Scheme Handbook](/documents/businesses/strategic-trade-scheme-handbook-updated-1-oct-2019.pdf).
 
 Members of the public with information on illegal dealings in strategic goods and technology may contact us at 1800-2330000 or email  [customs_intelligence@customs.gov.sg](mailto:customs_intelligence@customs.gov.sg).
 
@@ -49,7 +49,7 @@ Summary of minor or technical offences that were compounded:
 
 **Providing material support to a foreign terrorist organization**
 
-A Singaporean man was convicted by the United States (US) Court for conspiring to provide material support to a foreign terrorist organisation. He had attempted to purchase arms and ammunitions for this organisation, an offence under Section 6(2)(b)(ii) of the SGCA. Following the US Government’s extradition request, the Singapore court ruled that the offender was to be extradited to face legal action in the US. He was sentenced to 57 months of imprisonment in the US. ([Media Release](http://www.fbi.gov/baltimore/press-releases/2010/ba101810a.htm))
+A Singaporean man was convicted by the United States (US) Court for conspiring to provide material support to a foreign terrorist organisation. He had attempted to purchase arms and ammunitions for this organisation, an offence under Section 6(2)(b)(ii) of the SGCA. Following the US Government’s extradition request, the Singapore court ruled that the offender was to be extradited to face legal action in the US. He was sentenced to 57 months of imprisonment in the US. ([Media Release](http://www.fbi.gov/baltimore/press-releases/2010/ba101810a.html))
 
 **Submission of false permit declarations**
 
