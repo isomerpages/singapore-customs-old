@@ -6,15 +6,15 @@ third_nav_title: Permit and Registration Requirements
 
 # Individual Permit: Export, Transhipment and Transit
 
-A strategic goods permit (prefixed with either XO or XP) is required for the  **[export, transhipment or transit](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/scope-of-control)** of strategic goods and related technology.
+A strategic goods permit (prefixed with either XO or XP) is required for the  **[export, transhipment or transit](businesses/strategic-goods-control/overview/scope-of-control)** of strategic goods and related technology.
 
 You do not need a strategic goods permit for the transhipment and transit of strategic goods not listed in the Fourth and Fifth Schedules to the Strategic Goods (Control) Regulations (SGCR) if you fulfil the following exemption criteria:
 
 
 | Activity | Criteria for Permit Exemption |
 |--|--|
-| **Transhipment** of strategic goods **not** listed in the [**Fourth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc4-XX-Sc4-) | <br> * Goods are taken into free trade zone(s) [FTZ(s)] immediately after being brought into Singapore; <br> * Goods remain in an FTZ at all times or in 2 or more FTZs except when being transferred, before they are brought out of Singapore; and <br> * Goods remain in FTZ(s) for no more than <br><br>   45 days, if brought in by sea  <br>    21 days, if brought in by air <br><br> Note: The transport mode by which the goods first enter Singapore will determine the applicable period to remain in the FTZ(s). |
-| **Transit** of strategic goods **not** listed in the [**Fifth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc5-) | * Goods remain in transit for no more than <br><br>   45 days, if brought in by sea <br>   21 days, if brought in by air |
+| **Transhipment** of strategic goods **not** listed in the [**Fourth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc4-XX-Sc4-) | <br> 1. Goods are taken into free trade zone(s) [FTZ(s)] immediately after being brought into Singapore; <br> 2. Goods remain in an FTZ at all times or in 2 or more FTZs except when being transferred, before they are brought out of Singapore; and <br> * Goods remain in FTZ(s) for no more than <br><br>   - 45 days, if brought in by sea  <br>  -  21 days, if brought in by air <br><br> Note: The transport mode by which the goods first enter Singapore will determine the applicable period to remain in the FTZ(s). |
+| **Transit** of strategic goods **not** listed in the [**Fifth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc5-) | 1. Goods remain in transit for no more than <br><br>  - 45 days, if brought in by sea <br>  - 21 days, if brought in by air |
 
 The authorities have the powers to ask for documents or notifications even if a strategic goods permit is not required.
 
