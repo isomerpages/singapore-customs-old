@@ -38,24 +38,8 @@ The declarations are the basis for data monitoring and on-site  [inspections](/b
 ### Member States
 For the full list of Member States, please click [here](http://www.opcw.org/about-opcw/member-states/).
 
-## [**Legislation**](/businesses/chemical-weapons-convention/legislation)
-
-## [**Controlled Chemicals**](/businesses/chemical-weapons-convention/controlled-chemicals)
-
-## [**Licensing Requirements**](/businesses/chemical-weapons-convention/licensing-requirements)
-
-## [**Importing NA(CWC) Controlled Items**](/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items)
-
-## [**Exporting NA(CWC) Controlled Items**](/businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items)
-
-## [**Restrictions for Exports to Non-Member States**](/businesses/chemical-weapons-convention/restriction-for-exports-to-nms)
-
-## [**Declarations**](/businesses/chemical-weapons-convention/declarations)
-
-## [**Inspections**](/businesses/chemical-weapons-convention/inspections)
-
-## [**Offences**](/businesses/chemical-weapons-convention/offences)
-
-## [**Glossary**](/businesses/chemical-weapons-convention/glossary)
-
-## [**Useful Links**](/businesses/chemical-weapons-convention/useful-links)
+|  |  |  |  |
+|--|--|--|--|
+| [![](/images/cwc1.jpg)](/businesses/chemical-weapons-convention/legislation) | [![](/images/cwc2.jpg)](/businesses/chemical-weapons-convention/controlled-chemicals) | [![](/images/cwc3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements) | [![](/images/cwc4.jpg)](/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items) |
+| [![](/images/cwc5.jpg)](/businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items)| [**Restrictions for Exports to Non-Member States**](/businesses/chemical-weapons-convention/restriction-for-exports-to-nms) |[![](/images/cwc6.jpg)](/businesses/chemical-weapons-convention/declarations)| [![](/images/cwc8.jpg)](/businesses/chemical-weapons-convention/inspections)|
+| [![](/images/cwc7.jpg)](/businesses/chemical-weapons-convention/offences) | [![](/images/cwc10.jpg)](/businesses/chemical-weapons-convention/glossary)| [![](/images/cwc11.jpg)](/businesses/chemical-weapons-convention/useful-links) | |
