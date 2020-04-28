@@ -24,7 +24,7 @@ Please note it is not necessary to submit this application if you are able to cl
 
 ## What do I need to take note for my application?
 
-Each application is for the classification of  ONE  product only. Please fill in all fields and indicate “NA” if the field is not applicable.
+Each application is for the classification of  **ONE**  product only. Please fill in all fields and indicate “NA” if the field is not applicable.
 
 In addition to the basic information of the applicant, please also:
 
