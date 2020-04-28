@@ -13,7 +13,7 @@ You do not need a strategic goods permit for the transhipment and transit of str
 
 | Activity | Criteria for Permit Exemption |
 |--|--|
-| **Transhipment** of strategic goods **not** listed in the [**Fourth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc4-XX-Sc4-) | <br> 1. Goods are taken into free trade zone(s) [FTZ(s)] immediately after being brought into Singapore; <br> 2. Goods remain in an FTZ at all times or in 2 or more FTZs except when being transferred, before they are brought out of Singapore; and <br> * Goods remain in FTZ(s) for no more than <br><br>   - 45 days, if brought in by sea  <br>  -  21 days, if brought in by air <br><br> Note: The transport mode by which the goods first enter Singapore will determine the applicable period to remain in the FTZ(s). |
+| **Transhipment** of strategic goods **not** listed in the [**Fourth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc4-XX-Sc4-) | <br> 1. Goods are taken into free trade zone(s) [FTZ(s)] immediately after being brought into Singapore; <br> 2. Goods remain in an FTZ at all times or in 2 or more FTZs except when being transferred, before they are brought out of Singapore; and <br> 3. Goods remain in FTZ(s) for no more than <br><br>   - 45 days, if brought in by sea  <br>  -  21 days, if brought in by air <br><br> Note: The transport mode by which the goods first enter Singapore will determine the applicable period to remain in the FTZ(s). |
 | **Transit** of strategic goods **not** listed in the [**Fifth Schedule to the SGCR**](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc5-) | 1. Goods remain in transit for no more than <br><br>  - 45 days, if brought in by sea <br>  - 21 days, if brought in by air |
 
 The authorities have the powers to ask for documents or notifications even if a strategic goods permit is not required.
@@ -35,7 +35,7 @@ The “catch-all” provision applies even if the goods are  **not**  strategic 
 
 ## Application for Individual Permits
 
-If you are transacting in strategic goods, you should  [apply for an Individual Permit](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/tn4-1proceduresforstspermits.pdf?la=en&hash=0E4E92A6B986580AB1E7E2884EDB217EA68E9494)  _at least 5 working days:_
+If you are transacting in strategic goods, you should  [apply for an Individual Permit](/documents/businesses/tn4-1proceduresforstspermits.pdf)  _at least 5 working days:_
 
 -   _before loading the goods_  onto the conveyance to be brought out of Singapore for every  **export, re-export or transhipment;**  and
 -   _before the arrival_ of  the conveyance on which the goods are to be  **brought in transit**  through Singapore
