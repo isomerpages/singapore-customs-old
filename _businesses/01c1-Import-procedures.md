@@ -5,7 +5,7 @@ third_nav_title: Importing Goods
 ---
 
 
-# Import Procedures
+## Import Procedures
 
 All goods imported into Singapore are regulated under the Customs Act, the Goods and Services Tax (GST) Act and the Regulation of Imports and Exports Act.
 
@@ -66,11 +66,11 @@ Taxable companies should also check with the [Inland Revenue Authority of Singap
 -   [Sealing and Unstuffing](/businesses/importing-goods/import-procedures/sealing-and-unstuffling)
     
 
-## Errors & Offences
+### Errors & Offences
 
 Importers may be penalised if they do not comply with the requirements imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and their subsidiary legislation.
 
-### Examples of Common Offences
+**Examples of Common Offences**
 -   Making an incorrect declaration on the value of goods imported into Singapore
     
     -   Omission of insurance charges in the value when declaring GST Payment permit to import goods
@@ -120,7 +120,7 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
 
-### Do
+**Do**
 ✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.
 
 ✔ Know the import procedures and declaration requirements before you import. Check with the relevant Competent Authority on the requirements to import controlled items.
@@ -141,7 +141,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 
 ✔ Keep your supporting documents for a minimum of 5 years.
 
-## Do Not
+**Do Not**
 ✖ Make a declaration without verifying the authenticity of all the supporting documents.
 
 ✖ Use a pro-forma invoice for permit application.
