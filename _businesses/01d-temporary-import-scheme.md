@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/temporary-import-scheme
 third_nav_title: Importing Goods
 ---
 
-# Temporary Import Scheme 
+## Temporary Import Scheme 
 The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
 -   Temporarily import goods for approved purposes up to a **maximum of 6 months**, with suspension of Goods and Services Tax (GST) and duty (where applicable), or
@@ -14,11 +14,11 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
 ### Temporary Import (accordion)
 
--   [Qualifying Goods and Purposes](/businesses/importing-goods/temporary-import-scheme2)
+-   [Qualifying Goods and Purposes](/businesses/importing-goods/temporary-import-scheme/qualifying-goods-and-purposes)
     
--   [Permit Application Procedures](/businesses/importing-goods/temporary-import-scheme)
+-   [Permit Application Procedures](/businesses/importing-goods/temporary-import-scheme/permit-application-procedures)
     
--   [Permit Application Procedures for Temporary Import of Scientific or Technical Goods](/businesses/importing-goods/temporary-import-scheme)
+-   [Permit Application Procedures for Temporary Import of Scientific or Technical Goods](/businesses/importing-goods/temporary-import-scheme/temporary-import-of-scientific-technical-goods)
     
 -   [Temporary Import Duration and Extension](/businesses/importing-goods/temporary-import-scheme)
     
