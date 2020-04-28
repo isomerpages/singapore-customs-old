@@ -27,4 +27,4 @@ Click on the links below to view the Customs Act and selected subsidiary legisla
 + [Customs (Prohibition of Imports) Notification](https://sso.agc.gov.sg/SL/CA1960-N1?DocDate=20070101){:target="_blank"}
 
 
-Please note that only key subsidiary legislation have been reproduced on this website.
+*Please note that only key subsidiary legislation have been reproduced on this website.*
