@@ -21,4 +21,4 @@ The ICDV is a 3-stage process:
 3.  **Apply for a  [Delivery Verification](/businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification)**  after importing the goods, if the exporting country requests for such verification
     
 
-![import certificate and delivery verification](https://www.customs.gov.sg/-/media/cus/images/business/import-certificate-and-delivery-verification.png)
+![import certificate and delivery verification](/images/3-stage-process.png)
