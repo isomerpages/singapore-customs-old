@@ -47,7 +47,7 @@ The Licensed Warehouse Scheme, Zero-Goods and Services Tax (ZG) Warehouse Scheme
 
 This is in line with Singapore Customs’ pro-enterprise regulatory approach.
 
-Visit [this page](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) for more information on our schemes and licences
+Visit [this page](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) for more information on our schemes and licences.
 
 ## Singapore’s Freeport
 
