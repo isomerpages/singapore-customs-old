@@ -38,4 +38,4 @@ Challenge inspections are designed for clarifications and resolving questions or
 
 |  |  |
 |--|--|
-| **[![](/images/Picture1.jpg)](/businesses/chemical-weapons-convention/inspections/opcw-inspection-process)** |  **[![](/images/Picture2.jpg)](/businesses/chemical-weapons-convention/inspections/notification-period)** |
+| **[![](/images/inspection1.jpg)](/businesses/chemical-weapons-convention/inspections/opcw-inspection-process)** |  **[![](/images/inspection2.jpg)](/businesses/chemical-weapons-convention/inspections/notification-period)** |
