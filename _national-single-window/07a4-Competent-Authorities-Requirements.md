@@ -45,71 +45,71 @@ For applications to the Controller of Undesirable Publications, the supporting d
 
 ### Competent Authorities' Specific Requirements
 
-**1)  [Building and Construction Authority (BCA)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/bca)**
+**1)  [Building and Construction Authority (BCA)](/about-us/national-single-window/overview/competent-authorities-requirements/BCA)**
 
-**2)  [Central Narcotics Bureau (CNB)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/cnb)**
+**2)  [Central Narcotics Bureau (CNB)](/about-us/national-single-window/overview/competent-authorities-requirements/CNB)**
 
 **3) Enterprise Singapore (ESG)**
 
--   [Rice Control Unit](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/esg-rice)
--   [Export of Rubber](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/esg-rubber)
+-   [Rice Control Unit](/about-us/national-single-window/overview/competent-authorities-requirements/ESG-Rice)
+-   [Export of Rubber](/about-us/national-single-window/overview/competent-authorities-requirements/ESG-Rubber)
 
-**4)  [Health Sciences Authority (HSA)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/hsa)**
+**4)  [Health Sciences Authority (HSA)](/about-us/national-single-window/overview/competent-authorities-requirements-for-controlled-items/has)**
 
 **5) Info-communications Media Development Authority (IMDA)**
 
--   [Controller of Undesirable Publications (CUP)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/imda-controller-of-undesirable-publications)
--   [Radiocomm & Dealer Licensing](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/imda-radiocomm-and-dealer-licensing)
+-   [Controller of Undesirable Publications (CUP)](/about-us/national-single-window/overview/competent-authorities-requirements/CUP)
+-   [Radiocomm & Dealer Licensing](/about-us/national-single-window/overview/competent-authorities-requirements/imda-radiocomm-and-dealer-licensing)
 
 **6) Ministry of Health (MOH)**
 
--   [Biosafety Branch](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/ministry-of-health---biosafety-branch)
+-   [Biosafety Branch](/about-us/national-single-window/overview/competent-authorities-requirements/ministry-of-health---biosafety-branch)
 
 **7) Ministry of Home Affairs (MHA)**
 
--   [Ministry of Home Affairs - Gambling Regulatory Unit](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/singapore-police-force---public-entertainment-liquor-licensing)
+-   [Ministry of Home Affairs - Gambling Regulatory Unit](/about-us/national-single-window/overview/competent-authorities-requirements/singapore-police-force---public-entertainment-liquor-licensing)
 
 **8) National Environment Agency (NEA)**
 
 -   Pollution Control Department (PCD)
     
-    -   [Basel Convention](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/national-environment-agency---pollution-control-department-basel-convention)
-    -   [Hazardous Substances](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/national-environment-agency---pollution-control-department-hazardous-substances)
-    -   [Ozone Depleting Substances](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/national-environment-agency---pollution-control-department-ozone-depleting-substances)
-    -   [Rotterdam Convention and the Interim Prior Informed Consent (PIC) Procedure](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/national-environment-agency---pollution-control-department-rotterdam-convention-pic-procedure)
--   [Radiation Protection and Nuclear Science Department (RPNSD)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/national-environment-agency---radiation-protection-and-nuclear-science-department-rpnsd)
+    -   [Basel Convention](/about-us/national-single-window/overview/competent-authorities-requirements/Basel-convention)
+    -   [Hazardous Substances](/about-us/national-single-window/overview/competent-authorities-requirements/hazardous-substances)
+    -   [Ozone Depleting Substances](/about-us/national-single-window/overview/competent-authorities-requirements/national-environment-agency---pollution-control-department-ozone-depleting-substances)
+    -   [Rotterdam Convention and the Interim Prior Informed Consent (PIC) Procedure](/about-us/national-single-window/overview/competent-authorities-requirements/national-environment-agency---pollution-control-department-rotterdam-convention-pic-procedure)
+-   [Radiation Protection and Nuclear Science Department (RPNSD)](/about-us/national-single-window/overview/competent-authorities-requirements/national-environment-agency---radiation-protection-and-nuclear-science-department-rpnsd)
 
 **9) National Parks Board (NParks)**
 
--   [NParks (CITES)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/Nparks-CITES)
--   [NParks (Plant Health)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/Nparks-Plant-Health)[](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/agri-food-and-veterinary-authority-cites)
--   [NParks Animal Veterinary Service (Animal)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/Nparks-AVS-Animal)
--   [NParks Animal Veterinary Service (Ornamental Fish)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/Nparks-AVS-Ornamental-Fish)
+-   [NParks (CITES)](/about-us/national-single-window/overview/competent-authorities-requirements/Nparks-Cites)
+-   [NParks (Plant Health)](/about-us/national-single-window/overview/competent-authorities-requirements/Nparks-PlantHealth)
+-   [NParks Animal Veterinary Service (Animal)](/about-us/national-single-window/overview/competent-authorities-requirements/AVS-Animals)
+-   [NParks Animal Veterinary Service (Ornamental Fish)](/about-us/national-single-window/overview/competent-authorities-requirements/AVS-Fish)
 
-**10)  [Singapore Civil Defence Force (SCDF)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/singapore-civil-defence-force-scdf)**
+**10)  [Singapore Civil Defence Force (SCDF)](/about-us/national-single-window/overview/competent-authorities-requirements/SCDF)**
 
 **11) Singapore Customs (Customs)**
 
--   [Chewing Gum (HS Code 17041000)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/singapore-customs---chewing-gum-hs-code-17041000)
--   [Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/icdv)
--   [Import of Mastering Equipment and Replication Equipment](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/singapore-customs---import-of-mastering-equipment-and-replication-equipment)
--   [Kimberley Process Certification Scheme](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/singapore-customs---kimberley-process-certification-scheme)
--   [National Authority (Chemical Weapons Convention)](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/cwc---ca-requirements.docx?la=en&hash=B4FC6DE831536510AD3D7C2B0251C0452F7BF8A5)
--   [Strategic Goods Control](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/strategic-goods-control)
--   [United Nations Security Council (UNSC) Sanctions](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/united-nations-security-council-unsc-sanctions)
+-   [Chewing Gum (HS Code 17041000)](/about-us/national-single-window/overview/competent-authorities-requirements/Chewing-gum)
+-   [Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)](/about-us/national-single-window/overview/competent-authorities-requirements/icdv)
+-   [Import of Mastering Equipment and Replication Equipment](/about-us/national-single-window/overview/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment)
+-   [Kimberley Process Certification Scheme](/about-us/national-single-window/overview/competent-authorities-requirements/singapore-customs---kimberley-process-certification-scheme)
+-   [National Authority (Chemical Weapons Convention)](/about-us/national-single-window/overview/competent-authorities-requirements/CArequirements.docx)
+-   [Strategic Goods Control](/businesses/strategic-goods-control/overview)
+-   [United Nations Security Council (UNSC) Sanctions](/businesses/united-nations-security-council-sanctions/)
 
 **12) Singapore Food Agency (SFA)**
 
--   [SFA (Fresh Fruits & Vegetables)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/SFA-fruits-and-vegetables)
--   [SFA (Livestock & Animal Products)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/sfa-livestock-and-animal-products)
--   [SFA (Meat)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/SFA-meat)
--   [SFA (Processed Food)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/SFA-processed-food)
--   [SFA (Seafood)](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/SFA-seafood)
+-   [SFA (Fresh Fruits & Vegetables)](/about-us/national-single-window/overview/competent-authorities-requirements/SFA-Fruits-and-Vegetables)
+-   [SFA (Livestock & Animal Products)](/about-us/national-single-window/overview/competent-authorities-requirements/SFA-Livestocks)
+-   [SFA (Meat)](/about-us/national-single-window/overview/competent-authorities-requirements/SFA-Meat)
+-   [SFA (Processed Food)](/about-us/national-single-window/overview/competent-authorities-requirements/SFA-Processed-Food)
+-   [SFA (Seafood)](/about-us/national-single-window/overview/competent-authorities-requirements/SFA-Seafood)
 
 **13) Singapore Police Force (SPF)**
 
--   [Arms and Explosives](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/singapore-police-force---arms-and-explosives)
--   [Public Entertainment & Liquor Licensing](https://www.customs.gov.sg/about-us/national-single-window/tradenet/competent-authorities-requirements-for-controlled-items/singapore-police-force---public-entertainment-liquor-licensing)
+-   [Arms and Explosives](/about-us/national-single-window/overview/competent-authorities-requirements/Arms-and-explosives)
+-   [Public Entertainment & Liquor Licensing](/about-us/national-single-window/overview/competent-authorities-requirements/GRU)
 
  (links lead back to old site; pages not up on new site)
  
