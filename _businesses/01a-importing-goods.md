@@ -1,5 +1,5 @@
 ---
-title: Importing Goods
+title: Overview
 permalink: /businesses/importing-goods/overview
 third_nav_title: Importing Goods
 ---
