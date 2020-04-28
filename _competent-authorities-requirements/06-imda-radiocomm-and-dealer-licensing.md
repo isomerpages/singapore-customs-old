@@ -1,6 +1,6 @@
 ---
 title: Info-communications Media Development Authority (IMDA) - Radiocomm & Dealer Licensing
-permalink: /about-us/national-single-window/overview/imda-radiocomm-and-dealer-licensing
+permalink: /about-us/national-single-window/overview/competent-authorities-requirements/imda-radiocomm-and-dealer-licensing
 third_nav_title: Competent Authorities Requirements
 ---
 
