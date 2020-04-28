@@ -10,9 +10,9 @@ CrimsonLogic Pte Ltd is the appointed TradeNet administrator. It provides accoun
 
 #### How to be a TradeNet Declaring Agent?
 
-To register, please refer to the  [Declaring Agent and Declarant Registration page](https://singapore-customs-staging.netlify.app/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant) for more information.
+To register, please refer to the  [Declaring Agent and Declarant Registration page](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant) for more information.
 
-You will need Internet access and the TradeNet front-end solution from any of the  [approved providers](https://singapore-customs-staging.netlify.app/about-us/07a2-tradenet-solution-providers) to submit applications via TradeNet.
+You will need Internet access and the TradeNet front-end solution from any of the  [approved providers](/about-us/national-single-window/overview/tradenet-solution-providers) to submit applications via TradeNet.
 
 #### How to be a TradeNet user?
 
