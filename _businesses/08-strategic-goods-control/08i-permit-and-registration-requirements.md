@@ -27,7 +27,7 @@ The permit procedures under the STS consist of:
 -   Pre-approvals (for a period determined by Singapore Customs) to be applied before the  **[export, re-export, or transhipment](businesses/strategic-goods-control/overview/scope-of-control)** **of strategic goods**, or the  **[transmission of strategic goods software or technology](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt)**.
 -   TradeNet permit to be declared before the cargo is lodged with the sea port operators or air cargo ground handling agents, or brought into Singapore for transhipment.
 
-For more information on STS, please refer to the [STS Handbook](https://www.customs.gov.sg/-/media/strategic-trade-scheme-handbook-updated-1-oct-2019.pdf?la=en&hash=B422E1A2CFBEAEB2EA4CE84E56113FD240CFBCBA).
+For more information on STS, please refer to the [STS Handbook](/documents/businesses/strategic-trade-scheme-handbook-updated-1-oct-2019.pdf).
 
 ## Brokering
 
