@@ -15,19 +15,19 @@ Declaring entities such as importers, exporters, shipping agents, air cargo agen
 
 will need to:
 
--   Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/)  or the relevant  [Unique Entity Number (UEN) Issuance Agency](http://www.uen.gov.sg/)  to obtain a UEN; and
--   [Activate](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)  their Customs Account
+-   Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/){:target="_blank"}   or the relevant  [Unique Entity Number (UEN) Issuance Agency](http://www.uen.gov.sg/){:target="_blank"}   to obtain a UEN; and
+-   [Activate](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} their Customs Account
 
 ## Applying for Customs Permits
 
 After activating your Customs Account, you may appoint a Declaring Agent to apply for customs permits via TradeNet on your behalf.
 
-To apply for your own customs permits or on behalf of your clients, you have to  [register](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)  as a Declaring Agent and apply for a TradeNet user ID.
+To apply for your own customs permits or on behalf of your clients, you have to  [register](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} as a Declaring Agent and apply for a TradeNet user ID.
 
 You may apply for customs permits via:
 
--   TradeNet front-end solution purchased from  [approved solution providers](/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers), or
--   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal)
+-   TradeNet front-end solution purchased from  [approved solution providers](//about-us/national-single-window/overview/tradenet-solution-providers), or
+-   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"} 
 
 ## Applying for Inter-Bank GIRO
 
@@ -51,7 +51,7 @@ Singapore Customs may also vary the security lodgement amount on a case-by-case 
 
 ## Authorising your Declaring Agent
 
-If you are the Key Personnel (for example, the owner, partner or director, based on ACRA’s records) or the Authorised Personnel of the entity, you may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)  to use your:
+If you are the Key Personnel (for example, the owner, partner or director, based on ACRA’s records) or the Authorised Personnel of the entity, you may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}   to use your:
 
 -   **Inter-Bank GIRO** for the payment of duties and GST for your customs permits; and,
 -   **Security** for your permit applications
