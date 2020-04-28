@@ -41,6 +41,8 @@ collections:
     output: true
   transhipping-goods: 
     output: true
+  transhipment-procedures:
+    output: true
   chemical-weapons-convention: 
     output: true
   inspections: 
