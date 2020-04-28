@@ -9,11 +9,11 @@ permalink: /businesses/border-enforcement-of-intellectual-property-rights/quick-
 
 The owner or licensee of a copyright or a registered trademark (the “requestor”) may give the Director-General of Customs (“Director-General”) a written notice stating that he requests the seizure of copyright infringing copies or trademark-infringing goods that are expected to be imported or exported. The requestor has to provide sufficient information:
 
-   **a.** to identify the infringing copies or goods;
+a. To identify the infringing copies or goods;
 
-   **b.** to enable the Director-General to ascertain the time and place where the infringing copies or goods are expected to be imported; and
+b. To enable the Director-General to ascertain the time and place where the infringing copies or goods are expected to be imported; and
 
-   **c.**  to satisfy the Director-General that the copies or goods are infringing copies or goods.
+c. To satisfy the Director-General that the copies or goods are infringing copies or goods.
 
 A notice given to the Director-General is valid for the day the notice is given and another 59 days afterwards (i.e. for 60 days). Within this period, Singapore Customs will seize the infringing copies or goods if they are imported into, or are exported from, Singapore. The requestor and the importer or exporter will be informed of the seizure.  
   
@@ -33,7 +33,7 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
 
 **Procedure for Giving Notice**  
   
-1. Complete the notice using the following template.
+ 1. Complete the notice using the following template.
 
 -   For Seizure on Request (Lodgement of Notice), the written notice should be given using Trade Marks Form 1 or Copyright Form 1.
 -   Where the right holder has been notified by Customs that there has been Ex-officio Seizure of goods or copies, and the right holder wants the Director-General to continue to detain the seized goods or copies in order to institute an infringement action, the written notice should be given using Trade Marks Form 2 or Copyright Form 2.
@@ -46,7 +46,7 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
 | 4 | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/business/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/copyright-form-2.docx?la=en&hash=F46E1DC2A6FE38610427A33FF90B7587F7E5BDC8) (22.7KB) |
 
 
-2. The Notice shall be accompanied by:
+ 2. The Notice shall be accompanied by:
 
 -   a statutory declaration that the particulars in the notice are true;
 -   a fee of S$200;
@@ -55,9 +55,9 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
 -   (for trade marks) a copy of the certificate of registration issued by the Registrar of Trade Marks in relation to the registered trade mark specified in the notice, and evidence that the registration of the registered trade mark was duly renewed at all times;
 -   (where the notice is given by a person as agent) evidence of the authority of the person giving the notice.
 
-3. The fee of S$200 and security (if furnished in the form of deposit of money) shall be made via crossed cheque payable to "Singapore Customs" or bank transfer to Singapore Customs' bank account (DBS 001-028867-9).  
+ 3. The fee of S$200 and security (if furnished in the form of deposit of money) shall be made via crossed cheque payable to "Singapore Customs" or bank transfer to Singapore Customs' bank account (DBS 001-028867-9).  
   
-4. The required documents shall be submitted to Singapore Customs (attention: Operations Management Branch) at 55 Newton Road, #10-01, Revenue House, Singapore 307987.  
+ 4. The required documents shall be submitted to Singapore Customs (attention: Operations Management Branch) at 55 Newton Road, #10-01, Revenue House, Singapore 307987.  
   
 Template of Documents:
 
