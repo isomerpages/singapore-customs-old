@@ -85,8 +85,10 @@ collections:
     output: true   
   organisation-overview:
     output: true 
-  importing-investment-precious-metals:
-    output: true      
+  importing-investment-precious-metals:   
+    output: true   
+  competent-authorities-requirements:   
+    output: true          
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
