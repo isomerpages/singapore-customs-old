@@ -47,18 +47,19 @@ Summary of minor or technical offences that were compounded:
 
 ## **Highlights of enforcement cases**
 
--   Providing material support to a foreign terrorist organization
+**Providing material support to a foreign terrorist organization**
 
 A Singaporean man was convicted by the United States (US) Court for conspiring to provide material support to a foreign terrorist organisation. He had attempted to purchase arms and ammunitions for this organisation, an offence under Section 6(2)(b)(ii) of the SGCA. Following the US Government’s extradition request, the Singapore court ruled that the offender was to be extradited to face legal action in the US. He was sentenced to 57 months of imprisonment in the US. ([Media Release](http://www.fbi.gov/baltimore/press-releases/2010/ba101810a.htm))
 
--   Submission of false permit declarations
+**Submission of false permit declarations**
 
-A freight forwarding company exported controlled military electronic connectors without a valid strategic goods export permit and instead falsely declared the items as ordinary connectors. The company was prosecuted and fined by the court under Section 5(1)(a) of the SGCA. ([Media Release](/news-and-media/media-releases/2007-09-18-MR-worldfreight.pdf)
--   Failure to register as a broker
+A freight forwarding company exported controlled military electronic connectors without a valid strategic goods export permit and instead falsely declared the items as ordinary connectors. The company was prosecuted and fined by the court under Section 5(1)(a) of the SGCA. ([Media Release](/news-and-media/media-releases/2007-09-18-MR-worldfreight.pdf))
+
+**Failure to register as a broker**
 
 A company arranged with a foreign government to remove expired and damaged ammunition from its territory to another foreign country for disposal, without first registering as a broker with Singapore Customs. The company paid a composition sum for an offence committed under Section 6(1)(a) of the SGCA .
 
-In another case, 2 individuals were sentenced to 9 and 18 months imprisonment for brokering arms to Syria. ([Media Release](/news-and-media/media-releases/2006-10-11-Press-Release.pdf).
+In another case, 2 individuals were sentenced to 9 and 18 months imprisonment for brokering arms to Syria. ([Media Release](/news-and-media/media-releases/2006-10-11-Press-Release.pdf)).
 
 ----
 
@@ -68,9 +69,9 @@ Penalties for offences under the SGCA include seizure and forfeiture of goods, f
 
 | Offence | Penalty Upon Conviction |
 |--|--|
-| Transfer of strategic goods without a valid strategic goods permit. <br>  _(Section 5 of the SGCA)_ | **First conviction:** <br><br> A fine not exceeding S$100,000 or 3 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 2 years, or both. |
-| Brokering of strategic goods without registering as a broker with Singapore Customs. <br><br> _(Section 6 (1) of the SGCA)_|  **Second or subsequent conviction:** <br> A fine not exceeding S$200,000 or 4 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 3 years, or both. |
-| Breach of condition of permit or registration. <br><br> _(Section 9 of the SGCA)_ | A fine not exceeding S$50,000 or imprisonment not exceeding 12 months, or both. |
+| **Transfer of strategic goods without a valid strategic goods permit.** <br>  _(Section 5 of the SGCA)_ | **First conviction:** <br><br> A fine not exceeding S$100,000 or 3 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 2 years, or both. |
+| **Brokering of strategic goods without registering as a broker with Singapore Customs.** <br><br> _(Section 6 (1) of the SGCA)_|  **Second or subsequent conviction:** <br> A fine not exceeding S$200,000 or 4 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 3 years, or both. |
+| **Breach of condition of permit or registration.** <br><br> _(Section 9 of the SGCA)_ | A fine not exceeding S$50,000 or imprisonment not exceeding 12 months, or both. |
 
 Companies which violate any regulatory requirement relating to SGCA may also be liable to enforcement actions under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and the Chemical Weapons (Prohibition) Act (CWPA).
 
