@@ -1,6 +1,6 @@
 ---
 title: Strategic Goods Control List
-permalink: /businesses/strategic-goods-control/strategic-goods-control-list
+permalink: /businesses/business-resources/strategic-goods-control-list
 third_nav_title: Business Resources
 ---
 
@@ -12,7 +12,7 @@ The Strategic Goods Control List is found in The Schedule to the  [Strategic Goo
 
 The Schedule consists of two parts, each split into two divisions and further sub-divided as follows:
 
-![](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/sgco-2019-overview.png)  
-![](https://www.customs.gov.sg/-/media/cus/images/business/stg-gds-list.jpg)
+![](/images/control-list1.png)  
+![](/images/control-list2.jpg)
 
 The  [List of Military Goods](/documents/businesses/list-of-military-goods.pdf) and the  [List of Dual-Use Goods](/documents/businesses/list-of-dual-use-goods.pdf) are found in Division 2 of Parts 1 and 2 of The Schedule to the Strategic Goods (Control) Order respectively.
