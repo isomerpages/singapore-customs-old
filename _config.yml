@@ -69,6 +69,8 @@ collections:
     output: true
   united-nations-security-council-sanctions: 
     output: true
+  strategic-goods-control-list:
+    output: true
   test:
     output: true
   test_hidden:
