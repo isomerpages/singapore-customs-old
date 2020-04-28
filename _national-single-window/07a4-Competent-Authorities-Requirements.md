@@ -111,8 +111,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 -   [Arms and Explosives](/about-us/national-single-window/overview/competent-authorities-requirements/Arms-and-explosives)
 -   [Public Entertainment & Liquor Licensing](/about-us/national-single-window/overview/competent-authorities-requirements/GRU)
 
- (links lead back to old site; pages not up on new site)
- 
+
 ### For more information
 
 |  |  |
