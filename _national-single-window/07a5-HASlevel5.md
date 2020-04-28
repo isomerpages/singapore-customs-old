@@ -35,13 +35,13 @@ For the following health products  that are subject to HSA’s licensing and/or 
 
 The following health products are currently not subject to HSA’s licensing/approval requirements before importation. Hence, they are no longer required to be declared with HSA’s Product codes in the import permit applications submitted via TradeNet.
 
-a) Cosmetic products;  <br> 
-b) Health supplements; <br> 
-c) Quasi-medicines; <br> _(e.g. anti-dandruff preparations, medicated soaps, medicated plasters, medicated beverages, vitamin or<br>nutritional preparations from any plant, animal or mineral, medicated toothpaste, medicated cosmetic products for treatment of<br>pimples or acne which are exempted from product registration)_  <br>
-d) Traditional medicines such as Jamu and Ayurvedic medicines; <br> _(excluding Chinese Proprietary Medicines)_  <br>
-e) Medicated oil and balm; <br> 
-f) Herbal materials; and <br> 
-g) Homoeopathic medicines <br>
+a. Cosmetic products;  <br> 
+b. Health supplements; <br> 
+c. Quasi-medicines; <br> _(e.g. anti-dandruff preparations, medicated soaps, medicated plasters, medicated beverages, vitamin or<br>nutritional preparations from any plant, animal or mineral, medicated toothpaste, medicated cosmetic products for treatment of<br>pimples or acne which are exempted from product registration)_  <br>
+d. Traditional medicines such as Jamu and Ayurvedic medicines; <br> _(excluding Chinese Proprietary Medicines)_  <br>
+e. Medicated oil and balm; <br> 
+f. Herbal materials; and <br> 
+g. Homoeopathic medicines <br>
 
 **HSA Product Codes**
 
