@@ -17,54 +17,56 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
 
 1.  **For Hazardous Wastes Classified under the Basel Convention**
     
-    1.  Declarant must declare the following in the export, import or transit permit application:
+- Declarant must declare the following in the export, import or transit permit application:
     
-    1.  Basel Export, Import or Transit Permit No. under the 'Licence Details' column
-    2.  Item description and item quantity under ‘Item Details’ column
-    3.  The corresponding Product Codes to the correct HS Codes
+    -  Basel Export, Import or Transit Permit No. under the 'Licence Details' column
+    -  Item description and item quantity under ‘Item Details’ column
+    - The corresponding Product Codes to the correct HS Codes
     
-    3.  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export, import or transit permit application through TradeNet:
+- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export, import or transit permit application through TradeNet:
     
-    1.  Invoice
-    2.  Bill of Lading (BL) / Air waybill (AWB)
-    3.  Copy of Basel export, import or transit permit
-    4.  Any other supporting documents relevant to the export, import or transit permit
+     -  Invoice
+     -  Bill of Lading (BL) / Air waybill (AWB)
+     -  Copy of Basel export, import or transit permit
+     -  Any other supporting documents relevant to the export, import or transit permit
     
     **Note:**
-    1.  **Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by PCD, NEA respectively.**
-    2.  **Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.**
+    a.  **Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by PCD, NEA respectively.**
+    b.  **Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.**
+    
 2.  **For Non-Hazardous Wastes controlled under PCD**
 
-1.  **For Export**
+**For Export**
 
-1.  Declarant must declare the following in the export permit application:
+- Declarant must declare the following in the export permit application:
 
-1.  Purpose of export under the 'Remarks/Conditions’ column
-2.  Item description and item quantity under ‘Item Details’ column
-3.  The corresponding Product Codes to the correct HS Codes
+   - Purpose of export under the 'Remarks/Conditions’ column
+   - Item description and item quantity under ‘Item Details’ column
+   - The corresponding Product Codes to the correct HS Codes
 
-3.  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export permit application through TradeNet:
+- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export permit application through TradeNet:
 
-1.  Invoice
-2.  Bill of Lading (BL) / Air waybill (AWB)
-3.  Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classify under the Basel Convention and importing country’s legislation
-4.  An inspection certificate issued by an authorized surveyor for exports of copper scraps to China , Taiwan and Hong Kong
-5.  Any other supporting documents relevant to the export permit
+   - Invoice
+   - Bill of Lading (BL) / Air waybill (AWB)
+   - Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classify under the Basel Convention and importing country’s legislation
+   - An inspection certificate issued by an authorized surveyor for exports of copper scraps to China , Taiwan and Hong Kong
+   - Any other supporting documents relevant to the export permit
 
-3.  **For Import**
+**For Import**
 
-1.  Declarant must declare the following in the import permit application:
+- Declarant must declare the following in the import permit application:
 
-1.  Purpose of import under the 'Remarks/Conditions’ column
-2.  Item description and item quantity under ‘Item Details’ column
-3.  The corresponding Product Codes to the correct HS Codes
+   - Purpose of import under the 'Remarks/Conditions’ column
+   - Item description and item quantity under ‘Item Details’ column
+   - The corresponding Product Codes to the correct HS Codes
 
-3.  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the import permit application through TradeNet:
+- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the import permit application through TradeNet:
 
-1.  Invoice
-2.  Bill of Lading (BL) / Air waybill (AWB)
-3.  Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classify under the Basel Convention
-4.  Any other supporting documents relevant to the import permit
+   - Invoice
+   - Bill of Lading (BL) / Air waybill (AWB)
+   - Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classify under the Basel Convention
+   
+- Any other supporting documents relevant to the import permit
 
 **Note:  
 Prior approval via the TradeNet shall be obtained for the export, import and transit of all non-hazardous wastes.**
