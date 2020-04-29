@@ -47,6 +47,7 @@ The table shows the period to submit your export permit application for the vari
 
 <sup>^Bulk petroleum and chemicals are those loaded directly into an oil/chemical tanker without any additional form of packing. It excludes petroleum and chemicals transported in ISO tanks and drums, as there are fixed quantities for these modes of export.
     
+### Visit links below for more information on exporting requirements: 
 
 -   [Controlled & Prohibited Goods](/businesses/exporting-goods/export-procedures/controlled-prohibited-goods)
     
