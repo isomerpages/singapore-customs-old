@@ -30,9 +30,9 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
      -  Copy of Basel export, import or transit permit
      -  Any other supporting documents relevant to the export, import or transit permit
     
-    **Note:**
-    a.  **Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by PCD, NEA respectively.**
-    b.  **Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.**
+    **Note:** <br>
+    a.  Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by PCD, NEA respectively. <br>
+    b.  Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.
     
 2.  **For Non-Hazardous Wastes controlled under PCD**
 
