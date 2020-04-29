@@ -65,6 +65,8 @@ collections:
     output: true
   importing-dutiable-motor-vehicles:
     output: true
+  importing-goods-for-destruction-or-recycling:
+    output: true
   export-procedures:
     output: true
   authorised-piers-places: 
