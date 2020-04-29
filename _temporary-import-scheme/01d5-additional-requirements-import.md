@@ -1,5 +1,5 @@
 ---
-title: Qualifying Goods and Purposes
+title: Additional Requirements
 permalink: /businesses/importing-goods/temporary-import-scheme/additional-requirements-import
 third_nav_title: Temporary Import 
 ---
