@@ -34,4 +34,4 @@ In the Product Information field, please indicate the following:
       
     
 
-You may refer to the [NParks website](https://www.nparks.gov.sg/biodiversity/cites/cites-classification-of-endangered-species) and [NParks’ (CITES) Product Code List](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/ava-cites-hs--product-codes-ahtn2017.pdf?la=en&hash=A1CC86F8EB25B262AD118A2B90772C18BAEBA8F8&hash=A1CC86F8EB25B262AD118A2B90772C18BAEBA8F8) for more details.
+You may refer to the [NParks website](https://www.nparks.gov.sg/biodiversity/cites/cites-classification-of-endangered-species) and [NParks’ (CITES) Product Code List](/documents/about-us/ava-cites-hs--product-codes-ahtn2017.pdf) for more details.
