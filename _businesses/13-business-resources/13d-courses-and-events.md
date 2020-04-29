@@ -22,11 +22,11 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/sc
 
 | Title | Related Link |
 |--|--|
-| **Guide for Newly Registered Traders** | [Web Link](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
+| **Guide for Newly Registered Traders** | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
 | **Guide to Customs’ Procedures** | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
-| **Temporary Import Scheme & Temporary Export Consignment Guide** | [Web Link](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
-| **Handbook on Rules of Origin for Preferential Certificates of Origin** | [Web Link](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
-| **Handbook on the Rules of Origin for Schemes of Preference** | [Web Link](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
+| **Temporary Import Scheme & Temporary Export Consignment Guide** | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
+| **Handbook on Rules of Origin for Preferential Certificates of Origin** | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
+| **Handbook on the Rules of Origin for Schemes of Preference** | [PDF](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
 | **Past and Upcoming Events for Traders under Specific Schemes** | [Web Link](/businesses/business-resources/courses-and-events/events-for-traders) |
 | **Customs Competency Test for Declarants** | [Web Link](https://go.gov.sg/sc401) |
 
