@@ -1,7 +1,7 @@
 ---
 title: Temporary Import of Scientific or Technical Goods
 permalink: /businesses/importing-goods/temporary-import-scheme/temporary-import-of-scientific-technical-goods
-third_nav_title: Temporary Import Scheme
+third_nav_title: Temporary Import 
 ---
 
 ## Permit Application Procedures for Temporary Import of Scientific or Technical Goods
