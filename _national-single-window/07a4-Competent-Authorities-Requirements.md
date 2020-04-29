@@ -94,7 +94,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 -   [Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)](/about-us/national-single-window/overview/competent-authorities-requirements/icdv)
 -   [Import of Mastering Equipment and Replication Equipment](/about-us/national-single-window/overview/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment)
 -   [Kimberley Process Certification Scheme](/about-us/national-single-window/overview/competent-authorities-requirements/singapore-customs---kimberley-process-certification-scheme)
--   [National Authority (Chemical Weapons Convention)](/about-us/national-single-window/overview/competent-authorities-requirements/CArequirements.docx)
+-   [National Authority (Chemical Weapons Convention)](/documents/about-us/cwc-ca-requirements.docx)
 -   [Strategic Goods Control](/businesses/strategic-goods-control/overview)
 -   [United Nations Security Council (UNSC) Sanctions](/businesses/united-nations-security-council-sanctions/)
 
