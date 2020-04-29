@@ -53,6 +53,7 @@ The import and/ or export of controlled ODS are not allowed with non-parties to 
     
     **Note:  
     Prior approval via the TradeNet shall be obtained for the export of all controlled ODS.**
+    <br><br>
     
  - **For Non-controlled ODS**  
     Export permit applications for non-controlled ODS are auto-processed by the TradeNet System.
