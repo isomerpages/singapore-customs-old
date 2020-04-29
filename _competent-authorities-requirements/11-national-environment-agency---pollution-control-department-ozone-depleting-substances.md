@@ -20,15 +20,15 @@ The import and/ or export of controlled ODS are not allowed with non-parties to 
       - The calculated  **ODP**  (Ozone Depleting Potential) weight under the 'Item Quantity' column; and
       - The corresponding Product Codes to the correct HS Codes
       
-     b.  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the import permit application through TradeNet:
+      b.  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the import permit application through TradeNet:
       - Invoice;
       - Bill of Lading (BL)/Air waybill (AWB); and
       - Any other supporting documents relevant to the import permit.
     
     **Note:**
       1. **Import of controlled ODS under Annex A and Annex B of the Schedule shall be for re-export purposes only.**
-      2. **Prior approval via the TradeNet shall be obtained for the import of all controlled ODS.**
-
+      2. **Prior approval via the TradeNet shall be obtained for the import of all controlled ODS.** 
+      <br><br>
 
  - **For Non-controlled ODS**  
    Import permit applications for non-controlled ODS are auto-processed by the TradeNet System
