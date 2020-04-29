@@ -31,8 +31,8 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
      -  Any other supporting documents relevant to the export, import or transit permit
     
     **Note:** <br>
-    a.  Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by PCD, NEA respectively. <br>
-    b.  Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.
+    1. Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by PCD, NEA respectively. <br>
+    2. Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.
     
 **2.**  **For Non-Hazardous Wastes controlled under PCD**
 
@@ -73,19 +73,17 @@ Prior approval via the TradeNet shall be obtained for the export, import and tra
 
 ### Notes
 
-1.  Please quote the  **Unique Reference No.**  on all supporting documents before faxing.
-2.  The HS Codes and Product Codes for Hazardous Wastes are listed here.
-3.  If the importer / exporter does not have the required Basel Export, Import or Transit permit, please contact PCD officers at 67319377 for advice.
+1. Please quote the  **Unique Reference No.**  on all supporting documents before faxing.
+2. The HS Codes and Product Codes for Hazardous Wastes are listed here.
+3. If the importer / exporter does not have the required Basel Export, Import or Transit permit, please contact PCD officers at 67319377 for advice.
 
 ### Export and Import of Used Electrical & Electronic Equipments
 
-**1.**  Declarant must declare the following in the export or import permit application:
-
+**1.**  Declarant must declare the following in the export or import permit application:<br>
 - Item description and item quantity under ‘Item Details’ column
 - The corresponding Product Codes depending on the purpose of export or import to the correct HS Codes
 
-**2.**  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export or import permit application through TradeNet:
-
+**2.**  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export or import permit application through TradeNet:<br>
 -  Invoice
 -  Bill of Lading (BL) / Air waybill (AWB)
 -  Warranty Document / Contractual Agreement
