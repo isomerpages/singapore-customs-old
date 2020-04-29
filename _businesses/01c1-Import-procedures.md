@@ -45,7 +45,7 @@ More information [here](/businesses/importing-goods/import-procedures/types-of-i
 
 Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/) on the arrangements to account for the GST.
 
-### Visit links below for more information on Importing requirements: 
+**Visit links below for more information on Importing requirements:** 
 
 -   [Controlled & Prohibited Goods](/businesses/importing-goods/import-procedures/controlled-prohibited-goods)
     
