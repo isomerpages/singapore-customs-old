@@ -36,17 +36,17 @@ Do check if the goods you intend to export are controlled goods subject to restr
 
 You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)  using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
 
-If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)  of the product, you may apply for an  [official classification ruling](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/quick-guide-for-exporter/application-for-classification.doc?la=en&hash=87BD36B8C5A915EA1197C7CF3503297CC5EFFFAD)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
+If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)  of the product, you may apply for an  [official classification ruling](/documents/businesses/application-for-classification.doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
 ### Step 3:  Apply for Customs Export Permit
 You may:
 
--   Appoint a  [declaring agent](/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
--   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)  and  [apply for a TradeNet user ID](/about-us/national-single-window/overview-what-you-need-to-know)
+-   Appoint a  [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
+-   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID]/about-us/national-single-window/overview/what-you-need-to-know-about-tradenet)
 
 All permit applications must be submitted electronically via TradeNet, which is accessible through:
 
--   TradeNet front-end solution from any  [approved solution provider](/about-us/07a2-tradenet-solution-providers), or
+-   TradeNet front-end solution from any  [approved solution provider](/about-us/national-single-window/overview/tradenet-solution-providers), or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
 
 Each permit application typically costs S$2.88. If you are engaging a declaring agent, you may wish to check with your appointed agent on the charges involved in obtaining a permit.
@@ -98,7 +98,7 @@ Please note that partial clearance is not allowed for goods departing Singapore 
 
 Generally, you are required to retain the relevant supporting documents relating to the purchase, import, sale or export of the goods for a period of 5 years from the date of approval of the Customs permit.
 
-These documents can be stored as physical hardcopies or as [images](https://www.customs.gov.sg/-/media/cus/files/business/importing-goods/quick-guide-for-importers/customs_guide_on_keeping_and_maintaining_records_in_image_system.pdf?la=en&hash=8078ACE5357842E037BE67E75F01184A73C9E6E8). 
+These documents can be stored as physical hardcopies or as [images](/documents/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system(1).pdf). 
 <br> You are required to produce these supporting documents to Singapore Customs upon request.
 
 ***
