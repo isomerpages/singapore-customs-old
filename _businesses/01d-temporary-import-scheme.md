@@ -20,9 +20,9 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
     
 -   [Permit Application Procedures for Temporary Import of Scientific or Technical Goods](/businesses/importing-goods/temporary-import-scheme/temporary-import-of-scientific-technical-goods)
     
--   [Temporary Import Duration and Extension](/businesses/importing-goods/temporary-import-scheme)
+-   [Temporary Import Duration and Extension](/businesses/importing-goods/temporary-import-scheme/duration-and-extension)
     
--   [Additional Requirements](/businesses/importing-goods/temporary-import-scheme)
+-   [Additional Requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements-import)
     
 
 ### Temporary Export (accordion) 
