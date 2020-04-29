@@ -11,7 +11,7 @@ third_nav_title: Courses and events
 | Outreach Sessions on Revised TradeFIRST Checklist<br><br>Please download the slides from the following links:<br>- [TradeFIRST Checklist 2017](/business-resources/tradefirstchecklist.pdf) | Current Schemes Holders and Licensees |21, 22 and 23 February 2017|
 | Dialogue Session with Scheme Holders and Licensees<br><br>Please download the Dialogue Slides from the following links:<br>-   [Pro-Enterprise Ranking Survey and Traders Satisfaction Survey](/news-and-media/publications/traders-satisfaction-survey-and-pro-enterprise-ranking-survey-results)<br><br>-   [National Trade Platform](/business-resources/nationaltradeplatform.pdf)<br><br>-   [Compliance Outreach](/business-resources/compliance-outreach.pdf)<br><br>-   [Revised TradeFIRST Self-Assessment Checklist](/business-resources/tradefirst-self-assessment-checklist.pdf)<br><br>-   [Revised Facilitation for LWV Licensees](/business-resources/revised-facilitation-for-lwv-licensees.pdf) |Current Scheme Holders and Licensees  |18, 20, 25 and 27 October 2016|
 | Dialogue Session with Zero-GST Warehouse Operators<br><br>Please download the Dialogue Slides from the following links:<br>-   [Enhanced SingPass](/business-resources/enhanced-singpass.pdf)<br><br>-   [Financial Action Task Force (FATF) and Review of Zero-GST Warehouse Licensing Conditions](/business-resources/fatf--review-of-zerogst-warehouse-licensing-conditions.pdf)<br><br>-   [Traders’ Satisfaction Survey (TSS)](/news-and-media/publications/travellers-satisfaction-survey-results)<br><br>-   [Compliance Outreach to ZG Warehouse Licensees](/business-resources/compliance-outreach.pdf) |Current Scheme Holders and Licensees  |23 September 2015|
-| Dialogue Session with Scheme Holders and Licensees<br><br>Please download the Dialogue Slides from the following links:<br>-   [Dialogue Session for AECs/STP/STS licensees – 1 July 2014](https://www.customs.gov.sg/-/media/cus/files/business/resources/1-july-dialogue-session.pdf?la=en&hash=72B1FECE7613261ABE9B3795BFF05012594BDAD4)<br><br>-   [Dialogue Session for Zero-GST Warehouse licensees – 2 July 2014](https://www.customs.gov.sg/-/media/cus/files/business/resources/2-july-dialogue-session.pdf?la=en&hash=AD95ABEACAF5511030881CA6ED18EBFA05819963)<br><br>-   [Dialogue Session for IEF/LWV/Petroleum licensees – 4 July 2014](https://www.customs.gov.sg/-/media/cus/files/business/resources/4-july-dialogue-session.pdf?la=en&hash=A3A00203BBC71222870DEBCD359A6C10F72A5247)<br><br>-   [Dialogue session Licensed Warehouse licensees – 11 July 2014](https://www.customs.gov.sg/-/media/cus/files/business/resources/11-july-dialogue-session.pdf?la=en&hash=B4CE504FD8FCEBE7C748A47C1346E1F4CBF28188)<br><br>-   [Q & A](https://www.customs.gov.sg/-/media/cus/files/business/resources/q--a-notes-1--11-july-2014final.pdf?la=en&hash=5DE01F13C80E9F0174EBD72BC100CC0E4B75143B) | Current Scheme Holders and Licensees |1, 2, 4 and 11 July 2014|
+| Dialogue Session with Scheme Holders and Licensees<br><br>Please download the Dialogue Slides from the following links:<br>-   [Dialogue Session for AECs/STP/STS licensees – 1 July 2014](/documents/businesses/1-july-dialogue-session.pdf)<br><br>-   [Dialogue Session for Zero-GST Warehouse licensees – 2 July 2014](/documents/businesses/2-july-dialogue-session.pdf)<br><br>-   [Dialogue Session for IEF/LWV/Petroleum licensees – 4 July 2014](/documents/businesses/4-july-dialogue-session.pdf)<br><br>-   [Dialogue session Licensed Warehouse licensees – 11 July 2014](/documents/businesses/11-july-dialogue-session.pdf)<br><br>-   [Q & A](/documents/businesses/q--a-notes-1--11-july-2014final.pdf) | Current Scheme Holders and Licensees |1, 2, 4 and 11 July 2014|
 
 ***
 ## Workplan Seminar
@@ -29,19 +29,19 @@ For more details on Customs 2015 Plus, please click here.
 
 This breakout session sought to inform traders on our Secure Trade Partnership Programme and it relates to our national and international imperatives. Officers also touched on Mutual Recognition Arrangements (MRAs) aimed at promoting trade security while ensuring the smooth flow of legitimate trade. Participants of this session got to know more about the benefits they stood to gain from putting in place robust supply chain security measures.
 
-Please click  [here](https://www.customs.gov.sg/-/media/cus/files/business/resources/stpmraworkplanseminar2013final.pdf?la=en&hash=4A301E01CBE73EC82E969207975642F28048860F)  for the slide hand outs.
+Please click  [here](/documents/businesses/stpmraworkplanseminar2013final.pdf)  for the slide hand outs.
 
 **Strategic Goods Control (SGC)**
 
 This breakout session covered topics related to strategic trade controls and in particular, common compliance issues which companies faced when dealing with products related to strategic trade. During the session, participants were introduced to the Strategic Trade Scheme which sought to facilitate businesses carrying out legitimate strategic trade. Participants were invited to view a mini exhibition of dual-use items that have commercial uses but could potentially be used for the development of Weapons of Mass Destruction if these items landed in the wrong hands.
 
-Please click  [here](https://www.customs.gov.sg/-/media/cus/files/business/resources/scworkplanseminarsgcbreakout.pdf?la=en&hash=F0F04079C1821B789292B122CA819AA8EDA1FACB)  for the slide hand outs.
+Please click  [here](/documents/businesses/scworkplanseminarsgcbreakout.pdf)  for the slide hand outs.
 
 **Free Trade Agreements (FTAs)**
 
 This breakout session was specially customised for companies who wished to find out more about the eligibility of their products under various Free Trade Agreements (FTAs). The session also touched on the applicable Rules of Origin and the application procedures for preferential certificate of origin. Participants had the chance to consult our customs officers on specific FTAs of their interest.
 
-Please click [here](https://www.customs.gov.sg/-/media/cus/files/business/resources/workplanseminar_ttsb_roo_fta.pdf?la=en&hash=73DBB08E22B247B337D77E676A98A99192B6D5E5) for the slide hand outs.
+Please click [here](/documents/businesses/workplanseminar-ttsb-roo-fta.pdf) for the slide hand outs.
 
 ***
 
