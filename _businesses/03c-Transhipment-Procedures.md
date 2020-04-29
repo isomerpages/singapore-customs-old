@@ -17,7 +17,7 @@ A Transhipment Agent is required to obtain a Customs transhipment permit (where 
 
 For more information on the types of Customs permits and situations where no customs permit is required, please click [here](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits).
 
-**Visit sites below for more information of Transhipment requirements:** 
+**Visit links below for more information of Transhipment requirements:** 
 
 -   [Controlled & Prohibited Goods](/businesses/transhipping-goods/transhipment-procedures/controlled-prohibited-goods)
     
