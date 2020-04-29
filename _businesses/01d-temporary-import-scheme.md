@@ -27,19 +27,20 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
 ### Temporary Export (accordion) 
 
--   [Qualifying Goods and Purposes](/businesses/importing-goods/temporary-import-scheme)
+-   [Qualifying Goods and Purposes](/businesses/importing-goods/temporary-import-scheme/qualifying-gooods-purposes-export)
     
--   [Permit Application Procedures](/businesses/importing-goods/temporary-import-scheme)
+-   [Permit Application Procedures](/businesses/importing-goods/temporary-import-scheme/permit-application-procedure-export)
     
--   [Temporary Export Duration and Extension](/businesses/importing-goods/temporary-import-scheme)
+-   [Temporary Export Duration and Extension](/businesses/importing-goods/temporary-import-scheme/duration-and-extention-export)
     
--   [Additional Requirements](/businesses/importing-goods/temporary-import-scheme)
+-   [Additional Requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements-export)
 
 ### Alternatives to the Temporary Import Scheme (accordion) 
 
--   [Temporary Importation/Exportation of Hand-carried Non-commercial Goods](/businesses/importing-goods/temporary-import-scheme)
+-   [Temporary Importation/Exportation of Hand-carried Non-commercial Goods](/businesses/importing-goods/temporary-import-scheme/hand-carried-nc-goods)
     
--   [ATA Carnet](/businesses/importing-goods/temporary-import-scheme)
+-   [ATA Carnet](/businesses/importing-goods/temporary-import-scheme/ata-carnet)
+
 ### Errors and Offences
 
 Traders may be penalised under the Customs Act if they do not comply with the requirements of the Temporary Import Scheme.
