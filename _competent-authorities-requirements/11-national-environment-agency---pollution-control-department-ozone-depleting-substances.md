@@ -14,22 +14,20 @@ The import and/ or export of controlled ODS are not allowed with non-parties to 
 
  - **For controlled ODS**
  
-  a. Declarant must declare the following in the import permit application:
-  
-   - Import Licence No under the 'Licence Details' column  
-      Please note that all ODS Licence Nos. are to be added with character “**R**” at last digit, such as A0123L040123**R**, B0123L040123**R**, C0234L050345**R**  etc for declaration purpose.
-   - The calculated  **ODP**  (Ozone Depleting Potential) weight under the 'Item Quantity' column; and
-   - The corresponding Product Codes to the correct HS Codes
+     a. Declarant must declare the following in the import permit application:
+      - Import Licence No under the 'Licence Details' column  
+         Please note that all ODS Licence Nos. are to be added with character “**R**” at last digit, such as A0123L040123**R**, B0123L040123**R**, C0234L050345**R**  etc for declaration purpose.
+      - The calculated  **ODP**  (Ozone Depleting Potential) weight under the 'Item Quantity' column; and
+      - The corresponding Product Codes to the correct HS Codes
+      
+     b.  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the import permit application through TradeNet:
+      - Invoice;
+      - Bill of Lading (BL)/Air waybill (AWB); and
+      - Any other supporting documents relevant to the import permit.
     
-   b.  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the import permit application through TradeNet:
-   
-   - Invoice;
-   - Bill of Lading (BL)/Air waybill (AWB); and
-   - Any other supporting documents relevant to the import permit.
-    
-  **Note:**
-  1. **Import of controlled ODS under Annex A and Annex B of the Schedule shall be for re-export purposes only.**
-  2. **Prior approval via the TradeNet shall be obtained for the import of all controlled ODS.**
+    **Note:**
+      1. **Import of controlled ODS under Annex A and Annex B of the Schedule shall be for re-export purposes only.**
+      2. **Prior approval via the TradeNet shall be obtained for the import of all controlled ODS.**
 
 
  - **For Non-controlled ODS**  
@@ -41,7 +39,7 @@ The import and/ or export of controlled ODS are not allowed with non-parties to 
 
 - **For controlled ODS**
     
-    a.  Declarant must declare the following in the export permit application:
+    a. Declarant must declare the following in the export permit application:
      - Export Licence No. under the 'Licence Details' column;  
        Please note that all ODS Licence Nos. are to be added with character “**R**” at last digit, such as A0123L040123**R**, B0123L040123**R**, C0234L050345**R**  etc for declaration purpose.
      - The calculated  **ODP**  (Ozone Depleting Potential) weight under the Item quantity level; and
