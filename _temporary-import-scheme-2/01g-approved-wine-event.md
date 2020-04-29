@@ -1,6 +1,6 @@
 ---
 title: Approved Wine Event
-permalink: /businesses/importing-goods/temporary-import-scheme/approved-wine-event
+permalink: /businesses/importing-goods/temporary-import-scheme-2/approved-wine-event
 third_nav_title: Temporary Import Scheme
 ---
 
