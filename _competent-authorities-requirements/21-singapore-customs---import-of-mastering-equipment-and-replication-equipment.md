@@ -11,6 +11,6 @@ The import of mastering equipment and replicating equipment for the manufacture 
 
 Approval to import these equipment for use in Singapore is also restricted to an approved manufacturer who has been issued a ‘Manufacturer Number’ by the Economic Development Board(EDB).
 
-If you intend to import these items, please refer to our  [Circular - I&E Notice No. 6/98](https://www.customs.gov.sg/-/media/cus/files/about-us/national-single-window/ca-requirements/98699_ver-2.pdf?la=en&hash=D293E91E8A29FFAECBA73D46F1CD718F86FEB172) which is available from Customs website.
+If you intend to import these items, please refer to our  [Circular - I&E Notice No. 6/98](/documents/about-us/98699-Ver-2.pdf) which is available from Customs website.
 
 
