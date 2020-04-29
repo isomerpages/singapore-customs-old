@@ -15,8 +15,8 @@ Please follow the steps below for the importation and exportation of ornamental 
 -   Obtain a valid Licence to Import or Export Live Fish before the importation or exportation of ornamental fish. You may refer to the [NParks AVS website](http://www.nparks.gov.sg/avs) for more details.
 -   Submit the permit application to NParks AVS (Ornamental Fish) for approval via TradeNet before the importation and exportation with the following supporting documents:
      - The invoices or packing lists with the HS Code, Product Code, Common Name, Scientific Name, Quantity, Country of Origin, and Total Value of the Consignment)
- Import Health Certificates
-    - CITES Certificates, where applicable, for endangered species (e.g., Asian Arowana)
+     - Import Health Certificates
+     - CITES Certificates, where applicable, for endangered species (e.g., Asian Arowana)
  
 
    
