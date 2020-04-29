@@ -36,7 +36,7 @@ The transhipment of all goods is not subject to duty or Goods and Services Tax (
 
 As a Transhipment Agent, you are required to account for the movement of your goods while they are being transhipped through Singapore.
 
-Please refer to the following steps to obtain the relevant transhipment permits (where  [required](/businesses/03c1-types-of-transhipment-permits)) and authorisation (where the goods are subject to transhipment control) from the relevant Competent Authorities (CA).
+Please refer to the following steps to obtain the relevant transhipment permits (where  [required](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits)) and authorisation (where the goods are subject to transhipment control) from the relevant Competent Authorities (CA).
 
 ***
 
@@ -45,7 +45,7 @@ An entity that intends to engage in transhipment activities in Singapore; and ap
 
 -   Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/)  or the relevant  [Unique Entity Number](http://www.uen.gov.sg/)  (UEN) Issuance Agency to obtain a UEN; and
 -   [Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
--   Register with Customs as a  [Declaring Agent](/businesses/00g-apply-update-renew-terminate-declaring-agent(da)-account-and-declarant)
+-   Register with Customs as a  [Declaring Agent](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)
 -   Register with Customs as a Transhipment Agent (Note: To be a Transhipment Agent, your registered business with ACRA is required to be a shipping agent, air cargo agent or freight forwarder)
 -   Email your registration request to customs_documentation@customs.gov.sg and provide your entity's name and UEN to register your entity as a Transhipment Agent
 
@@ -57,9 +57,9 @@ Singapore Customs will provide an email reply to inform you of the outcome of th
 
 Do check if the goods you intend to tranship are strategic goods, controlled or prohibited goods subject to restrictions by Competent Authorities in Singapore.
     
-    You may refer to the  [list of controlled goods and prohibited goods](/businesses/transhipping-goods/controlled-and-prohibited-goods-for-transhipment) for transhipment for more information. you are advised to search  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) to check if your goods are controlled using the description of the product and Harmonized System (HS) or CA product codes to check if your goods are controlled or prohibited. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
+   You may refer to the  [list of controlled goods and prohibited goods](/businesses/transhipping-goods/controlled-and-prohibited-goods-for-transhipment) for transhipment for more information. you are advised to search  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) to check if your goods are controlled using the description of the product and Harmonized System (HS) or CA product codes to check if your goods are controlled or prohibited. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
     
-    For more information on the transhipment of strategic goods and non-strategic goods that are intended or likely to be used in connection to weapons of mass destruction, please click [here](/businesses/strategic-goods-control/overview).
+   For more information on the transhipment of strategic goods and non-strategic goods that are intended or likely to be used in connection to weapons of mass destruction, please click [here](/businesses/strategic-goods-control/overview).
 
 ***
 
@@ -67,15 +67,15 @@ Do check if the goods you intend to tranship are strategic goods, controlled or 
 
 For the transhipment of dutiable goods such as tobacco, liquor or motor vehicles covered by a Through Bill of Lading or Non-Through Bill of Lading or Airway Bill through Customs Territory, you are required to furnish security in the form of a Banker’s Guarantee/Finance Company Guarantee/Insurance Bond.
 
-For information on security lodgement, please click  [here](/businesses/00e-security-lodgement).
+For information on security lodgement, please click  [here](/businesses/registration-matters/registration-procedures/security-lodgement).
 
 ***
 
 ### Step 4 : Apply for  Customs Transhipment Permit
 
-You allowed to apply for Customs Permits on behalf of your clients where a permit is  [required](/businesses/03c1-types-of-transhipment-permits). Please ensure that the permit declaration type and permit message are correct during your application process.
+You allowed to apply for Customs Permits on behalf of your clients where a permit is  [required](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits). Please ensure that the permit declaration type and permit message are correct during your application process.
 
-All permit applications must be submitted via TradeNet. They will be accessible through [TradeNet front-end solution from an approved solution provider](/about-us/07a2-tradenet-solution-providers) or [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal)
+All permit applications must be submitted via TradeNet. They will be accessible through [TradeNet front-end solution from an approved solution provider](/about-us/national-single-window/overview/tradenet-solution-providers) or [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal)
 
 For permit applications involving strategic goods, please indicate “Strategic Trade Scheme (STS)” under the Customs Procedure Code (CPC) field.
 
