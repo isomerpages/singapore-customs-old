@@ -37,4 +37,4 @@ If the conditions are met, the Licence will be prepared for submission to Assist
 
 Upon approval from the Assistant Price Controller, a lifetime licence will be issued to the importer. Generally, it would take three to five working days to process the application.
 
-[Link to List of Product Codes](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-c---items-under-import-export-control.pdf?la=en&hash=30498A64481D95F8F9D3D95BC4597FE0B23A8D99)
+[Link to List of Product Codes](/_competent-authorities-requirements/HScodelist)
