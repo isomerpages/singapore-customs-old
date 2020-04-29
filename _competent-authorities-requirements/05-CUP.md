@@ -9,7 +9,7 @@ third_nav_title: Competent Authorities Requirements
 
 When preparing the import permit applications for publications and recorded sound media, please take note of the following requirements:
 
--   Declare the correct HS code and the corresponding product code for the respective type of product (e.g. comics, books, audio materials etc.) and type of consignment (e.g. exempted categories, non-exempted categories, offshore, languages etc.). Please refer to  [Appendix A](/_competent-authorities-requirements/AppendixAHScodes.pdf)  for the list of HS codes and Product codes.
+-   Declare the correct HS code and the corresponding product code for the respective type of product (e.g. comics, books, audio materials etc.) and type of consignment (e.g. exempted categories, non-exempted categories, offshore, languages etc.). Please refer to  [Appendix A](/documents/about-us/AppendixAHScodes.pdf)  for the list of HS codes and Product codes.
 
 -   Indicate under the "Product Quantity" field the number of titles imported based on the invoices submitted.
 
@@ -18,4 +18,4 @@ When preparing the import permit applications for publications and recorded soun
 
 -   Relevant supporting documents should be attached and submitted together with the permit application.
 
-Please refer to the [IMDA (CUP) product codes](/_competent-authorities-requirements/AppendixAHScodes.pdf) for more detailed information.
+Please refer to the [IMDA (CUP) product codes](/documents/about-us/AppendixAHScodes.pdf) for more detailed information.
