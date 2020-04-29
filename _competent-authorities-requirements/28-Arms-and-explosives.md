@@ -112,7 +112,7 @@ Kindly note that AED PLRD no longer accepts submissions of supporting documents 
 
 The Product Code for HS codes controlled by AED (PLRD) have to be declared with the Product Code Quantity and Unit. Please note that the Product Code Quantity and Unit for AED (PLRD)’s product codes will be in accordance to the declared HS Unit of Quantity.
 
-The list of AED PLRD regulated Harmonised System Codes and Product Codes can be found  [here](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-d---items-under-import-export-transhipment-control.pdf?la=en&hash=B9BCA97D84E0D0CF8D4114D7C14FA0BEA25176BF).
+The list of AED PLRD regulated Harmonised System Codes and Product Codes can be found  [here](/documents/about-us/appendix-d-items-under-import-export-transhipment-control.pdf).
 
 When you are importing, exporting or transhipping non-controlled goods which are classified under AED PLRD’s controlled HS codes, you shall declare the product code as “MISC” for these HS codes.
 
