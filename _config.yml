@@ -61,6 +61,8 @@ collections:
     output: true
   temporary-import-scheme:
     output: true
+  temporary-import-scheme-2: 
+    output: true
   importing-dutiable-motor-vehicles:
     output: true
   export-procedures:
