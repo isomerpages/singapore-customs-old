@@ -17,6 +17,8 @@ A Transhipment Agent is required to obtain a Customs transhipment permit (where 
 
 For more information on the types of Customs permits and situations where no customs permit is required, please click [here](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits).
 
+**Visit sites below for more information of Transhipment requirements:** 
+
 -   [Controlled & Prohibited Goods](/businesses/transhipping-goods/transhipment-procedures/controlled-prohibited-goods)
     
 -   [Vessel Registration Requirement](/businesses/transhipping-goods/transhipment-procedures/vessel-registration-requirement)
@@ -31,7 +33,7 @@ For more information on the types of Customs permits and situations where no cus
     
 -   [Documentation for Clearance of Goods](/businesses/transhipping-goods/transhipment-procedures/documentation-for-clearance-of-goods)
 
-## Errors and Offences
+### Errors and Offences
 
 Traders may be penalised if they do not comply with the Customs requirements imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), the Strategic Goods (Control) Act (SGCA) and their subsidiary legislation.
 
@@ -72,7 +74,7 @@ For more information on permit requirements for transhipment or transit of strat
 You may refer to more information on the offences and penalties under the Customs Act, RIEA and SGCA  [here](https://singapore-customs-staging.netlify.app/about-us/acts-and-subsidiary-legislation/customs-act).
     
 
-## Best Practices
+### Best Practices
 
 You are accountable as a Transhipment Agent and Declaring Agent for the transhipment and inter-gateway movement of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
@@ -106,7 +108,7 @@ You are accountable as a Transhipment Agent and Declaring Agent for the tranship
    ✖ Use your company’s Unique Entity Number (UEN) to tranship goods not belonging to you unless you are acting as a handling agent for overseas customers (without an UEN). In doing so, you also undertake the responsibility to ensure that all regulatory requirements are complied with.
 
   
-## For more information on: 
+### For more information on: 
  
 |  |  |  |  | 
 |--|--|--| -- | 
