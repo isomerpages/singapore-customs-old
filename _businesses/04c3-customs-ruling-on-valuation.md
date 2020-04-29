@@ -1,18 +1,18 @@
 ---
 title: Customs Ruling on Valuation
-permalink: /businesses/valuation-duties-taxes--fees/customs-ruling-on-valuation
+permalink: /businesses/valuation-duties-taxes-fees/customs-ruling-on-valuation
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
 
-# Customs Ruling on Valuation
+## Customs Ruling on Valuation
 
-The customs value is determined based on valuation principles from the  [Customs (Valuation) Regulations](https://www.customs.gov.sg/-/media/cus/files/business/valuation-duties-taxes-and-fees/customsvaluationregulations2.pdf?la=en&hash=241DCA4960361347C269CB0FDA3AE54EC49C98C5).
+The customs value is determined based on valuation principles from the  [Customs (Valuation) Regulations](/documents/businesses/customsvaluationregulations2.pdf).
 
 You may apply for a Customs ruling on valuation before importing your goods. Do refer to the valuation principles when preparing your application.
 
 Please ensure that the  [application form](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)  is submitted with the following documents to the Valuation Section. Submission can be done via fax (6355 2134), email ([customs_ttsb@customs.gov.sg](mailto:customs_ttsb@customs.gov.sg)) or post (55 Newton Road #07-01, Revenue House, Singapore 307987).
 
-Supporting documents:
+**Supporting documents:**
 
 -   Letter of enquiry from applicant
 -   The issue to be considered
