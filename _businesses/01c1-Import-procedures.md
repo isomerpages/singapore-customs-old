@@ -26,7 +26,7 @@ Ad valorem or specific duty rates may be applied for dutiable goods.
 
 All other goods are **non-dutiable and incur GST only**. GST is levied at 7% of the [CIF (cost, insurance and freight) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value), which includes duties (if it is a dutiable good) and other charges, costs and expenses incidental to the sale and delivery of the goods into Singapore, whether or not shown on the invoice.
 
-Find out more about [duties](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and [GST](/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst).
+Find out more about [duties](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and [GST](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst).
 
 ## Import Requirements
 
@@ -44,6 +44,8 @@ If an overseas company sold goods to a local company and the commercial invoice 
 More information [here](/businesses/importing-goods/import-procedures/types-of-import-permits) about the types of customs permits and situations where no customs permit is required.
 
 Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/) on the arrangements to account for the GST.
+
+### Visit links below for more information on Importing requirements: 
 
 -   [Controlled & Prohibited Goods](/businesses/importing-goods/import-procedures/controlled-prohibited-goods)
     
