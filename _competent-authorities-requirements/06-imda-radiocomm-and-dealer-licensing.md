@@ -42,8 +42,8 @@ For import of telecommunication equipment by licensed equipment dealers, the fol
 -   Licence Type  
     A Dealer’s Class Licence allows you to import the following types of equipment:
 
--   Registered or approved telecommunication equipment (under the “ESER”, “SER” or “General Equipment (GER)” scheme
--   Telecommunication equipment set out in the First Schedule of the Telecommunications (Dealers) Regulations
+   2. Registered or approved telecommunication equipment (under the “ESER”, “SER” or “General Equipment (GER)” scheme
+   1. Telecommunication equipment set out in the First Schedule of the Telecommunications (Dealers) Regulations
 
 DEALER'S INDIVIDUAL LICENSEE is allowed to import:
 
