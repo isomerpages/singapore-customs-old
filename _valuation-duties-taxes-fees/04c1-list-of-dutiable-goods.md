@@ -434,8 +434,8 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87036046 | Non CKD hearses with both spark-ignition combustion reciprocating engine and electric motor over 2500cc but not over 3000cc charged by external electric source |Nil| 20% |  
 |87036047  | Non CKD hearses with both spark-ignition combustion reciprocating engine and electric motor over 3000cc charged by external electric source |Nil| 20% |  
 | 87036051 | Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor not over 1000cc charged by external electric source |Nil| 20% |
-| 87036052 |Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor over 1000cc but not over 1500cc charged by external electric source  |Nil|  20%|
-| 87036053 |Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 1800cc charged by external electric source  |Nil| 20% |  
+| 87036052 | Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor over 1000cc but not over 1500cc charged by external electric source  |Nil|  20%|
+| 87036053 | Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor over 1500cc but not over 1800cc charged by external electric source  |Nil| 20% |  
 | 87036054 | Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor over 1800cc but not over 3000cc charged by external electric source |Nil| 20% |  
 | 87036055 | Non CKD prison vans with both spark-ignition combustion reciprocating engine and electric motor over 3000cc charged by external electric source |Nil| 20% |  
 | 87036056 | Non CKD motor homes with both spark-ignition combustion reciprocating engine and electric motor not over 1500cc charged by external electric source |Nil|20%  |
