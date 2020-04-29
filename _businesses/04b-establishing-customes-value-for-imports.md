@@ -6,7 +6,7 @@ third_nav_title: Valuation, Duties, Taxes & Fees
 
 # Establishing the Customs Value
 
-[Customs](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and/or [excise duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)  (with ad valorem rates) and  [Goods and Services Tax (GST)](/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst) are levied on the customs value of imports.
+[Customs](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and/or [excise duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)  (with ad valorem rates) and  [Goods and Services Tax (GST)](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst) are levied on the customs value of imports.
 
 However, some imports can:
 
@@ -14,13 +14,13 @@ However, some imports can:
 -   Be exempted from duties refer to  [Customs (Duties Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5#pr2-) and Section 2(1A) of  [Customs (Duties) Order](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)[)](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)
 -   Be  [exempted from GST](https://sso.agc.gov.sg/SL/GSTA1993-OR3)
 
-## Transaction Value Method
+### Transaction Value Method
 
 The transaction value method is first considered in establishing the customs value, which is the  [Cost, Insurance, and Freight (CIF) value](/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value) under International Commercial Terms (incoterms).
 
 To establish the customs value using this method, all other charges incidental to the sale and delivery of the imports must be added to the transaction value or the price paid or payable for the imports. Examples of these charges include selling commissions, assists (materials supplied by the importer), packing costs, proceeds of resale accruing to the seller, royalties and licence fees, freight and insurance charges.
 
-If any component of the customs value is settled in a foreign currency, that value should be converted to Singapore dollars using the prevailing [Customs exchange rate]()  at the time of import.
+If any component of the customs value is settled in a foreign currency, that value should be converted to Singapore dollars using the prevailing Customs exchange rate at the time of import.
 
 **Example 1**:
 
@@ -50,7 +50,7 @@ Individual A purchased a bag listed for sale on an online website by a foreign s
 
 The customs value should be the sum of all the costs, which is S$450. All costs incidental to the delivery of the bag to Singapore should be included for the purposes of GST payment.
 
-## Conditions for Transaction Value Method
+### Conditions for Transaction Value Method
 
 Using the transaction value method by Singapore Customs is subject to these conditions:
 
@@ -62,7 +62,7 @@ Using the transaction value method by Singapore Customs is subject to these cond
     -   Price of semi-finished goods is established by the seller on condition that the buyer will give the seller a specified quantity of the finished goods
 -   It must be shown that the transaction value has not been affected by any relationship between the importer and supplier
 
-## Other Valuation Methods
+### Other Valuation Methods
 
 If the transaction value method cannot be used, the following alternatives will be used to determine the customs value:
 
@@ -87,10 +87,10 @@ Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods availa
 
 The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export.
 
-## **No Insurance Purchased**
+### **No Insurance Purchased**
 Traders can set the insurance to zero value if no insurance charges were incurred when importing the goods.
 
-### For more infotmation on:
+**For more infotmation on:**
 
 |  |  |  |
 |--|--|--|
