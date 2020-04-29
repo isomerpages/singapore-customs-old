@@ -51,7 +51,7 @@ The function of AED (PLRD) is to regulate the dealing in, manufacture, possessio
 
 AED PLRD issues 2 types of licences – long term (valid for a period of 1 year or 2 years) and short term (valid for a period of 14 days).
 
-Long Term Licences
+*Long Term Licences*
 
 -   Licence to possess firearms or explosive precursors
 -   Licence to deal in arms, explosives or explosive precursors
@@ -59,7 +59,7 @@ Long Term Licences
 -   Licence to store arms, explosives or explosive precursors
 -   Licence to repair arms
 
-Short Term Licences
+*Short Term Licences*
 
 -   Licence to import arms, explosives or explosives precursors
 -   Licence to export arms, explosives or explosive precursors
