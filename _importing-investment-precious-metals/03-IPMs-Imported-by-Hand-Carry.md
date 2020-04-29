@@ -5,7 +5,7 @@ third_nav_title: Importing Investment Precious Metals IPM
 ---
 
 
-# IPMs Imported by Hand-Carry
+## IPMs Imported by Hand-Carry
 
 All import of IPMs by hand-carry, for commercial purposes, requires an [In-Non Payment (GST Relief) permit](/businesses/importing-goods/import-procedures/types-of-import-permits).
 
