@@ -1,7 +1,7 @@
 ---
 title: Qualifying Goods and Purposes
 permalink: /businesses/importing-goods/temporary-import-scheme/qualifying-goods-and-purposes
-third_nav_title: Temporary Import Scheme
+third_nav_title: Temporary Import 
 ---
 
 ## Qualifying Goods and Purposes
