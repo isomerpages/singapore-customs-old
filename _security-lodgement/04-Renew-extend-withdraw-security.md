@@ -17,7 +17,7 @@ If your security does not expire in the month of December, you will be notified 
 
 ## Extend Security
 
-You may lodge a new security using the [Security Application Form](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Registration) or extend the expiry date of your existing security using the [Security Extension Form](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Registration). You are encouraged to submit your new security or security extension to Customs at least two weeks before the expiry of your existing security to allow sufficient time for processing and amendments in case of discrepancies.
+You may lodge a new security using the [Security Application Form](/eservices/customs-forms-and-service-links) or extend the expiry date of your existing security using the [Security Extension Form](/eservices/customs-forms-and-service-links). You are encouraged to submit your new security or security extension to Customs at least two weeks before the expiry of your existing security to allow sufficient time for processing and amendments in case of discrepancies.
 
 ## Withdraw Security
 
