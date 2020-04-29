@@ -13,15 +13,14 @@ Please follow the import requirements below for processed food and food applianc
 -   Traders have to register with SFA (Processed Food) to obtain a Registration Number. You may refer to the [SFA website](http://www.sfa.gov.sg/) for more information.
 -   Food products that have been identified to be of high potential health risk (through trend studies), or have a history of poor food safety record, are placed under strict import control. You are required to submit the supporting documents (e.g., health certificates or laboratory analytical reports) to certify the safety of the products when applying for your import permit. Please visit the [SFA website](http://www.sfa.gov.sg/) for more details on the test parameters and import requirements of the processed food items.
 
-  
-
+ 
 Please include the following in the import permit application:
 
--   SFA (Processed Food) Registration Number in the Licence/Certificate No. field.
--   Product Information (required for all food products and food appliances under SFA (Processed Food)'s control). You need to declare all relevant information in the:
-  -   CA/SC Product Code field
-  -   CA/SC Product Quantity field
-  -   CA/SC Product Unit of Quantity field, Brand Name field (e.g., brand name, name of the manufacturer of the food product, or the intended brand name of the food product)
+- SFA (Processed Food) Registration Number in the Licence/Certificate No. field.
+- Product Information (required for all food products and food appliances under SFA (Processed Food)'s control). You need to declare all relevant information in the:
+  - CA/SC Product Code field
+  - CA/SC Product Quantity field
+  - CA/SC Product Unit of Quantity field, Brand Name field (e.g., brand name, name of the manufacturer of the food product, or the intended brand name of the food product)
 
 Please select the most relevant product codes for the declaration of import permits.
 
