@@ -41,9 +41,8 @@ For import of telecommunication equipment by licensed equipment dealers, the fol
     Please declare the appropriate valid IMDA Dealer's Individual or Class licence in the import declarations. If you do not have a Dealer's Licence, please apply for one on  [LicenceOne](https://licence1.business.gov.sg/)  Portal. The licence number should be provided in the “Licence” field on the TradeNet declaration.
 -   Licence Type  
     A Dealer’s Class Licence allows you to import the following types of equipment:
-
-   1. Registered or approved telecommunication equipment (under the “ESER”, “SER” or “General Equipment (GER)” scheme
-   2. Telecommunication equipment set out in the First Schedule of the Telecommunications (Dealers) Regulations
+    1. Registered or approved telecommunication equipment (under the “ESER”, “SER” or “General Equipment (GER)” scheme
+    2. Telecommunication equipment set out in the First Schedule of the Telecommunications (Dealers) Regulations
 
 DEALER'S INDIVIDUAL LICENSEE is allowed to import:
 
