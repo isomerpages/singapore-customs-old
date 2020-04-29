@@ -20,9 +20,9 @@ Please include the following in the import permit application:
 -   SFA (Processed Food) Registration Number in the Licence/Certificate No. field.
 -   Product Information (required for all food products and food appliances under SFA (Processed Food)'s control). You need to declare all relevant information in the:
 
--   CA/SC Product Code field
--   CA/SC Product Quantity field
--   CA/SC Product Unit of Quantity field, Brand Name field (e.g., brand name, name of the manufacturer of the food product, or the intended brand name of the food product)
+  -   CA/SC Product Code field
+  -   CA/SC Product Quantity field
+  -   CA/SC Product Unit of Quantity field, Brand Name field (e.g., brand name, name of the manufacturer of the food product, or the intended brand name of the food product)
 
 Please select the most relevant product codes for the declaration of import permits.
 
