@@ -12,7 +12,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 -   Temporarily export GST and/or duty-paid goods for approved purposes and **re-import the same goods** without GST and duty (where applicable)
     
 
-### Temporary Import (accordion)
+### Temporary Import 
 
 -   [Qualifying Goods and Purposes](/businesses/importing-goods/temporary-import-scheme/qualifying-goods-and-purposes)
     
@@ -25,7 +25,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 -   [Additional Requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements-import)
     
 
-### Temporary Export (accordion) 
+### Temporary Export  
 
 -   [Qualifying Goods and Purposes](/businesses/importing-goods/temporary-import-scheme/qualifying-gooods-purposes-export)
     
@@ -35,7 +35,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
     
 -   [Additional Requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements-export)
 
-### Alternatives to the Temporary Import Scheme (accordion) 
+### Alternatives to the Temporary Import Scheme 
 
 -   [Temporary Importation/Exportation of Hand-carried Non-commercial Goods](/businesses/importing-goods/temporary-import-scheme/hand-carried-nc-goods)
     
