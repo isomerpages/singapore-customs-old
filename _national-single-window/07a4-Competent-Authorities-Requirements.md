@@ -112,8 +112,3 @@ For applications to the Controller of Undesirable Publications, the supporting d
 -   [Public Entertainment & Liquor Licensing](/about-us/national-single-window/overview/competent-authorities-requirements/GRU)
 
 
-### For more information
-
-|  |  |
-|---|---|
-| [![](/images/HSA.jpg)](/about-us/national-single-window/overview/competent-authorities-requirements-for-controlled-items/HAS) |  |
