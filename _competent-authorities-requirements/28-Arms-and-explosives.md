@@ -31,11 +31,11 @@ The definition of "explosive precursors" us defined as any substance specified i
 
 PLRD also regulates the following items under Regulation of Imports and Exports Regulations:
 
-Controlled Imports
+*Controlled Imports*
 
 (a) Amusement machines, coin or disc operated, including pin-tables, shooting galleries and cinematography machines
 
-Controlled Imports, Exports and Transhipment
+*Controlled Imports, Exports and Transhipment*
 
 (a) Articles of clothing intended as protection against attack, including bullet-proof vest  
 (b) Helmets intended as protection in military combat  
