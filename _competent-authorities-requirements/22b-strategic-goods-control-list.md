@@ -8,7 +8,7 @@ third_nav_title: Competent Authorities Requirements
 
 | **No.** | **Date** | **Title** | **Related Link** |
 |--|--|--|--|
-| 1. | 13 Sep 2016 | Changes to the Strategic Goods Control List and Brokering Order | [Circular](/news-and-media/circulars/2016-09-13-Circular102016.pdf) |
+| 1. | 13 Sep 2016 | Changes to the Strategic Goods Control List and Brokering Order | [Circular](/news-and-media/circulars/2016-09-13-Circular102016.pdf) <br> [FAQ](/documents/about-us/sgco-2016-faqs.pdf) |
 | 2. | 4 Sep 2015 | Changes to the Strategic Goods Control List, Brokering Order, and Transhipment & Transit Controls. | [Circular](/news-and-media/circulars/2015-09-04-Circular122015.pdf) <br> [FAQ](/documents/about-us/public-faqs-sgco-2015.pdf) |
 | 3. | 11 Jan 2013 | Gazette of the Strategic Goods (Control) Order 2013. | [PDF](/documents/about-us/strategicgoodscontrolorder2013.pdf) |
 | 4. | 29 Dec 2011 | Gazette of the Strategic Goods (Control) (Amendment) Order 2011. | [PDF](/documents/about-us/strategicgoodscontrolamendmentorder2011.pdf) |
