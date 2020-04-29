@@ -8,7 +8,7 @@ third_nav_title: Security Lodgement
 
 The Electronic Banker's Guarantee (eBG) Programme is implemented with effect from 2 March 2020 to provide entities with a more efficient lodgement process for Banker's Guarantee (BG).
 
-Under the eBG Programme, entities will apply for a BG with the participating banks by including Customs  [Security Application form](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#Registration) when submitting the application and authorising the bank to send the original BG and the digital data on behalf of the entities directly to Singapore Customs. This streamlines the BG handling process, as entities will no longer have to collect the BG from the issuing bank and send it to Singapore Customs.
+Under the eBG Programme, entities will apply for a BG with the participating banks by including Customs  [Security Application form](/eservices/customs-forms-and-service-links) when submitting the application and authorising the bank to send the original BG and the digital data on behalf of the entities directly to Singapore Customs. This streamlines the BG handling process, as entities will no longer have to collect the BG from the issuing bank and send it to Singapore Customs.
 
 Once the BG has been received and successfully registered, we will send an email notification to the Primary Contact registered under the entity's Customs Account as per the current notification process. Singapore Customs shall continue to make any claims using the original BG.
 
