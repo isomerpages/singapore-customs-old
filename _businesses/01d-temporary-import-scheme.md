@@ -102,3 +102,7 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
    ✖ Remove the Customs seal affixed to the container containing goods imported under the TIS without prior approval from Singapore Customs. You are required to apply for customs supervision of unstuffing of such sealed containers.
     
   ✖ Sell goods brought in under an ATA Carnet beyond the final date allowed for re-exportation without paying the GST to Singapore Customs.
+  
+ ### For more information on: 
+  [![](/images/awe.jpg/)](/businesses/importing-goods/temporary-import-scheme-2/approved-wine-event)
+
