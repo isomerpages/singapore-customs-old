@@ -15,7 +15,7 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
 
 ## Export, Import and Transit of Hazardous Wastes
 
-1.  **For Hazardous Wastes Classified under the Basel Convention**
+**1.**  **For Hazardous Wastes Classified under the Basel Convention**
     
 - Declarant must declare the following in the export, import or transit permit application:
     
@@ -34,7 +34,7 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
     a.  Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by PCD, NEA respectively. <br>
     b.  Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.
     
-2.  **For Non-Hazardous Wastes controlled under PCD**
+**2.**  **For Non-Hazardous Wastes controlled under PCD**
 
 **For Export**
 
@@ -79,18 +79,18 @@ Prior approval via the TradeNet shall be obtained for the export, import and tra
 
 ### Export and Import of Used Electrical & Electronic Equipments
 
-1.  Declarant must declare the following in the export or import permit application:
+**1.**  Declarant must declare the following in the export or import permit application:
 
-1.  Item description and item quantity under ‘Item Details’ column
-2.  The corresponding Product Codes depending on the purpose of export or import to the correct HS Codes
+- Item description and item quantity under ‘Item Details’ column
+- The corresponding Product Codes depending on the purpose of export or import to the correct HS Codes
 
-3.  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export or import permit application through TradeNet:
+**2.**  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export or import permit application through TradeNet:
 
-1.  Invoice
-2.  Bill of Lading (BL) / Air waybill (AWB)
-3.  Warranty Document / Contractual Agreement
-4.  Surveyor Report
-5.  Any other supporting documents relevant to the export or import permit (e.g. IDA Import Licence / SPF Secondhand Goods Dealers Licence for re-using purpose, etc)
+-  Invoice
+-  Bill of Lading (BL) / Air waybill (AWB)
+-  Warranty Document / Contractual Agreement
+-  Surveyor Report
+-  Any other supporting documents relevant to the export or import permit (e.g. IDA Import Licence / SPF Secondhand Goods Dealers Licence for re-using purpose, etc)
 
 **Note:  
 Prior approval via the TradeNet shall be obtained for the export and import of all Used Electrical & Electronic Equipments.**
