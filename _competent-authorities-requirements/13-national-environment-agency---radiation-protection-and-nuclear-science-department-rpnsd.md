@@ -38,7 +38,7 @@ If the item is a non-controlled item (eg. industrial vacuum cleaner) but is clas
 
 However, if the item is controlled by RPNSD (e.g. ultrasonic cleaning apparatus), then you must declare the RPSND Establishment Code (or Product Code) in the CA/SC Product Code field as explained in the earlier paragraphs.
 
-Please refer to  [Appendix C](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/appendix-c---items-under-import-export-control.pdf?la=en&hash=30498A64481D95F8F9D3D95BC4597FE0B23A8D99) is the list of RPNSD controlled products and their HS codes for import and export.
+Please refer to  [Appendix C](/documents/about-us/appendix-c-items-under-import-export-control.pdf) is the list of RPNSD controlled products and their HS codes for import and export.
 
 **Import/Export of Spare Parts (excluding X-ray tubes)**
 
