@@ -89,7 +89,6 @@ When submitting a declaration, please observe the following requirements:
 3.  Do not declare more than one item for each item serial number, even if the products share the same HS code.
 4.  Declare the full product name as stated on the product label.
 5.  Declare the relevant licence/approval information in the CA/SC Code fields. Specific information to be declared is provided in Tables 2 to 5 below.
-***
 
 **Tables 2 to 5**
 
