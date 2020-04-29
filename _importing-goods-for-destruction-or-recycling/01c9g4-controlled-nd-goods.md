@@ -1,3 +1,9 @@
+---
+title: ontrolled Non-Dutiable Goods
+permalink: /businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/controlled-nd-goods
+third_nav_title: Importing Goods for Destruction or Recycling 
+---
+
 ## Controlled Non-Dutiable Goods
 The importer or his appointed Declaring Agent may apply for the relevant Competent Authority's approval, escort , and supervision of the destruction of controlled goods.
 
