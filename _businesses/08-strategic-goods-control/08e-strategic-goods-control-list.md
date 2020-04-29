@@ -15,4 +15,4 @@ The Schedule consists of two parts, each split into two divisions and further su
 ![](/images/control-list1.png)  
 ![](/images/control-list2.jpg)
 
-The  [List of Military Goods](/businesses/strategic-goods-control/list-of-military-goods) and the  [List of Dual-Use Goods](/businesses/strategic-goods-control/list-of-dual-use-goods) are found in Division 2 of Parts 1 and 2 of The Schedule to the Strategic Goods (Control) Order respectively.
+The  [List of Military Goods](/businesses/strategic-goods-control/strategic-goods-control-list/list-of-military-goods) and the  [List of Dual-Use Goods](/businesses/strategic-goods-control/strategic-goods-control-list/list-of-dual-use-goods) are found in Division 2 of Parts 1 and 2 of The Schedule to the Strategic Goods (Control) Order respectively.
