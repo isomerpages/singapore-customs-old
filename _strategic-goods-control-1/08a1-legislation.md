@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control/overview/legislation
 third_nav_title: Overview
 ---
 
-# Legislation
+## Legislation
 
 Singapore’s regulatory controls on strategic goods are based on the Strategic Goods (Control) Act and its subsidiary legislation.
 
@@ -22,9 +22,9 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SG
 
 Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2019](https://sso.agc.gov.sg/SL-Supp/S532-2019/Published/20190801?DocDate=20190801), effective from 1 October 2019.
 
-You may refer to the  [amendment table](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/sgco-2019-table-of-amendments---oct-2019.pdf?la=en&hash=36013E2A318447289BB43516F6DE5730E19D7146) for more information on the changes made to the Strategic Goods (Control) Order 2018, under the Strategic Goods (Control) Order 2019.
+You may refer to the  [amendment table](/documents/businesses/sgco-2019-table-of-amendments-oct-2019.pdf) for more information on the changes made to the Strategic Goods (Control) Order 2018, under the Strategic Goods (Control) Order 2019.
 
-You may also wish to visit our  [Frequently Asked Questions](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/faqs-for-strategic-goods-control-order-2019.pdf?la=en&hash=3664098D73212CFA275AE10A718EC98E20594F7B) on the updates to the Strategic Goods (Control) Order 2019.
+You may also wish to visit our  [Frequently Asked Questions](/documents/businesses/faqs-for-strategic-goods-control-order-2019.pdf) on the updates to the Strategic Goods (Control) Order 2019.
 
 **Strategic Goods (Control) (Brokering) Order**
 
@@ -32,8 +32,8 @@ Singapore has updated the categories of goods and technology which require a bro
 
 **Useful Resources:**
 
--   [Strategic Goods (Control) Bill Second Reading Speech](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/nov2002_2ndreading.pdf?la=en&hash=9CA79F716BDB41E61BBF40B8BC85DAC41E685B3F)
--   [Strategic Goods Control Circulars](https://singapore-customs-staging.netlify.app/news-and-media/circulars/)
+-   [Strategic Goods (Control) Bill Second Reading Speech](/documents/businesses/nov2002-2ndreading.pdf)
+-   [Strategic Goods Control Circulars](/news-and-media/circulars/)
 -   [Frequently Asked Questions (FAQs)](https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx)
 
 _Note: Legislation is reproduced on this website with the permission of the Government of Singapore. Acts of Parliament are available without charge and updated monthly at the  [Singapore Government Statutes Online website.](https://sso.agc.gov.sg/)  Singapore Legal Publications can be purchased online from  [Toppan Leefung Pte Ltd.](http://www.toppanleefung.com/Header_LegalPub.aspx)_
