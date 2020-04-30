@@ -12,13 +12,13 @@ The assessment is free and it is mandatory for all companies who wish to apply f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y0kFDuH6COA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Benefits of TradeFIRST
+### Benefits of TradeFIRST
 
-### Greater Convenience
+**Greater Convenience**
 
 Each company will have a dedicated account manager regardless of the number of schemes held with Singapore Customs. The account manager will follow up with the company on reviews and TradeFIRST renewal.
 
-### Greater Facilitation
+**Greater Facilitation**
 
 We adopt a risk management approach to classify the level of facilitation into 5 bands - Basic, Standard, Intermediate, Enhanced and Premium.
 
@@ -34,7 +34,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
 
     -   [Waiver of security amount of S$2000 and below](/news-and-media/circulars/2010-11-15-Circular192010.pdf)
     -   [Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme)
-    -   [TradeNet Account](/about-us/overview)
+    -   [TradeNet Account](/about-us/national-single-window/overview)
     -   [Cargo Agent’s Import Authorisation Scheme](/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme)
     -   [Certificate of Origin](/businesses/certificates-of-origin/overview)
     
@@ -53,7 +53,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     
 -   **Enhanced Band**
     
-    -   [Strategic Trade Scheme Bulk Permit](/businesses/strategic-goods-control/bulk-permit-export-transhipment-and-intangible-transfer-of-technology)
+    -   [Strategic Trade Scheme Bulk Permit](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology)
     -   [Licensed Warehouse Scheme Type III](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
     -   [Zero-GST Warehouse Scheme Type III](/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
     -   [Petroleum and Biodiesel Blends Licence](/businesses/customs-schemes-licences-framework/petroleum-licences)
@@ -73,9 +73,9 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     -   [Consolidated Declaration](/businesses/customs-schemes-licences-framework/apex-licence)
     -   [Bonded Truck Scheme](/businesses/customs-schemes-licences-framework/bonded-truck-scheme)
     
-    [Terms and Conditions](/documents/businesses/as-part-of-the-benefits-for-having-attained the-premium-band-under-TradeFIRST.docx)  for the use of TradeFIRST Logo
+    [Terms and Conditions](/documents/businesses/as-part-of-the-benefits-for-having-attained-the-premium-band-under-TradeFIRST.docx)  for the use of TradeFIRST Logo
     
-## TradeFIRST Assessment
+### TradeFIRST Assessment
 
 There are 6 sections under the TradeFIRST assessment framework:
 
@@ -121,7 +121,7 @@ The TradeFIRST assessment process is shown in the following table:
 | **Step 4** | On-site assessment will be conducted. |
 | **Step 5** | After the assessment, the account manager submits the evaluation and recommendation for approval.<br><br>The account manager will inform the company on its application outcome, the  [band](/businesses/customs-schemes-licences-framework/trade-first) it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement. | 
 
-## Renewal
+### Renewal
 
 For any Customs scheme applied successfully, your company will be subject to reviews and renewals, depending on the band accorded:
 
@@ -138,7 +138,7 @@ Reviews may also be conducted at shorter intervals under special circumstances, 
 
 If you require further assistance on TradeFIRST, please call 6251 3027 or email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
-## Frequently Asked Questions (FAQs)
+### Frequently Asked Questions (FAQs)
 
 This section guides companies who wish to perform a TradeFIRST self-assessment under specific business operations mentioned below.
 
