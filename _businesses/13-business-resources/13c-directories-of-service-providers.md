@@ -4,7 +4,7 @@ permalink: /businesses/business-resources/directories-of-service-providers
 third_nav_title: Business Resources
 ---
 
-# List of Service Providers
+## List of Service Providers
 
 | **S/No** | **Directories of service providers** |
 |--|--|
