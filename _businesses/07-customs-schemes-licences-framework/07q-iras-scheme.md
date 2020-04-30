@@ -8,6 +8,6 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 |  |  |  |
 |--|--|--|
-|[![](/images/iras3.jpg]/businesses/customs-schemes-licences-framework/iras-schemes/major-exporter-scheme) | [![](/images/iras1.jpg](/businesses/customs-schemes-licences-framework/iras-schemes/approved-import-gst-suspension-scheme) |[![](/images/iras2.jpg](/businesses/customs-schemes-licences-framework/iras-schemes/import-gst-deferment-scheme-igds)|
+|[![](/images/iras3.jpg)](/businesses/customs-schemes-licences-framework/iras-schemes/major-exporter-scheme) | [![](/images/iras1.jpg)](/businesses/customs-schemes-licences-framework/iras-schemes/approved-import-gst-suspension-scheme) |[![](/images/iras2.jpg)](/businesses/customs-schemes-licences-framework/iras-schemes/import-gst-deferment-scheme-igds)|
 
 
