@@ -4,18 +4,18 @@ permalink: /businesses/registration-matters/registration-procedures/security-lod
 third_nav_title: Security Lodgement
 ---
 
-# What is the Amount of Security Required?
+## What is the Amount of Security Required?
 
 The amount of security required for a permit application is dependent on the movement type and goods type:
 
-## Temporary Importation of Goods for Approved Purposes
+### Temporary Importation of Goods for Approved Purposes
 
 |Movement Type| Goods Type: Dutiable Goods* |Motor Vehicles|
 |--|--|--|
 | **Inward Movement** <br> [Temporary Import (TI) of Goods for Approved Purposes](/businesses/importing-goods/temporary-import-scheme)  | GST Registered Entity |30% of potential duty **and** GST|
 | **Inward Movement** <br> [Temporary Import (TI) of Goods for Approved Purposes](/businesses/importing-goods/temporary-import-scheme)  | Non-GST Registered Entity |50% of potential duty **and** GST|
 
-***
+
 
 |Movement Type|Goods Type: Non-Dutiable Goods |[Selected Goods](/documents/businesses/SelectedGoods.pdf)|Non-Selected Goods|
 |--|--|--|--|
@@ -23,9 +23,7 @@ The amount of security required for a permit application is dependent on the mov
 | **Inward Movement** <br> [Temporary Import (TI) of Goods for Approved Purposes](/businesses/importing-goods/temporary-import-scheme) | Non-GST Registered Entity |100% of potential GST|50% of potential GST|
 
 
-
-
-## Movements Involving Dutiable Goods not under Temporary Import
+### Movements Involving Dutiable Goods not under Temporary Import
 
 | Movement  Type | Dutiable Goods*  |
 |--|--|
@@ -38,21 +36,21 @@ The amount of security required for a permit application is dependent on the mov
 | **Outward Movement by Sea or Air (With Effect from 1 Apr 2016)**<br>Export of Goods from Licensed Warehouse  by Sea or Air  (for Export of Goods by Road, see Outward Movement by Road | -   50% of the potential duty for liquor and tobacco products |
 | **Outward Movement by Road  (With Effect from 1 Apr 2016)**<br>1.  Import of Goods for Re-Export  by Road**<br><br>2.  Transhipment of Goods under “**Through**”***  or “**Non-Through**”****  Bill of Lading or Airway Bill through Customs Territory with Outward Movement  by Road<br><br>3. Export of Goods from Licensed Premises by Road** | For liquor and tobacco products, the highest of:<br><br>- Average weekly potential duty involved in outward movement of such goods by road*****; or<br><br>-   50% of the potential duty; or<br><br>-   $10,000 |
 
-***
 
-*[List of Dutiable Goods](/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods)
 
-**Only the exporter's security can be used to apply for the customs permit (see  [Circular No. 01/2016](https://www.customs.gov.sg/~/media/cus/files/circulars/corp/2016/circular_01_2016v3.pdf) for more information).
+#### [List of Dutiable Goods](/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods)
 
-***Only the Declaring Agent's security can be used to apply for the customs permit (see [Circular No. 01/2016](https://www.customs.gov.sg/~/media/cus/files/circulars/corp/2016/circular_01_2016v3.pdf) for more information).
+**Only the exporter's security can be used to apply for the customs permit (see  [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
 
-****Only the importer's security can be used to apply for the customs permit (see [Circular No. 01/2016](https://www.customs.gov.sg/~/media/cus/files/circulars/corp/2016/circular_01_2016v3.pdf) for more information).
+***Only the Declaring Agent's security can be used to apply for the customs permit (see [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information)***.
 
-*****Average weekly potential duty is determined by Singapore Customs based on the entity’s past transactions
+***Only the importer's security can be used to apply for the customs permit (see [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information)***.
+
+***Average weekly potential duty is determined by Singapore Customs based on the entity’s past transactions***
 
 Security is  **not**  required for:
 
--   Transactions where the security amount required for a permit application is S$2,000 or less (see  [Circular No. 19/2010](https://www.customs.gov.sg/~/media/cus/files/circulars/corp/2010/cir19201015nov2010.pdf?la=en&hash=85CE66FE244B36C69DAC139BFF74FC63A9E6B1A5) for more information)
+-   Transactions where the security amount required for a permit application is S$2,000 or less (see  [Circular No. 19/2010](/news-and-media/circulars/2010-11-15-Circular192010.pdf for more information)
 -   All movement of unmanufactured tobacco
 -   Outward movement of undenatured ethyl alcohol (of alcoholic strength by volume of 80% or more) by road
 
