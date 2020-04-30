@@ -123,6 +123,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 
 
 **Do**
+
 ✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.
 
 ✔ Know the import procedures and declaration requirements before you import. Check with the relevant Competent Authority on the requirements to import controlled items.
