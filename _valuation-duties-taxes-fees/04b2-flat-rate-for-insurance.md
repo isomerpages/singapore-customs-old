@@ -8,10 +8,10 @@ third_nav_title: Establishing Customs Value for Imports
 
 Traders may use the flat rate of 1% for insurance to compute the Customs value of imports:
 
--   For transaction values quoted in  [Cost and Freight (CFR) International Commercial Terms (incoterms)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rate-for-insurance) and,
+-   For transaction values quoted in  [Cost and Freight (CFR) International Commercial Terms (incoterms)]* and,
 -   Where the actual insurance charges are not known or not available to the importer
 
-### Definition of Cost and Freight incoterms
+### Definition of Cost and Freight incoterms*
 
 The Cost and Freight (CFR) incoterms means the seller (exporter) is responsible for obtaining customs clearance to export the goods, delivering the goods on board the vessel at the port of shipment and paying international freight charges.
 
