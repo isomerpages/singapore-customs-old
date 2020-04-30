@@ -4,21 +4,21 @@ permalink: /businesses/strategic-goods-control/permit-and-registration-requireme
 third_nav_title: Permit and Registration Requirements
 ---
 
-# Bulk Permit: Export, Transhipment and Transit
+## Bulk Permit: Export, Transhipment and Transit
 
 The Bulk Permit is a single approval for the export, re-export, transhipment or transmission of strategic goods or their related technology. The Bulk Permit is valid for a period determined by Singapore Customs. It benefits businesses with a high transaction volume or short lead-time for order fulfilment.
 
 As long as the transaction is within the scope of the approved Bulk Permit, its holders can apply for the TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents, instead of having to apply for an  [Individual Permit](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit) 5 working days before the shipment. This enables the Bulk Permit holder to enjoy greater certainty and efficiency in their operations.
 
 
-## Types of Bulk Permits
+### Types of Bulk Permits
 
 | Type of Permit | Permit Sub-Type |Types of Trade| Scope of Approval |
 |---|---|---|---|
 | Bulk Permit | Approval by specific entities |  Export / Re-export / Transhipment <br><br> Intangible transfer of technology | Pre-approved multiple products to multiple consignees/end-users |
 | Bulk Permit | Approval by destination countries |  Export / Re-export <br><br> Intangible transfer of technology | Pre-approved multiple products to multiple destination countries |
 
-## Qualifying for the Bulk Permit
+### Qualifying for the Bulk Permit
 
 To qualify for the Bulk Permit, you must:
 
@@ -39,7 +39,7 @@ The 7 ICP elements are:
 
 You may refer to Annex A of the  [STS Handbook](/documents/businesses/strategic-trade-scheme-handbook-updated-1-oct-2019.pdf) for more details.
 
-## Applying for Bulk Permit
+### Applying for Bulk Permit
 
 You may apply for a Bulk Permit by completing and submitting this  [form](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
 
@@ -47,13 +47,13 @@ Once the application is received, an account manager will be assigned as Singapo
 
 We will conduct a TradeFIRST assessment on the company during a site validation, which includes assessment on the effectiveness of the company’s ICP. The account manager would inform the company on the application outcome, the TradeFIRST band which the company is placed in and provide the TradeFIRST assessment report to the company.
 
-## Applying for TradeNet Permit for Pre-approved Bulk Permit
+### Applying for TradeNet Permit for Pre-approved Bulk Permit
 
 If your strategic goods transactions are pre-approved under the Bulk Permit, you should apply for a TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents.
 
 For the transfer of strategic goods such as arms, munitions and chemical weapons precursors which are also controlled by other  [Competent Authorities (CAs)](/about-us/national-single-window/overview/competent-authorities-requirements), you need to submit only one TradeNet permit application, as the application will also be routed to the relevant CAs for processing.
 
-## Key Responsibilities of a Bulk Permit Holder
+### Key Responsibilities of a Bulk Permit Holder
 
 A Bulk Permit holder must:
 
