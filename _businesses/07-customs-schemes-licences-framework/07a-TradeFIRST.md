@@ -3,6 +3,7 @@ title: Trade FIRST
 permalink: /businesses/customs-schemes-licences-framework/trade-first
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
+
 ## What is it?
 
 TradeFIRST stands for Trade Facilitation & Integrated Risk-based System. It is an integrated assessment framework that provides a holistic assessment of a company and determines the level of facilitation accorded.
