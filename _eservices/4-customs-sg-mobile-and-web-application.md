@@ -10,7 +10,7 @@ permalink: /eservices/customs-sg-mobile-and-web-application/
 
 The  **Customs@SG**  mobile app is a convenient way for travellers to declare and pay duty and/or Goods and Services Tax (GST) on their overseas purchases anytime, anywhere, before the travellers arrive in Singapore.
 
-Travellers with purchases that have exceeded their personal  [duty free concession or GST relief](https://singapore-customs-staging.netlify.app/individuals/0a1-duty-free-concession-and-gst-relief) can use  **Customs@SG**  to make an advance declaration and pay the duty and/or GST without having to visit the Customs Tax Payment Office at the checkpoint when they arrive in Singapore. Once payment has been made, the app will automatically create an e-receipt in the traveller’s mobile phone. Travellers can proceed to exit the checkpoint by the Customs Green Channel. When they are stopped for checks, travellers can show the e-receipts on their smartphone as proof of payment.
+Travellers with purchases that have exceeded their personal  [duty free concession or GST relief](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief) can use  **Customs@SG**  to make an advance declaration and pay the duty and/or GST without having to visit the Customs Tax Payment Office at the checkpoint when they arrive in Singapore. Once payment has been made, the app will automatically create an e-receipt in the traveller’s mobile phone. Travellers can proceed to exit the checkpoint by the Customs Green Channel. When they are stopped for checks, travellers can show the e-receipts on their smartphone as proof of payment.
 
 Travellers can also choose to declare and pay the taxes online through the  **Customs@SG**  web portal.
 ![2](https://www.customs.gov.sg/-/media/cus/images/eservices/customs-at-sg-mobile-web-application/2.png)
@@ -64,7 +64,7 @@ You have to take up a Customs permit to account for any of the following goods:
 -   More than 10 litres of liquor products;
 -   Goods for trade, commercial or business use where the total amount of GST incurred exceeds S$300.
 
-Pleas appoint a [local freight forwarding agent](https://singapore-customs-staging.netlify.app/businesses/resources/directories-of-service-providers/list-of-local-forwarding-agents)  to help you declare a TradeNet permit for your goods.
+Please appoint a [local freight forwarding agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to help you declare a TradeNet permit for your goods.
 
 **8.** **I made a declaration and payment via the Customs@SG mobile app and web application. What should I do if I missed declaring and paying for some items via the mobile app and web application?**
 
