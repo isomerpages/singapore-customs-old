@@ -39,6 +39,8 @@ The declarations are the basis for data monitoring and on-site  [inspections](/b
 For the full list of Member States, please click [here](http://www.opcw.org/about-opcw/member-states/){:target="_blank"}
 .
 
+**For more information on:** 
+
 |  |  |  |  |
 |--|--|--|--|
 | [![](/images/cwc1.jpg)](/businesses/chemical-weapons-convention/legislation) | [![](/images/cwc2.jpg)](/businesses/chemical-weapons-convention/controlled-chemicals) | [![](/images/cwc3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements) | [![](/images/cwc4.jpg)](/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items) |
