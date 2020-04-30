@@ -1,5 +1,5 @@
 ---
-title: ontrolled Non-Dutiable Goods
+title: Controlled Non-Dutiable Goods
 permalink: /businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/controlled-nd-goods
 third_nav_title: Importing Goods for Destruction or Recycling 
 ---
