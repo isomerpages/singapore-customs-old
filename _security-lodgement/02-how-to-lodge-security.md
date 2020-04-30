@@ -11,16 +11,15 @@ You can lodge the security in the form of a Banker’s Guarantee, Finance Compan
 
 Download the  [Security Application Form](/eservices/customs-forms-and-service-links)  and bring it to your bank, finance company or insurance company for lodgement of the Banker's Guarantee/Finance Company Guarantee/Insurance Bond
 
-Further points to note:
+**Further points to note:**
 
 -   Except for securities that are lodged for an ad-hoc basis (e.g. temporary importation of an ad-hoc shipment), the security lodged should be valid for at least one year, with the expiry date set to 31 December of the following year.
 -   The bank, finance company or insurance company must be registered with the Monetary Authority of Singapore (MAS).
 -   The insurance company must be a Direct Insurer (General) or Direct Insurer (Composite) listed under [MAS’s Financial Institutions Directory](https://eservices.mas.gov.sg/fid).
 
-Submit the original security to:
+**Submit the original security to:**
 
 Registration Unit
-
 Procedures & Systems Branch  
 Singapore Customs  
 55 Newton Road #09-01  
