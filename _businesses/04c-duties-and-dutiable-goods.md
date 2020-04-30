@@ -19,7 +19,7 @@ There are 4 categories of dutiable goods:
 -   Motor vehicles
 -   Petroleum products and biodiesel blends
 
-Please refer to the  [list of dutiable goods](/businesses/valuation-duties-taxes--fees/duties-and-dutiable-goods/list-of-dutiable-goods) for their respective duty rates. All other products are non-dutiable.
+Please refer to the  [list of dutiable goods](/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods) for their respective duty rates. All other products are non-dutiable.
 
 Examples on the calculation of duties payable:
 
