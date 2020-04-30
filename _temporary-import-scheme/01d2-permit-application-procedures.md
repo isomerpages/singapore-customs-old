@@ -30,4 +30,4 @@ Traders should follow these procedures to apply for permits for temporary import
 4.  Produce the permit and supporting documents for endorsement by checkpoint officers during import cargo clearance.
 5.  For re-exportation of goods imported under TIS, apply for a corresponding Customs Out (Temporary Consignment) permit via TradeNet before the actual export. The previous In-Non Payment permit number must be declared in the “Previous Permit No.” field.
 6.  Produce the permit and supporting documents for endorsement by checkpoints officers during export cargo clearance.
-7.  In addition to the above procedures, please also take note of [additional requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements) for temporary imports.
+7.  In addition to the above procedures, please also take note of [additional requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements-import) for temporary imports.
