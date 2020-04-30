@@ -4,7 +4,7 @@ permalink: /businesses/chemical-weapons-convention/controlled-chemicals
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 
-# Controlled Chemicals
+## Controlled Chemicals
 
 The Chemical Weapons Convention lists 3 schedules of toxic chemicals, their precursors and an additional category of chemicals known as unscheduled discrete organic chemicals (DOCs).
 
@@ -35,7 +35,7 @@ There are 2 types of DOCs:
 -   PSF-containing DOCs: Those that contain phosphorus, sulphur or fluorine
 -   Non PSF-containing DOCs: Those that do not contain phosphorus, sulphur or fluorine
 
-## Determining if your product is controlled
+### Determining if your product is controlled
 
 Please refer to the [list of scheduled chemicals](/documents/businesses/GuidetoNACWCLicencewithSchChemList.pdf) to check if your product is controlled by the NA(CWC).
 
