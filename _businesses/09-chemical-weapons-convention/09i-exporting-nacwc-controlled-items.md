@@ -43,6 +43,9 @@ If the export is not subject to the above restrictions, you may apply for an exp
 
 ***Note:** Exporters only need to submit this End User Certificate for an Individual Permit application under the Strategic Trade Scheme (STS).
 
+### Advance Notification for Transfer of Schedule 1 Chemicals
+
+Licensees that intend to export any Schedule 1 chemical to Member States must give [notification](/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals) to NA(CWC) before and after the transfer has been completed.
 
 ### Scheduled Chemicals under Strategic Goods (Control) Act
 
