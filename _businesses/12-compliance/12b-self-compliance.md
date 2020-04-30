@@ -20,10 +20,10 @@ Singapore Customs Academy conducts various training courses to equip traders wit
 
 Traders may refer to the following information to develop or improve their business practices to avoid committing common errors and offences. Such practices will also ensure better compliance with Customs laws and regulations.
 
--   [Importing of Goods](https://singapore-customs-staging.netlify.app/businesses/importing-goods/import-procedures/)
--   [Exporting of Goods](https://singapore-customs-staging.netlify.app/businesses/02c-export-procedures)
--   [Transhipment of Goods](https://singapore-customs-staging.netlify.app/businesses/03c-transhipment-procedures)
--   [Rules of Origin](https://singapore-customs-staging.netlify.app/businesses/certificates-of-origin/overview)
--   [Temporary Import Scheme](https://singapore-customs-staging.netlify.app/businesses/importing-goods/temporary-import-scheme)
--   [Licensed Warehouse Scheme](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
--   [Chemical Weapons (Prohibition) Act](https://singapore-customs-staging.netlify.app/businesses/chemical-weapons-convention/offences)
+-   [Importing of Goods](/businesses/importing-goods/import-procedures/)
+-   [Exporting of Goods](/businesses/exporting-goods/export-procedures)
+-   [Transhipment of Goods](/businesses/transhipping-goods/transhipment-procedures)
+-   [Rules of Origin](/businesses/certificates-of-origin/overview)
+-   [Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme)
+-   [Licensed Warehouse Scheme](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
+-   [Chemical Weapons (Prohibition) Act](/businesses/chemical-weapons-convention/offences)
