@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/establi
 third_nav_title: Importing Dutiable Motor Vehicles 
 ---
 
-# Establishing the Customs Value
+## Establishing the Customs Value
 
 This page provides information about the valuation methods used to derive the customs value of both new and used dutiable motor vehicles.
 
