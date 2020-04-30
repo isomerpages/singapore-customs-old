@@ -4,7 +4,7 @@ permalink: /businesses/exporting-goods/export-procedures/types-of-export-permits
 third_nav_title: Export Procedures
 ---
 
-# Types of Export Permits
+## Types of Export Permits
 
 | Message Type | Declaration Type  | Code    |
 |--------------|-------------|-----------------|
@@ -13,11 +13,11 @@ third_nav_title: Export Procedures
 |              | Temporary Consignments <br>Export of Goods under Temporary Import Scheme \(TIS\)<br>- For exhibition with sales or auctions <br>- For other purposes <br>- For repair <br>- Re-imported goods      | <br><br>TCS<br>TCO<br> TCR<br> TCI |
 
 
-Obtain a  [complete list](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/types-of-export-permits/complete-list-trade-net.pdf?la=en&hash=08945BF321E12490300AE58D4670D2B667532225)  of TradeNet permit declaration types.
+Obtain a  [complete list](/documents/businesses/complete-list-trade-nett.pdf)  of TradeNet permit declaration types.
 
 All Customs permit applications must be submitted via TradeNet, accessible through:
 
--   TradeNet front-end solution purchased any  [approved solution provider](/about-us/07a2-tradenet-solution-providers); or
+-   TradeNet front-end solution purchased any  [approved solution provider](/about-us/national-single-window/overview/tradenet-solution-providers); or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal)
 
 You may:
@@ -27,13 +27,13 @@ You may:
 
 Each permit application typically costs S$2.88. If you are engaging a declaring agent to assist you in declaring the permit, you may wish to check on the charges involved.
 
-## TradeNet Unavailability
+### TradeNet Unavailability
 
-In the event of TradeNet unavailability announced by Singapore Customs, exporters who are unable to obtain an approved permit should use a  [Letter of Undertaking](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/types-of-export-permits/lou-template-for-tn-unavailability-6aug15.docx?la=en&hash=56CB9E019226AF1781003EC1CD851A715BA14422)  for the clearance of their goods. The exporter will have to apply for a permit within 3 days from the date TradeNet is restored.
+In the event of TradeNet unavailability announced by Singapore Customs, exporters who are unable to obtain an approved permit should use a  [Letter of Undertaking](/documents/businesses/lou-template-for-tn-unavailability-6aug15-(2).docx)  for the clearance of their goods. The exporter will have to apply for a permit within 3 days from the date TradeNet is restored.
 
-For export, transhipment or bringing in transit of strategic goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability, exporters should use a  [Letter of Undertaking for strategic goods](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/types-of-export-permits/lou-for-strategic-goods.docx?la=en&hash=B8C2C374184D53B92789C1A006ECB340414C031F)for clearance of their goods.
+For export, transhipment or bringing in transit of strategic goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability, exporters should use a  [Letter of Undertaking for strategic goods](/documents/businesses/lou-for-strategic-goods.docx)for clearance of their goods.
 
-## Further information
+### Further information
 
 You may access Module 5 of the online e-Learning [Guide to Customs’ Procedures](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) for more information on ‘Important Permit Fields table’, ‘List of Message and Declaration Types for permit applications’ and ‘Types of Permit Applications’ via **Resources** > Module 5.
 
