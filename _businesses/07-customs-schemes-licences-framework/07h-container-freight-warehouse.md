@@ -4,13 +4,13 @@ permalink: /businesses/customs-schemes-licences-framework/container-freight-ware
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-# Container Freight Warehouse Licence
+## Container Freight Warehouse Licence
 
-## What is it?
+### What is it?
 
 A Container Freight Warehouse Licence allows approved logistics operators to conduct bulk breaking and consolidation operations on cargoes with Less Than Full Container Load outside a Free Trade Zone.  Only non-dutiable, non-controlled and non-strategic goods can be brought into a container freight warehouse.
 
-## How to Qualify?
+### How to Qualify?
 
 To qualify for the licence, the company must:
 
@@ -22,11 +22,11 @@ To qualify for the licence, the company must:
 -   Be responsible for the security, accountability and control of the goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum Enhanced Band
 
-## Licence Fee
+### Licence Fee
 
 An annual licence fee of $4,000 is payable when the licence is issued.
 
-## Key Responsibilities
+### Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     -   Accountable for all goods held in the licensed premises and for the payment of GST on goods not accounted for
@@ -48,7 +48,7 @@ An annual licence fee of $4,000 is payable when the licence is issued.
     -   Ensure all entrances and exits are secured when there is no movement of goods in the licensed premises
     -   Obtain prior approval from Singapore Customs for any structural alteration to the licensed premises
 
-## Customs Supervision
+### Customs Supervision
 
 The licensee should  [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)  for Customs' supervision 1 working day before the intended supervision for:
 
@@ -58,7 +58,7 @@ The licensee should  [e-file](http://eservices.customs.gov.sg/scripts/customs/su
 
 Find out more about [Fees for Supervision of Unstuffing](https://sso.agc.gov.sg/SL/CA1960-S634-2012?DocDate=20131010).
 
-## How to Apply
+### How to Apply
 
 **Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
@@ -79,7 +79,7 @@ Once the application is successful, we will contact your company to follow up wi
 
 For further assistance, please call 6251 3027 or email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
-## Frequently Asked Questions (FAQs)
+### Frequently Asked Questions (FAQs)
 
 **What is the difference between a container freight warehouse, a zero-GST warehouse and a licensed warehouse?**
 
