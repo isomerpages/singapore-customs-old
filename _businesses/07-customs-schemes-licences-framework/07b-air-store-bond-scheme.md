@@ -4,9 +4,9 @@ permalink: /businesses/customs-schemes-licences-framework/air-store-bond-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-# Air Store Bond Scheme
+## Air Store Bond Scheme
 
-## What is it?
+### What is it?
 
 An air store bond is a designated area licensed by Singapore Customs for storing dutiable goods, namely liquor, with the duty and Goods and Services Tax (GST) suspended. These dutiable goods are meant for supply to the various airlines operating out of Changi Airport terminals. The designated area is also termed as licensed premises.
 
@@ -14,7 +14,7 @@ The licensed premises must be physically demarcated and separated from other are
 
 Your company can enjoy improved cash flow under the Air Store Bond Scheme.
 
-## How to Qualify?
+### How to Qualify?
 
 To qualify for the Air Store Bond Scheme, the company must:
 
@@ -25,7 +25,7 @@ To qualify for the Air Store Bond Scheme, the company must:
 -   Obtain approval from the Changi Airport Group to operate an air store bond
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Enhanced” Band
 
-## Licence Fee
+### Licence Fee
 
 An annual licence fee is payable upon issuance of the licence. It is based on the projected potential duty* or the average past monthly duty** of the dutiable goods stored:
 
@@ -39,7 +39,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 *Projected potential duty refers to the total customs and excise duties of the projected maximum quantity of goods that can be stored at any one time in the intended licensed premises.  
 **Average past monthly duty refers to the average of the total customs and excise duties of all goods stored in the intended licensed premises on the 1st of each month during the period of 12 months (or, if the premises has been used to store goods for a shorter period, that shorter period) before the date of the application.
 
-## Key Responsibilities
+#3# Key Responsibilities
 
 **Accountability to Singapore Customs**
     
@@ -63,7 +63,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
    -   Ensure all entrances and exits are secured when there is no movement of dutiable goods in the licensed premises
    -   Obtain prior approval from Singapore Customs for any structural alteration to the licensed premises
 
-## How to Apply?
+### How to Apply?
 
 **Step 1:**  Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx)
 
@@ -83,7 +83,7 @@ Once the application is successful, we will contact you to follow up with your a
 
 For further assistance, please call 6251 3027 or email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg)
 
-## Frequently Asked Questions (FAQs)
+### Frequently Asked Questions (FAQs)
 
 **1)** **Where can I find the Harmonized System (HS) codes and duty rates of the dutiable goods?**
 
