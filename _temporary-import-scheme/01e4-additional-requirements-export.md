@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/temporary-import-scheme/additional-requir
 third_nav_title: Temporary Export 
 --- 
 
-##Additional Requirements
+## Additional Requirements
 
 **Controlled Goods**
 
