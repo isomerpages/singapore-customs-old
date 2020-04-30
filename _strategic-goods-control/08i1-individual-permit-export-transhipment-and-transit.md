@@ -6,7 +6,7 @@ third_nav_title: Permit and Registration Requirements
 
 # Individual Permit: Export, Transhipment and Transit
 
-A strategic goods permit (prefixed with either XO or XP) is required for the  **[export, transhipment or transit](businesses/strategic-goods-control/overview/scope-of-control)** of strategic goods and related technology.
+A strategic goods permit (prefixed with either XO or XP) is required for the  **[export, transhipment or transit](/businesses/strategic-goods-control-1/overview/scope-of-control)** of strategic goods and related technology.
 
 You do not need a strategic goods permit for the transhipment and transit of strategic goods not listed in the Fourth and Fifth Schedules to the Strategic Goods (Control) Regulations (SGCR) if you fulfil the following exemption criteria:
 
