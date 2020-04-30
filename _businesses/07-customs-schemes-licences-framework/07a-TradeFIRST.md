@@ -70,7 +70,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     -   Waiver of post-importation documentation checks
     -   [Secure Trade Partnership Plus](/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
     -   [APEX Licence](/businesses/customs-schemes-licences-framework/apex-licence)
-    -   [Consolidated Declaration](/businesses/customs-schemes-licences-framework/apex-licence)
+    -   [Consolidated Declaration](businesses/customs-schemes-licences-framework/consolidated-declaration)
     -   [Bonded Truck Scheme](/businesses/customs-schemes-licences-framework/bonded-truck-scheme)
     
     [Terms and Conditions](/documents/businesses/as-part-of-the-benefits-for-having-attained-the-premium-band-under-TradeFIRST.docx)  for the use of TradeFIRST Logo
