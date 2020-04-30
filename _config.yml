@@ -77,6 +77,8 @@ collections:
     output: true
   strategic-goods-control-list:
     output: true
+  strategic-goods-control-list-2:
+    output: true
   test_hidden:
     output: true
   national-single-window:
