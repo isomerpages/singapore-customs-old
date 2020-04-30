@@ -4,14 +4,14 @@ permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-v
 third_nav_title: Import Certificate and Delivery Verification
 ---
 
-# Import Certificate 
+## Import Certificate 
 
 **You can apply for an Import Certificate (IC) if**:
 
 -   You are importing goods into Singapore which are subject to the exporting country’s export control, or
 -   The exporting country requires an IC.
 
-Download the  [application form.](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links)
+Download the  [application form.](/eservices/customs-forms-and-service-links)
 
 ### Completing an IC Application
 
@@ -49,9 +49,9 @@ Please note that each application will typically be processed within 2 working d
 
 The supporting documents for your IC application include:
 
--   An  [Exporter’s Declaration](https://www.customs.gov.sg/-/media/icdv-and-brokering/exporters-declaration.docx?la=en&hash=E2325188ED74B1B551063D0A346D65C136045D21)  that an IC is required
--   An  [End-User’s Declaration](https://www.customs.gov.sg/-/media/icdv-and-brokering/end-user-declaration-03092018.docx?la=en&hash=9968820499073266A53521D27F77DD5C2AA754C6) that the goods to be imported are for the end user’s own use, if the end-user is a local party
--   An  [End-User Statement](https://www.customs.gov.sg/-/media/icdv-and-brokering/eus_v5.doc?la=en&hash=720FBA68ADF5C8E8DABD352841F12AD46806597F), if the end-user is a foreign party
+-   An  [Exporter’s Declaration](/documents/businesses/exporters-declaration.docx)  that an IC is required
+-   An  [End-User’s Declaration](/documents/businesses/end-user-declaration-03092018.docx) that the goods to be imported are for the end user’s own use, if the end-user is a local party
+-   An  [End-User Statement](/documents/businesses/eus_v5.doc), if the end-user is a foreign party
 -   If you are re-exporting the goods from Singapore, an export licence (and its English translation) from the exporting country, or a confirmation from the exporting country that they do not control the re-export of the goods
 -   Technical specifications of the goods to be imported (for example, operating instructions, manuals, brochures, data sheets, catalogues)
 -   Other relevant supporting documents
@@ -90,25 +90,25 @@ After receiving the approved IC, you should apply for an import permit via  [Tra
 
 You should obtain approval from Singapore Customs before re-exporting goods that have been imported into Singapore under an IC.
 
-If you had indicated in your IC application that the goods are for re-export, you may re-export the goods after obtaining an export permit. The  [application procedure](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate) for an export permit is the same as that for an import permit.
+If you had indicated in your IC application that the goods are for re-export, you may re-export the goods after obtaining an export permit. The application procedure for an export permit is the same as that for an import permit.
 
 If you did _not_ indicate  in your IC application that the goods are for re-export, you should obtain Customs’ approval with these documents before you apply for an export permit:
 
--   An  [End User Statement](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links) from the foreign end-user.
+-   An  [End User Statement](/eservices/customs-forms-and-service-links) from the foreign end-user.
 -   An export licence (and its English translation) from the foreign exporting country, or a confirmation from the exporting country that they do not control the re-export of the goods.
 
-### Note:
+**Note:**
 
--   You should obtain a strategic goods permit if you are re-exporting  [strategic goods](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/strategic-goods-control-list). Read about [strategic goods permit requirements](https://singapore-customs-staging.netlify.app/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit).
+-   You should obtain a strategic goods permit if you are re-exporting  [strategic goods](/businesses/strategic-goods-control/strategic-goods-control-list). Read about [strategic goods permit requirements](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit).
 -   If goods imported under the IC remain in the Free Trade Zone while pending re-export, you should still obtain both import and export permits.
 
 ### Notifying Changes and Transferring Ownership
 
 You should notify us in writing immediately on any change in information for your IC.
 
-If you are selling or transferring the imported goods to another person, please complete this  [Transfer of Ownership Form](https://www.customs.gov.sg/-/media/icdv-and-brokering/new-owner-transfer-of-ownership.docx?la=en&hash=A6B97192714D134F6E263F54CD8A67FD2526211D) and submit it at least 14 days before the sale or transfer.
+If you are selling or transferring the imported goods to another person, please complete this  [Transfer of Ownership Form](/documents/businesses/new-owner-transfer-of-ownership.docx) and submit it at least 14 days before the sale or transfer.
 
-The new owner of the goods should also submit a  [declaration](https://www.customs.gov.sg/-/media/icdv-and-brokering/new-owner-transfer-of-ownership.docx?la=en&hash=A6B97192714D134F6E263F54CD8A67FD2526211D) that the goods are for their use only.
+The new owner of the goods should also submit a  [declaration](/documents/businesses/new-owner-transfer-of-ownership.docx) that the goods are for their use only.
 
 ### Cancelling your IC
 
