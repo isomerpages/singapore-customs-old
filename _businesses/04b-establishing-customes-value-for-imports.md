@@ -26,7 +26,7 @@ If any component of the customs value is settled in a foreign currency, that val
 
 Company A bought 2 cartons of vitamins from Supplier B on  [Ex Works (EXW) incoterms]^.
 
-### *Definition of Cost, Insurance and Freight incoterms
+##### *Definition of Cost, Insurance and Freight incoterms
 
 The Cost, Insurance and Freight (CIF) incoterms means the seller (exporter) is responsible for delivering the goods onto the vessel of transport and clearing customs at the country of export.
 
@@ -40,7 +40,7 @@ The buyer must clear customs and pay for all other costs at the country of impor
 
 <br>
 
-### ^Definition of Ex Works incoterms
+##### ^Definition of Ex Works incoterms
 
 Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods available to the buyer (importer) at the seller’s premises or at another named place. The seller’s obligations and risks are minimal. After the seller delivers the goods, the ownership and risk of loss of the goods are transferred to the buyer.
 
