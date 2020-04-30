@@ -4,9 +4,9 @@ permalink: /businesses/importing-goods/import-procedures/importing-duty-exempted
 third_nav_title: Import Procedures 
 ---
 
-# Importing Motor Vehicles Granted Duty Exemption and Boats Granted GST Relief
+## Importing Motor Vehicles Granted Duty Exemption and Boats Granted GST Relief
 
-In general, importing motor vehicles for local use incurs  [Goods and Services Tax (GST)](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst) and  [duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods), while the import of pleasure boats for local use incurs GST only.
+In general, importing motor vehicles for local use incurs  [Goods and Services Tax (GST)](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst) and  [duty]( /businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods), while the import of pleasure boats for local use incurs GST only.
 
 However, there are selected types of motor vehicles that are granted duty exemption and boats that are granted GST relief respectively. Please click on the tabs below to find out more.
 
