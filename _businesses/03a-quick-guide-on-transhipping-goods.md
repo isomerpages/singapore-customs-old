@@ -27,7 +27,7 @@ The transhipment of all goods is not subject to duty or Goods and Services Tax (
 | Scenario  | Port of Loading | Port of Destination | Shipper | Consignee and/or Notifying Party |
 |--|--|--|--|--|
 | A | Not Singapore | Not Singapore | Overseas Party | Overseas party |
-| 6 | Not Singapore | Not Singapore | Overseas Party | Local shipping agent, NVOCC, air cargo agent or freight forwarder |
+| B | Not Singapore | Not Singapore | Overseas Party | Local shipping agent, NVOCC, air cargo agent or freight forwarder |
 | C | Not Singapore | Not Singapore | Local party | Overseas party or Local shipping agent/NVOCC/FF |
 
 The transhipment of all goods is not subject to duty or Goods and Services Tax (GST).
