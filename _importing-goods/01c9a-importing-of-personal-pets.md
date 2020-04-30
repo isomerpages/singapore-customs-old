@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/importing-of-personal-p
 third_nav_title: Import Procedures
 ---
 
-# Importing Personal Pets
+## Importing Personal Pets
 
 The importation of goods, including pets, incurs Goods and Services Tax (GST). The GST for the importation of personal pets is based on the  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods.
 
@@ -15,7 +15,7 @@ GST relief may be granted on the importation of personal pets if:
 
 The National Parks Board (NParks)  [Animal and Veterinary Service](https://www.nparks.gov.sg/avs) (AVS) regulates all importation of live pets. Importers must comply with NParks' AVS' [import licence and pet quarantine requirements](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/general-information) and obtain approval  **before** importing the pets from overseas.
 
-## Procedures & Requirements for Importing Personal Pets
+### Procedures & Requirements for Importing Personal Pets
 
 | **Scenarios**  | **Mode of entry of the pets**: <br>As manifested cargoes  | **Mode of entry of the pets**: <br> As part of importer’s accompanied personal baggage (both hand-carried and checked-in) |  **Remarks** |  
 |---|---|---|---|  
@@ -24,7 +24,7 @@ The National Parks Board (NParks)  [Animal and Veterinary Service](https://www.n
 | [Temporary importation](/businesses/importing-goods/temporary-import-scheme) of pets for approved purposes with intention to export them out of Singapore <br> (for breeding, exhibition, veterinary treatment, etc.) |   GST is not payable.  <br><br> [Customs In-Non Payment (Temporary Consignments) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) should be taken. <br><br> To re-export the same pets, a [Customs Out (Temporary Consignments) permit](https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-permits) should be taken. |   GST is not payable.  <br><br> [Customs In-Non Payment (Temporary Consignments) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) should be taken. <br><br> To re-export the same pets, a [Customs Out (Temporary Consignments) permit](/businesses/exporting-goods/export-procedures/types-of-export-permits) should be taken. | The importer should apply for and obtain the necessary import licences from NParks AVS in advance **before** applying for the temporary importation of the personal pets. <br><br>  TThe importer/appointed freight forwarder/pet clearing agent is required to submit the following information via email to [customs_documentation.gov.sg](mailto:customs_documentation.gov.sg): <br>  Purpose of importation <br> Value of the pets <br> Mode of transportation of import <br> Duration of the temporary importation period <br><br> The maximum period of temporary importation is 6 months, after which the pets must be re-exported. |  
 
 
-## Procedures & Requirements for Importing Personal Pets for Transfer of Residence
+### Procedures & Requirements for Importing Personal Pets for Transfer of Residence
 
 An importer who is transferring residence to Singapore (including returning Singaporeans, Permanent Residents, and foreigners) may be granted GST relief on the importation of his personal pet(s) if the following conditions are met:
 
