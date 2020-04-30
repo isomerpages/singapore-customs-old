@@ -4,9 +4,9 @@ permalink: /businesses/customs-schemes-licences-framework/apex-licence
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-# Apex Licence
+## Apex Licence
 
-## What is it?
+### What is it?
 
 The Apex Licence is a premium licence designed for existing Singapore Customs licensees holding multiple licences to support their diverse warehouse operations.
 
@@ -14,7 +14,7 @@ It allows approved companies to hold a single licence and pay a single licence f
 
 Companies holding an Apex Licence will enjoy savings in licence fees, simplified documentation requirements as well as greater flexibility in their business operations.
 
-## How to Qualify?
+### How to Qualify?
 
 To qualify for the Apex Licence, the company must:
 
@@ -23,13 +23,13 @@ To qualify for the Apex Licence, the company must:
 -   Operate a robust computerised inventory system which is able to track and account for the inventory status and movement of all goods across multiple locations
 -   Undergo  [TradeFIRST assessment](/businesses/customs-schemes-licences-framework/trade-first) and attain the Premium band
 
-## Licence Fee
+### Licence Fee
 
 The Apex Licence fee is pegged to the highest licence fee of any individual licence the company holds with Singapore Customs.
 
 For example, if a company is paying $4,000 for the Licensed Warehouse licence and $2,500 for the Zero-GST Warehouse licence, the fee for the Apex Licence would be $4,000.
 
-## How to Apply?
+### How to Apply?
 
 Please approach your designated account manager if you are interested in applying for an Apex Licence.
 
