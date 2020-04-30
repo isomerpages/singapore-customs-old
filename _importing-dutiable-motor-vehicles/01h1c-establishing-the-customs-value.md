@@ -60,13 +60,13 @@ If the transaction value method cannot be used, the following alternatives will 
 
 The customs value of used motor vehicles will depend on the following scenarios:
 
--   Individual owner purchased and used a vehicle in the country of export before importing into Singapore  
+-   **Individual owner purchased and used a vehicle in the country of export before importing into Singapore**  
     
     Depending on the age and condition of the vehicle, Singapore Customs might apply depreciation on the original purchase price. The customs value of the used vehicle would then be the sum of the depreciated purchase price, overseas freight and insurance costs, and all other costs incidental to the delivery of the vehicle to Singapore, such as handling and storage costs.
     
     If a component of the customs value is quoted in foreign currency, it should be converted to Singapore dollars by using the prevailing Customs exchange rate at the time of import.
     
 
--   Individual owner or a company importing used vehicles that are purchased from other dealers prior to import  
+-   **Individual owner or a company importing used vehicles that are purchased from other dealers prior to import**  
     
     The customs value would be established the same way as new motor vehicles.
