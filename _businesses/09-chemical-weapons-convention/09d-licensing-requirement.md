@@ -48,6 +48,10 @@ A CWC licence is required for the production of DOCs that meets either one or bo
 **Note**:  
 [Plant sites](/businesses/chemical-weapons-convention/glossary) that **exclusively** produce hydrocarbons or explosives by synthesis do not require a CWC licence.
 
+**Additional Information on Licensing Requirements**
+[Definition of activity](/businesses/chemical-weapons-convention/licensing-requirements/definition-of-activity)
+[Licence Terms and Conditions](/businesses/chemical-weapons-convention/licensing-requirements/licence-tc)
+
 **For more information:** 
 |  |  |
 |--|--|
