@@ -1,6 +1,6 @@
 ---
 title: Enforcement 
-permalink: /businesses/strategic-goods-control/overview/enforcement
+permalink: /businesses/strategic-goods-control-1/overview/enforcement
 third_nav_title: Overview
 ---
 
