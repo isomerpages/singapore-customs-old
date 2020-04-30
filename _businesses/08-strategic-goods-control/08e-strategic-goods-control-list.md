@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control/strategic-goods-control-list
 third_nav_title: Strategic Goods Control
 ---
 
-# Strategic Goods Control List
+## Strategic Goods Control List
 
 Goods and technology that meet the technical specifications described in the Strategic Goods Control List are subject to controls under the Strategic Goods (Control) Act (SGCA).
 
