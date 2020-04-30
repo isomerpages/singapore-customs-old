@@ -38,5 +38,4 @@ Value of car = S$200,000 (to be declared in the LSP field in the permit declarat
 
 <sup> Note:
 If Company A is a taxable company, it would also have to collect GST for the sale of the vehicle at S$200,000 to Company C and account the extra GST with the Inland Revenue Authority of Singapore (IRAS) in its accounting cycle. The total amount of GST collected by IRAS remains the same as the scenario where Company C pays GST on S$220,000.
-
 However, if Company A is a non-taxable company, it would have to absorb the import GST paid because it cannot collect GST for the sale to Company C.
