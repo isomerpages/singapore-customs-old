@@ -4,27 +4,31 @@ permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/good-an
 third_nav_title: Importing Dutiable Motor Vehicles
 ---
 
-# Goods and Services Tax (GST)
+## Goods and Services Tax (GST)
 
 ### For all dutiable motor vehicles:
 
 -   If the original importer is the party declaring the payment permit, a GST of 7% will be levied on the sum of the vehicle’s customs value and duties payable.
 
-GST payable = 7% x (customs value + duties payable)  
+|  |
+|--|
+|GST payable = 7% x (customs value + duties payable)| 
 
 -   In situations of multiple sales where the eventual buyer is the party declaring the payment permit, a GST of 7% will be levied on the sum of the last selling price (transaction value from the sale between the eventual buyer and his supplier) and duties payable. The last selling price (LSP) can be entered in the LSP field during permit declaration.
 
-GST payable = 7% x (last selling price + duties payable)
+|  |
+|--|
+|GST payable = 7% x (last selling price + duties payable)|
 
 Example:
 
 Company A bought a car from Supplier B at S$100,000 on  [CIF (Cost, Insurance and Freight) incoterms](/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value). The car was shipped to Singapore and stored in Company A’s licensed warehouse. Company A then sold the car to Company C for S$200,000. What is the value of the car for duty and GST purposes?
 
-### **Duty**
+**Duty**
 
 Value of car = S$100,000 <br> Duties payable = S$100,000 x **20%** = S$20,000
 
-### **GST**
+**GST**
 
 If Company A declares the payment permit: <br>
 Value of car = S$100,000 <br> GST payable = **7%** x S$(100,000 + 20,000) = S$8,400
