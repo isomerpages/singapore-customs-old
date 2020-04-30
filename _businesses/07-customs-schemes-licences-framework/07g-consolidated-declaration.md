@@ -4,13 +4,13 @@ permalink: /businesses/customs-schemes-licences-framework/consolidated-declarati
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-# Consolidated Declaration
+## Consolidated Declaration
 
-## What it is?
+### What it is?
 
 The Consolidated Declaration is a facilitation designed for qualified Air Express Companies to consolidate multiple time-sensitive imports or exports of air express shipments.
 
-## How to Qualify?
+### How to Qualify?
 
 Please refer to the following key qualifying criteria:
 
@@ -20,6 +20,6 @@ Please refer to the following key qualifying criteria:
 -   Possess robust IT systems and linkages with Singapore Customs and other government agencies
 -   Has undergone  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first)  assessment and achieved the Premium band
 
-## How to Enquire?
+### How to Enquire?
 
 For further enquiries, please call 6251 3027 or email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
