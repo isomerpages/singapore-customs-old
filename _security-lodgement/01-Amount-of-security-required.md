@@ -25,7 +25,7 @@ The amount of security required for a permit application is dependent on the mov
 
 ### Movements Involving Dutiable Goods not under Temporary Import
 
-| Movement  Type | Dutiable Goods^1  |
+| Movement  Type | Dutiable Goods [1]  |
 |--|--|
 | **Inward Movement**<br> 1.  Import of Goods for Destruction<br><br> 2. Re-import of Shut-out Goods<br><Br> 3. Import of Goods Granted Duty Exemption<br><br>4.  Import of Goods for Re-Export ( for Re-Export of Liquor and Tobacco Products  by Road, see  Outward Movement by Road ) | -  50% of the potential duty for liquor and tobacco products<br><br>-   10% of the potential duty for motor vehicles |
 | **Inward Movement**<br>Import of Goods into Licensed Warehouse for Storage | -   50% of the potential duty for liquor and tobacco products |
@@ -34,18 +34,18 @@ The amount of security required for a permit application is dependent on the mov
 | **Transhipment Movement** <br>Transhipment of Goods under “**Through**” or “**Non-Through**” Bill of Lading or Airway Bill through Customs Territory with Outward Movement  by Sea or Air  (for Transhipment of Goods under “**Through**” or “**Non-Through**” Bill of Lading or Airway Bill through Customs Territory with Outward Movement  by Road, see  Outward Movement by Road] | -   50% of the potential duty for liquor and tobacco products |
 |**Movement between Licensed Warehouses**  **(With Effect from 1 Apr 2016)**<br> Movement of Goods from one Licensed Warehouse to another Licensed Warehouse  | -   50% of the potential duty for liquor and tobacco products |
 | **Outward Movement by Sea or Air (With Effect from 1 Apr 2016)**<br>Export of Goods from Licensed Warehouse  by Sea or Air  (for Export of Goods by Road, see Outward Movement by Road | -   50% of the potential duty for liquor and tobacco products |
-| **Outward Movement by Road  (With Effect from 1 Apr 2016)** <br>1.  Import of Goods for Re-Export  by Road^2<br><br>2.  Transhipment of Goods under “**Through**”^3  or “**Non-Through**”^4  Bill of Lading or Airway Bill through Customs Territory with Outward Movement  by Road<br><br>3. Export of Goods from Licensed Premises by Road^2 | For liquor and tobacco products, the highest of:<br><br>- Average weekly potential duty involved in outward movement of such goods by road^5; or<br><br>-   50% of the potential duty; or<br><br>-   $10,000 |
+| **Outward Movement by Road  (With Effect from 1 Apr 2016)** <br>1.  Import of Goods for Re-Export  by Road[2] <br><br>2.  Transhipment of Goods under “**Through**”[3]  or “**Non-Through**”[4]  Bill of Lading or Airway Bill through Customs Territory with Outward Movement  by Road<br><br>3. Export of Goods from Licensed Premises by Road[2] | For liquor and tobacco products, the highest of:<br><br>- Average weekly potential duty involved in outward movement of such goods by road[5]; or<br><br>-   50% of the potential duty; or<br><br>-   $10,000 |
 
 
-(1) [List of Dutiable Goods](/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods)
+[1] [List of Dutiable Goods](/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods)
 
-(2) Only the exporter's security can be used to apply for the customs permit (see  [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
+[2] Only the exporter's security can be used to apply for the customs permit (see  [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
 
-(3) Only the Declaring Agent's security can be used to apply for the customs permit (see [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
+[3] Only the Declaring Agent's security can be used to apply for the customs permit (see [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
 
-(4) Only the importer's security can be used to apply for the customs permit (see [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
+[4] Only the importer's security can be used to apply for the customs permit (see [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
 
-(5) Average weekly potential duty is determined by Singapore Customs based on the entity’s past transactions
+[5] Average weekly potential duty is determined by Singapore Customs based on the entity’s past transactions
 
 Security is  **not**  required for:
 
