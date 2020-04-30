@@ -130,22 +130,22 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 |--|--|--|
 | 1. | Agent's Application for Product Code | [Web Link](https://form.gov.sg/5e7db3d7b62f4d0011b83dc5) |
 | 2. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/5ccac0a442502b00107a9554) |
-| 3. | Application for Authorisation of Petroleum Refund Users | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/registration-forms/sc-a-085.doc?la=en&hash=A5D2FF726D20A17EE6FD42422B74338D6E5E21C0) (336KB) |
+| 3. | Application for Authorisation of Petroleum Refund Users | [Word Doc](Petroleum-Refund-Users.doc) (336KB) |
 | 4. | Application for Duty Exemption of Dutiable Goods by Industrial Users | [Web Link](http://eservices.customs.gov.sg/scripts/customs/common/eservice.asp?AppID=DED1) |
 | 5. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](http://eservices.customs.gov.sg/scripts/customs/DutyExemptEA/DEA1_Form.asp) |
 | 6. | Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects | [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) |
 | 7. | Application for Kimberley Process Certificate |   [](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/permits-and-licence-forms/sc-a-032-application-for-kimberley-process-certificate.docx?la=en&hash=96AA21BEBF0B91A961D10E8940ABC9A86137AFFA)[Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e)|
 | 8. | Application for Licensed Premises | [Web Link](http://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp) |
-| 9. | Application for Valuation of Tax-Exempted Motor Vehicles | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/permits-and-licence-forms/sc-a-011--oct19.doc?la=en&hash=C78B20DC0E20730CF03B8D292459BCE2AD10BE44) (326KB) |
-| 10. | Big-Eye Tuna Re-export Certificate | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/permits-and-licence-forms/sc-a-034-bigeye-tuna-re-export-certificate.doc?la=en&hash=30F2295BE6A636497D48B5DD1F76131905E5BB95) (589KB) |
+| 9. | Application for Valuation of Tax-Exempted Motor Vehicles | [Word Doc](Tax-Exempted-Motor-Vehicles.doc) (326KB) |
+| 10. | Big-Eye Tuna Re-export Certificate | [Word Doc](Big-Eye-Tuna.doc) (589KB) |
 | 11. | Declaration of Facts for Motor Vehicles | [Web Link](https://form.gov.sg/#!/5e7d9c335b72a90011738341) |
 | 12. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
 | 13. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
 | 14. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP) |
 | 15. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP) |
-| 16. | Swordfish Re-Export Certificate | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/permits-and-licence-forms/sc-a-031-swordfish-re-export-certificate.doc?la=en&hash=71AE46A59A28265FECF13349E3AC8E3DC62E05BB) (483KB) |
-| 17. | Template for Letter of Undertaking for TradeNet unavailability | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/permits-and-licence-forms/lou-template-for-tn-unavailability-6aug15-1.docx?la=en&hash=251E3779B35470E4DE29A81E49C60A4AFD7CD64A) (48KB) |
-| 18. | Template for Letter of Undertaking to be used for the Export, Transhipment and/or Bringing in Transit of Strategic Goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/permits-and-licence-forms/templateforletterofundertakingforstrategicgoods.doc?la=en&hash=239BC0EA257CEDCAED1428BAA56B6A669EC95994) (116KB) |
+| 16. | Swordfish Re-Export Certificate | [Word Doc](Swordfish-re-export.doc) (483KB) |
+| 17. | Template for Letter of Undertaking for TradeNet unavailability | [Word Doc](Letter-of-undertaking-tradenet.doc) (48KB) |
+| 18. | Template for Letter of Undertaking to be used for the Export, Transhipment and/or Bringing in Transit of Strategic Goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability | [Word Doc](Undertaking-export-transhipment.doc) (116KB) |
 
 
 ## Registration Forms
@@ -153,18 +153,18 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Activate / Update / Terminate Customs Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct) |
-| 2. | Application for Inter-Bank GIRO | [Word Doc](https://www.customs.gov.sg/-/media/sc-a-020.docx?la=en&hash=7293CFEF53A484704FFA163A683F5C62DD97F0DA) (78KB) |
+| 2. | Application for Inter-Bank GIRO | [Word Doc](Inter-Bank-Giro.doc) (78KB) |
 | 3. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)
-| 4. | Application for the Authorisation of Declaring Agent(s) for Licensed Premises | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/registration-forms/sc-a-083.doc?la=en&hash=B8602B35C6E81D5D0DDE9B0C9BC10E88AE4D6A48) (316KB) |
+| 4. | Application for the Authorisation of Declaring Agent(s) for Licensed Premises | [Word Doc](DeclaringAgents-Licensed-Premises.doc) (316KB) |
 | 5. | Apply / Update / Renew / Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct) |
-| 6. | Authorisation of User Inventory Control System | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/registration-forms/sc-a-084.doc?la=en&hash=8685567600D67BAE561E2E9EAC0F596C3BFA02FB) (316KB) |
+| 6. | Authorisation of User Inventory Control System | [Word Doc](User-Inventory-Control-System.doc) (316KB) |
 | 7. | Claimant Application by all other entities (e.g. companies, businesses) apart from Embassy, High Commission Consulate, accredited Trade Mission, International Organisations, Foreign Military Forces, Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP) |
 | 8. | Claimant Application by Embassy, High Commission Consulate, accredited Trade Mission and International Organisation with the MFA as supporting agency | [Web Link](https://form.gov.sg/5d0095fa0816b400111cd5b1) |
 | 9. | Claimant Application by Foreign Military Forces | [Web Link](https://form.gov.sg/5d2552a250efd50018fe30ac) |
 | 10. | Claimant Application by Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://form.gov.sg/5d2301ea6312c30018383627) |
 | 11. | Claimant Application by International Organisations supported by an agency other than the MFA | [Web Link](https://form.gov.sg/5d03113d2ce4bb0011a8801e) |
-| 12. | Security Application Form | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/registration-forms/security-application-form_15apr19.docx?la=en&hash=548ED8DCB87716438E52A36FD907D67AB92DCDA2) (44KB) |
-| 13. | Security Extension Form  <br> (Applicable only for new security lodged from 15 April 2019) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/registration-forms/security-extension-form_15apr19.docx?la=en&hash=2D5FA17D7887519D90177E15017E04F5FCF87871) (36KB) |
+| 12. | Security Application Form | [Word Doc](Security-Application-Form.doc) (44KB) |
+| 13. | Security Extension Form  <br> (Applicable only for new security lodged from 15 April 2019) | [Word Doc](Security-Extension-form.doc) (36KB) |
 
  [Back to Top](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#top)
 
