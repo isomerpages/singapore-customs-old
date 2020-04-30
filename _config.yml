@@ -51,6 +51,8 @@ collections:
     output: true
   strategic-goods-control: 
     output: true
+  strategic-goods-control-1: 
+    output: true
   customs-schemes-licences-framework: 
     output: true
   valuation-duties-taxes-fees: 
