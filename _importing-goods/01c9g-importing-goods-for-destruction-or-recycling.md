@@ -38,4 +38,4 @@ Please take note of the relevant procedural requirements when applying for an In
 
 **3.** [**Non-Controlled and Non-Dutiable Goods**](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/nc-nd-goods)
 
-**4.** [**Controlled Non-Dutiable Goods](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/controlled-nd-goods)
+**4.** [**Controlled Non-Dutiable Goods**](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/controlled-nd-goods)
