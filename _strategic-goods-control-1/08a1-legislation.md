@@ -1,6 +1,6 @@
 ---
 title: Legislation 
-permalink: /businesses/strategic-goods-control/overview/legislation
+permalink: /businesses/strategic-goods-control-1/overview/legislation
 third_nav_title: Overview
 ---
 
