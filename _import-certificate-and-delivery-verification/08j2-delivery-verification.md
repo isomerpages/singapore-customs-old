@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-v
 third_nav_title: Import Certificate and Delivery Verification
 ---
 
-# Delivery Verification
+## Delivery Verification
 
 The exporting country may require a Delivery Verification (DV) after you have imported your goods. Please check if your exporter requires a DV when applying for an Import Certificate (IC).
 
@@ -23,10 +23,10 @@ This refers to verifying the delivery of the goods under the IC when they are im
 
 For verification of partial delivery, please upload:
 
--   Copy of the  [Statement of Delivery Verification for Partial Delivery](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/strategic-goods-forms---no-stamp/statement-of-dv-for-partial-delivery-03092018.docx?la=en&hash=9D9189C6AB2C4545924D5A0CB3602AFB8C01E776)
+-   Copy of the  [Statement of Delivery Verification for Partial Delivery](/documents/businesses/statement-of-dv-for-partial-delivery-03092018.docx)
 -   Copy of the import permit(s)
 -   Bill of Lading or Air Waybill
--   Copy of the [Declaration by Importer of Goods under an Import Certificate](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/strategic-goods-forms---no-stamp/importer-declaration-for-dv-03092018.docx?la=en&hash=140E897A06B67904E5B7F54F461FE57BAAE45A43)
+-   Copy of the [Declaration by Importer of Goods under an Import Certificate](/documents/businesses/importer-declaration-for-dv-03092018-(1).docx)
 -   Export Licence (and its English translation) from the originating country
 -   Business transaction documents (for example, invoice, packing list, delivery order)
 
@@ -41,7 +41,7 @@ For verification of complete delivery, please upload:
 -   Importer's ICDV
 -   Copy of the import permit(s)
 -   Bill of Lading or Air Waybill
--   Copy of the  [Declaration by Importer of Goods under an Import Certificate](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/strategic-goods-forms---no-stamp/importer-declaration-for-dv-03092018.docx?la=en&hash=140E897A06B67904E5B7F54F461FE57BAAE45A43)
+-   Copy of the  [Declaration by Importer of Goods under an Import Certificate](/documents/businesses/importer-declaration-for-dv-03092018-(1).docx)
 -   Export Licence (and its English translation) from the originating country
 -   Business transaction documents (for example, invoice, packing list, delivery order)
 
