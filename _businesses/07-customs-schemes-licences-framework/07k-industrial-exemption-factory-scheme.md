@@ -4,9 +4,9 @@ permalink: /businesses/customs-schemes-licences-framework/industrial-exemption-f
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-# Industrial Exemption Factory Scheme
+## Industrial Exemption Factory Scheme
 
-## What is it?
+### What is it?
 
 The Industrial Exemption Factory Scheme is a duty exemption scheme for industries that use dutiable goods (except diesel products and biodiesel blends) as raw materials solely to manufacture non-dutiable finished goods.
 
@@ -14,7 +14,7 @@ Under this scheme, dutiable goods (except diesel products and biodiesel blends) 
 
 The duty-exempted raw materials must not be sold, transferred or disposed of in any way without permission from Singapore Customs.
 
-## How to Qualify?
+### How to Qualify?
 
 To qualify for the Industrial Exemption Factory Scheme, the company must:
 
@@ -22,11 +22,11 @@ To qualify for the Industrial Exemption Factory Scheme, the company must:
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the duty-exempted materials
 
-## Annual Fee
+### Annual Fee
 
 An annual fee of S$600 is payable upon issuance of the certificate of exemption.
 
-## Key Responsibilities
+### Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
@@ -50,7 +50,7 @@ An annual fee of S$600 is payable upon issuance of the certificate of exemption.
     -   Ensure all entrances and exits are secured when there is no production or movement of dutiable goods in the place of manufacture
     -   Obtain approval from Singapore Customs for any structural alteration to the place of manufacture
 
-## How to Apply?
+### How to Apply?
 
 **Step 1**: Apply  [online](http://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp).
 
@@ -77,11 +77,11 @@ Singapore Customs reserves the right to impose a Banker’s Guarantee or insuran
 
 If you require further assistance, please call 6251 3027 or email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
-## Renewal
+### Renewal
 
 Companies on the IEF scheme will be subject to reviews and renewals, once in two years.
 
-## Frequently Asked Questions (FAQs)
+### Frequently Asked Questions (FAQs)
 
 **1)** **What if I need to make changes to the quota applied due to business needs?**
 
@@ -89,7 +89,7 @@ You may inform your designated account manager via email. Please state the quota
 
 **2)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/07a-overview). More information on declaring permits can be found  [here](/businesses/registration-matters/overview).
+Customs permits can be declared through  [TradeNet](/about-us/national-single-window/overview). More information on declaring permits can be found  [here](/businesses/registration-matters/overview).
 
 **3) How much do I have to pay for the assessment?**
 
@@ -110,7 +110,7 @@ You will have to pay duty for the amount that exceeded the quota. There will not
 
 **6) My company has duty-exempted raw materials that are redundant. What can I do?**
 
-Your company shall arrange for the redundant duty-exempted raw materials to be destroyed at an incineration plant under Customs supervision, for which a supervision fee is payable in accordance with prescribed rates. For more information on the supervision fees, click  [here](/businesses/valuation-duties-taxes--fees/permits-documentation-and-other-fees).
+Your company shall arrange for the redundant duty-exempted raw materials to be destroyed at an incineration plant under Customs supervision, for which a supervision fee is payable in accordance with prescribed rates. For more information on the supervision fees, click  [here](/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees).
 
 For exportation of duty-exempted raw materials, declaration of the relevant export permit is required. For more information, click  [here](/businesses/exporting-goods/overview).
 
