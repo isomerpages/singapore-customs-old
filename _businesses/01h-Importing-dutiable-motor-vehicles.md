@@ -4,13 +4,13 @@ permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles
 third_nav_title: Importing Goods
 ---
 
-**Guide to Importing Dutiable Motor Vehicles**
+## Guide to Importing Dutiable Motor Vehicles
 
 **Step 1: Applying for Singapore Customs’ Assessment of Vehicle’s Customs Value**
 
- [ For Individuals or Parallel Importers ](/businesses/importing-goods/importing-dutiable-motor-vehicles)
+ [ For Individuals or Parallel Importers ](/businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles/individuals-or-pi)
 
- [For Authorised Agents](/businesses/importing-goods/importing-dutiable-motor-vehicles)
+ [For Authorised Agents](/businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles/authorised-agents)
 
 **Step 2: Approval by Singapore Customs**
 
@@ -40,7 +40,7 @@ Goods are deemed to be under customs control when they are in any free trade zon
 
 A Free Trade Zone (FTZ) is a demarcated area meant to facilitate entrepot trade and transhipment activities; where goods may be landed, handled, stored, re-exported or brought into Singapore. Duties and/or GST are not levied on goods brought into the FTZ until they are removed from the FTZ for use or sale in Singapore.
 
-## For more infomation on 
+### For more infomation on 
 
 |  |  |  |  |
 |--|--|--|--|
