@@ -4,35 +4,35 @@ permalink: /businesses/customs-schemes-licences-framework/duty-free-shop-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-# Duty Free Shop Scheme
+## Duty Free Shop Scheme
 
-## What is it?
+### What is it?
 
 The Duty Free Shop (DFS) Scheme is designed for companies who wish to sell dutiable goods, such as liquor, at prices free of duty to travellers departing from or returning to Singapore.
 
 The areas where duty free goods are sold must be designated and licensed by Singapore Customs as licensed premises.
 
-## How to Qualify?
+### How to Qualify?
 
 To qualify for the DFS Scheme, the company must:
 
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures-activate-update-terminate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Seek prior approval from the landlord, such as Changi Airport Group (CAG) and Singapore Cruise Centre (SCC), to operate a duty free shop
 -   Obtain necessary approval from the relevant competent authorities, such as Singapore Police Force (SPF) and Health Sciences Authority (HSA)
 -   Undergo  [TradeFIRST assessment](/businesses/customs-schemes-licences-framework/trade-first) and attain minimally the Enhanced band
 
-## Licence Fee
+### Licence Fee
 
 An annual licence fee of $70,000 is payable when the licence is issued.
 
-## Key Responsibilities
+### Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
     -   Accountable for the dutiable goods stored in the licensed premises and for the payment of duty and Goods and Services Tax on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](/about-us/07a-overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/about-us/national-single-window/overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the Customs Act, Customs Regulations and the licensing Terms and Conditions
@@ -51,9 +51,9 @@ An annual licence fee of $70,000 is payable when the licence is issued.
     -   Ensure all entrances and exits are secured when there is no movement of dutiable goods in the licensed premises
     -   Obtain approval from Singapore Customs for any structural alteration to the licensed premises
 
-## How to Apply?
+### How to Apply?
 
-**Step 1:**  Complete the  [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/-/media/tradefirst-selfassessment-checklist-approved-31may2019.xlsx?la=en&hash=ED74065B31B86785B1F625E9D4DBCE2AFFF77DF7).
+**Step 1:**  Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 
@@ -73,7 +73,7 @@ Once the application is successful, we will contact you to follow up on your app
 
 If you require further assistance, please call 6251 3027 or email us at  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
-## Frequently Asked Questions (FAQs)
+### Frequently Asked Questions (FAQs)
 
 **1)** **Is the DFS licence transferrable?**
 
@@ -81,6 +81,6 @@ The licence is strictly non-transferrable. The duty free shop licensee must take
 
 **2)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/07a-overview).
+Customs permits can be declared through  [TradeNet](about-us/national-single-window/overview).
 
 Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
