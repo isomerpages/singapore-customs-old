@@ -78,11 +78,11 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Declaration Cover For Reporting Template | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/word/latest-version-apr-2020/sc-a-069_declaration_cover_template.doc?la=en&hash=8BCB18A0B310738A01E494717607462EA3320308) (263KB) <br><br> [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/pdf/latest-version-apr-2020/sc-a-069_declaration_cover_template.pdf?la=en&hash=22DDCB914FAAC989AC427A5A8A45EAA644AC8A5C) (268KB)|
-| 2. | Schedule 1 Chemical(s) (Template D.1) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/word/latest-version-apr-2020/sc-a-071a_template_d1_adpa_for_s1_chemicals.doc?la=en&hash=F66D7396FDC4F11B001665D1639C4B688357DA89) (489KB) <br><br> [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/pdf/latest-version-apr-2020/sc-a-071a_template_d1_adpa_for_s1_chemicals.pdf?la=en&hash=BF1A7C72742AF42F4C3E64A964D3FFC775AD29CE) (326KB)|
-| 3. | Schedule 2 Chemical(s) (Template D.2) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/word/latest-version-apr-2020/sc-a-071b_template_d2_adpa_for_s2_chemicals.doc?la=en&hash=5E773A8E825AEDC2E3538202BDA80C4DF0CABDF3) (475KB)  <br><br> [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/pdf/latest-version-apr-2020/sc-a-071b_template_d2_adpa_for_s2_chemicals.pdf?la=en&hash=19D1B73DB359C0BE5BDE1E6DFCCB8513F5FA32B2) (317KB) |
-| 4. | Schedule 3 Chemical(s) (Template D.3) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/word/latest-version-apr-2020/sc-a-071c_template_d3_adpa_for_s3_chemicals.doc?la=en&hash=E9B61DB11830619161BF648EC279D0842154AD24) (440KB)  <br><br> [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/pdf/latest-version-apr-2020/sc-a-071c_template_d3_adpa_for_s3_chemicals.pdf?la=en&hash=A04A1B3396EE4C63B888E710700F901DD1A3B660) (302KB) |
-| 5. | Unscheduled Discrete Organic Chemical(s) (Template D.4) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/word/latest-version-apr-2020/sc-a-071d_template_d4_adpa_for_docs.doc?la=en&hash=8752883722209243C5B65AFC25E704EE02249EA1) (324KB) <br><br> [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/chemical-weapons-convention-forms/forms/pdf/latest-version-apr-2020/sc-a-071d_template_d4_adpa_for_docs.pdf?la=en&hash=09A8F3F80BC425F2B3C6223D3E7CE7A184221F92) (277KB) |
+| 1. | Declaration Cover For Reporting Template | [Word Doc](Declaration-Cover-Reporting-Temp.doc) (263KB) <br><br> [PDF](Declaration-Cover-Reporting-Temp.pdf) (268KB)|
+| 2. | Schedule 1 Chemical(s) (Template D.1) | [Word Doc](Sched-1-Chem-D.doc) (489KB) <br><br> [PDF](Sched-1-Chem-D.pdf) (326KB)|
+| 3. | Schedule 2 Chemical(s) (Template D.2) | [Word Doc](Sched-2-Chem-D.doc) (475KB)  <br><br> [PDF](Sched-2-Chem-D.pdf) (317KB) |
+| 4. | Schedule 3 Chemical(s) (Template D.3) | [Word Doc](Sched-3-Chem-D.doc) (440KB)  <br><br> [PDF](Sched-3-Chem-D.pdf) (302KB) |
+| 5. | Unscheduled Discrete Organic Chemical(s) (Template D.4) | [Word Doc](Unscheduled-Discrete-Organic-Chem.doc) (324KB) <br><br> [PDF](Unscheduled-Discrete-Organic-Chem.pdf) (277KB) |
 
 ## Customs Ruling
 
@@ -102,14 +102,14 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | All Free Trade Agreements* and Schemes, except USSFTA <br><br> _*For exports of Singapore origin goods under the GSFTA, please note that the procedural requirements for claiming preferential tariff treatment is still not yet finalised. As such, there may be potential operational issues when exporting under this Agreement such as rejection of the preferential Certificate of Origin when claiming preferential tariff rates with the GCC customs authorities._ <br><br> __*An online tutorial on how to fill up the Manufacturing Cost Statement can be found on our [e-learning site](https://www.customs.gov.sg/-/media/CUS/files/Business/Certificates%20of%20Origin/E-Learning%20for%20Manufacturing%20Cost%20Statement/story_html5.html)[.](https://www.customs.gov.sg/-/media/CUS/files/Business/Certificates%20of%20Origin/E-Learning%20for%20Manufacturing%20Cost%20Statement/story_html5.html)__  | [Excel Doc](https://www.customs.gov.sg/-/media/manufacturing-cost-statement-2020-mar.xlsx?la=en&hash=113B91564A1EB8986601433A2EC3FD606EF18B21) (76KB) |
+| 1. | All Free Trade Agreements* and Schemes, except USSFTA <br><br> _*For exports of Singapore origin goods under the GSFTA, please note that the procedural requirements for claiming preferential tariff treatment is still not yet finalised. As such, there may be potential operational issues when exporting under this Agreement such as rejection of the preferential Certificate of Origin when claiming preferential tariff rates with the GCC customs authorities._ <br><br> __*An online tutorial on how to fill up the Manufacturing Cost Statement can be found on our [e-learning site](https://www.customs.gov.sg/-/media/CUS/files/Business/Certificates%20of%20Origin/E-Learning%20for%20Manufacturing%20Cost%20Statement/story_html5.html)[.](https://www.customs.gov.sg/-/media/CUS/files/Business/Certificates%20of%20Origin/E-Learning%20for%20Manufacturing%20Cost%20Statement/story_html5.html)__  | [Excel Doc](ExcelDoc1.xlsx) (76KB) |
 
 ## Monthly Statement of Stores Supplied to Vessels/Aircraft
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Monthly Statement of Stores and Jet Fuel Supplied to Aircraft | [Excel Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/monthly-statement-of-stores/sc-a-002-monthly-statement-of-stores-and-jet-fuel-supplied-to-aircraft-090519.xls?la=en&hash=50B47FE21BDE4532F1370004950A9ECA26271DED) (315KB) |
-| 2. | Monthly Statement of Stores Supplied to Vessels | [Excel Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/monthly-statement-of-stores/sc-a-001-monthly-statement-of-stores-supplied-to-vessels-100519.xls?la=en&hash=01099FD53D1F78E88A1863AD4E1850602EFD866D) (308KB) |
+| 1. | Monthly Statement of Stores and Jet Fuel Supplied to Aircraft | [Excel Doc](ExcelDoc2.xlsx) (315KB) |
+| 2. | Monthly Statement of Stores Supplied to Vessels | [Excel Doc](ExcelDoc3.xlsx) (308KB) |
 
 ## Networked Trade Platform (NTP) eServices
 
@@ -117,12 +117,12 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Application for Cargo Agent's Import Authorisation (CAIA) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/permits-and-licence-forms/sc-a-026-caia-ver-8-09-19.doc?la=en&hash=4DD9B460543D08D9F74E5CCB23BDC713003BAB14) (77KB) |
-| 2. | Application for Certificate of Free Sale (CFS) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/certificate-of-free-sales/sc-a-008-certificate-of-free-sale-ver-10.docx?la=en&hash=AA5E64556653250EB1B52FCC22EC07CA7669CE52) (90KB) |
-| 3. |  Application for Import Certificate and Delivery Verification (ICDV)| [Word Doc](https://www.customs.gov.sg/-/media/icdv-and-brokering/sc-a-060-icdv-v8.docx?la=en&hash=767A99B55677AC5B257879D8474787B5BE4554CA) (161KB) |
-| 4. | Application for Kimberley Process Licence (KPL) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/ntp-eservices/sc-a-033-kpl-ver-3-09-18.docx?la=en&hash=69085C434736792DCE4C0AA2CACD1A1F413EC337) (77KB) |
-| 5. | Application for Landing Certificate (LC) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/ntp-eservices/sc-a-098-lc-ver-3-09-2018.doc?la=en&hash=B820B421BEF32DCCEAC84343658B147350B757A4) (344KB) |
-| 6. | Application for Vessel Registration (VR) | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/ntp-eservices/sc-a-100-vr-ver-1-09-18.docx?la=en&hash=E672D40BCC3B4DA2CEC2696F984B2266DB97F6B4) (82KB) |
+| 1. | Application for Cargo Agent's Import Authorisation (CAIA) | [Word Doc](CAIA.doc) (77KB) |
+| 2. | Application for Certificate of Free Sale (CFS) | [Word Doc](CFS.doc) (90KB) |
+| 3. |  Application for Import Certificate and Delivery Verification (ICDV)| [Word Doc](ICDV.doc) (161KB) |
+| 4. | Application for Kimberley Process Licence (KPL) | [Word Doc](KPL.doc) (77KB) |
+| 5. | Application for Landing Certificate (LC) | [Word Doc](LC.doc) (344KB) |
+| 6. | Application for Vessel Registration (VR) | [Word Doc](VR.doc) (82KB) |
 
 ## Permit and Licence Forms
 
