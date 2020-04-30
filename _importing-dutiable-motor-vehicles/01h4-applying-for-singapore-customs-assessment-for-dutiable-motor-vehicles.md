@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/applyin
 third_nav_title: Importing Dutiable Motor Vehicles
 ---
 
-# Applying for Singapore Customs’ Assessment for Dutiable Motor Vehicles
+## Applying for Singapore Customs’ Assessment for Dutiable Motor Vehicles
 
 ### For individuals or parallel importers
 
