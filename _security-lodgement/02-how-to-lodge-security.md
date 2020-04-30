@@ -19,7 +19,7 @@ Download the  [Security Application Form](/eservices/customs-forms-and-service-l
 
 **Submit the original security to:**
 
-Registration Unit
+Registration Unit <br>
 Procedures & Systems Branch  
 Singapore Customs  
 55 Newton Road #09-01  
