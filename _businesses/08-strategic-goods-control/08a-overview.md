@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control/overview
 third_nav_title: Strategic Goods Control
 ---
 
-# Overview
+## Overview
 
 Singapore shares the concern of the international community on the proliferation of weapons of mass destruction, and recognises the need for safeguards against the illicit movement of items through its ports that can contribute to such proliferation.
 
@@ -27,4 +27,4 @@ Singapore Customs also coordinates closely with other government agencies such a
 
 |  |  |  |
 |--|--|--|
-| **[![](/images/sgco1.jpg)](/businesses/strategic-goods-control/overview/legislation)** |**[![](/images/sgco2.jpg)](/businesses/strategic-goods-control/overview/scope-of-control)** | **[![](/images/sgco3.jpg)](/businesses/strategic-goods-control/overview/enforcement)** |
+| **[![](/images/sgco1.jpg)](/businesses/strategic-goods-control-1/overview/legislation)** |**[![](/images/sgco2.jpg)](/businesses/strategic-goods-control-1/overview/scope-of-control)** | **[![](/images/sgco3.jpg)](/businesses/strategic-goods-control-1/overview/enforcement)** |
