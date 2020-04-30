@@ -173,20 +173,20 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Application for Determination of Strategic Goods | [Web Link](https://form.gov.sg/5d78b89628467500121ef098) |
-| 2. | Annex A - Product Questionnaire (a) A-1 Cryptography | [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/sc-a-064a---a1_cryptography_product_questionnaire.pdf?la=en&hash=B0F1236135A845FC43FFE88A90768106C5A8B4A2) |
-| 3. | Annex A - Product Questionnaire (b) A-2 Machine Tools | [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/sc-a-064b---a2_machine-tool_questionnaire.pdf?la=en&hash=7D6EF0BF35599B1BA1F2044338E75EDD23D29738) |
-| 4. |  Annex A - Product Questionnaire (c) A-3 Biological Product | [PDF](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/sc-a-064c---a3_biological-product_questionnaire.pdf?la=en&hash=C27ACC8F086BB22C39E3001A935303C65A02217F) |
-| 5. | Application Form for Seeking In-principle Approval from the UNSC Procurement Channel | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/application-form-for-seeking-in-principle-approval-from-the-unsc-procurement-channel-ver-1.docx?la=en&hash=349B973CCF5C2FF414A712C6844C7D17F995058E) (463KB) |
+| 2. | Annex A - Product Questionnaire (a) A-1 Cryptography | [PDF](AnnexA1.pdf) |
+| 3. | Annex A - Product Questionnaire (b) A-2 Machine Tools | [PDF](AnnexA2.pdf) |
+| 4. |  Annex A - Product Questionnaire (c) A-3 Biological Product | [PDF](AnnexA3.pdf) |
+| 5. | Application Form for Seeking In-principle Approval from the UNSC Procurement Channel | [Word Doc](UNSC-Channel.docx) (463KB) |
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](http://go.gov.sg/customs-bpermit) |
 | 7. | Application for Permit to Transmit or Export(via Hand-Carry) Strategic Goods Related Software and Technology | [Web Link](http://go.gov.sg/customs-itt) |
 | 8. | Application for Preliminary Advice on Strategic Goods Transaction | [Web Link](http://go.gov.sg/customs-padv) |
 | 9. | Application for Strategic Trade Scheme (STS) Bulk Permit | [STS Bulk Permit Application Form](https://form.gov.sg/#!/5c7f50d3bd0db30017e1eaa1) |
-| 10. | End-user Certification Form for Seeking In-principle Approval from the UNSC Procurement Channel | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/end-user-certification-form-for-seeking-in-principle-approval-from-the-unsc-procurement-channel.docx?la=en&hash=7FCBF3BC6244DBD209A14CF899E7C61AA6B06DA4) (15KB) |
-| 11. | Half-Yearly Report on Brokering Activities | [Word Doc](https://www.customs.gov.sg/-/media/half-yearly-report-on-brokering-activities-brokering-2019-template.docx?la=en&hash=F9597747585DB6793B765B75756A44C4B105A1F7) |
+| 10. | End-user Certification Form for Seeking In-principle Approval from the UNSC Procurement Channel | [Word Doc](EndUserCertification-UNSC.docx) (15KB) |
+| 11. | Half-Yearly Report on Brokering Activities | [Word Doc](Report-Brokering.docx) |
 | 12. | Registration to Broker Goods under the Strategic Goods (Control) (Brokering) Order 2007 | [Web Link](http://go.gov.sg/customs-breg) |
-| 13. | Sample Format of the End User Statement for Strategic Trade Scheme Bulk Permit | [Word Doc](https://www.customs.gov.sg/-/media/eus-for-bulk-permit-holder-(010919).docx?la=en&hash=B9D3C4C61058098E2EB6AB260795AE0AB47FD33B)  (14KB) |
-| 14. | Sample Format of the End User Statement for Strategic Trade Scheme Individual Permit | [Word Doc](https://www.customs.gov.sg/-/media/icdv-and-brokering/eus-for-individual-permit-holder.docx?la=en&hash=7D20562AB8A1879A6F559F8EFD088D3C586FDE75) (40KB) |
-| 15. | Sample Format of End User Certificate (EUC) for UNSC countries | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/strategic-goods-control-forms/euc_unsc.doc?la=en&hash=C052ACD98BD3A2883C19EB075B61A63D6BD12C13) (44KB) |
+| 13. | Sample Format of the End User Statement for Strategic Trade Scheme Bulk Permit | [Word Doc](End-User-Statement-StratTradeScheme-Bulk.docx)  (14KB) |
+| 14. | Sample Format of the End User Statement for Strategic Trade Scheme Individual Permit | [Word Doc](EndUserStatment-Strat-Trade-scheme-indv.docx) (40KB) |
+| 15. | Sample Format of End User Certificate (EUC) for UNSC countries | [Word Doc](EUC-For-UNSC.doc) (44KB) |
 | 16. | TradeFIRST Self-Assessment Checklist | [Web Link](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) |
 
 ## Voluntary Disclosure Forms
