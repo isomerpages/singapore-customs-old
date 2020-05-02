@@ -2,6 +2,11 @@
 title: Offences
 permalink: /businesses/chemical-weapons-convention/offences
 third_nav_title: Chemical Weapons Convention (CWC)
+accordion:
+  - title: Do
+    content: <br> ✔ Ensure you obtain a valid CWC licence before you engage in any controlled activities with scheduled chemicals. <br> ✔ Check if the scheduled chemicals are also controlled under other regulations. For example, export of scheduled chemicals above certain concentration thresholds would require the strategic goods export permit. <br> ✔ Check the list of OPCW [Member States](http://www.opcw.org/about-opcw/member-states/) and the relevant import and export restrictions for the scheduled chemicals in these Member States. <br> ✔ Perform checks to ensure that the end-user is a legitimate customer and not a sanctioned entity. <br> ✔ Ensure you apply for the correct permit type and fill up all the mandatory fields.
+  - title: Do Not
+    content: <br> ✖ Assume the same controls apply to all scheduled chemicals. These chemicals are grouped under three different schedules with different degrees of controls depending on their purity, type of activities, and the countries receiving or supplying the chemicals.
 ---
 
 # Offences
@@ -45,6 +50,8 @@ You may view more information on prescribed offences and penalties under the Cus
 ## Best Practices
 
 You are accountable as a trader or declaring agent dealing with controlled chemicals. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
+
+{% include accordion.html %}
 
 **Do** 
 
