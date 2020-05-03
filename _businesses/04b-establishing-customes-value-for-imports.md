@@ -21,7 +21,7 @@ However, some imports can:
 
 ### Transaction Value Method
 
-The transaction value method is first considered in establishing the customs value, which is the Cost, Insurance, and Freight (CIF) value^ under International Commercial Terms (incoterms).
+The transaction value method is first considered in establishing the customs value, which is the *Cost, Insurance, and Freight (CIF) value*^ under International Commercial Terms (incoterms).
 
 To establish the customs value using this method, all other charges incidental to the sale and delivery of the imports must be added to the transaction value or the price paid or payable for the imports. Examples of these charges include selling commissions, assists (materials supplied by the importer), packing costs, proceeds of resale accruing to the seller, royalties and licence fees, freight and insurance charges.
 
@@ -29,7 +29,7 @@ If any component of the customs value is settled in a foreign currency, that val
 
 **Example 1**:
 
-Company A bought 2 cartons of vitamins from Supplier B on  Ex Works (EXW) incoterms^^.
+Company A bought 2 cartons of vitamins from Supplier B on  *Ex Works (EXW) incoterms*^^.
 
 |  |  |
 |--|--|
