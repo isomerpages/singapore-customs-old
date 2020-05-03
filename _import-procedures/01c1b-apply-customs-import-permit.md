@@ -12,7 +12,7 @@ third_nav_title: Importing Requirements
     
    After activating your Customs Account, you may:
     
-   -   Appoint a [Declaring Agent](/business-resources/directories-of-service-providers/list-of-local-forwarding-agents) to apply for customs permits on your behalf; or
+   -   Appoint a [Declaring Agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents) to apply for customs permits on your behalf; or
    -   Apply for customs permits for your own shipments or on behalf of your clients. To do so, you need to register as a [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
     
    All permit applications must be submitted via TradeNet, accessible through:
