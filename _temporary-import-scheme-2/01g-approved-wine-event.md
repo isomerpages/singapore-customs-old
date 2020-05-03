@@ -8,10 +8,6 @@ third_nav_title: Temporary Import Scheme
 
 Duty exemption and GST relief are granted to exhibitors who import wine for sampling purposes at approved events.
 
-# Approved Wine Event
-
-Duty exemption and GST relief are granted to exhibitors who import wine for sampling purposes at approved events.
-
 ### Qualifying Criteria
     
    -   The wine imports must be used at events approved under the [Business Events in Singapore (BEiS) scheme](https://www.visitsingapore.com/mice/en/plan-your-event/event-assistance-schemes/beis/overview/) administered by the Singapore Tourism Board.
