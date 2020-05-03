@@ -11,7 +11,7 @@ accordion:
 
 Traders may use the flat rates provided by Singapore Customs for freight and insurance to compute the customs value of imports:
 
--   For transaction values quoted in  Free On Board (FOB) International Commercial Terms (incoterms)^ and,
+-   For transaction values quoted in  *Free On Board (FOB) International Commercial Terms (incoterms)*^ and,
 -   Where the actual freight and insurance charges are not known or not available to the importer.
 
 The flat rates for freight and insurance are:
