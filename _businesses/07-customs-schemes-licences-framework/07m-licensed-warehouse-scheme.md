@@ -2,6 +2,11 @@
 title: Licensed Warehouse Scheme
 permalink: /businesses/customs-schemes-licences-framework/licensed-warehouse-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
+accordion:
+  - title: Do
+    content: <br> ✔ Conduct regular briefing sessions to remind staff and clients on the requirements of the Licensed Warehouse Scheme. <br><br> ✔ Keep proper records of the time-in and time-out of any person visiting the warehouse for the collection of goods. <br><br> ✔ Assign a supervisory level staff to personally oversee the stuffing and unstuffing of containers. <br><br> ✔ Remind drivers, including those from an external transport company, that they should deliver dutiable goods for export directly to the checkpoint and not stop along the way at other locations to collect other goods. <br><br> ✔ Ensure drivers report to the designated lane at the checkpoint for customs clearance by Immigration and Checkpoints Authority officers. <br><br> ✔ Conduct regular stock checks and report any discrepancies detected to Singapore Customs. <br>
+  - title: Do Not
+    content: <br> ✖ Remove any duty-unpaid goods from the licensed premises without proper permits. <br><br> ✖ Break the Customs red seal and unstuff a container sealed with the Customs red seal without any Customs approval. <br><br> ✖ Store other types of goods (non-dutiable goods) in the licensed premises meant for duty-unpaid goods. (Except for LW Type III licensees) <br><br> ✖ Allow any unauthorised personnel to enter the licensed premises meant for duty unpaid goods. <br>  
 ---
 
 ## Licensed Warehouse Scheme
@@ -142,27 +147,4 @@ You may view this table on common offences and the penalties upon conviction.
 
 You are accountable as a licensee for the dutiable goods stored in or moved from/to your licensed warehouse. We encourage you to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
-**Do**
-
-✔ Conduct regular briefing sessions to remind staff and clients on the requirements of the Licensed Warehouse Scheme.
-
-✔ Keep proper records of the time-in and time-out of any person visiting the warehouse for the collection of goods.
-
-✔ Assign a supervisory level staff to personally oversee the stuffing and unstuffing of containers.
-
-✔ Remind drivers, including those from an external transport company, that they should deliver dutiable goods for export directly to the checkpoint and not stop along the way at other locations to collect other goods.
-
-✔ Ensure drivers report to the designated lane at the checkpoint for customs clearance by Immigration and Checkpoints Authority officers.  
-
-✔ Conduct regular stock checks and report any discrepancies detected to Singapore Customs.
-
-**Do Not**
-
-✖ Remove any duty-unpaid goods from the licensed premises without proper permits.
-
-✖ Break the Customs red seal and unstuff a container sealed with the Customs red seal without any Customs approval.
-
-✖ Store other types of goods (non-dutiable goods) in the licensed premises meant for duty-unpaid goods. (Except for LW Type III licensees)
-
-✖ Allow any unauthorised personnel to enter the licensed premises meant for duty unpaid goods.
-
+{% include accordion.html %}
