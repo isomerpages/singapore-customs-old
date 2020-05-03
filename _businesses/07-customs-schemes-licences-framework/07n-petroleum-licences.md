@@ -29,7 +29,7 @@ For the storage of imported or refined non-dutiable petroleum products and pure 
 To qualify for a Petroleum and Biodiesel Blends Licence, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](businesses/registration-matters/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place
 -   Have good stock record-keeping and warehouse procedures
