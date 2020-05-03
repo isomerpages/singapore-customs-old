@@ -1,6 +1,6 @@
 ---
 title: Import procedures
-permalink: /businesses/Importing-goods/Import-procedures/
+permalink: /businesses/Importing-goods/import-procedures/
 third_nav_title: Importing Goods
 accordion:
   - title: Do
