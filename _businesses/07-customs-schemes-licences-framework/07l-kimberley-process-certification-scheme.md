@@ -16,16 +16,16 @@ Find out more about the [KPCS](https://www.kimberleyprocess.com/)  and [list of 
 
 To import rough diamonds under Harmonized System (HS) codes 7102 1000, 7102 2100 and or 7102 3100:
 
--   You must hold a valid  [KP Licence](/businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme);
+-   You must hold a valid  KP Licence;
 -   Your shipment must be sealed and secured;
 -   Your shipment must be accompanied with a valid KP Certificate issued by the overseas exporting KP authority; and
 -   You or your agent must produce the shipment, overseas KP Certificate issued by the overseas exporting KP authority, Customs import permit and supporting documents such as commercial invoice, packing list and Airway bill to the checkpoint officers at the time of importation for endorsement.
 
 To export rough diamonds under HS codes 7102 1000, 7102 2100 and or 7102 3100:
 
--   You must hold a valid  [KP Licence;]
+-   You must hold a valid  KP Licence;
 -   Your shipment must be sealed and secured;
--   You must obtain a  [Singapore KP Certificate]  issued by Singapore Customs; and
+-   You must obtain a  Singapore KP Certificate  issued by Singapore Customs; and
 -   You or your agent must produce the shipment, Singapore KP Certificate, export permit and supporting documents to the checkpoint officers at the time of exportation for endorsement.
 
 Singapore Customs may conduct inspections on your import and export shipments of rough diamonds at our office or at any premises specified. For exports, the Singapore KP Certificate will only be issued when the inspection (if any) of the rough diamonds is found to be in order.
