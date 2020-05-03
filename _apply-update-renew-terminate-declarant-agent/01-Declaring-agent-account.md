@@ -26,7 +26,7 @@ Existing DAs that wish to update their particulars and contact details in the DA
 
 When applying for or renewing a DA Account, you will be assessed based on the assessment criteria under the DA Governance Framework illustrated below.
 
-**![Layered Enforcement](/images/DAA.png)**
+**![](/images/DAA.png)**
 
 A DA must minimally possess the basic qualities (shown in red in the illustration) and should take pro-active steps to ensure compliance if they have self-assessed to be lacking in those areas. The  desirable qualities  (shown in black) are areas that DAs should also ideally achieve.
 
@@ -41,7 +41,7 @@ Singapore Customs will conduct selective validation checks at a DA’s premises.
 The final assessment score will translate into one of the 5 bandings shown in the diagram below. In general, the validity or renewal period can range from 1 year to 3 years, and the security requirement can range from a 100% requirement to a waiver of the requirement for most types of transactions.
 
 
-**![Layered Enforcement](/images/DAA2.jpg)**
+**![](/images/DAA2.png)**
 
 ### Exemptions
 
