@@ -2,6 +2,11 @@
 title: Import procedures
 permalink: /businesses/Importing-goods/Import-procedures/
 third_nav_title: Importing Goods
+accordion:
+  - title: Do
+    content: <br> ✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes. <br> ✔ Know the import procedures and declaration requirements before you import. Check with the relevant Competent Authority on the requirements to import controlled items. <br> ✔ Know the contents of each consignment you import and clarify with relevant parties if needed. <br> ✔ Ensure you provide all supporting documents and information for permit applications to your Declaring Agents. <br> ✔ Include freight and insurance charges in the declared value of imported goods. <br> ✔ Declare any additional goods (for example, samples, gifts and free-of-charge items). <br> ✔ Ensure the product details (for example, Harmonized System (HS) code, quantity, description) are correctly declared. <br> ✔ Ensure you and your Declaring Agents and freight forwarders comply with all the permit conditions. <br> ✔ Apply for Customs supervision for unstuffing of container if the container is affixed with the Customs red seal. <br> ✔ Keep your supporting documents for a minimum of 5 years.
+    - title: Do Not
+      content: <br> ✖ Make a declaration without verifying the authenticity of all the supporting documents. <br> ✖ Use a pro-forma invoice for permit application. <br> ✖ Declare a nominal value for samples, gifts or free-of-charge items. You should declare the value based on the transaction value of identical or similar goods or other acceptable valuation methods. <br> ✖ Declare the country of the port of loading as the country of origin, when the goods actually originate from another country. <br> ✖ Share your TradeNet user ID and password with other persons. <br> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.
 ---
 
 
@@ -121,42 +126,7 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 
 You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
-
-**Do**
-
-✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.
-
-✔ Know the import procedures and declaration requirements before you import. Check with the relevant Competent Authority on the requirements to import controlled items.
-
-✔ Know the contents of each consignment you import and clarify with relevant parties if needed.
-
-✔ Ensure you provide all supporting documents and information for permit applications to your Declaring Agents.
-
-✔ Include freight and insurance charges in the declared value of imported goods.
-
-✔ Declare any additional goods (for example, samples, gifts and free-of-charge items).
-
-✔ Ensure the product details (for example, Harmonized System (HS) code, quantity, description) are correctly declared.
-
-✔ Ensure you and your Declaring Agents and freight forwarders comply with all the permit conditions.
-
-✔ Apply for Customs supervision for unstuffing of container if the container is affixed with the Customs red seal.
-
-✔ Keep your supporting documents for a minimum of 5 years.
-
-**Do Not**
-✖ Make a declaration without verifying the authenticity of all the supporting documents.
-
-✖ Use a pro-forma invoice for permit application.
-
-✖ Declare a nominal value for samples, gifts or free-of-charge items. You should declare the value based on the transaction value of identical or similar goods or other acceptable valuation methods.
-
-✖ Declare the country of the port of loading as the country of origin, when the goods actually originate from another country.
-
-✖ Share your TradeNet user ID and password with other persons.
-
-✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.
-
+{% include accordion.html %}
 
 **For more information on:**
 
