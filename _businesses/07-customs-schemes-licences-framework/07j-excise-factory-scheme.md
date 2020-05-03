@@ -122,7 +122,7 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 **6.** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/national-single-window/tradenet).
+Customs permits can be declared through  [TradeNet](/about-us/national-single-window/Overview).
 
 Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
 
