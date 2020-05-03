@@ -3,9 +3,9 @@ title: Establishing Customs Value for Imports
 permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value
 third_nav_title: Valuation, Duties, Taxes & Fees
 accordion: 
-  - title: Definition of Cost, Insurance and Freight incoterms
+  - title: ^Definition of Cost, Insurance and Freight incoterms
     content: <br> The Cost, Insurance and Freight (CIF) incoterms means the seller (exporter) is responsible for delivering the goods onto the vessel of transport and clearing customs at the country of export. <br><br> The seller is also responsible for the international freight charges and purchasing insurance with the buyer (importer) named as the beneficiary. <br><br> The buyer should note that under CIF, the seller is only required to obtain insurance on minimum cover. If the buyer wishes to have more insurance protection, he may make arrangements with the seller or arrange for extra insurance coverage on his own. <br><br> The ownership and risk of loss of the goods are transferred to the buyer when the goods are on board the vessel. If the goods are damaged or stolen during international transport, the buyer owns the goods and must file a claim based on insurance purchased by the seller. <br><br> The buyer must clear customs and pay for all other costs at the country of import.
-  - title: Definition of Ex Works incoterms
+  - title: ^^Definition of Ex Works incoterms
     content: <br> Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods available to the buyer (importer) at the seller’s premises or at another named place. The seller’s obligations and risks are minimal. After the seller delivers the goods, the ownership and risk of loss of the goods are transferred to the buyer. <br><br> The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export.
 ---
 
@@ -21,7 +21,7 @@ However, some imports can:
 
 ### Transaction Value Method
 
-The transaction value method is first considered in establishing the customs value, which is the Cost, Insurance, and Freight (CIF) value* under International Commercial Terms (incoterms).
+The transaction value method is first considered in establishing the customs value, which is the Cost, Insurance, and Freight (CIF) value^ under International Commercial Terms (incoterms).
 
 To establish the customs value using this method, all other charges incidental to the sale and delivery of the imports must be added to the transaction value or the price paid or payable for the imports. Examples of these charges include selling commissions, assists (materials supplied by the importer), packing costs, proceeds of resale accruing to the seller, royalties and licence fees, freight and insurance charges.
 
@@ -29,7 +29,7 @@ If any component of the customs value is settled in a foreign currency, that val
 
 **Example 1**:
 
-Company A bought 2 cartons of vitamins from Supplier B on  Ex Works (EXW) incoterms^.
+Company A bought 2 cartons of vitamins from Supplier B on  Ex Works (EXW) incoterms^^.
 
 |  |  |
 |--|--|
