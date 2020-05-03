@@ -103,7 +103,7 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
     
   ✖ Sell goods brought in under an ATA Carnet beyond the final date allowed for re-exportation without paying the GST to Singapore Customs.
   
- ### For more information on: 
+ ## For more information on: 
  
   [![](/images/awe.jpg)](/businesses/importing-goods/temporary-import-scheme-2/approved-wine-event)
 
