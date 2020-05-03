@@ -40,8 +40,7 @@ Singapore Customs will conduct selective validation checks at a DA’s premises.
 
 The final assessment score will translate into one of the 5 bandings shown in the diagram below. In general, the validity or renewal period can range from 1 year to 3 years, and the security requirement can range from a 100% requirement to a waiver of the requirement for most types of transactions.
 
-
-**![](/images/DAA2.png)**
+**![](/images/DAA2.jpg)**
 
 ### Exemptions
 
