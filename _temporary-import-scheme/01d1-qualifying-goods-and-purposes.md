@@ -14,13 +14,10 @@ third_nav_title: Temporary Import
 | 4 | Teaching aids and scientific equipment, including spare parts | Goods designed for usage in maintenance, checking calibration or repairs |
 | 5 | Motor vehicles | For use by individual who is not a citizen or permanent resident of Singapore |
 | 6 | All goods (excluding intoxicating liquor, tobacco, brochures, pamphlets, gifts or souvenirs and other give-away items) | For use at exhibitions, fairs or other similar events |
-| 7 |   
-Horses, private or recreational boats/aircraft and vehicles | For the purpose of sports, racing or other similar events |
+| 7 | Horses, private or recreational boats/aircraft and vehicles | For the purpose of sports, racing or other similar events |
 | 8 | Private or recreational boat by the person in charge of the boat | For the purpose of pleasure, recreation, sports or other similar events |
-| 9 | Scientific and technical goods* |   
-For the purpose of being shown or demonstrated to solicit orders or used to carry out tests, experimentation or demonstrations |
+| 9 | Scientific and technical goods* |  For the purpose of being shown or demonstrated to solicit orders or used to carry out tests, experimentation or demonstrations |
 | 10 | Equipment, apparel and accessories (excluding brochures, pamphlets, gifts or souvenirs and other give-away items) | For conducting international conferences, conventions and ceremonies or other similar events |
-| 11 |   
-Stage effects equipment, paraphernalia and live animals (excluding brochures, pamphlets, gifts or souvenirs and other give-away items) | For performances in Singapore |
+| 11 | Stage effects equipment, paraphernalia and live animals (excluding brochures, pamphlets, gifts or souvenirs and other give-away items) | For performances in Singapore |
 
 <sup> _*Singapore Customs will assess each request on a case-by-case basis. Please see the tabs below to find out more about how to apply for this scheme._
