@@ -10,15 +10,11 @@ third_nav_title: Importing Dutiable Motor Vehicles
 
 -   If the original importer is the party declaring the payment permit, a GST of 7% will be levied on the sum of the vehicle’s customs value and duties payable.
 
-|  |
-|--|
-|GST payable = 7% x (customs value + duties payable)| 
+    - *GST payable = 7% x (**customs value** + duties payable)*
 
 -   In situations of multiple sales where the eventual buyer is the party declaring the payment permit, a GST of 7% will be levied on the sum of the last selling price (transaction value from the sale between the eventual buyer and his supplier) and duties payable. The last selling price (LSP) can be entered in the LSP field during permit declaration.
 
-|  |
-|--|
-|GST payable = 7% x (last selling price + duties payable)|
+    - *GST payable = 7% x (**last selling price** + duties payable)*
 
 Example:
 
