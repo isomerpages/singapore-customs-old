@@ -2,6 +2,11 @@
 title: Establishing Customs Value for Imports
 permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value
 third_nav_title: Valuation, Duties, Taxes & Fees
+accordion: 
+  - title: Definition of Cost, Insurance and Freight incoterms
+    content: <br> The Cost, Insurance and Freight (CIF) incoterms means the seller (exporter) is responsible for delivering the goods onto the vessel of transport and clearing customs at the country of export. <br><br> The seller is also responsible for the international freight charges and purchasing insurance with the buyer (importer) named as the beneficiary. <br><br> The buyer should note that under CIF, the seller is only required to obtain insurance on minimum cover. If the buyer wishes to have more insurance protection, he may make arrangements with the seller or arrange for extra insurance coverage on his own. <br><br> The ownership and risk of loss of the goods are transferred to the buyer when the goods are on board the vessel. If the goods are damaged or stolen during international transport, the buyer owns the goods and must file a claim based on insurance purchased by the seller. <br><br> The buyer must clear customs and pay for all other costs at the country of import.
+  - title: Definition of Ex Works incoterms
+    content: <br> Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods available to the buyer (importer) at the seller’s premises or at another named place. The seller’s obligations and risks are minimal. After the seller delivers the goods, the ownership and risk of loss of the goods are transferred to the buyer. <br><br> The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export.
 ---
 
 # Establishing the Customs Value
@@ -50,6 +55,8 @@ Individual A purchased a bag listed for sale on an online website by a foreign s
 
 The customs value should be the sum of all the costs, which is S$450. All costs incidental to the delivery of the bag to Singapore should be included for the purposes of GST payment.
 
+{% include accordion.html %}
+
 ### Conditions for Transaction Value Method
 
 Using the transaction value method by Singapore Customs is subject to these conditions:
@@ -70,22 +77,6 @@ If the transaction value method cannot be used, the following alternatives will 
 -   Deductive value - the sale price of the goods in Singapore, adjusted for costs incurred after shipment
 -   Computed value - the value based on cost of production, general expenses and profits in the country of origin of the imported goods
 -   Residual valuation - the value determined by Singapore Customs, based on flexible interpretation of all the previous methods
-
-<sub> *Definition of Cost, Insurance and Freight incoterms <br><br>
-<sub>The Cost, Insurance and Freight (CIF) incoterms means the seller (exporter) is responsible for delivering the goods onto the vessel of transport and clearing customs at the country of export. <br><br>
-
-<sub>The seller is also responsible for the international freight charges and purchasing insurance with the buyer (importer) named as the beneficiary. <br><br>
-
-<sub>The buyer should note that under CIF, the seller is only required to obtain insurance on minimum cover. If the buyer wishes to have more insurance protection, he may make arrangements with the seller or arrange for extra insurance coverage on his own. <br><br>
-
-<sub>The ownership and risk of loss of the goods are transferred to the buyer when the goods are on board the vessel. If the goods are damaged or stolen during international transport, the buyer owns the goods and must file a claim based on insurance purchased by the seller. <br><br>
-
-<sub>The buyer must clear customs and pay for all other costs at the country of import. <br><br>
-
-<sub> ^Definition of Ex Works incoterms <br><br>
-<sub>Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods available to the buyer (importer) at the seller’s premises or at another named place. The seller’s obligations and risks are minimal. After the seller delivers the goods, the ownership and risk of loss of the goods are transferred to the buyer. <br><br>
-
-<sub>The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export. <br><br>
 
 ### **No Insurance Purchased**
 Traders can set the insurance to zero value if no insurance charges were incurred when importing the goods.
