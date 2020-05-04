@@ -314,6 +314,12 @@ $desktop: 960px + (2 * $gap) !default;
     max-width: 100%;
   }
 
+// Dennis tweak to have ordered list of alphabets
+  ol{
+    list-style-type: lower-alpha;
+  }
+// End of Dennis tweak to have ordered list of alphabets
+
 // Dennis tweak to use tbody instead of tr for table row
   table{
     tbody {
