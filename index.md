@@ -11,15 +11,15 @@ sections:
         background: /images/New Banner.jpg
         key_highlights:
             - title: Duty-Free Concession and GST Relief
-              url: https://singapore-customs-staging.netlify.app/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
+              url: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
             - title: Quick Guide for Importers
-              url: https://singapore-customs-staging.netlify.app/businesses/importing-goods/overview
+              url: /businesses/importing-goods/overview
             - title: Registration Matters
-              url: https://singapore-customs-staging.netlify.app/businesses/registration-matters/overview
+              url: /businesses/registration-matters/overview
             - title: Customs Schemes & Licenses
-              url: https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first
+              url: /businesses/customs-schemes-licences-framework/trade-first
             - title: Customs Forms & Service Links
-              url: https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links
+              url: /eservices/customs-forms-and-service-links
               
     - carousel:
        - title: Networked Trade Platform
