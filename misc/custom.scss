@@ -335,14 +335,19 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Dennis tweak to have box-link
   table.box-link{
+    border-collapse: separate;
+    border: 0;
+
     tbody {
       border: 0;
-    }
-    td{
-      padding: 0.5em;
-      width: calc(100% / 4);
-      height: calc(100% / 4);
-      background-color: #041e41;
+      
+      td{
+        margin: 0.5em;
+        width: calc(100% / 4);
+        height: calc(100% / 4);
+        background-color: #041e41;
+        color: #ffffff;
+      }
     }
   }
 // End of Dennis tweak to have box-link
