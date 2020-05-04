@@ -31,5 +31,5 @@ Traders may refer to the links below for information on specific offences and th
 -   [Rules of Origin](/businesses/certificates-of-origin/overview)
 -   [Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme)
 -   [Licensed Warehouse Scheme](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
--   [Strategic Goods (Control) Act](/businesses/strategic-goods-control-1/overview/enforcementt)
+-   [Strategic Goods (Control) Act](/businesses/strategic-goods-control-1/overview/enforcement)
 -   [Chemical Weapons (Prohibition) Act](/businesses/chemical-weapons-convention/offences)
