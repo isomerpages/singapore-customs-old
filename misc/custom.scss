@@ -297,9 +297,13 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	blockquote {
 		border-left-color: $secondary;
+    border-left: 0;
+    padding: 1em 0 0 0;
 	}
 	blockquote > p {
 		color: $secondary;
+    font-size: smaller;
+    line-height: 1.5rem;
 	}
 	blockquote > ul {
 		color: $secondary;
