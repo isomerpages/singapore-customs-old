@@ -35,8 +35,8 @@ Singapore Customs also cooperates with its international counterparts to help pr
 
 Read about some of the regular enforcement operations conducted in the FTZs featured in Singapore Customs’ corporate magazine, inSYNC, here:
 
- - [Upholding The Security Of Free Trade Zone (page10)](https://singapore-customs-staging.netlify.com/news-and-media/publications/2017-10-01-Issue47.pdf)
- - [Singapore Customs Foils Syndicates’ Attempts To Smuggle Duty-Unpaid Cigarettes Out Of Changi Airfreight Centre (page 5 & 6)](https://singapore-customs-staging.netlify.com/news-and-media/publications/2018-01-01-Issue48.pdf)
+ - [Upholding The Security Of Free Trade Zone (page10)](/news-and-media/publications/2017-10-01-Issue47.pdf)
+ - [Singapore Customs Foils Syndicates’ Attempts To Smuggle Duty-Unpaid Cigarettes Out Of Changi Airfreight Centre (page 5 & 6)](/news-and-media/publications/2018-01-01-Issue48.pdf)
  
 
 ## Licensed facilities
@@ -47,7 +47,7 @@ The Licensed Warehouse Scheme, Zero-Goods and Services Tax (ZG) Warehouse Scheme
 
 This is in line with Singapore Customs’ pro-enterprise regulatory approach.
 
-Visit [this page](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) for more information on our schemes and licences.
+Visit [this page](/businesses/customs-schemes-licences-framework/trade-first) for more information on our schemes and licences.
 
 ## Singapore’s Freeport
 
@@ -57,5 +57,5 @@ ZGS licensees operating in the Singapore Freeport are subject to the same regula
 
 Regular inspections are conducted on these companies as part of the enhanced regime which serves to prevent companies from being inadvertently used as a conduit for money-laundering and terrorist-financing activities, allowing Singapore to operate as a secure trade hub.
 
-Read more about the inspection in Singapore’s Freeport, and the enhanced regulatory regime in Singapore Customs’ corporate magazine, InSYNC: [Enhanced Regulatory Regime To Combat Money Laundering And Terrorist Financing Risks](https://singapore-customs-staging.netlify.app/news-and-media/publications/2018-04-01-Issue49.pdf)
+Read more about the inspection in Singapore’s Freeport, and the enhanced regulatory regime in Singapore Customs’ corporate magazine, InSYNC: [Enhanced Regulatory Regime To Combat Money Laundering And Terrorist Financing Risks](/news-and-media/publications/2018-04-01-Issue49.pdf)
 
