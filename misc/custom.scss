@@ -315,7 +315,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
 // Dennis tweak to have ordered list of alphabets
-  ol{
+  ol.lower-alpha{
     list-style-type: lower-alpha;
   }
 // End of Dennis tweak to have ordered list of alphabets
