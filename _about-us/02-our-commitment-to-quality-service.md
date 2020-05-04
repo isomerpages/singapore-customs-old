@@ -10,6 +10,7 @@ permalink: /about-us/our-commitment-to-quality-service/
 We are committed to provide excellent service as outlined in our Service Charter, and our pride resides in our customers’ satisfaction.
 
 The service we provide will be:
+|----------|------------------------------------------------------------------------------------|
 | Fast     | We seek to understand your needs and serve you promptly.                           |
 | Friendly | We are attentive and polite when we serve you.                                     |
 | Firm     | We are steadfast in upholding our laws and open and transparent in enforcing them. |
