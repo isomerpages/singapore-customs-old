@@ -30,7 +30,7 @@ All goods imported into Singapore are subject to GST.
 Payment of Duties and GST can be made via the following payment modes:
 
 -   All major credit cards (MasterCard, Visa and American Express), mobile wallets, NETS and Cashcard at the Singapore Customs Tax Payment Office
--   Visa or Master credit cards on the  [Customs@SG Mobile App and Web Application](https://singapore-customs-staging.netlify.com/eservices/customs-sg-mobile-and-web-application/)
+-   Visa or Master credit cards on the  [Customs@SG Mobile App and Web Application](/eservices/customs-sg-mobile-and-web-application/)
 
 
 ***
