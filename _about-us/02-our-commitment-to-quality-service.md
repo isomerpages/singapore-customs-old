@@ -10,7 +10,7 @@ permalink: /about-us/our-commitment-to-quality-service/
 We are committed to provide excellent service as outlined in our Service Charter, and our pride resides in our customers’ satisfaction.
 
 The service we provide will be:
-|          |                                                                                    |
+
 |----------|------------------------------------------------------------------------------------|
 | Fast     | We seek to understand your needs and serve you promptly.                           |
 | Friendly | We are attentive and polite when we serve you.                                     |
@@ -41,7 +41,7 @@ Our response time depends on the nature and complexity of the enquiry or feedbac
 |**Process Assessment and Collection of Duty/GST from Travellers/Crew Members**\* | 95% within 8 minutes  |
 |**Endorse Export Permits under the Hand-Carried Exports Scheme**\*               | 95% within 15 minutes |
 
-> **\*On weekends and public holidays, the processing time may be a little longer. You are advised to come to the Singapore Customs counter early.**
+> **\* On weekends and public holidays, the processing time may be a little longer. You are advised to come to the Singapore Customs counter early.**
 
 ### Delighting Our Customers
 
