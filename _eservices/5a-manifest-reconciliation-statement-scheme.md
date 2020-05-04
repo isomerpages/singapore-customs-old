@@ -15,7 +15,7 @@ Only authorised MRS users are allowed to submit MRS on behalf of their company. 
 
 -   A valid Entity Identifier/UEN has been issued to your company
 -   Your company engages in shipping activities (e.g. acting as a shipping agent)
--   You read and understand the  [Terms and Conditions](https://singapore-customs-staging.netlify.app/eservices/5b-manifest-reconciliation-statement-scheme-terms-and-conditions)  before completing the registration form
+-   You read and understand the  [Terms and Conditions](/eservices/5b-manifest-reconciliation-statement-scheme-terms-and-conditions)  before completing the registration form
 -   A Letter of Authorisation (see sample  [Authorisation Letter](https://www.customs.gov.sg/-/media/cus/files/eservices/mrs/mrs_letter_of_authorisation_2019.docx?la=en&hash=99D38986555D8727954A2681134A010A14132CBB)) is prepared and sent to Customs together with the application if the applicant is not holding at least a managerial role in the company
 
 Upon successful registration, Customs will notify the main contact person and authorised MRS user(s) via email.

@@ -9,7 +9,7 @@ permalink: /eservices/pay-your-bills/
 
 GIRO is the most convenient way to pay your bills. Payment will be debited automatically on the payment due date from your designated bank account as indicated in your Interbank GIRO application form. If the payment due date falls on a Saturday, Sunday or Public Holiday, the deduction will be made on the previous working day.
 
-You may obtain a GIRO application form  [here](https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links).
+You may obtain a GIRO application form  [here](/eservices/customs-forms-and-service-links).
 
 ## Payment at SingPost Outlets
 

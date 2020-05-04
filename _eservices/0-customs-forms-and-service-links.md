@@ -187,7 +187,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 13. | Sample Format of the End User Statement for Strategic Trade Scheme Bulk Permit | [Word Doc](/documents/eservices/End-User-Statement-StratTradeScheme-Bulk.docx)  (14KB) |
 | 14. | Sample Format of the End User Statement for Strategic Trade Scheme Individual Permit | [Word Doc](/documents/eservices/EndUserStatment-Strat-Trade-scheme-indv.docx) (40KB) |
 | 15. | Sample Format of End User Certificate (EUC) for UNSC countries | [Word Doc](/documents/eservices/EUC-For-UNSC.doc) (44KB) |
-| 16. | TradeFIRST Self-Assessment Checklist | [Web Link](https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first) |
+| 16. | TradeFIRST Self-Assessment Checklist | [Web Link](/businesses/customs-schemes-licences-framework/trade-first) |
 
 ## Voluntary Disclosure Forms
 
