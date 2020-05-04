@@ -40,16 +40,16 @@ We protect revenue, and make trade easy, fair and secure.
 
 ## History 
 
-|Year|Significant Event
-|---|---|
-| **1910** | Creation of British Government Monopolies Department by British colonial administration during the Straits Settlement period to control opium and spirits revenue. 
-|**1938** | Reliance on duty revenue results in name change to Excise Department in 1935, then to Department of Customs and Excise (CED) in 1938. |
-|**1969**|  Singapore’s first Free Trade Zones are established.|
-|**1975**|CED becomes a member of the Customs Cooperation Council (now known as World Customs Organisation).|
-|**1989**|Launch of TradeNet, the world’s first nationwide electronic data interchange system for paperless clearance of trade documentation.
-|**1990**|CED’s role in trade facilitation grows in importance. Represented Singapore in negotiations within organisations such as ASEAN, Asia-Pacific Economic Cooperation and World Trade Organisation.
-|**1994**|With the introduction of Goods & Services Tax, all but four items (tobacco, intoxicating liquor, petroleum and motor vehicles) were removed from the dutiable goods list.
-|**2003**|CED is reconstituted as Singapore Customs, with trade facilitation and revenue enforcement roles.
-|**2007**|Singapore Customs launches TradeXchange, an IT platform that connects the trade and logistics community. Secure Trade Partnership, Singapore’s national supply chain security programme, is launched.
-|**2010**|100th anniversary of Singapore Customs. 
+|Year    |Significant Event                                                                                                                                                                                      |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**1910**| Creation of British Government Monopolies Department by British colonial administration during the Straits Settlement period to control opium and spirits revenue.                                    |
+|**1938**| Reliance on duty revenue results in name change to Excise Department in 1935, then to Department of Customs and Excise (CED) in 1938.                                                                 |
+|**1969**| Singapore’s first Free Trade Zones are established.                                                                                                                                                   |
+|**1975**| CED becomes a member of the Customs Cooperation Council (now known as World Customs Organisation).                                                                                                    |
+|**1989**| Launch of TradeNet, the world’s first nationwide electronic data interchange system for paperless clearance of trade documentation.                                                                   |
+|**1990**| CED’s role in trade facilitation grows in importance. Represented Singapore in negotiations within organisations such as ASEAN, Asia-Pacific Economic Cooperation and World Trade Organisation.       |
+|**1994**| With the introduction of Goods & Services Tax, all but four items (tobacco, intoxicating liquor, petroleum and motor vehicles) were removed from the dutiable goods list.                             |
+|**2003**| CED is reconstituted as Singapore Customs, with trade facilitation and revenue enforcement roles.                                                                                                     |
+|**2007**| Singapore Customs launches TradeXchange, an IT platform that connects the trade and logistics community. Secure Trade Partnership, Singapore’s national supply chain security programme, is launched. |
+|**2010**| 100th anniversary of Singapore Customs.                                                                                                                                                               |
 
