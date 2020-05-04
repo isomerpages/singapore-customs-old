@@ -75,7 +75,7 @@ For more information on permit requirements for transhipment or transit of strat
 | **Importing, exporting or transhipping goods without a permit** <br><br> _(Regulation 3(1) of the Regulation of Imports and Exports Regulations [RIER])_ | **_First conviction:_** <br> A fine not exceeding S$100,000 or 3 times the value of the goods, whichever is greater, or imprisonment not exceeding 2 years, or both. <br><br> **_Second or subsequent conviction:_** <br> A fine not exceeding S$200,000 or 4 times the value of the goods, whichever is greater, or imprisonment not exceeding 3 years, or both.|
 | **Transfer of strategic goods without a valid strategic goods export/transhipment permit** <br><br>_(Section 5(1)(a) of the Strategic Goods (Control) Act [SGCA])_ | **_First conviction:_** <br>A fine not exceeding S$100,000 or 3 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 2 years, or both. <br><br> **_Second or subsequent conviction:_** A fine not exceeding S$200,000 or 4 times the value of the goods or technology involved, whichever is greater, or imprisonment not exceeding 3 years, or both.
 
-You may refer to more information on the offences and penalties under the Customs Act, RIEA and SGCA  [here](https://singapore-customs-staging.netlify.app/about-us/acts-and-subsidiary-legislation/customs-act).
+You may refer to more information on the offences and penalties under the Customs Act, RIEA and SGCA  [here](/about-us/acts-and-subsidiary-legislation/customs-act).
     
 
 ### Best Practices
