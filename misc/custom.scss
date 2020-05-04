@@ -333,6 +333,20 @@ $desktop: 960px + (2 * $gap) !default;
   }
 // End of Dennis tweak to use tbody instead of tr for table row
 
+// Dennis tweak to have box-link
+  table.box-link{
+    tbody {
+      border: 0;
+    }
+    td{
+      padding: 0.5em;
+      width: calc(100% / 4);
+      height: calc(100% / 4);
+      background-color: #041e41;
+    }
+  }
+// End of Dennis tweak to have box-link
+
 }
 
 // Media category buttons - not used now but will be used in the future
