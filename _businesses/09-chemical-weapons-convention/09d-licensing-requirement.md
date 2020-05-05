@@ -49,6 +49,6 @@ A CWC licence is required for the production of DOCs that meets either one or bo
 [Plant sites](/businesses/chemical-weapons-convention/glossary) that **exclusively** produce hydrocarbons or explosives by synthesis do not require a CWC licence.
 
 **For more information:** 
-|  |  |  |  |
-|--|--|--|--|
-| [![](/images/lr3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/definition-of-activity)  |  [![](/images/lr4.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/licence-tc) | [![](/images/lr1.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence)  | [![](/images/lr2.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence)  |
+|   |   |   |   |
+|---|---|---|---|
+|[![](/images/lr3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/definition-of-activity)  |[![](/images/lr4.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/licence-tc) |[![](/images/lr1.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence)  |[![](/images/lr2.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence)  
