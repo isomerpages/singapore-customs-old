@@ -2,6 +2,13 @@
 title: Enforcement 
 permalink: /businesses/strategic-goods-control-1/overview/enforcement
 third_nav_title: Overview
+accordion:
+  - title: Providing material support to a foreign terrorist organization
+    content: <br> A Singaporean man was convicted by the United States (US) Court for conspiring to provide material support to a foreign terrorist organisation. He had attempted to purchase arms and ammunitions for this organisation, an offence under Section 6(2)(b)(ii) of the SGCA. Following the US Government’s extradition request, the Singapore court ruled that the offender was to be extradited to face legal action in the US. He was sentenced to 57 months of imprisonment in the US. ([Media Release](http://www.fbi.gov/baltimore/press-releases/2010/ba101810a.html))
+  - title: Submission of false permit declarations
+    content: <br> A freight forwarding company exported controlled military electronic connectors without a valid strategic goods export permit and instead falsely declared the items as ordinary connectors. The company was prosecuted and fined by the court under Section 5(1)(a) of the SGCA. ([Media Release](/news-and-media/media-releases/2007-09-18-MR-worldfreight.pdf))
+  - title: Failure to register as a broker
+    content: <br> A company arranged with a foreign government to remove expired and damaged ammunition from its territory to another foreign country for disposal, without first registering as a broker with Singapore Customs. The company paid a composition sum for an offence committed under Section 6(1)(a) of the SGCA. <br><br> In another case, 2 individuals were sentenced to 9 and 18 months imprisonment for brokering arms to Syria. ([Media Release](/news-and-media/media-releases/2006-10-11-Press-Release.pdf)).    
 ---
 
 
@@ -47,20 +54,7 @@ Summary of minor or technical offences that were compounded:
 
 ### **Highlights of enforcement cases**
 
-**Providing material support to a foreign terrorist organization**
-
-A Singaporean man was convicted by the United States (US) Court for conspiring to provide material support to a foreign terrorist organisation. He had attempted to purchase arms and ammunitions for this organisation, an offence under Section 6(2)(b)(ii) of the SGCA. Following the US Government’s extradition request, the Singapore court ruled that the offender was to be extradited to face legal action in the US. He was sentenced to 57 months of imprisonment in the US. ([Media Release](http://www.fbi.gov/baltimore/press-releases/2010/ba101810a.html))
-
-**Submission of false permit declarations**
-
-A freight forwarding company exported controlled military electronic connectors without a valid strategic goods export permit and instead falsely declared the items as ordinary connectors. The company was prosecuted and fined by the court under Section 5(1)(a) of the SGCA. ([Media Release](/news-and-media/media-releases/2007-09-18-MR-worldfreight.pdf))
-
-**Failure to register as a broker**
-
-A company arranged with a foreign government to remove expired and damaged ammunition from its territory to another foreign country for disposal, without first registering as a broker with Singapore Customs. The company paid a composition sum for an offence committed under Section 6(1)(a) of the SGCA .
-
-In another case, 2 individuals were sentenced to 9 and 18 months imprisonment for brokering arms to Syria. ([Media Release](/news-and-media/media-releases/2006-10-11-Press-Release.pdf)).
-
+{% include accordion.html %}
 
 ### Key Offences
 
