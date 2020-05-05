@@ -14,6 +14,8 @@ Please note that Application for Certificate of Free Sales, Certificate of Non-M
 | 1. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp) |
 | 2. | Registration for Manufacturer/New Product Line | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/certificate-of-origin-related-forms/sc-a-006_v11.doc?la=en&hash=57AD06DAB65A31A534E12429CE93C40A1A84BC0A) (364KB) |
 
+[Back to Top](/eservices/customs-forms-and-service-links)
+
 ## Chemical Weapons Convention Forms
 
 ### General
@@ -24,6 +26,8 @@ Please note that Application for Certificate of Free Sales, Certificate of Non-M
 | 2. | End-User Certificate | [Word Doc](End-User-Certificate.doc) (386KB) <br><br> [PDF](/documents/eservices/End-User-Certificate.pdf) (377KB)|
 | 3. | Product Enquiry | [Web Link](https://form.gov.sg/5cd8dc28cac8390017348d6c) |
 | 4. | Update of Licensee Contact Information | [Web Link](https://form.gov.sg/5cd9095ecac8390017349199) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 ### NA(CWC) Licence Application (New and Renewal)
 
@@ -36,6 +40,8 @@ Please submit the  **Licence Application Cover Form**  (_compulsory_), together 
 | 3. | Schedule 3 Chemical(s) (Form A.3) <br><br> _For Company/Organisation involved in the production/ import/ export of Schedule 3 Chemical(s)_ | [Web Link](https://form.gov.sg/5cecef166aadc4001735c36f) |
 | 4. | Unscheduled Discrete Organic Chemical(s) (Form A.4) <br><br> _For Company/Organisation involved in the production of Unscheduled Discrete Organic Chemical(s)_ | [Web Link](https://form.gov.sg/5cedff6f33099000104a8ea6) |
 
+[Back to Top](/eservices/customs-forms-and-service-links)
+
 ### NA(CWC) Licence Amendment Application
 
 Please submit the  **Licence Amendment Application Cover Form**  (_compulsory_), together with the relevant forms for the controlled activities relating to **Schedule 2, Schedule 3 and Unscheduled Discrete Organic Chemical(s)**.
@@ -47,6 +53,8 @@ Please submit the  **Licence Amendment Application Cover Form**  (_compulsory_),
 | 3. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 3 Chemical(s) (Form B.3) | [Web Link](https://form.gov.sg/5ceba76d5606aa0017d8dc8d) |
 | 4. | Addition of new chemical(s) for Unscheduled Discrete Organic Chemical(s) (Form B.4) | [Web Link](https://form.gov.sg/5cece4aa5d6edc00173c1b5e) |
 | 5. | Increment of maximum aggregate for licensed Schedule 2, 3 and/ or Unscheduled Discrete Organic Chemical(s) (Form B.5) | [Web Link](https://form.gov.sg/5cf084133e2f9500177a4dbb) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 ### NA(CWC) Licence Forms relating to Schedule 1 Chemicals
 
@@ -61,6 +69,8 @@ Please submit the  **Licence Application Cover Form**  and/ or  **Licence Amendm
 | 4. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 1 Chemical(s) (Form B.1) | [Word Doc](/documents/eservices/Addition-of-new-chemicals.doc) (401KB) <br><br> [PDF](/documents/eservices/Addition-of-new-chemicals.pdf) (294KB) |
 | 5. | Increment of maximum aggregate for licensed Schedule 1 Chemical(s) (Form B.5) | [Word Doc](/documents/eservices/Increment-of-maximum-agregate.doc) (357KB) <br><br> [PDF](/documents/eservices/Increment-of-maximum-agregate.pdf) (347KB)|
 
+[Back to Top](/eservices/customs-forms-and-service-links)
+
 ### Annual Declaration of Anticipated Activities (ADAA) / Ad-Hoc Declaration of Additionally Planned Activities (AH)
 
 Please submit the  **Declaration Cover For Reporting Template** (_compulsory_), together with the relevant declaration templates for the controlled activities. Indicate ‘Nil Declaration’ if there is no any declarable activities for the year of declaration.
@@ -72,9 +82,13 @@ Please submit the  **Declaration Cover For Reporting Template** (_compulsory_), 
 | 3. | Schedule 2 Chemical(s) (Template C.2) | [Word Doc](/documents/eservices/Schedule-2-chemicals-c.doc) (385KB) <br><br> [PDF](/documents/eservices/Schedule-2-chemicals-c.pdf) (320KB) |
 | 4. | Schedule 3 Chemical(s) (Template C.3) | [Word Doc](/documents/eservices/Schedule-3-chemicals-c.doc) (454KB) <br><br> [PDF](/documents/eservices/Schedule-3-chemicals-c.pdf) (270KB) |
 
+[Back to Top](/eservices/customs-forms-and-service-links)
+
 ### Annual Declaration of Past Activities (ADPA)
 
 Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_), together with the relevant declaration templates for the controlled activities. Indicate ‘Nil Declaration’ if there is no any declarable activities for the year of declaration. You may wish to refer to the Guide for Filling in Annual Declaration of Past Activities Forms for assistance.
+
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 | No. | Forms | Related Link |
 |--|--|--|
@@ -83,6 +97,8 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 | 3. | Schedule 2 Chemical(s) (Template D.2) | [Word Doc](/documents/eservices/Sched-2-Chem-D.doc) (475KB)  <br><br> [PDF](/documents/eservices/Sched-2-Chem-D.pdf) (317KB) |
 | 4. | Schedule 3 Chemical(s) (Template D.3) | [Word Doc](/documents/eservices/Sched-3-Chem-D.doc) (440KB)  <br><br> [PDF](/documents/eservices/Sched-3-Chem-D.pdf) (302KB) |
 | 5. | Unscheduled Discrete Organic Chemical(s) (Template D.4) | [Word Doc](/documents/eservices/Unscheduled-Discrete-Organic-Chem.doc) (324KB) <br><br> [PDF](/documents/eservices/Unscheduled-Discrete-Organic-Chem.pdf) (277KB) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 ## Customs Ruling
 
@@ -98,11 +114,15 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 |--|--|--|
 | 1. | Application for Customs Supervision | [Web Link](http://eservices.customs.gov.sg/scripts/customs/common/eservice.asp?AppID=SUP) |
 
+[Back to Top](/eservices/customs-forms-and-service-links)
+
 ## Manufacturing Cost Statement Formats
 
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | All Free Trade Agreements* and Schemes, except USSFTA <br><br> _*For exports of Singapore origin goods under the GSFTA, please note that the procedural requirements for claiming preferential tariff treatment is still not yet finalised. As such, there may be potential operational issues when exporting under this Agreement such as rejection of the preferential Certificate of Origin when claiming preferential tariff rates with the GCC customs authorities._ <br><br> __*An online tutorial on how to fill up the Manufacturing Cost Statement can be found on our [e-learning site](https://www.customs.gov.sg/-/media/CUS/files/Business/Certificates%20of%20Origin/E-Learning%20for%20Manufacturing%20Cost%20Statement/story_html5.html)[.](https://www.customs.gov.sg/-/media/CUS/files/Business/Certificates%20of%20Origin/E-Learning%20for%20Manufacturing%20Cost%20Statement/story_html5.html)__  | [Excel Doc](/documents/eservices/ExcelDoc1.xlsx) (76KB) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 ## Monthly Statement of Stores Supplied to Vessels/Aircraft
 
@@ -110,6 +130,8 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 |--|--|--|
 | 1. | Monthly Statement of Stores and Jet Fuel Supplied to Aircraft | [Excel Doc](/documents/eservices/ExcelDoc2.xlsx) (315KB) |
 | 2. | Monthly Statement of Stores Supplied to Vessels | [Excel Doc](/documents/eservices/ExcelDoc3.xlsx) (308KB) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 ## Networked Trade Platform (NTP) eServices
 
@@ -123,6 +145,8 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 4. | Application for Kimberley Process Licence (KPL) | [Word Doc](/documents/eservices/KPL.doc) (77KB) |
 | 5. | Application for Landing Certificate (LC) | [Word Doc](/documents/eservices/LC.doc) (344KB) |
 | 6. | Application for Vessel Registration (VR) | [Word Doc](/documents/eservices/VR.doc) (82KB) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 ## Permit and Licence Forms
 
@@ -147,6 +171,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 17. | Template for Letter of Undertaking for TradeNet unavailability | [Word Doc](/documents/eservices/Letter-of-undertaking-tradenet.doc) (48KB) |
 | 18. | Template for Letter of Undertaking to be used for the Export, Transhipment and/or Bringing in Transit of Strategic Goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability | [Word Doc](/documents/eservices/Undertaking-export-transhipment.doc) (116KB) |
 
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 ## Registration Forms
 
@@ -166,7 +191,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 12. | Security Application Form | [Word Doc](/documents/eservices/Security-Application-Form.doc) (44KB) |
 | 13. | Security Extension Form  <br> (Applicable only for new security lodged from 15 April 2019) | [Word Doc](/documents/eservices/Security-Extension-form.doc) (36KB) |
 
- [Back to Top](https://www.customs.gov.sg/eservices/customs-forms-and-service-links#top)
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 ## Strategic Goods Control Forms
 
@@ -189,11 +214,15 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 15. | Sample Format of End User Certificate (EUC) for UNSC countries | [Word Doc](/documents/eservices/EUC-For-UNSC.doc) (44KB) |
 | 16. | TradeFIRST Self-Assessment Checklist | [Web Link](/businesses/customs-schemes-licences-framework/trade-first) |
 
+[Back to Top](/eservices/customs-forms-and-service-links)
+
 ## Voluntary Disclosure Forms
 
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Submission for Voluntary Disclosure Programme | [Web Link](https://form.gov.sg/5cc8267f09313a001745d0eb) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 ## Web Manifest Reconciliation System
 
@@ -201,6 +230,8 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 |--|--|--|
 | 1. | Application for Registration of Manifest Reconciliation Statement (MRS) user | [Web Link](https://form.gov.sg/#!/5c9dd6bf5b6b230017d50306) |
 | 2. | Web Manifest Reconciliation System | [Web Link](https://eservices.customs.gov.sg/scripts/customs/mrs) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
 
 
 
