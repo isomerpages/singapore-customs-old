@@ -13,12 +13,12 @@ The  **Customs@SG**  mobile app is a convenient way for travellers to declare an
 Travellers with purchases that have exceeded their personal  [duty free concession or GST relief](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief) can use  **Customs@SG**  to make an advance declaration and pay the duty and/or GST without having to visit the Customs Tax Payment Office at the checkpoint when they arrive in Singapore. Once payment has been made, the app will automatically create an e-receipt in the traveller’s mobile phone. Travellers can proceed to exit the checkpoint by the Customs Green Channel. When they are stopped for checks, travellers can show the e-receipts on their smartphone as proof of payment.
 
 Travellers can also choose to declare and pay the taxes online through the  **Customs@SG**  web portal.
-![2](https://www.customs.gov.sg/-/media/cus/images/eservices/customs-at-sg-mobile-web-application/2.png)
+![2](/images/Mobile app 1.png)
 
 Other features of the **Customs@SG** mobile app include a tip-off module which members of the public can use to provide Customs with information on illegal cigarette-peddling activities, as well as a feedback module to provide feedback or submit queries on Customs matters.
 
 **You can download the app from  [Google Play](https://play.google.com/store/apps/details?id=org.customs.gov.sg)  and the  [App Store](https://itunes.apple.com/sg/app/customs-sg/id1062502468?mt=8)  for free.**
-![Mobile app](https://www.customs.gov.sg/-/media/cus/images/eservices/customs-at-sg-mobile-web-application/mobile-app.png)
+![Mobile app](images/Mobile app 2.png)
 
 ## Frequently Asked Questions (FAQs)
 
