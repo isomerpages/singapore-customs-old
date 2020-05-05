@@ -27,7 +27,7 @@ Once the approval letter is received, the importer should submit an In-Payment (
 
 A declaring agent or freight forwarder can be appointed to submit the permit on the importer's behalf.
 
-No refund of duty and GST except for cases of overpayment or erroneous payment will be allowed once the vehicle has been removed from *customs control* or a *Free Trade Zone^.
+No refund of duty and GST except for cases of overpayment or erroneous payment will be allowed once the vehicle has been removed from *customs control* * or a *Free Trade Zone* ^.
 
 **Step 4: Clearance of Motor Vehicle**
 
