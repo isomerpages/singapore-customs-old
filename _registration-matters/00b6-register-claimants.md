@@ -19,7 +19,7 @@ A Claimant registration is required before a Claimant Organisation can be grante
 
 A Claimant Organisation is an organisation or a person as specified in the second column of the Schedules under the [Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5#pr2-), [Goods and Services Tax (Imports Relief) Order](https://sso.agc.gov.sg/SL/GSTA1993-OR3) and International Arrangements Relief Notification, that is exempted from the payment of duty or GST for the importation of goods specified in the third column of the said Schedules.
 
-A Claimant is an individual who acts on behalf of a Claimant Organisation to ensures that the goods granted duty exemption and/or GST relief are meant for an entity’s official use or an Entitled Individual’s personal use when they are applying for the duty exemption/GST relief permits.
+A Claimant is an individual from a Claimant Organisation who is responsible to receive the goods that are exempted from the payment of duty and/or GST on behalf of the entity and ensures that the goods granted duty exemption and/or GST relief are meant for an entity’s official use or an Entitled Individual’s personal use when they are applying for the duty exemption/GST relief permits.
 
 The Key Personnel of Claimant Organisation needs to register individuals from the Claimant Organisation as Claimants to be declared in the duty exemption and/or GST relief permit applications. Upon successful registration of the Claimants, the Primary Contact listed in your entity's Customs Account will receive a fax or email notification.
 
