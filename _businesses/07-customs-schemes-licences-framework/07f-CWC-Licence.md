@@ -1,7 +1,7 @@
 ---
 title: Chemical Weapons Convention (CWC) Licence
 permalink: /businesses/customs-schemes-licences-framework/CWC-licence
-third_nav_title: Chemical Weapons Convention (CWC) Licence
+third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
 # Application for Licence
