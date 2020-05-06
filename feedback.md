@@ -33,7 +33,7 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 [Schemes & Licences](https://form.gov.sg/5e9e51cf1e9ed20011c75f2a)
 
-[United Nations Security Council Sanctions / Strategic Goods Control / Chemical Weapons Convention](https://form.gov.sg/5e7311f15ec7a00011a06429)
+[Strategic Goods Control / UN Security Council Sanctions / Chemical Weapons Convention](https://form.gov.sg/5e7311f15ec7a00011a06429)
 
 [Valuation and Customs Exchange Rate](https://form.gov.sg/#!/5e6ed24b39ddca001164cce2)
 
