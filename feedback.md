@@ -16,20 +16,13 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 [Tourist Refund](https://form.gov.sg/5e995867c8958100111be89f)
 
-[Moving to Singapore](https://form.gov.sg/#!/5e7316a05e7c180011db03bb)
-
-
 # For Traders
 
 [Certificate of Origin](https://form.gov.sg/5e7025bbbce24a0011937cbd) 
 
 [Harmonized System / Classification of Goods](https://form.gov.sg/5e6713af65cca600110d2d43)
 
-[Import / Export / Transhipment](https://form.gov.sg/#!/5e7316a05e7c180011db03bb)
-
 [Refunds](https://form.gov.sg/5e732a0b5e7c180011db1f08)
-
-[Registration Matters](https://form.gov.sg/#!/5e7316a05e7c180011db03bb)
 
 [Schemes & Licences](https://form.gov.sg/5e9e51cf1e9ed20011c75f2a)
 
@@ -43,6 +36,8 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 [Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)
 
 [Enquiries on SC 401](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
+
+[Enquriries on Customs Documentation](https://form.gov.sg/#!/5eb0c6175ef87a00115694cb)
 
 [Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)
 
