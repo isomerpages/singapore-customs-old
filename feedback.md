@@ -39,8 +39,8 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 [Enquriries on Customs Documentation](https://form.gov.sg/#!/5eb0c6175ef87a00115694cb)
 
+[Reporting of Customs Offences](https://form.gov.sg/5e995f095dad670011b20509)
+
 [Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)
 
 [Quality Service Manager](https://form.gov.sg/#!/5e6862571db1b70011098bf5)
-
-[Reporting of Customs Offences](https://form.gov.sg/5e995f095dad670011b20509)
