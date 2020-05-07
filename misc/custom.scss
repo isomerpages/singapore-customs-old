@@ -314,12 +314,6 @@ $desktop: 960px + (2 * $gap) !default;
     max-width: 100%;
   }
 
-// Dennis tweak to have ordered list of alphabets
-  ol.lower-alpha{
-    list-style-type: lower-alpha;
-  }
-// End of Dennis tweak to have ordered list of alphabets
-
 // Dennis tweak to use tbody instead of tr for table row
   table{
     tbody {
@@ -331,26 +325,18 @@ $desktop: 960px + (2 * $gap) !default;
       border: 0;
     }
   }
+
 // End of Dennis tweak to use tbody instead of tr for table row
 
-// Dennis tweak to have box-link
-  table.box-link{
-    border-collapse: separate;
-    border: 0;
-
-    tbody {
-      border: 0;
-      
-      td{
-        margin: 0.5em;
-        width: calc(100% / 4);
-        height: calc(100% / 4);
-        background-color: #041e41;
-        color: #ffffff;
+// Dennis tweak to display table cell as a column in mobile
+    @media screen and (max-width: 600px){
+        table.mobile-block{
+          td{
+            display: block;
+          }
+        }
       }
-    }
-  }
-// End of Dennis tweak to have box-link
+// Dennis tweak to display table cell as a column in mobile
 
 }
 
