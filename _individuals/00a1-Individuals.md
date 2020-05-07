@@ -5,6 +5,7 @@ permalink: /individuals
 
 # Individuals
 
+{:.mobile-block}
 |   |   |   |   |
 |---|---|---|---|
 | [![](/images/Individuals(1).jpg)](/individuals/going-through-customs/arrivals)  | [![](/images/Individuals(2).jpg)](/individuals/buying-over-the-internet/)  |  [![](/images/Individuals(3).jpg)](/individuals/gst-exemption-for-investment-precious-metals/) |  [![](/images/Individuals(4).jpg)](/individuals/moving-to-singapore/) |
