@@ -1,5 +1,5 @@
 ---
-title: Find my Harmonized System Code
+title: Find my Harmonised System Code
 permalink: /businesses/Harmonized-System-HS-Classification-of-Goods/Find-my-code
 third_nav_title: Harmonised System (HS) Classification of Goods
 ---
