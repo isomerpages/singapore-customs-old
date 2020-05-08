@@ -1,7 +1,7 @@
 ---
 title: Application for Customs Ruling on Classification of Goods
 permalink: /businesses/Harmonized-System-HS-Classification-of-Goods/Application-for-Customs-Ruling-on-Classification-of-Goods
-third_nav_title: Harmonized System (HS) Classification of Goods
+third_nav_title: Harmonised System (HS) Classification of Goods
 accordion:
   - title: Who can apply?
     content: <br> If you are an importer or a local manufacturer who wishes to seek advice on the HS classification of your goods, you may apply for a Customs Ruling on Classification of Goods. <br><br> Please note classification rulings are only applicable for use within Singapore. If your goods are imported into another country, please seek the advice of the relevant authority in the importing country. <br>
