@@ -1,7 +1,7 @@
 ---
 title: Health Science Authority (HSA)
 permalink: /about-us/national-single-window/overview/competent-authorities-requirements-for-controlled-items/HAS
-third_nav_title: Competent Authorites Requirements for Controlled Items
+third_nav_title: Competent Authorites Requirements
 ---
 
 
