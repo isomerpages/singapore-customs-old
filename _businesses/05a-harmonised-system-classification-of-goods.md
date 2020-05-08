@@ -1,7 +1,7 @@
 ---
 title: Understanding HS Classification
 permalink: /businesses/harmonised-system-classification-of-goods/Understanding-HS-Classification
-third_nav_title: Harmonized System (HS) Classification of Goods
+third_nav_title: Harmonised System (HS) Classification of Goods
 ---
 
 # Understanding HS Classification
@@ -10,12 +10,12 @@ The information in this section aims to provide some background of HS classifica
 
 ![HSC1.png](/images/HSC1.png)
 
-### What is the Harmonized System (HS)?
+### What is the Harmonised System (HS)?
 
-The Harmonized Commodity Description and Coding System, or simply the HS, is an international nomenclature (at 6-digit level) developed by the World Customs Organisation (WCO) for the classification of goods.
+The Harmonised Commodity Description and Coding System, or simply the HS, is an international nomenclature (at 6-digit level) developed by the World Customs Organisation (WCO) for the classification of goods.
 
     
-### Structure of the Harmonized System (HS)
+### Structure of the Harmonised System (HS)
    
 
 The HS comprises of 21 Sections covering 97 Chapters. It consists of:
@@ -36,14 +36,14 @@ The goods in the HS are arranged in order of their degree of manufacture. The sa
     
 In every case, the goods must first be classified in the appropriate 4-digit HS heading, followed by the appropriate 1-dash subheading, and the appropriate 2-dash subheading and so on. You should  **not**  proceed directly to the lower-level subheadings without first determining the appropriate heading.
     
-When classifying your products, one will need to apply the  [General Interpretative Rules (GIR)](/documents/businesses/generalrulesfortheinterpretation.pdf)  which provide a step-by-step basis for the classification of goods and to ensure uniform interpretation of the Harmonized System (HS) nomenclature.  _(Note: GIR must be applied in sequential order)._
+When classifying your products, one will need to apply the  [General Interpretative Rules (GIR)](/documents/businesses/generalrulesfortheinterpretation.pdf)  which provide a step-by-step basis for the classification of goods and to ensure uniform interpretation of the Harmonised System (HS) nomenclature.  _(Note: GIR must be applied in sequential order)._
     
 Click  [here](/documents/businesses/apply-gir.pdf)  for guiding questions on how to apply GIR.
 
     
-### ASEAN Harmonized Tariff Nomenclature (AHTN)
+### ASEAN Harmonised Tariff Nomenclature (AHTN)
     
-The ASEAN Harmonized Tariff Nomenclature (AHTN) is an 8-digit HS nomenclature used by all ASEAN member countries. The AHTN facilitates trade among ASEAN member countries through consistent and uniform interpretation in the classification of goods. It is based on the 6-digit Harmonized Commodity Description and Coding System Nomenclature developed by WCO.
+The ASEAN Harmonised Tariff Nomenclature (AHTN) is an 8-digit HS nomenclature used by all ASEAN member countries. The AHTN facilitates trade among ASEAN member countries through consistent and uniform interpretation in the classification of goods. It is based on the 6-digit Harmonised Commodity Description and Coding System Nomenclature developed by WCO.
 
 The last amendment to AHTN was done in 2017 where all 233 sets of 2017 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in  [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2018.](/documents/businesses/stcced-2018-apr-20.pdf)
     
