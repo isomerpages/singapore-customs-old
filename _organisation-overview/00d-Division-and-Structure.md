@@ -1,12 +1,12 @@
 ---
-title: Division and Structure
+title: Divisions and Structure
 permalink: /about-us/division-and-structure
 third_nav_title: Organisation Overview
 ---
 
 # Divisions and Branches
 
-The Roles of the Divisions of Singapore Customs are as follows:
+The roles of the divisions of Singapore Customs are as follows:
 
 ## Trade Division
 
@@ -38,14 +38,14 @@ The main roles of the Compliance Division include:
 -   Assessing and managing the risks of Singapore Customs' external business processes, including targeting of consignments and companies for checks
 -   Upholding Singapore's rules of origin obligations and trade enforcement requirements under the respective free trade agreements, and enforcing controls over strategic goods
 
-## Human Resource Directorate
+## Human Resource (HR) Directorate
 
 -   HR Services & Engagement Branch
 -   Manpower Planning & Deployment Branch
 -   Performance & Talent Management Branch
 -   Singapore Customs Academy
 
-The main roles of the Human Resource Directorate include:
+The main roles of the HR Directorate include:
 
 -   Attracting and retaining the best talent for Singapore Customs through the implementation of effective HR practices, and a leadership development and management system, to achieve organisational excellence
 -   Developing staff competency through competency-based specialised training and knowledge management, and implementing staff engagement programmes to raise productivity, engage staff and achieve desired work culture
