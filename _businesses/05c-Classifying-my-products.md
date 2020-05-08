@@ -8,7 +8,7 @@ third_nav_title: Harmonized System (HS) Classification of Goods
 
 ## Classifying your product - All you need to know
 
-The Harmonized System (HS) codes of goods is internationally harmonized at the 6-digit level  _(e.g.2203.00)_. In Singapore, the HS code of goods is harmonized across all ASEAN member countries at the 8-digit level  _(e.g. 2203.00.11)_.
+The Harmonised System (HS) codes of goods is internationally harmonized at the 6-digit level  _(e.g.2203.00)_. In Singapore, the HS code of goods is harmonised across all ASEAN member countries at the 8-digit level  _(e.g. 2203.00.11)_.
 
 ![HSC6.png](/images/HSC6.png)
 
