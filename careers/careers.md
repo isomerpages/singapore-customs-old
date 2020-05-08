@@ -15,7 +15,7 @@ Our work doesn’t stop there. We are also dedicated to enhancing national secur
 
 If you are looking for an exciting and rewarding career, we have career opportunities for you in Singapore Customs.
 
-[Senior Officer of Custioms](/senior_officer_poster.pdf)
+[Senior Officer of Customs](/senior_officer_poster.pdf)
 
 [Officer of Customs](/customs_officer_poster.pdf)
 
