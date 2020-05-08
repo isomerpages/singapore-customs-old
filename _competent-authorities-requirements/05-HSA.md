@@ -1,6 +1,6 @@
 ---
 title: Health Science Authority (HSA)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements-for-controlled-items/HAS
+permalink: /about-us/national-single-window/overview/competent-authorities-requirements/HAS
 third_nav_title: Competent Authorites Requirements
 ---
 
