@@ -1,5 +1,5 @@
 ---
-title: Gst Exemption For Investment Precious Metals
+title: GST Exemption For Investment Precious Metals
 permalink: /individuals/GST-exemption-for-investment-precious-metals/
 ---
 
