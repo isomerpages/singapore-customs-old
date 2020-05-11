@@ -4,13 +4,13 @@ permalink: /businesses/customs-schemes-licences-framework/bonded-truck-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-## Bonded Truck Scheme
+# Bonded Truck Scheme
 
-### What is it?
+## What is it?
 
 The Bonded Truck Scheme allows air express companies to handle time-sensitive transhipments from the land checkpoints to Changi Free Trade Zone for subsequent re-export or release into customs territory under a simplified Customs permit. Similarly, the scheme also facilitates transhipments from Changi Free Trade Zone to the land checkpoints.
 
-### How to Qualify?
+## How to Qualify?
 
 To qualify for the Bonded Truck Scheme, the company must:
 
@@ -20,7 +20,7 @@ To qualify for the Bonded Truck Scheme, the company must:
 -   Have premises located within Changi Free Trade Zone for the purpose of bulk-breaking, consolidation and sorting of goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the “Premium” Band
 
-### Key Responsibilities
+## Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
@@ -38,7 +38,7 @@ To qualify for the Bonded Truck Scheme, the company must:
     -   Ensure only registered and approved bonded vehicles by Singapore Customs are used
     -   Ensure the bonded vehicles’ compartments meet the specifications stipulated by Singapore Customs
 
-### How to Apply?
+## How to Apply?
 
 **Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
