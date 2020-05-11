@@ -9,7 +9,7 @@ accordion:
     content: <br>   ✖ Remove any GST suspended goods for export or local consumption without the proper permits. <br><br> ✖ Remove the Customs seal affixed to the container containing goods imported under the TIS without prior approval from Singapore Customs. You are required to apply for customs supervision of unstuffing of such sealed containers. <br><br> ✖ Sell goods brought in under an ATA Carnet beyond the final date allowed for re-exportation without paying the GST to Singapore Customs. <br><br>
 ---
 
-## Temporary Import Scheme 
+# Temporary Import Scheme 
 The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
 -   Temporarily import goods for approved purposes up to a **maximum of 6 months**, with suspension of Goods and Services Tax (GST) and duty (where applicable), or
@@ -40,7 +40,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
     
 -   [Additional Requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements-export)
 
-### Alternatives to the Temporary Import Scheme 
+## Alternatives to the Temporary Import Scheme 
 
 -   [Temporary Importation/Exportation of Hand-carried Non-commercial Goods](/businesses/importing-goods/temporary-import-scheme/hand-carried-nc-goods)
     
