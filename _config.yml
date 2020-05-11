@@ -10,13 +10,13 @@ colors:
     - title: media-color-one
       color: '#A2AAAD'
     - title: media-color-two
-      color: '#041D42'
+      color: '#20639B'
     - title: media-color-three
-      color: '#F0E113'
+      color: '#990000'
     - title: media-color-four
-      color: '#F6323E'
+      color: '#F5C936'
     - title: media-color-five
-      color: '#305072'
+      color: '#041D42'
 
 resources_name: news-and-media
 
