@@ -4,9 +4,9 @@ permalink: /businesses/customs-schemes-licences-framework/petroleum-licences
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-## Petroleum and Biodiesel Blends Licences
+# Petroleum and Biodiesel Blends Licences
 
-### What is it?
+## What is it?
 
 The Petroleum and Biodiesel Blends Licence allows approved companies to manufacture dutiable petroleum products and biodiesel blends. It also allows the storage of dutiable and non-dutiable petroleum products, and biodiesel blends in a designated area licensed by Singapore Customs, with the duty and/or Goods and Services Tax (GST) suspended. This designated area is termed as licensed premises.
 
@@ -24,7 +24,7 @@ For the storage of imported or refined dutiable petroleum products and biodiesel
 
 For the storage of imported or refined non-dutiable petroleum products and pure biodiesel with GST suspended
 
-### How to Qualify?
+## How to Qualify?
 
 To qualify for a Petroleum and Biodiesel Blends Licence, the company must:
 
@@ -36,7 +36,7 @@ To qualify for a Petroleum and Biodiesel Blends Licence, the company must:
 -   Be responsible for the security, accountability and control of the goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Enhanced” band
 
-### Licence Fee
+## Licence Fee
 
 An annual licence fee is payable when the Petroleum and Biodiesel Blends Licence is issued. The fee varies with the type of licence issued:
 
@@ -47,7 +47,7 @@ An annual licence fee is payable when the Petroleum and Biodiesel Blends Licence
 | Bonded Warehouse | To warehouse, mix, blend or vary non-dutiable petroleum products and pure biodiesel | S$30,000 |
 
 
-### Key Responsibilities
+## Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
@@ -67,7 +67,7 @@ An annual licence fee is payable when the Petroleum and Biodiesel Blends Licence
     -   Ensure adequate security measures in the licensed premises
     -   Obtain prior approval from Singapore Customs for any structural alteration to the licensed premises
 
-### How to Apply?
+## How to Apply?
 
 **Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
