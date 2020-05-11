@@ -17,19 +17,19 @@ A notice given to the Director-General is valid for the day the notice is given 
   
 The requestor has to institute an action for copyright or trademark infringement and notify the Director-General accordingly within 10 working days after the day specified in the notice of seizure by the Director-General. The time limit for initiating infringement action may be extended by a further 10 working days upon request by the requestor.
 
-**Ex-officio Seizure**  
+## Ex-officio Seizure
   
 Besides seizure on request, Singapore Customs may also seize copies or goods which are reasonably suspected to be copyright-infringing copies or counterfeit trademark goods that are imported into or to be exported from Singapore. Singapore Customs will inform the owner or exclusive licensee of the copyright or the proprietor or licensee of the registered trademark (“the right holder”) as soon as practicable after the seizure. If the right holder wants the Director-General to continue to detain the seized copies or goods in order to institute an infringement action, he must, within 48 hours after the date of the notice from the Director-General, give a written notice to the Director-General.  
   
 The right holder has to institute an action for copyright or trademark infringement and notify the Director-General accordingly within 10 working days after the day specified in the notice to take action by the Director-General. The time limit for initiating infringement action may be extended by a further 10 working days upon request by the right holder.  
   
-**Security Requirements**  
+## Security Requirements 
   
 The requestor or right holder is required to furnish a security that is sufficient (a) to reimburse the Government for any liability or reasonable expense it is likely to incur in relation to the seizure, storage and disposal of the copies or goods, and (b) to pay such compensation as ordered by the court for loss suffered by the defendant if the infringement action is not taken or is dismissed or discontinued, or if the court decides there was no infringement.  
   
 The security may be given to cover (a) the current shipment only, or (b) the current shipment and any future shipments to be seized by Singapore Customs (an "annual security"). An annual security can cover up to 5 outstanding shipments (i.e. shipments detained by Customs for which the civil proceedings have not been concluded). If at any time the Director-General of Customs is of the opinion that the security given is insufficient, the objector shall top up the security accordingly.
 
-**Procedure for Giving Notice**  
+## Procedure for Giving Notice 
   
  1\. Complete the notice using the following template.
 
@@ -75,6 +75,6 @@ Template of Documents:
   -   [Copyright (Border Enforcement Measures) Regulations](https://sso.agc.gov.sg/SL/CA1987-RG5?DocDate=20191112){:target="_blank"}
   -   [Copyright (Border Enforcement Measures Fees) Regulations](https://sso.agc.gov.sg/SL/CA1987-S744-2019?DocDate=20191112){:target="_blank"}
 
-### Contact Us
+## Contact Us
 
 For clarification, please email to  [customs_operations_management@customs.gov.sg](mailto:customs_operations_management@customs.gov.sg).
