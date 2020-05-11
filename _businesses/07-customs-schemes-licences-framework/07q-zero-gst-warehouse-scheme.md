@@ -4,9 +4,9 @@ permalink: /businesses/customs-schemes-licences-framework/zero-gst-warehouse-sch
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-## Zero-GST Warehouse Scheme
+# Zero-GST Warehouse Scheme
 
-### What is it?
+## What is it?
 
 The Zero-GST Warehouse Scheme (ZGS) allows approved companies to store  **imported non-dutiable**  goods for an indefinite period of time in a designated area licensed by Singapore Customs, with the Goods and Services Tax (GST) suspended. This designated area is termed as licensed premises.
 
@@ -14,7 +14,7 @@ GST is payable when these goods are removed from the zero-GST warehouse for loca
 
 You may refer to an  [overview of the procedures](/documents/businesses/overview2.doc)  for storing non-dutiable imports in zero-GST warehouses.
 
-### Types of Licences under ZGS
+## Types of Licences under ZGS
 
 There are 3 licence types to cater to the different needs of companies:
 
@@ -28,7 +28,7 @@ Type I and II licensees need to qualify for the “Standard” and “Intermedia
 
 A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the  [Zero-GST Warehouse Scheme Handbook](/documents/businesses/3iizgshandbook-june2014version.pdf)  (Chapter 2.10).
 
-### How to Qualify?
+## How to Qualify?
 
 To qualify for the Zero-GST Warehouse Scheme, the company must:
 
@@ -62,7 +62,7 @@ An annual licence fee is payable when the licence is issued. It is based on the 
 | S$5 million or more | S$4,000 |
 
 
-### Key Responsibilities
+## Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
@@ -86,14 +86,14 @@ An annual licence fee is payable when the licence is issued. It is based on the 
     -   Ensure all entrances and exits are secured when there is no movement of goods in the licensed premises
     -   Obtain prior approval from Singapore Customs for any structural alteration to the licensed premises
 
-### Customs Supervision
+## Customs Supervision
 
 For containers sealed with a red customs seal, the application to unstuff GST-unpaid goods at a zero-GST warehouse should be  [e-filed](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) to the Company Compliance Branch 1 working day before the intended unstuffing.
 
 Goods that are not fit for use may be destroyed under Customs’ supervision. [Fees for supervision of unstuffing, survey and destruction](https://sso.agc.gov.sg/SL/CA1960-S634-2012?DocDate=20131010) are applicable accordingly.
 
 
-### How to Apply?
+## How to Apply?
 
 **Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
