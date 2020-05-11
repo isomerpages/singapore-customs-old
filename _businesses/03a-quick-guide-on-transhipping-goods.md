@@ -8,7 +8,7 @@ third_nav_title: Transhipping Goods
 
 This page provides a quick guide on transhipment procedures for those who wish to tranship goods via Singapore.
 
-### What are the Transhipment Scenarios?
+## What are the Transhipment Scenarios?
 
 Transhipment goods refer to goods that are to be transhipped through Singapore from a place outside Singapore to a final destination vessel outside Singapore, as evidenced by its accompanying supporting documents/scenarios:
 
@@ -32,7 +32,7 @@ The transhipment of all goods is not subject to duty or Goods and Services Tax (
 
 The transhipment of all goods is not subject to duty or Goods and Services Tax (GST).
 
-### How to Tranship Goods?
+## How to Tranship Goods?
 
 As a Transhipment Agent, you are required to account for the movement of your goods while they are being transhipped through Singapore.
 
@@ -40,7 +40,7 @@ Please refer to the following steps to obtain the relevant transhipment permits 
 
 ***
 
-### Step 1 : Register for UEN and Activate Customs Account
+## Step 1 : Register for UEN and Activate Customs Account
 An entity that intends to engage in transhipment activities in Singapore; and apply for transhipment permits or certificates is required to:
 
 -   Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/)  or the relevant  [Unique Entity Number](http://www.uen.gov.sg/)  (UEN) Issuance Agency to obtain a UEN; and
@@ -53,7 +53,7 @@ Singapore Customs will provide an email reply to inform you of the outcome of th
 
 ***
 
-### Step 2 : Check If Your Goods are Controlled or Prohibited for Transhipment
+## Step 2 : Check If Your Goods are Controlled or Prohibited for Transhipment
 
 Do check if the goods you intend to tranship are strategic goods, controlled or prohibited goods subject to restrictions by Competent Authorities in Singapore.
     
@@ -63,7 +63,7 @@ Do check if the goods you intend to tranship are strategic goods, controlled or 
 
 ***
 
-### Step 3 : Furnish Security 
+## Step 3 : Furnish Security 
 
 For the transhipment of dutiable goods such as tobacco, liquor or motor vehicles covered by a Through Bill of Lading or Non-Through Bill of Lading or Airway Bill through Customs Territory, you are required to furnish security in the form of a Banker’s Guarantee/Finance Company Guarantee/Insurance Bond.
 
@@ -71,7 +71,7 @@ For information on security lodgement, please click  [here](/businesses/registra
 
 ***
 
-### Step 4 : Apply for  Customs Transhipment Permit
+## Step 4 : Apply for  Customs Transhipment Permit
 
 You allowed to apply for Customs Permits on behalf of your clients where a permit is  [required](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits). Please ensure that the permit declaration type and permit message are correct during your application process.
 
@@ -83,7 +83,7 @@ Each permit application typically costs S$2.88. While you may charge service fee
 
 ***
 
-### Step 5 : Prepare Document For Cargo Clearance 
+## Step 5 : Prepare Document For Cargo Clearance 
 
 Please present the goods with the printed copy of the customs permit, and supporting documents such as invoice, packing list, Bill of Lading or Air Waybill to the checkpoint officers at the entry and exit checkpoints for clearance.
 
@@ -102,7 +102,7 @@ Please note that partial clearance is not allowed for goods coming into Singapor
 
 ***
 
-### Step 6 : Retain your Trade Documents 
+## Step 6 : Retain your Trade Documents 
 
 Generally, you are required to retain all the relevant supporting documents relating to the goods for a period of at least 5 years from the date of the customs permit approval.
 
