@@ -4,9 +4,9 @@ permalink: /businesses/strategic-goods-control/sanctioned-lists-and-red-flags
 third_nav_title: Strategic Goods Control
 ---
 
-## Sanctioned Lists and Red Flags
+# Sanctioned Lists and Red Flags
 
-### United Nations Security Council (UNSC) Sanctions
+## United Nations Security Council (UNSC) Sanctions
 
 As a member of the United Nations, Singapore implements the  [Resolutions](http://www.un.org/en/sc/documents/resolutions/index.shtml)  passed by the United Nations Security Council (UNSC) through our domestic laws. These include arms embargoes and sanctions on missiles or nuclear related goods. Activities which contravene the decisions of the United Nations Security Council (UNSC) in their Resolutions are prohibited.
 
@@ -14,7 +14,7 @@ Please refer to the  **[United Nations Security Sanctions](/businesses/united-na
 
 You are also advised to look out for red flags to ensure your trading activities comply with Singapore’s domestic laws and the UNSC Resolutions. Please note Singapore does not enforce unilateral sanctions imposed by other countries.
 
-### Red Flags
+## Red Flags
 
 Every member in the trading community plays an important role in ensuring that their goods are not used for the proliferation of weapons of mass destruction.
 
@@ -22,32 +22,32 @@ It is important to know your customer and the end-use application of your produc
 
 Below is a checklist to help you identify potential warning signs to avoid engaging in illegal strategic goods or UNSC prohibited transactions.
 
-### **Things to Look Out For**
+## **Things to Look Out For**
 
 | **Customer** | **End-use/Product** |
 |--|--|
 | - You are approached by a customer whose identity is not clear. <br> - The customer has little or no business background. <br> - The customer is usually involved in military related business. <br> - The customer or his address is similar to one of the parties listed in the United Nations Security Council sanctioned entity list. <br> - The customer or purchasing agent is reluctant to offer information about the end-use of the goods. <br> - The customer requests shipment or labelling of goods that are inconsistent with usual shipping and labelling practices. <br> - The customer is unfamiliar with the product's performance characteristics but still wants the product. <br> - The customer declines routine installation, training, or maintenance services. | - Delivery dates are vague, or deliveries are planned for out of the way destinations. <br> - The product's capabilities do not fit the buyer's line of business (for example, an order for sophisticated computers for a small bakery). <br> - When questioned, the buyer is evasive and unclear about whether the product is for domestic use, export, or re-export. <br> - The ordered product is incompatible with the technical level of the country it is being shipped to (for example, semi-conductor manufacturing equipment shipped to a country that has no electronics industry). <br> - The shipping route is abnormal for the product and destination. <br> - The freight forwarding firm is listed as the product's final destination. <br> - Packaging is inconsistent with the stated method of shipment or destination. <br> - Equipment is to be installed in an area under strict security control (for example, an area in, or close to, military facilities, or an area where access is severely restricted), or in a suspicious or unusual location. |
 
 
-### What You Need To Know About Nuclear Materials
+## What You Need To Know About Nuclear Materials
 
 Nuclear materials are highly toxic and hazardous. Below is a list of things you should know before you trade or ship nuclear materials.
 
-### **Things to Look Out For**
+## **Things to Look Out For**
 
 |  |  |
 |--|--|
 | 1. Is a sample of the nuclear material available to the buyer for analysis? <br> 2.   What is the material’s form? For example, metal, powder, liquid or gas? <br> 3.  If contained in a compound or solution, what is the weight, concentration, or activity level of the nuclear materials? <br> 4.  What are the origin and history of the material? <br> 5.  What is the seller’s isotopic analysis of the material? <br> 6.  If the sale involves a manufactured unit containing special nuclear material, can the seller provide: <br>  -   Detailed weight, dimensions, or technical specifications <br> -   Detailed photograph <br> -   Dimensions and details of all markings on the shipping container (if there is one) <br> -   Details of all surface markings <br> -   Description of how and where the items were obtained | 1.   What are the dimensions and weight of the containers the material is packaged in? <br> 2. Does the container for the nuclear material meet certified national and international standards? <br> 3. What are the markings on the container? <br> 4.  How much nuclear material (for example, uranium, plutonium or thorium) is in each container? <br> 5. Is the technical data proprietary, commercially sensitive, or in the public domain? <br> 6. What are the radiation levels on the surface of each container? <br> 7. What kind of facility or factory is the item from? <br> 8. What safeguards are in place at the facility or factory? <br> 9.  How is the material removed from the facility or factory? <br> 10. Is the material removed by employees of the facility or factory? |
 
 
-### Unilateral Sanctioned Lists
+## Unilateral Sanctioned Lists
 
 In addition to  [United Nations Security Council (UNSC) sanctions](/businesses/united-nations-security-council-sanctions/), certain countries also impose unilateral sanctions.
 
 While Singapore does not enforce the laws of other countries, parties in Singapore may be affected by unilateral sanctions imposed by other countries as they may have extraterritorial implications.
 
 
-### **Below are some of these sanctions**
+## **Below are some of these sanctions**
 Note: The links below are meant to be a general guide and do not constitute a comprehensive listing.
 
 | Country | Lists |
