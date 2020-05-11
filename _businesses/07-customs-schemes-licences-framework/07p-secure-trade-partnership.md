@@ -4,9 +4,9 @@ permalink: /businesses/customs-schemes-licences-framework/secure-trade-partnersh
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-## Secure Trade Partnership (STP) & STP-Plus
+# Secure Trade Partnership (STP) & STP-Plus
 
-### What are these?
+## What are these?
 
 **Secure Trade Partnership (STP)**
 
@@ -22,7 +22,7 @@ A company with higher security measures in place will be eligible for STP-Plus. 
 
 An MRA is a formal document signed between 2 customs administrations where both national supply chain security programmes are recognised and accepted between the signing parties. An MRA with a partner means our security requirements and validation process of STP is consistent with the partner’s programme. Hence, the certified status of a STP-Plus company will also be recognised by the MRA partner.
 
-### Benefits
+## Benefits
 
 Companies with robust security measures will benefit from increased visibility of goods in the supply chain, reduction in pilferages and greater efficiency in their supply chain management.
 
@@ -34,7 +34,7 @@ In addition, STP-Plus certified companies will enjoy these benefits:
 -   A dedicated account manager assigned as a single contact point to Singapore Customs
 -   Recognised as a known consignor under the Regulated Air Cargo Agent Regime
 
-### MRA Partners
+## MRA Partners
 
 Singapore Customs has signed and operationalised MRAs with:
 
@@ -55,12 +55,12 @@ Singapore Customs continues to engage like-minded customs administrations to exp
 
 Please refer to the  [Factsheet on Mutual Recognition](/documents/businesses/factsheet-on-mutual-recognition-oct-2019.pdf)  for more details on the procedures to enjoy the benefits under the MRAs.
 
-### STP and STP-Plus Certified Companies
+## STP and STP-Plus Certified Companies
 
 -   [STP certified companies](/documents/businesses/stp-companies-060320-latest.pdf)
 -   [STP-Plus certified companies](/documents/businesses/stpplus-companies-as-of-061119.pdf)
 
-### How to Qualify?
+## How to Qualify?
 
 To qualify for the STP, the company must:
 
@@ -70,7 +70,7 @@ To qualify for the STP, the company must:
 
 Click  [here](/documents/businesses/stp-handbook-may-2019.pdf) for the Handbook on Secure Trade Partnership
 
-### How to Apply?
+## How to Apply?
 
 **Step 1**: Complete the Application Form for STP at this link:  [www.go.gov.sg/stp-application](http://www.go.gov.sg/stp-application).
 
@@ -85,7 +85,7 @@ Click  [here](/documents/businesses/stp-handbook-may-2019.pdf) for the Handbook 
 
 **Step 4**: Submit the checklist and supporting documents to Singapore Customs via your account Manager or email: [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg)
 
-### Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 **1)** **What are the requirements to obtain STP or STP-Plus certification?**
 
