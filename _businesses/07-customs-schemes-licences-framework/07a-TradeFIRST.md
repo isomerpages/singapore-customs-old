@@ -4,7 +4,7 @@ permalink: /businesses/customs-schemes-licences-framework/trade-first
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-## What is it?
+# What is it?
 
 TradeFIRST stands for Trade Facilitation & Integrated Risk-based System. It is an integrated assessment framework that provides a holistic assessment of a company and determines the level of facilitation accorded.
 
@@ -12,7 +12,7 @@ The assessment is free and it is mandatory for all companies who wish to apply f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y0kFDuH6COA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Benefits of TradeFIRST
+## Benefits of TradeFIRST
 
 **Greater Convenience**
 
@@ -75,7 +75,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     
     [Terms and Conditions](/documents/businesses/as-part-of-the-benefits-for-having-attained-the-premium-band-under-TradeFIRST.docx)  for the use of TradeFIRST Logo
     
-### TradeFIRST Assessment
+## TradeFIRST Assessment
 
 There are 6 sections under the TradeFIRST assessment framework:
 
@@ -121,7 +121,7 @@ The TradeFIRST assessment process is shown in the following table:
 | **Step 4** | On-site assessment will be conducted. |
 | **Step 5** | After the assessment, the account manager submits the evaluation and recommendation for approval.<br><br>The account manager will inform the company on its application outcome, the  [band](/businesses/customs-schemes-licences-framework/trade-first) it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement. | 
 
-### Renewal
+## Renewal
 
 For any Customs scheme applied successfully, your company will be subject to reviews and renewals, depending on the band accorded:
 
@@ -138,7 +138,7 @@ Reviews may also be conducted at shorter intervals under special circumstances, 
 
 If you require further assistance on TradeFIRST, please call 6251 3027 or email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
-### Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 This section guides companies who wish to perform a TradeFIRST self-assessment under specific business operations mentioned below.
 
