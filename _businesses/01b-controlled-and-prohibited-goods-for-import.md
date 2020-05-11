@@ -4,13 +4,13 @@ permalink: /businesses/importing-goods/controlled-and-prohibited-goods-for-impor
 third_nav_title: Importing Goods
 ---
 
-## Controlled & Prohibited Goods for Import
+# Controlled & Prohibited Goods for Import
 
 Controlled goods require proper authorisation (advance notification, licence or certificate approval) from  **Competent Authorities (CA)**  before they may be imported into Singapore. You are advised to check if the goods are controlled using the description of the goods, Harmonized System (HS) code or CA product code  [here](/businesses/business-resources/country-and-port-codes). If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
 
 Please refer to the table below for the list of prohibited goods that you are not allowed to bring to Singapore.
 
-### List of Prohibited Goods for Imports
+## List of Prohibited Goods for Imports
 
 
 |Prohibited Goods |  Competent Authority|
