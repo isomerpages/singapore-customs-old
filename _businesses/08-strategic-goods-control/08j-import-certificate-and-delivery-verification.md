@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-v
 third_nav_title: Strategic Goods Control
 ---
 
-## Import Certificate and Delivery Verification
+# Import Certificate and Delivery Verification
 
 The  **Import Certificate and Delivery Verification (ICDV)**  complement the export control regime of the foreign exporting country.
 
