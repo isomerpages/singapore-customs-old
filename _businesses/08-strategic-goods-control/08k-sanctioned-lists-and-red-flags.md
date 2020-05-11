@@ -22,7 +22,7 @@ It is important to know your customer and the end-use application of your produc
 
 Below is a checklist to help you identify potential warning signs to avoid engaging in illegal strategic goods or UNSC prohibited transactions.
 
-## **Things to Look Out For**
+**Things to Look Out For**
 
 | **Customer** | **End-use/Product** |
 |--|--|
@@ -33,7 +33,7 @@ Below is a checklist to help you identify potential warning signs to avoid engag
 
 Nuclear materials are highly toxic and hazardous. Below is a list of things you should know before you trade or ship nuclear materials.
 
-## **Things to Look Out For**
+**Things to Look Out For**
 
 |  |  |
 |--|--|
@@ -46,8 +46,7 @@ In addition to  [United Nations Security Council (UNSC) sanctions](/businesses/u
 
 While Singapore does not enforce the laws of other countries, parties in Singapore may be affected by unilateral sanctions imposed by other countries as they may have extraterritorial implications.
 
-
-## **Below are some of these sanctions**
+**Below are some of these sanctions**
 Note: The links below are meant to be a general guide and do not constitute a comprehensive listing.
 
 | Country | Lists |
