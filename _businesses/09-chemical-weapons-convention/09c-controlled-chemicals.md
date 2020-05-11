@@ -9,14 +9,14 @@ accordion:
     content: <br> Please refer to the [list of scheduled chemicals](/documents/businesses/GuidetoNACWCLicencewithSchChemList.pdf) to check if your product is controlled by the NA(CWC). <br><br> You may also check using the description of the goods, Harmonized System (HS) code or Competent Authority (CA) product code on this [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If the HS code is subject to control, the name of the CA and the chemical(s) that the CA controls will be indicated. You may check directly with the respective CAs on their licensing requirements. <br><br> If you require further assistance to determine if your product is controlled, please fill out the Product Enquiry Form from the link on the [NA(CWC) website](/eservices/customs-forms-and-service-links), and attach the relevant supporting documents (such as Safety Data Sheet and Certificate of Analysis). <br><br> The following information are required when filling out the form <br><br> -   Particulars of applicant <br> -   Activities involved <br> -   HS codes of product <br> -   Safety Data Sheet/Certificate of Analysis of product <br> -   Intended use of product <br><br> For submission of multiple files, please zip the documents and submit as a single file in the appropriate form. For files that are larger than 7MB, you may submit your supporting documents via <br><br> 1.   Email - [customs_nacwc@customs.gov.sg](mailto:customs_nacwc@customs.gov.sg2) <br> 2.   Mail - <br> Singapore Customs <br> National Authority (Chemical Weapons Convention) <br> 55 Newton Road #06-02 <br> Revenue House <br> Singapore 307987
 ---
 
-## Controlled Chemicals
+# Controlled Chemicals
 
 The Chemical Weapons Convention lists 3 schedules of toxic chemicals, their precursors and an additional category of chemicals known as unscheduled discrete organic chemicals (DOCs).
 
 The schedules are organised to reflect the risk posed by the chemical to the objectives of the Convention, with decreasing risk across the schedules. Although DOCs are not directly related to making chemical agents, the facilities built for their production (with quantity exceeding threshold limits) can potentially be converted to chemical weapons production facilities.
 
 
-### Schedule Chemicals
+## Schedule Chemicals
 
 | Schedule | Description | Examples | Possible products categories |
 |--|--|--|--|
