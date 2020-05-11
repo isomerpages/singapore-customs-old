@@ -10,12 +10,12 @@ The information in this section aims to provide some background of HS classifica
 
 ![HSC1.png](/images/HSC1.png)
 
-### What is the Harmonised System (HS)?
+## What is the Harmonised System (HS)?
 
 The Harmonised Commodity Description and Coding System, or simply the HS, is an international nomenclature (at 6-digit level) developed by the World Customs Organisation (WCO) for the classification of goods.
 
     
-### Structure of the Harmonised System (HS)
+## Structure of the Harmonised System (HS)
    
 
 The HS comprises of 21 Sections covering 97 Chapters. It consists of:
@@ -31,7 +31,7 @@ The goods in the HS are arranged in order of their degree of manufacture. The sa
 ![HSC3.jpg](/images/HSC3.jpg)
 
 
-### Process of Classification
+## Process of Classification
   ![HSC4.jpg](/images/HSC4.jpg)
     
 In every case, the goods must first be classified in the appropriate 4-digit HS heading, followed by the appropriate 1-dash subheading, and the appropriate 2-dash subheading and so on. You should  **not**  proceed directly to the lower-level subheadings without first determining the appropriate heading.
@@ -41,7 +41,7 @@ When classifying your products, one will need to apply the  [General Interpretat
 Click  [here](/documents/businesses/apply-gir.pdf)  for guiding questions on how to apply GIR.
 
     
-### ASEAN Harmonised Tariff Nomenclature (AHTN)
+## ASEAN Harmonised Tariff Nomenclature (AHTN)
     
 The ASEAN Harmonised Tariff Nomenclature (AHTN) is an 8-digit HS nomenclature used by all ASEAN member countries. The AHTN facilitates trade among ASEAN member countries through consistent and uniform interpretation in the classification of goods. It is based on the 6-digit Harmonised Commodity Description and Coding System Nomenclature developed by WCO.
 
@@ -49,7 +49,7 @@ The last amendment to AHTN was done in 2017 where all 233 sets of 2017 amendment
     
 Further to the awareness briefing on AHTN 2017 held on 21 May 2018, you may view the slides [here](/documents/businesses/AHTN-2017-21-May-HSC.pdf) for highlights on the key amendments.
 
-### Course and Self-Learning Resources
+## Course and Self-Learning Resources
 
 **SC102 - Classification and the Harmonised System Course**
 
