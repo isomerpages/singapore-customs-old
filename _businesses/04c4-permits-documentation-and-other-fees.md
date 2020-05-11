@@ -4,11 +4,11 @@ permalink: /businesses/valuation-duties-taxes-fees/permits-documentation-and-oth
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
 
-## Permits, Documentation and Other Fees
+# Permits, Documentation and Other Fees
 
 The fees below apply to traders who submit their own permit applications. It does not include  [service fees charged by service providers such as freight forwarders](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service).
 
-### Processing through TradeNet
+## Processing through TradeNet
 
 Each TradeNet permit application typically costs about S$2.88, which includes:
 
@@ -25,7 +25,7 @@ Each Certificate of Origin application together with a Customs export permit app
     -   S$4 for statutory fees, and
     -   S$1.80 for processing charges
 
-### Manual Processing
+## Manual Processing
 
 The following fees are payable according to the Regulation of Imports and Exports (prescribed fees) regulations:
 
@@ -38,7 +38,7 @@ The following fees are payable according to the Regulation of Imports and Export
 | Kimberley Process Licence (per year or part thereof)                     | S$50                 |
 | Kimberley Process Certificate                                            |  S$5                 |
 
-### Customs’ Miscellaneous Fees and Rates
+## Customs’ Miscellaneous Fees and Rates
 
 The following fees are payable according to the (Miscellaneous Fees and Rates) Regulations:
 
