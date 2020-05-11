@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control/resources
 third_nav_title: Strategic Goods Control
 ---
 
-## Resources
+# Resources
 
 **[Strategic Trade Scheme Handbook](/documents/businesses/strategic-trade-scheme-handbook-updated-1-oct-2019.pdf)**
 
