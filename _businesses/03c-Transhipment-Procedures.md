@@ -15,7 +15,7 @@ The transhipment and transit of goods through Singapore are regulated under the 
 
 The transhipment of all goods is not subject to duty or Goods and Services Tax (GST).
 
-**Transhipment Requirements**
+## Transhipment Requirements
 
 A Transhipment Agent is required to obtain a Customs transhipment permit (where applicable) before the transhipment of goods. The Transhipment Agent is the party who arranges for the transhipment of goods through Singapore and can include a freight forwarder, Non-Vessel Owning Common Carrier (NVOCC) or shipping agent.
 
@@ -37,7 +37,7 @@ For more information on the types of Customs permits and situations where no cus
     
 -   [Documentation for Clearance of Goods](/businesses/transhipping-goods/transhipment-procedures/documentation-for-clearance-of-goods)
 
-### Errors and Offences
+## Errors and Offences
 
 Traders may be penalised if they do not comply with the Customs requirements imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), the Strategic Goods (Control) Act (SGCA) and their subsidiary legislation.
 
@@ -78,13 +78,13 @@ For more information on permit requirements for transhipment or transit of strat
 You may refer to more information on the offences and penalties under the Customs Act, RIEA and SGCA  [here](/about-us/acts-and-subsidiary-legislation/customs-act).
     
 
-### Best Practices
+## Best Practices
 
 You are accountable as a Transhipment Agent and Declaring Agent for the transhipment and inter-gateway movement of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
 {% include accordion.html %}
    
-### For more information on: 
+## For more information on: 
  
 |  |  |  |  | 
 |--|--|--| -- | 
