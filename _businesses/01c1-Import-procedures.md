@@ -127,7 +127,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 
 {% include accordion.html %}
 
-**For more information on:**
+## For more information on:
 
 |  |  |  |  |
 |--|--|--|--|
