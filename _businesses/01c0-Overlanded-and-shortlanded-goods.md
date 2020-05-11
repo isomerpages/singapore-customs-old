@@ -5,7 +5,7 @@ third_nav_title: Importing Goods
 ---
 
 
-## Overlanded and Shortlanded goods
+# Overlanded and Shortlanded goods
 
 Overlanded goods refer to goods which are in excess of the quantity stated in the inward manifest, whether imported by  **air**,  **sea**  or  **rail**. You are required to pay the duty and/or Goods and Services Tax (GST) on the excess quantity.
 
@@ -15,7 +15,7 @@ Un-manifested goods refer to actual goods that are shipped but not listed in the
 
 The master, owner or agent of the vessel or aircraft or the station-master must account for un-manifested, shortlanded or overlanded goods to Singapore Customs. See  [here](/businesses/importing-goods/import-procedures/) for more information on the accounting procedures.
 
-### Permit Requirements
+## Permit Requirements
 
 For overlanded goods, you must declare a Customs short payment permit to account for the duty and/or GST short-paid. This applies for the direct import of dutiable goods, non-dutiable goods, or both.
 
