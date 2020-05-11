@@ -19,7 +19,7 @@ However, some imports can:
 -   Be exempted from duties refer to  [Customs (Duties Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5#pr2-) and Section 2(1A) of  [Customs (Duties) Order](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)[)](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)
 -   Be  [exempted from GST](https://sso.agc.gov.sg/SL/GSTA1993-OR3)
 
-### Transaction Value Method
+## Transaction Value Method
 
 The transaction value method is first considered in establishing the customs value, which is the *Cost, Insurance, and Freight (CIF) value*^ under International Commercial Terms (incoterms).
 
@@ -57,7 +57,7 @@ The customs value should be the sum of all the costs, which is S$450. All costs 
 
 {% include accordion.html %}
 
-### Conditions for Transaction Value Method
+## Conditions for Transaction Value Method
 
 Using the transaction value method by Singapore Customs is subject to these conditions:
 
@@ -69,7 +69,7 @@ Using the transaction value method by Singapore Customs is subject to these cond
     -   Price of semi-finished goods is established by the seller on condition that the buyer will give the seller a specified quantity of the finished goods
 -   It must be shown that the transaction value has not been affected by any relationship between the importer and supplier
 
-### Other Valuation Methods
+## Other Valuation Methods
 
 If the transaction value method cannot be used, the following alternatives will be used to determine the customs value:
 
@@ -78,7 +78,7 @@ If the transaction value method cannot be used, the following alternatives will 
 -   Computed value - the value based on cost of production, general expenses and profits in the country of origin of the imported goods
 -   Residual valuation - the value determined by Singapore Customs, based on flexible interpretation of all the previous methods
 
-### **No Insurance Purchased**
+## **No Insurance Purchased**
 Traders can set the insurance to zero value if no insurance charges were incurred when importing the goods.
 
 **For more infotmation on:**
