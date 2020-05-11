@@ -39,4 +39,4 @@ A  **[brokering registration](/businesses/strategic-goods-control/permit-and-reg
 |  |  |  |  |
 |--|--|--|--|
 | [![](/images/prp1.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit) | [![](/images/prp2.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology) | [![](/images/prp3.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt) |  [![](/images/prp4.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering) |  |
-| | [![](/images/prp5.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction) |  |
+| [![](/images/prp5.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction) |  |
