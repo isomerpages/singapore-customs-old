@@ -9,9 +9,9 @@ accordion:
     content: <br> ✖ Remove any duty-unpaid goods from the licensed premises without proper permits. <br><br> ✖ Break the Customs red seal and unstuff a container sealed with the Customs red seal without any Customs approval. <br><br> ✖ Store other types of goods (non-dutiable goods) in the licensed premises meant for duty-unpaid goods. (Except for LW Type III licensees) <br><br> ✖ Allow any unauthorised personnel to enter the licensed premises meant for duty unpaid goods. <br>  
 ---
 
-## Licensed Warehouse Scheme
+# Licensed Warehouse Scheme
 
-### What is it?
+## What is it?
 
 The Licensed Warehouse (LW) Scheme allows approved companies to store imported dutiable goods, namely liquor, tobacco, motor vehicles,  [petroleum and biodiesel blends](/businesses/customs-schemes-licences-framework/petroleum-licences), for an indefinite period of time in a designated area licensed by Singapore Customs, with the duty and Goods and Services Tax (GST) suspended. This designated area is termed as licensed premises.
 
@@ -19,7 +19,7 @@ Duty and GST will be payable when these goods are removed from the licensed ware
 
 You may refer to an  [overview of the procedures](/documents/businesses/overview1.doc)  for storing dutiable imports in licensed warehouses.
 
-### Types of Licences under the LW Scheme
+## Types of Licences under the LW Scheme
 
 There are 3 licence types to cater to the different needs of companies:
 
@@ -33,7 +33,7 @@ Type I and II licensees need to qualify for the “Standard” and “Intermedia
 
 A summary of the benefits for the 3 LW licence types can be found in the  [Licensed Warehouse Scheme Handbook](/documents/businesses/lwhandbook-may2017version.pdf)  (Chapter 2.8).
 
-### How to Qualify?
+## How to Qualify?
 
 To qualify for the Licensed Warehouse Scheme, the company must:
 
@@ -45,7 +45,7 @@ To qualify for the Licensed Warehouse Scheme, the company must:
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the respective licence types under the LW Scheme
 
-### Licence Fee
+## Licence Fee
 
 An annual licence fee is payable upon issuance of the licence. It is based on the projected potential duty*  or the average past monthly duty**  of the dutiable goods stored in the licensed premises:
 
@@ -60,7 +60,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 
 **Average past monthly duty refers to the average of the total customs and excise duties of all goods stored in the intended licensed premises on the 1st of each month during the period of 12 months (or, if the premises has been used to store goods for a shorter period, that shorter period) before the date of the application.
 
-### Key Responsibilities
+## Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
@@ -81,7 +81,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
     -   Ensure all entrances and exits are secured when there is no movement of goods in the licensed premises
     -   Obtain prior approval from Singapore Customs for any structural alteration to the licensed premises
 
-### Customs Supervision
+## Customs Supervision
 
 For containers sealed with a red customs seal, the application to unstuff dutiable goods at a licensed warehouse should be  [e-filed](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)  to the Company Compliance Branch one working day before the unstuffing.
 
@@ -89,7 +89,7 @@ Goods that are not fit for human consumption may be destroyed under Customs’ s
 
 [Fees for supervision of unstuffing, survey and destruction](https://sso.agc.gov.sg/SL/CA1960-S634-2012?DocDate=20131010)  are applicable accordingly.
 
-### How to Apply?
+## How to Apply?
 
 **Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
@@ -115,7 +115,7 @@ Traders may be penalised if they do not comply with Customs requirements or cond
 
 For minor offences under the Customs Act, Singapore Customs may offer to compound the offences for a sum not exceeding S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature.
 
-### Common Offences Include
+**Common Offences Include**
 
 -   Failure to comply with conditions imposed on removal of goods from customs control
     
