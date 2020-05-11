@@ -4,11 +4,11 @@ permalink: /businesses/chemical-weapons-convention/licensing-requirements
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 
-## Licensing Requirements
+# Licensing Requirements
 
 A Chemical Weapons Convention (CWC) licence is required  **before the start** of the following activities for scheduled chemicals and unscheduled discrete organic chemicals.
 
-### Scheduled Chemicals
+## Scheduled Chemicals
 
 **Activities Requiring a CWC Licence**
 
@@ -36,7 +36,7 @@ See  [full list](/documents/businesses/GuidetoNACWCLicencewithSchChemList.pdf)  
 Check if your product is  [controlled](/businesses/chemical-weapons-convention/controlled-chemicals).
 
 
-### Unscheduled Discrete Organic Chemicals (DOCs)
+## Unscheduled Discrete Organic Chemicals (DOCs)
 
 A CWC licence is required for the production of DOCs that meets either one or both of the following conditions:
 
@@ -48,7 +48,7 @@ A CWC licence is required for the production of DOCs that meets either one or bo
 **Note**:  
 [Plant sites](/businesses/chemical-weapons-convention/glossary) that **exclusively** produce hydrocarbons or explosives by synthesis do not require a CWC licence.
 
-**For more information:** 
+## For more information on:
 
 |   |   |   |   |
 |---|---|---|---|
