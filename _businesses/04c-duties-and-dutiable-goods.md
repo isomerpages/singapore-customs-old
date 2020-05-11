@@ -23,18 +23,17 @@ Please refer to the  [list of dutiable goods](/businesses/valuation-duties-taxes
 
 Examples on the calculation of duties payable:
 
-**1. Intoxicating liquors**
+## 1. Intoxicating liquors
 
 a) For alcoholic products with duty rates based on per litre of alcohol  
 
 *Duties payable = Total quantity in litres x Customs and/or excise duty rate x Percentage of alcoholic strength*
 
-Company A imports 75 litres of stout with alcoholic strength of 5%. Assuming the customs and excise duties for stout is S$16 and S$60 per litre of alcohol respectively:
+Company A imports 75 litres of stout with alcoholic strength of 5%. Assuming the customs and excise duties for stout is S$16 and S$60   per litre of alcohol respectively:
 
 As both customs and excise duties are levied on the import of stout,
 
 the duties payable = 75 x (S$16 + 60) x 5% = S$285
-
   
 b) For alcoholic products with duty rates based on dutiable content (weight/volume)
 
@@ -44,21 +43,15 @@ If 1 kilogramme of alcoholic composite concentrates contains 0.2 kilogramme of p
 
 the duties payable** = 0.2kg x S$113 = S$22.60
 
+## 2. Tobacco products
   
-
-**2. Tobacco products**  
-  
-
 a) All tobacco products except cigarettes
 
 *Duties payable = Total weight (in kilogrammes) x Excise duty rate*
 
-  
 Company A imports 100 kilogrammes (kgm) of tobacco stems. Assuming the excise duty for tobacco stems is S$388 per kilogramme:
 
 Duties payable = 100 x S$388 = S$38,800
-
-  
 
 b) Cigarettes
 
@@ -70,11 +63,9 @@ Since the weight of each cigarette is between 1 and 2 grammes, the weight to be 
 
 Hence, duties payable = 100 x 2 x S$0.427 = S$85.40  
   
-
-**3. Motor vehicles**
+## 3. Motor vehicles
 
 *Duties payable = Customs value x Excise duty rate*
-
   
 Company A imports a motor car that was bought at S$100,000 on [Free on Board (FOB) incoterms](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance). The overseas freight, handling and insurance charges to ship the car to Singapore cost S$1,000. Assuming the excise duty for motor cars is 20% of the customs value:
 
@@ -82,18 +73,15 @@ Customs value of car = S$101,000
 
 Duties payable = S$101,000 x 20% = S$20,200  
   
-
-**4. Petroleum and biodiesel blends**  
+## 4. Petroleum and biodiesel blends 
 
 a)  Petroleum products
 
 *Duties payable = Total volume x Excise duty rate*
 
-  
 Company A imports 100 litres of unleaded motor spirit of RON 97 and above. Assuming the excise duty for unleaded motor spirit of RON 97 and above is S$6.40 per dal (1 dal = 10 litres):
 
 Duties payable = S$6.40 x 10 = S$64  
-  
   
 b) Compressed natural gas (Cng)
 
@@ -103,12 +91,10 @@ Company A imports 50 kilogrammes of compressed natural gas. Assuming the excise 
 
 Duties payable = S$0.20 x 50 = S$10  
   
-  
 c) Biodiesel blend
 
 *Duties payable = Volume of diesel x Excise duty rate*
 
-  
 Company A imports 1,000 litres of biodiesel blend, comprising 100 litres of diesel. Assuming the excise duty for diesel is S$2.00 per dal (1 dal = 10 litres):
 
 Duties payable = S$2 x 10 = S$20
