@@ -22,7 +22,7 @@ To export goods from Singapore, you are required to declare the goods to Singapo
 To account for the export of your goods (for example, from customs territory, zero-GST warehouse, licensed warehouse or goods imported under the Major Exporter Scheme to a free trade zone (FTZ) or exit checkpoint), please follow the steps below to obtain the relevant export permits and authorisation (if the goods are subject to control) from the relevant CAs.
 
 
-### Step 1 : Register for UEN and Activate Customs Account
+## Step 1 : Register for UEN and Activate Customs Account
 
 Entity can register with the [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/) or the relevant  [Unique Entity Number](http://www.uen.gov.sg/)  (UEN) issuance agency to obtain a UEN and
 [Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
@@ -31,14 +31,14 @@ If entity intends to:
 -   Engage in import or export activities in Singapore, or
 -   Apply for import, export and transhipment permits or certificates
 
-### Step 2: Check if your goods are controlled
+## Step 2: Check if your goods are controlled
 Do check if the goods you intend to export are controlled goods subject to restrictions by Competent Authorities (CAs) in Singapore.
 
 You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)  using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
 
 If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)  of the product, you may apply for an  [official classification ruling](/documents/businesses/application-for-classification.doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
-### Step 3:  Apply for Customs Export Permit
+## Step 3:  Apply for Customs Export Permit
 You may:
 
 -   Appoint a  [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
@@ -51,7 +51,7 @@ All permit applications must be submitted electronically via TradeNet, which is 
 
 Each permit application typically costs S$2.88. If you are engaging a declaring agent, you may wish to check with your appointed agent on the charges involved in obtaining a permit.
 
-### Step 4: Prepare Documents for Cargo Clearance 
+## Step 4: Prepare Documents for Cargo Clearance 
 Approved permits are issued with a validity period. You should ensure the validity of the permit presented for goods clearance.
 
 **a) Documents Required for Containerised Cargo**
@@ -94,7 +94,7 @@ A Customs export permit is required for:
 
 Please note that partial clearance is not allowed for goods departing Singapore via Woodlands and Tuas checkpoints. You should submit one permit application for each container or vehicle of cargo.
 
-### Step 5: Retain your Trade Documents
+## Step 5: Retain your Trade Documents
 
 Generally, you are required to retain the relevant supporting documents relating to the purchase, import, sale or export of the goods for a period of 5 years from the date of approval of the Customs permit.
 
