@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control/strategic-goods-control-list
 third_nav_title: Strategic Goods Control
 ---
 
-## Strategic Goods Control List
+# Strategic Goods Control List
 
 Goods and technology that meet the technical specifications described in the Strategic Goods Control List are subject to controls under the Strategic Goods (Control) Act (SGCA).
 
@@ -17,6 +17,6 @@ The Schedule consists of two parts, each split into two divisions and further su
 
 The  [List of Military Goods](/businesses/strategic-goods-control/strategic-goods-control-list/list-of-military-goods) and the  [List of Dual-Use Goods](/businesses/strategic-goods-control/strategic-goods-control-list/list-of-dual-use-goods) are found in Division 2 of Parts 1 and 2 of The Schedule to the Strategic Goods (Control) Order respectively.
 
-**For more information:** 
+## For more information on:
 
 [![](/images/strategic-goods.jpg)](/businesses/strategic-goods-control/strategic-goods-control-list-2/determination-of-strategic-goods)
