@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/guide-t
 third_nav_title: Guide to Importing Dutiable Motor Vehicles
 ---
 
-## For Individuals or Parallel Importers
+# For Individuals or Parallel Importers
 
 Once the vehicle has been purchased and shipped to Singapore, the importer may apply for an assessment of the vehicle’s customs value. An application has to be submitted for every imported unit of vehicle.
 
