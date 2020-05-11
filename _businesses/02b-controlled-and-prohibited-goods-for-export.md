@@ -8,7 +8,7 @@ third_nav_title: Exporting Goods
 
 Controlled goods require proper authorisation (advance notification, licence or certificate approval) from  **Competent Authorities**  (CA) before they may be exported from Singapore. You are advised to to check if your goods are controlled using the description of the product, Harmonized System (HS) code or CA product code  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If the item is subject to control you may check directly with the respective  [CAs](/documents/about-us/annex-e-ca-helpdesk-list.pdf) on their requirements.
 
-### List of Prohibited Goods of Export
+## List of Prohibited Goods of Export
 
 |Items  |Competent Authority  |
 |-------|---------------------|
