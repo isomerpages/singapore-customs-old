@@ -17,7 +17,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 -   Temporarily export GST and/or duty-paid goods for approved purposes and **re-import the same goods** without GST and duty (where applicable)
     
 
-### Temporary Import 
+## Temporary Import 
 
 -   [Qualifying Goods and Purposes](/businesses/importing-goods/temporary-import-scheme/qualifying-goods-and-purposes)
     
@@ -30,7 +30,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 -   [Additional Requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements-import)
     
 
-### Temporary Export  
+## Temporary Export  
 
 -   [Qualifying Goods and Purposes](/businesses/importing-goods/temporary-import-scheme/qualifying-gooods-purposes-export)
     
@@ -46,7 +46,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
     
 -   [ATA Carnet](/businesses/importing-goods/temporary-import-scheme/ata-carnet)
 
-### Errors and Offences
+## Errors and Offences
 
 Traders may be penalised under the Customs Act if they do not comply with the requirements of the Temporary Import Scheme.
 
@@ -76,13 +76,13 @@ For minor offences under the Customs Act, Singapore Customs may compound the off
 
 More information on the offences and penalties under the Customs Act [here](/individuals/going-through-customs/offences).
 
-### Best Practices
+## Best Practices
 
 You are accountable as a trader or Declaring Agent for the goods imported under the TIS. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
 {% include accordion.html %}
  
-### For more information on: 
+## For more information on: 
  
   [![](/images/awe.jpg)](/businesses/importing-goods/temporary-import-scheme-2/approved-wine-event)
 
