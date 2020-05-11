@@ -12,15 +12,15 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 # For Individuals
  
-[Checkpoint Matters](https://form.gov.sg/5e9952b7d273ec0011deaeda)
+[Checkpoint Matters](https://go.gov.sg/checkpointmatters)
 
-[Tourist Refund](https://form.gov.sg/5e995867c8958100111be89f)
+[Tourist Refund](https://go.gov.sg/touristrefund)
 
 # For Traders
 
 [Certificate of Origin](https://form.gov.sg/5e7025bbbce24a0011937cbd) 
 
-[Harmonized System / Classification of Goods](https://form.gov.sg/5e6713af65cca600110d2d43)
+[Harmonised System / Classification of Goods](https://form.gov.sg/5e6713af65cca600110d2d43)
 
 [Refunds](https://form.gov.sg/5e732a0b5e7c180011db1f08)
 
