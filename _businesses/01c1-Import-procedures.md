@@ -9,7 +9,7 @@ accordion:
     content: <br> ✖ Make a declaration without verifying the authenticity of all the supporting documents. <br> ✖ Use a pro-forma invoice for permit application. <br> ✖ Declare a nominal value for samples, gifts or free-of-charge items. You should declare the value based on the transaction value of identical or similar goods or other acceptable valuation methods. <br> ✖ Declare the country of the port of loading as the country of origin, when the goods actually originate from another country. <br> ✖ Share your TradeNet user ID and password with other persons. <br> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.
 ---
 
-## Import Procedures
+# Import Procedures
 
 All goods imported into Singapore are regulated under the Customs Act, the Goods and Services Tax (GST) Act and the Regulation of Imports and Exports Act.
 
@@ -72,7 +72,7 @@ Taxable companies should also check with the [Inland Revenue Authority of Singap
 -   [Sealing and Unstuffing](/businesses/importing-goods/import-procedures/sealing-and-unstuffling)
     
 
-### Errors & Offences
+## Errors & Offences
 
 Importers may be penalised if they do not comply with the requirements imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and their subsidiary legislation.
 
@@ -102,7 +102,7 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 
 ***
 
-###  Penalties Upon Conviction for Key Offences
+##  Penalties Upon Conviction for Key Offences
 
 |Offence| Penalty Upon Conviction |
 |--|--|
@@ -120,8 +120,7 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 
 ***
     
-
-### Best Practices
+## Best Practices
 
 You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
