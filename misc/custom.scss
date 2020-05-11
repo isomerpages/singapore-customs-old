@@ -313,13 +313,18 @@ $desktop: 960px + (2 * $gap) !default;
 // End of Dennis tweak to use tbody instead of tr for table row
 
 // Dennis tweak to display table cell as a column in mobile
+    table.mobile-block{
+      tbody{
+        border-width: 0;
+      }
+    }
     @media screen and (max-width: 600px){
-        table.mobile-block{
-          td{
-            display: block;
-          }
+      table.mobile-block{
+        td{
+          display: block;
         }
       }
+    }
 // Dennis tweak to display table cell as a column in mobile
 
 }
