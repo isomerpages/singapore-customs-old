@@ -4,14 +4,14 @@ permalink: /businesses/strategic-goods-control/permit-and-registration-requireme
 third_nav_title: Strategic Goods Control
 ---
 
-## Permit and Registration Requirements
+# Permit and Registration Requirements
 
 A strategic goods permit is required for any transfer or brokering of:
 
 -   Strategic goods and related technology listed in the [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list)
 -   Any goods or technology intended or likely to be used for or in connection with weapons of mass destruction.
 
-### Export, Transhipment, Transit and Intangible Transfer of Technology (ITT)
+## Export, Transhipment, Transit and Intangible Transfer of Technology (ITT)
 
 To provide greater facilitation and promote effective internal export control compliance, Singapore Customs implemented the  **Strategic Trade Scheme (STS)**. The STS applies to all businesses who wish to export, tranship, bring in transit strategic goods and related technology, or transmit strategic goods software or technology.
 
@@ -29,15 +29,14 @@ The permit procedures under the STS consist of:
 
 For more information on STS, please refer to the [STS Handbook](/documents/businesses/strategic-trade-scheme-handbook-updated-1-oct-2019.pdf).
 
-### Brokering
+## Brokering
 
 A  **[brokering registration](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)** is to be applied _at least 14 working days_  before the brokering of items and technology listed in the  [Strategic Goods (Control) (Brokering) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019?DocDate=20190801=20190801). A  [brokering permit](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering)  is also required under certain circumstances.
 
 
-**For more information:**  
+## For more information on:
 
-|  |  |  |
-|--|--|--|
-| [![](/images/prp1.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit) | [![](/images/prp2.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology) | [![](/images/prp3.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt) |
-| [![](/images/prp4.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering) | [![](/images/prp5.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction) |  |
-
+|  |  |  |  |
+|--|--|--|--|
+| [![](/images/prp1.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit) | [![](/images/prp2.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology) | [![](/images/prp3.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt) |  [![](/images/prp4.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering) |  |
+| | [![](/images/prp5.jpg)](/businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction) |  |
