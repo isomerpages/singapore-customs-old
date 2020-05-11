@@ -39,7 +39,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 *Projected potential duty refers to the total customs and excise duties of the projected maximum quantity of goods that can be stored at any one time in the intended licensed premises.  
 **Average past monthly duty refers to the average of the total customs and excise duties of all goods stored in the intended licensed premises on the 1st of each month during the period of 12 months (or, if the premises has been used to store goods for a shorter period, that shorter period) before the date of the application.
 
-## 3 Key Responsibilities
+## Key Responsibilities
 
 **Accountability to Singapore Customs**
     
