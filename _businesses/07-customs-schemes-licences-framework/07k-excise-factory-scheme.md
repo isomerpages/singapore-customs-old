@@ -4,9 +4,9 @@ permalink: /businesses/customs-schemes-licences-framework/excise-factory-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-## Excise Factory Scheme
+# Excise Factory Scheme
 
-### What is it?
+## What is it?
 
 An excise factory is a designated area licensed by Singapore Customs for manufacturing and storing  [dutiable goods](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods), namely liquor, tobacco, motor vehicles, compressed natural gas, petroleum and biodiesel blends. This designated area is also known as licensed premises. Excise duty and Goods and Services Tax (GST) will be suspended if the manufactured goods are stored in the licensed premises.
 
@@ -17,7 +17,7 @@ Your company will enjoy these benefits under the Excise Factory Scheme:
 -   Excise duty and GST will be suspended for manufactured goods stored in the licensed premises
 -   Improved cash flow
 
-### How to Qualify?
+## How to Qualify?
 
 To qualify for the Excise Factory Scheme, the company must:
 
@@ -27,7 +27,7 @@ To qualify for the Excise Factory Scheme, the company must:
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the different activities under the scheme (Refer to “Licence Fee” section).
 
-### Licence Fee
+## Licence Fee
 
 The annual licence fee varies with the type of activity, and is payable upon issuance of the licence.
 
@@ -45,7 +45,7 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 | To manufacture any other dutiable goods where the goods manufactured are subject to payment of excise duty | $30,000 | Enhanced |
 
 
-### Key Responsibilities
+## Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
