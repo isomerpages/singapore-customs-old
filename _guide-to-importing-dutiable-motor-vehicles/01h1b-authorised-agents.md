@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/guide-t
 third_nav_title: Guide to Importing Dutiable Motor Vehicles
 ---
 
-## For Authorised Agents
+# For Authorised Agents
 
 Authorised agents have a distributorship agreement signed with the owner of a brand of motor vehicle, which allows them to import and distribute that brand of motor vehicles in certain territories.
 
