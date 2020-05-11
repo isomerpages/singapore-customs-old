@@ -4,9 +4,9 @@ permalink: /businesses/customs-schemes-licences-framework/industrial-exemption-f
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-## Industrial Exemption Factory Scheme
+# Industrial Exemption Factory Scheme
 
-### What is it?
+## What is it?
 
 The Industrial Exemption Factory Scheme is a duty exemption scheme for industries that use dutiable goods (except diesel products and biodiesel blends) as raw materials solely to manufacture non-dutiable finished goods.
 
@@ -14,7 +14,7 @@ Under this scheme, dutiable goods (except diesel products and biodiesel blends) 
 
 The duty-exempted raw materials must not be sold, transferred or disposed of in any way without permission from Singapore Customs.
 
-### How to Qualify?
+## How to Qualify?
 
 To qualify for the Industrial Exemption Factory Scheme, the company must:
 
@@ -22,11 +22,11 @@ To qualify for the Industrial Exemption Factory Scheme, the company must:
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the duty-exempted materials
 
-### Annual Fee
+## Annual Fee
 
 An annual fee of S$600 is payable upon issuance of the certificate of exemption.
 
-### Key Responsibilities
+## Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
@@ -50,7 +50,7 @@ An annual fee of S$600 is payable upon issuance of the certificate of exemption.
     -   Ensure all entrances and exits are secured when there is no production or movement of dutiable goods in the place of manufacture
     -   Obtain approval from Singapore Customs for any structural alteration to the place of manufacture
 
-### How to Apply?
+## How to Apply?
 
 **Step 1**: Apply  [online](http://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp).
 
@@ -77,11 +77,11 @@ Singapore Customs reserves the right to impose a Banker’s Guarantee or insuran
 
 If you require further assistance, please call 6251 3027 or email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
-### Renewal
+## Renewal
 
 Companies on the IEF scheme will be subject to reviews and renewals, once in two years.
 
-### Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 **1)** **What if I need to make changes to the quota applied due to business needs?**
 
