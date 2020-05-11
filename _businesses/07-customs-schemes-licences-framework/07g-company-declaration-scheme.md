@@ -4,9 +4,9 @@ permalink: /businesses/customs-schemes-licences-framework/company-declaration-sc
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 
-## Company Declaration Scheme
+# Company Declaration Scheme
 
-### What is it?
+## What is it?
 
 The Company Declaration Scheme allows approved operators in the Airport Logistics Park of Singapore (ALPS) to remove local goods or goods with its Goods and Services Tax (GST) paid or accounted for from ALPS into customs territory using a Company Declaration form, in lieu of TradeNet permits. GST will not be payable on these goods again.
 
@@ -23,7 +23,7 @@ The following are excluded from the scheme:
 -   Dutiable goods
 -   Goods purchased from another company within ALPS or Changi Free Trade Zone
 
-### How to Qualify?
+## How to Qualify?
 
 To qualify for the Company Declaration Scheme, the company must:
 
@@ -35,7 +35,7 @@ To qualify for the Company Declaration Scheme, the company must:
 -   Ensure 80% of the goods are for exports
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the Enhanced Band
 
-### Key Responsibilities
+## Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
@@ -58,7 +58,7 @@ To qualify for the Company Declaration Scheme, the company must:
     
     -   Ensure adequate security measures in and around the warehouse premises
 
-### How to Apply?
+## How to Apply?
 
 **Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
 
@@ -77,7 +77,7 @@ Once the application is received, we will contact you to follow up with your app
 
 For further assistance, please call 6251 3027 or email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
-### Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 **1) My company plans to move out of ALPS permanently. Can we apply for the Company Declaration Scheme to move our goods that are GST-paid / accounted for out of ALPS without having to pay GST a second time?**
 
