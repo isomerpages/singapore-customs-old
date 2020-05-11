@@ -203,7 +203,7 @@ To register, please fill in the application form to register for the ASW [here](
 
 You may also find an infographic of the process [here](/documents/businesses/asw-infograhic-myanmar-lao.pdf).
 
-### Errors and Offences
+## Errors and Offences
 
 Companies may be penalised under the Regulation of Imports and Exports Act (RIEA) if they do not comply with requirements relating to rules of origin.
 
@@ -235,7 +235,7 @@ For minor offences under the RIEA, Singapore Customs may offer to compound the o
 You may view more information on the prescribed offences and penalties under the [RIEA and RIER](/about-us/acts-and-subsidiary-legislation/customs-act).
 
 
-### Best Practices
+## Best Practices
 
 You are accountable as an exporter or declaring agent for the export of goods and compliance with the Rules of Origin requirements. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
