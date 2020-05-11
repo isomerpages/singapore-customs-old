@@ -15,7 +15,7 @@ The current GST rate is 7%.
 
 Examples on the calculation of GST:
 
-**1.  Non-Dutiable Goods**
+## 1.  Non-Dutiable Goods
    
 GST payable = *7% x Customs value or Last Selling Price (LSP)*
 
@@ -25,7 +25,7 @@ GST payable by Company B = 7% x S$1,500=S$105
 
 ---
 
-**2.  Dutiable Goods**
+## 2.  Dutiable Goods
     
 GST payable = *7% x (Customs value or Last Selling Price (LSP) + duties payable)*
 
