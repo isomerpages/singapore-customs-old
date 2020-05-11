@@ -70,7 +70,7 @@ The table shows the period to submit your export permit application for the vari
 -   [Return of Permit](/businesses/exporting-goods/export-procedures/return-of-permit)
 
 
-### Errors & Offences
+## Errors & Offences
 
 Exporters may be penalised if they do not comply with the requirements and conditions imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and their subsidiary legislation such as the Regulation of Imports and Exports Regulations (RIER).
 
@@ -115,13 +115,13 @@ For minor offences, Singapore Customs may compound offences for a sum not more t
 Learn more about the prescribed offences and penalties under the [Customs Act](/about-us/acts-and-subsidiary-legislation/customs-act) and the [RIEA](/about-us/acts-and-subsidiary-legislation/customs-act).
 
 
-### Best Practices
+## Best Practices
 
 You are accountable as an exporter or declaring agent for the export of your goods. We encourage you to take note of the following Dos and Don’ts:
 
 {% include accordion.html %} 
 
-### For more information on:
+## For more information on:
 
 
 |   |   |   |   |
