@@ -254,6 +254,14 @@ $desktop: 960px + (2 * $gap) !default;
 }
 // End of Dennis tweak to adjust font size of carousel in main page
 
+//Dennis tweak to make notification in main page not block the hero image
+#main-content{
+  .bp-notification{
+    position: relative;
+  }
+}
+//End of Dennis tweak to make notification in main page not block the hero image
+
 //Dennis tweak to reorder the news section above NTP
 /*#main-content {
   display: -webkit-box;
