@@ -78,80 +78,79 @@ Issue 36: May/Jun 2015](/news-and-media/publications/2015-05-01-Issue36.pdf)
 Issue 35: Mar/Apr 2015](/news-and-media/publications/2015-03-01-Issue35.pdf)
 
 -   [![Issue 34: Jan/Feb 2015](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue34_thumbnail.gif)
-Issue 34: Jan/Feb 2015](https://www.customs.gov.sg/-/media/cus/files/insync/issue34/index.html?la=en)
+Issue 34: Jan/Feb 2015](/news-and-media/publications/inSYNC_Issue34_ecopy.pdf)
 
 -   [![Issue 33: Nov/Dec 2014](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue33_thumbnail.gif)
-Issue 33: Nov/Dec 2014](https://www.customs.gov.sg/-/media/cus/files/insync/issue33/index.html?la=en)
+Issue 33: Nov/Dec 2014](/news-and-media/publications/inSYNC_Issue33_ecopy.pdf)
 
 -   [![Issue 32: Sep/Oct 2014](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue32_thumbnail.jpg)
-Issue 32: Sep/Oct 2014](https://www.customs.gov.sg/-/media/cus/files/insync/issue32/index.html?la=en)
+Issue 32: Sep/Oct 2014](/news-and-media/publications/inSYNC_Issue32_ecopy.pdf)
 
 -   [![Issue 31: Jul/Aug 2014](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue31_thumbnail.jpg)
-Issue 31: Jul/Aug 2014](https://www.customs.gov.sg/-/media/cus/files/insync/issue31/index.html?la=en)
+Issue 31: Jul/Aug 2014](/news-and-media/publications/inSYNC_Issue31_ecopy.pdf)
 
 -   [![Issue 30: May/Jun 2014](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue30_thumbnail.jpg)
-Issue 30: May/Jun 2014](https://www.customs.gov.sg/-/media/cus/files/insync/issue30/index.html?la=en)
+Issue 30: May/Jun 2014](/news-and-media/publications/inSYNC_Issue30_ecopy.pdf)
 
 -   [![Issue 29: Mar/Apr 2014](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue29_thumbnail.jpg)
-Issue 29: Mar/Apr 2014](https://www.customs.gov.sg/-/media/cus/files/insync/issue29/index.html?la=en)
+Issue 29: Mar/Apr 2014](/news-and-media/publications/inSYNC_Issue29_ecopy.pdf)
 
 -   [![Issue 28: Jan/Feb 2014](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue28_thumbnail.jpg)
-Issue 28: Jan/Feb 2014](https://www.customs.gov.sg/-/media/cus/files/insync/issue28/index.html?la=en)
+Issue 28: Jan/Feb 2014](/news-and-media/publications/inSYNC_Issue28_ecopy.pdf)
 
 -   [![Issue 27: Nov/Dec 2013](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue27_thumbnail.jpg)
-Issue 27: Nov/Dec 2013](https://www.customs.gov.sg/-/media/cus/files/insync/issue27/index.html?la=en)
-
+Issue 27: Nov/Dec 2013](/news-and-media/publications/inSYNC_Issue27_ecopy.pdf)
 
 -   [![Issue 26: Sep/Oct 2013](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue26_thumbnail.jpg)
-Issue 26: Sep/Oct 2013](https://www.customs.gov.sg/-/media/cus/files/insync/issue26/index.html?la=en)
+Issue 26: Sep/Oct 2013](/news-and-media/publications/inSYNC_Issue26_ecopy.pdf)
 
 -   [![Issue 25: Jul/Aug 2013](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue25_thumbnail.jpg)
-Issue 25: Jul/Aug 2013](https://www.customs.gov.sg/-/media/cus/files/insync/issue25/index.html?la=en)
+Issue 25: Jul/Aug 2013](/news-and-media/publications/inSYNC_Issue25_ecopy.pdf)
 
 -   [![Issue 24: May/Jun 2013](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue24_thumbnail.jpg)
-Issue 24: May/Jun 2013](https://www.customs.gov.sg/-/media/cus/files/insync/issue24/index.html?la=en)
+Issue 24: May/Jun 2013](/news-and-media/publications/inSYNC_Issue24_ecopy.pdf)
 
 -   [![Issue 23: Mar/Apr 2013](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue23_thumbnail1.jpg)
-Issue 23: Mar/Apr 2013](https://www.customs.gov.sg/-/media/cus/files/insync/issue23/index.html?la=en)
+Issue 23: Mar/Apr 2013](/news-and-media/publications/inSYNC_Issue23_ecopy.pdf)
 
 -   [![Issue 22: Jan/Feb 2013](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue22_thumbnail1.jpg)
-Issue 22: Jan/Feb 2013](https://www.customs.gov.sg/-/media/cus/files/insync/issue22/index.html?la=en)
+Issue 22: Jan/Feb 2013](/news-and-media/publications/inSYNC_Issue22_ecopy.pdf)
 
 -   [![Issue 21: Nov/Dec 2012](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue21_thumbnail.jpg)
-Issue 21: Nov/Dec 2012](https://www.customs.gov.sg/-/media/cus/files/insync/issue21/index.html?la=en)
+Issue 21: Nov/Dec 2012](/news-and-media/publications/inSYNC_Issue21_ecopy.pdf)
 
 -   [![Issue 20: Sep/Oct 2012](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue20_thumbnail.jpg)
-Issue 20: Sep/Oct 2012](https://www.customs.gov.sg/-/media/cus/files/insync/issue20/index.html?la=en)
+Issue 20: Sep/Oct 2012](/news-and-media/publications/inSYNC_Issue20_ecopy.pdf)
 
 -   [![Issue 19: Jul/Aug 2012](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue19_thumbnail.jpg)
-Issue 19: Jul/Aug 2012](https://www.customs.gov.sg/-/media/cus/files/insync/issue19/index.html?la=en)
+Issue 19: Jul/Aug 2012](/news-and-media/publications/inSYNC_Issue19_ecopy.pdf)
 
 -   [![Issue 18: May/Jun 2012](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue18_thumbnail.jpg)
-Issue 18: May/Jun 2012](https://www.customs.gov.sg/-/media/cus/files/insync/issue18/index.html?la=en)
+Issue 18: May/Jun 2012](/news-and-media/publications/inSYNC_Issue18_ecopy.pdf)
 
 -   [![Issue 17: Mar/Apr 2012](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue17_thumbnail.jpg)
-Issue 17: Mar/Apr 2012](https://www.customs.gov.sg/-/media/cus/files/insync/issue17/index.html?la=en)
+Issue 17: Mar/Apr 2012](/news-and-media/publications/inSYNC_Issue17_ecopy.pdf)
 
 -   [![Issue 16: Jan/Feb 2012](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue16_thumbnail.jpg)
-Issue 16: Jan/Feb 2012](https://www.customs.gov.sg/-/media/cus/files/insync/issue16/index.html?la=en)
+Issue 16: Jan/Feb 2012](/news-and-media/publications/inSYNC_Issue16_ecopy.pdf)
 
 -   [![Issue 15: Nov/Dec 2011](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue15_thumbnail.jpg)
-Issue 15: Nov/Dec 2011](https://www.customs.gov.sg/-/media/cus/files/insync/issue15/index.html?la=en)
+Issue 15: Nov/Dec 2011](/news-and-media/publications/inSYNC_Issue15_ecopy.pdf)
 
 -   [![Issue 14: Sep/Oct 2011](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue14_thumbnail.jpg)
-Issue 14: Sep/Oct 2011](https://www.customs.gov.sg/-/media/cus/files/insync/issue14/index.html?la=en)
+Issue 14: Sep/Oct 2011](/news-and-media/publications/inSYNC_Issue14_ecopy.pdf)
 
 -   [![Issue 13: Jul/Aug 2011](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue13_thumbnail.jpg)
-Issue 13: Jul/Aug 2011](https://www.customs.gov.sg/-/media/cus/files/insync/issue13/index.html?la=en)
+Issue 13: Jul/Aug 2011](/news-and-media/publications/inSYNC_Issue13_ecopy.pdf)
 
 -   [![Issue 12: May 2011](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue12_thumbnail.jpg)
-Issue 12: May 2011](https://www.customs.gov.sg/-/media/cus/files/insync/issue12/index.html?la=en)
+Issue 12: May 2011](/news-and-media/publications/inSYNC_Issue12_ecopy.pdf)
 
 -   [![Issue 11: Mar 2011](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue11_thumbnail.jpg)
-  Issue 11: Mar 2011](https://www.customs.gov.sg/-/media/cus/files/insync/issue11/index.html?la=en)
+  Issue 11: Mar 2011](/news-and-media/publications/inSYNC_Issue11_ecopy.pdf)
   
 -   [![Issue 10: Jan 2011](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/issue10_thumbnail1.jpg)
-Issue 10: Jan 2011](https://www.customs.gov.sg/-/media/cus/files/insync/issue10/index.html?la=en)
+Issue 10: Jan 2011](/news-and-media/publications/inSYNC_Issue10_ecopy.pdf)
 
 
 
