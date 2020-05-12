@@ -237,6 +237,23 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+// Dennis tweak to adjust font size of carousel in main page
+#main-content{
+  .owl-carousel{
+    .owl-item{
+      div.is-3{
+        h3{
+          word-break: break-word;
+          overflow-wrap: break-word;
+          font-size: 1.75rem;
+          line-height: 2rem;
+        }
+      }
+    }
+  }
+}
+// End of Dennis tweak to adjust font size of carousel in main page
+
 //Dennis tweak to reorder the news section above NTP
 /*#main-content {
   display: -webkit-box;
