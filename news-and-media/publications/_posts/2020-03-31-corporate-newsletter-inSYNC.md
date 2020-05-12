@@ -12,28 +12,28 @@ Click [here](https://form.gov.sg/5e859b60a0ffc50011a4ee83) to subscribe to the l
 ----------
 
 -   [![Issue 56: Jan-Mar 2020](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync-coverthumbnail-issue56.jpg)
-Issue 56: Jan-Mar 2020](https://www.customs.gov.sg/-/media/cus/files/insync/issue56/index.html?la=en)
+Issue 56: Jan-Mar 2020](/news-and-media/publications/2020-01-01-Issue56.pdf)
  
 -   [![Issue 55: Oct-Dec 2019](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync_issue55_thumbnail.jpg)
-Issue 55: Oct-Dec 2019](https://www.customs.gov.sg/-/media/cus/files/insync/issue55/indexhtml.htm?la=en)
+Issue 55: Oct-Dec 2019](/news-and-media/publications/2020-10-01-Issue55.pdf)
  
 -   [![Issue 54: Jul-Sep 2019](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync-issue-54-thumbnail.jpg)
-Issue 54: Jul-Sep 2019](https://www.customs.gov.sg/-/media/cus/files/insync/issue54/index.html?la=en)
+Issue 54: Jul-Sep 2019](/news-and-media/publications/2019-07-01-Issue54.pdf)
 
 -   [![Issue 53: Apr-Jun 2019](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync-issue-53-thumbnail.gif)
-Issue 53: Apr-Jun 2019](https://www.customs.gov.sg/-/media/cus/files/insync/issue53/index.html?la=en)
+Issue 53: Apr-Jun 2019](/news-and-media/publications/2019-04-01-Issue53.pdf)
 
 -   [![Issue 52: Jan-Mar 2019](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync-issue-52-thumbnail.gif)
-Issue 52: Jan-Mar 2019](https://www.customs.gov.sg/-/media/cus/files/insync/issue52/index.html?la=en)
+Issue 52: Jan-Mar 2019](/news-and-media/publications/2019-01-01-Issue52.pdf)
 
 -   [![Issue 51: Oct-Dec 2018](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync-issue-51-thumbnail.gif)
-Issue 51: Oct-Dec 2018](https://www.customs.gov.sg/-/media/cus/files/insync/issue51/index.html?la=en)
+Issue 51: Oct-Dec 2018](/news-and-media/publications/2018-10-01-Issue51.pdf)
 
 -   [![Issue 50: Jul-Sep 2018](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync-issue-50-thumbnail-for-website.gif)
-Issue 50: Jul-Sep 2018](https://www.customs.gov.sg/-/media/cus/files/insync/issue50/index.html?la=en)
+Issue 50: Jul-Sep 2018](/news-and-media/publications/2018-07-01-Issue50.pdf)
 
 -   [![Issue 49: Apr-Jun 2018](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync_2018_issue49_thumbnail.gif)
-Issue 49: Apr-Jun 2018](https://www.customs.gov.sg/-/media/cus/files/insync/issue49/index.html?la=en)
+Issue 49: Apr-Jun 2018](/news-and-media/publications/2018-04-01-Issue49.pdf)
 
 -   [![Issue 48: Jan-Mar 2018](https://www.customs.gov.sg/-/media/cus/images/insync/thumbnail/insync_issue48_thumbnail.gif)
 Issue 48: Jan-Mar 2018](https://www.customs.gov.sg/-/media/cus/files/insync/issue48/index.html?la=en)
