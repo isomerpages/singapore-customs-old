@@ -18,7 +18,7 @@ sections:
             - title: Registration Matters
               url: /businesses/registration-matters/overview
             - title: Customs Schemes & Licenses
-              url: /businesses/customs-schemes-licences-framework/trade-first
+              url: /businesses/customs-schemes-licences-framework/overview
             - title: Customs Forms & Service Links
               url: /eservices/customs-forms-and-service-links
               
