@@ -18,7 +18,7 @@ The Harmonised Commodity Description and Coding System, or simply the HS, is an 
 ## Structure of the Harmonised System (HS)
    
 
-The HS comprises of 21 Sections covering 97 Chapters. It consists of:
+The HS comprises 21 Sections covering 97 Chapters. It consists of:
 
 -   Section and Chapter Notes, including subheading notes
 -   A list of headings arranged in systematic order, divided into subheadings, where appropriate
