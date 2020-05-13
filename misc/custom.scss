@@ -421,3 +421,17 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-hero-body {
 	background: unset;
 }
+
+//Dennis tweak so that hero banner will not be too narrow on ipad
+@media screen and (min-width: 500px){
+  #main-content{
+    section.bp-hero{
+      .bp-hero-body{
+        .row{
+          min-height: 13rem;
+        }
+      }
+    }
+  }
+}
+//End of Dennis tweak so that hero banner will not be too narrow on ipad
