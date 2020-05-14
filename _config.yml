@@ -85,7 +85,7 @@ collections:
     output: true
   test_hidden:
     output: true
-  national-single-window:
+  business_hidden_tradenet:
     output: true 
   exporting-goods:
     output: true   
@@ -97,6 +97,8 @@ collections:
     output: true 
   importing-investment-precious-metals:   
     output: true   
+  business_hidden_competent-authorities-requirements:   
+    output: true  
   competent-authorities-requirements:   
     output: true          
 ##################################################################################################################
