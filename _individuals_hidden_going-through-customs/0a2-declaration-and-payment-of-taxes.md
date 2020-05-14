@@ -13,7 +13,7 @@ Under Singapore’s laws, arriving travellers are required to declare and pay th
 
 ***
 
-### Dutiable Goods and GST Taxable Goods
+## Dutiable Goods and GST Taxable Goods
 There are four categories of dutiable goods in Singapore:
 
 -   **Intoxicating liquors**, including spirits, wine, beer, ale, stout and porter
@@ -26,7 +26,7 @@ All goods imported into Singapore are subject to GST.
 
 ***
 
-### Payment of Taxes
+## Payment of Taxes
 Payment of Duties and GST can be made via the following payment modes:
 
 -   All major credit cards (MasterCard, Visa and American Express), mobile wallets, NETS and Cashcard at the Singapore Customs Tax Payment Office
