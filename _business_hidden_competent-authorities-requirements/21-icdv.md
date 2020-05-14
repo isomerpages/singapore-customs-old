@@ -1,6 +1,6 @@
 ---
 title: Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/icdv
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/icdv
 third_nav_title: Competent Authorities Requirements
 ---
 
