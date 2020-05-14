@@ -1,6 +1,6 @@
 ---
 title: National Environment Agency - Pollution Control Department (Hazardous Substances)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/hazardous-substances
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/hazardous-substances
 third_nav_title: Competent Authorities Requirements
 ---
 
