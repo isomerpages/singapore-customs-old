@@ -4,7 +4,7 @@ permalink: /businesses/transhipping-goods/transhipment-procedures/controlled-pro
 third_nav_title: Transhipment Requirements 
 ---
 
-## Controlled & Prohibited Goods
+# Controlled & Prohibited Goods
 
 Do take note of the following before transhipping goods through Singapore:
 
