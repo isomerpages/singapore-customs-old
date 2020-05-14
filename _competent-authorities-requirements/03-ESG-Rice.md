@@ -1,6 +1,6 @@
 ---
 title: Enterprise Singapore (ESG) - Import and Export of Rice
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/ESG-Rice
+permalink:  /businesses/national-single-window/overview/competent-authorities-requirements/ESG-Rice
 third_nav_title: Competent Authorities Requirements
 ---
 

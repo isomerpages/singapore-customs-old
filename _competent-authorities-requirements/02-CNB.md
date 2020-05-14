@@ -1,6 +1,6 @@
 ---
 title: Central Narcotics Bureau (CNB)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/CNB
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/CNB
 third_nav_title: Competent Authorities Requirements
 ---
 
