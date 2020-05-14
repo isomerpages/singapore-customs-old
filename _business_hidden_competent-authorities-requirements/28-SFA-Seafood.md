@@ -1,6 +1,6 @@
 ---
 title: Singapore Food Agency (Seafood)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/SFA-Seafood
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/SFA-Seafood
 third_nav_title: Competent Authorities Requirements
 ---
 
