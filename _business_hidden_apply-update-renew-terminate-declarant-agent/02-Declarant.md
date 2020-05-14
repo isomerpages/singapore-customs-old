@@ -1,7 +1,7 @@
 ---
 title: Declarant 
 permalink: /businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/declarant
-third_nav_title: Apply Update Renew Terminate Declarant Agent
+third_nav_title: Apply Update Renew Terminate Declaring Agent
 ---
 
 
