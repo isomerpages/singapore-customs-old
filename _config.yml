@@ -37,6 +37,8 @@ collections:
     output: true
   business-resources:
     output: true
+  business_hidden_business-resources:
+   output: true
   importing-goods: 
     output: true
   business_hidden_transhipment-procedures: 
