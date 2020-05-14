@@ -1,6 +1,6 @@
 ---
 title: National Environment Agency - Pollution Control Department (Rotterdam Convention PIC Procedure)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/national-environment-agency---pollution-control-department-rotterdam-convention-pic-procedure
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/national-environment-agency---pollution-control-department-rotterdam-convention-pic-procedure
 third_nav_title: Competent Authorities Requirements
 ---
 
