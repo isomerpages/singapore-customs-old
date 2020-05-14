@@ -91,7 +91,7 @@ collections:
     output: true   
   security-lodgement:
     output: true    
-  apply-update-renew-terminate-declarant-agent:
+  business_hidden_apply-update-renew-terminate-declarant-agent:
     output: true   
   organisation-overview:
     output: true 
