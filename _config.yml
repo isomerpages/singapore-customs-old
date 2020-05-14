@@ -43,7 +43,7 @@ collections:
     output: true
   business_hidden_transhipment-procedures: 
     output: true
-  transhipment-procedures:
+  business_hidden_transhipment-procedures-requirements:
     output: true
   business_hidden_chemical-weapons-convention: 
     output: true
