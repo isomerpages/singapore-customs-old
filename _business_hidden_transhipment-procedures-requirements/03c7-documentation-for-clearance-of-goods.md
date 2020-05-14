@@ -4,9 +4,9 @@ permalink: /businesses/transhipping-goods/transhipment-procedures/documentation-
 third_nav_title: Transhipment Requirements  
 ---
 
-## Documentation for Clearance of Goods
+# Documentation for Clearance of Goods
 
-**Documentation for Containerised Cargo**
+## Documentation for Containerised Cargo
 
 For **cargo**  involving inter-gateway movement, you are required to present the cargo with a printed copy of the approved Customs permit, and other supporting documents to the checkpoint officers at the entry and exit checkpoints for clearance.
 
