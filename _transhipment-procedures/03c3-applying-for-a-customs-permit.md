@@ -4,7 +4,7 @@ permalink: /businesses/transhipping-goods/transhipment-procedures/applying-for-a
 third_nav_title: Transhipment Requirements 
 ---
 
-## Applying for a Customs Permit
+# Applying for a Customs Permit
     
    To obtain a Customs permit to tranship goods or transit goods through Singapore, you will need to:
     
