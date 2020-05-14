@@ -1,6 +1,6 @@
 ---
 title: National Parks Board (Plant Health)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/Nparks-PlantHealth
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/Nparks-PlantHealth
 third_nav_title: Competent Authorities Requirements
 ---
 
