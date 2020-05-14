@@ -10,11 +10,11 @@ third_nav_title: Export Procedures
 
 Air stores refer to goods supplied for consumption or use on board an aircraft by the crew and passengers outside Singapore. This does not include jet fuel. Examples of air stores include food, water, cleaning supplies, medical supplies, safety supplies and spare parts.
 
-### Customs Permit Requirements for Air Stores and Jet Fuel
+**Customs Permit Requirements for Air Stores and Jet Fuel**
 
 The supply of air stores and jet fuel for consumption or use on board an aircraft does not require a Customs permit. However, a submission of "Monthly Statement for Stores and Jet Fuel Supplied to Aircraft" is required.
 
-### Submission of Statement for Air Stores and Jet Fuel
+**Submission of Statement for Air Stores and Jet Fuel**
 
 Singapore Customs records statistics on air stores and jet fuel for consumption on board an aircraft.
 
@@ -42,7 +42,7 @@ Dutiable sea stores can only be uplifted to approved types of vessels (passenger
 
 ## Customs Permit Requirements for Sea Stores
 
-### Duty-unpaid or Suspended and/or GST-unpaid or Suspended Sea Stores
+**Duty-unpaid or Suspended and/or GST-unpaid or Suspended Sea Stores**
 
 The uplift of all **duty-unpaid or suspended** and/or **GST-unpaid or suspended** sea stores should be accounted by the following Customs permits depending on the movement type:
 
@@ -57,7 +57,7 @@ In addition, **duty-unpaid or suspended** and/or **GST-unpaid or suspended** sea
 Please note that ship spares meant for installation onto vessels while the vessels are in Singapore are subject to GST payment and should not be declared as sea stores. You are required to take up the relevant In-Payment (GST) permits and report your input tax claims directly to the Inland Revenue Authority of Singapore (IRAS) during the corresponding accounting period. Alternatively, companies under IRAS Major Exporter Scheme (MES) or Import GST Deferment Scheme (IGDS) may take up the relevant In-Non-Payment permits to import such ship spares meant for installation onto vessels while the vessels are in Singapore.
 
 
-### Duty and/or GST-Paid or Accounted Sea Stores
+**Duty and/or GST-Paid or Accounted Sea Stores**
 
 The uplift of **duty** and/or **Goods and Services Tax (GST)-paid or accounted** (i.e. GST-accounted goods refer to those imported under IRAS' Major Exporter Scheme or Import Deferment GST Scheme) sea stores does not require any Customs permit, if the goods are not controlled for export. The uplift of such goods must be reported in the "[Monthly Statement of Stores Supplied to Vessels](/eservices/customs-forms-and-service-links)" to be submitted to the Permits Compliance Branch.
 
@@ -88,19 +88,19 @@ You are reminded to comply with the following permit condition when uplifting se
 
 
 
-### Delivery and Consumption of Sea Stores
+**Delivery and Consumption of Sea Stores**
 
 Sea stores shall not be delivered earlier than 24 hours before the vessel’s departure. Once delivered, the sea stores must be locked in a store and shall not be removed until the vessel is outside Singapore port limits.
 
 All goods (dutiable and non-dutiable) that are uplifted as sea stores are not to be consumed while the vessel is still within Singapore port limits. Suppliers shall be liable to pay the duty and taxes for any uplifted sea stores that are unaccounted for.
 
-### Rejected/Undelivered Sea Stores
+**Rejected/Undelivered Sea Stores**
 
 You may re-import rejected or undelivered sea stores from a Free Trade Zone or authorised pier or place into a Licensed Warehouse/Zero-GST Warehouse as shut-out goods.
 
 Please refer to the information on the  [re-importing of shut-out goods](/businesses/importing-goods/import-procedures/re-importing-shut-out-goods) and  [procedures for dutiable sea stores](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/supply-of-air-sea-stores/procedures-for-dutiable-sea-stores.pdf?la=en&hash=3A9846266DFF8F2D74F044B511628689B7926790).
 
-### Submission of Statement for Sea Stores
+**Submission of Statement for Sea Stores**
 
 Singapore Customs records statistics on sea stores for consumption on board vessels.
 
