@@ -1,6 +1,6 @@
 ---
 title: National Environment Agency - Pollution Control Department (Ozone Depleting Substances)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/national-environment-agency---pollution-control-department-ozone-depleting-substances
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/national-environment-agency---pollution-control-department-ozone-depleting-substances
 third_nav_title: Competent Authorities Requirements
 ---
 
