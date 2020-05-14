@@ -4,7 +4,7 @@ permalink: /businesses/transhipping-goods/transhipment-procedures/depositing-goo
 third_nav_title: Transhipment Requirements  
 ---
 
-## Depositing Goods in Free Trade Zones Pending Transhipment
+# Depositing Goods in Free Trade Zones Pending Transhipment
     
    Free Trade Zones (FTZs) in Singapore facilitate entrepot trade and transhipment activities.
     
