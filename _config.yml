@@ -31,7 +31,7 @@ collections:
     output: true
   eservices:
     output: true
-  going-through-customs:
+  individuals_hidden_going-through-customs:
     output: true
   registration-matters:
     output: true
