@@ -1,6 +1,6 @@
 ---
 title: Strategic Goods Control
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/strategic-goods-control
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/strategic-goods-control
 third_nav_title: Competent Authorities Requirements
 ---
 
