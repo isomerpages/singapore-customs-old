@@ -9,8 +9,7 @@ third_nav_title: Arrivals
 
 ## Duty-Free Concession
 
-
-### Liquor Products
+**Liquor Products**
 Travellers are entitled to duty-free concession for liquors if all the following conditions are met:
 
 -   You are 18 years old or above;
@@ -54,16 +53,15 @@ Important Notes:
     
 -   Travellers are required to pay the taxes on liquor products exceeding their duty-free concession and on goods carried for or on behalf of other persons. More information on the duty rates imposed [here](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods).
 
-### Cigarettes and Tobacco Products
+**Cigarettes and Tobacco Products**
 There is no duty-free concession and Goods and Services Tax (GST) relief for cigarettes and tobacco products in Singapore.
 
 All cigarettes and tobacco products, including those purchased in Singapore with the ‘SDPC’ mark, are subject to [duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and GST when brought into Singapore.
 
-### Motor Fuel Including Motor Spirits, Diesel Products and Compressed Natural Gas (CNG)
+**Motor Fuel Including Motor Spirits, Diesel Products and Compressed Natural Gas (CNG)**
 There is no duty-free concession and GST relief on motor fuel including motor spirits, diesel products and compressed natural gas (CNG) in containers.
 
 ***
-
 
 ## Goods and Services Tax (GST) Relief
 
