@@ -1,6 +1,6 @@
 ---
 title: Singapore Food Agency (Livestock and Animal Products)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/SFA-Livestocks
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/SFA-Livestocks
 third_nav_title: Competent Authorities Requirements
 ---
 
