@@ -71,7 +71,7 @@ collections:
     output: true
   importing-goods-for-destruction-or-recycling:
     output: true
-  export-procedures:
+  business_hidden_export-procedures:
     output: true
   business_hidden_authorised-piers-places: 
     output: true
