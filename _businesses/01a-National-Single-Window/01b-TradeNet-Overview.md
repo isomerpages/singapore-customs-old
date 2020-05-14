@@ -1,6 +1,6 @@
 ---
-title: Overview
-permalink: /about-us/national-single-window/Overview
+title: TradeNet
+permalink: /businesses/national-single-window/TradeNet
 third_nav_title: National Single Window
 ---
 
