@@ -39,7 +39,7 @@ collections:
     output: true
   importing-goods: 
     output: true
-  transhipping-goods: 
+  business_hidden_transhipment-procedures: 
     output: true
   transhipment-procedures:
     output: true
