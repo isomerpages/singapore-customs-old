@@ -75,7 +75,7 @@ collections:
     output: true
   business_hidden_authorised-piers-places: 
     output: true
-  united-nations-security-council-sanctions: 
+  business_hidden_united-nations-security-council-sanctions: 
     output: true
   strategic-goods-control-list:
     output: true
