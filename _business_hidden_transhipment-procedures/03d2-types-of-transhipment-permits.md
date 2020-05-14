@@ -25,7 +25,7 @@ A permit is not required for the transhipment of non-controlled goods within the
 
 You may refer to the  [complete list of permit declaration types](/documents/businesses/doc1-types-of-permit.pdf)  for more information.
 
-### Further information
+## Further information
 
 You may access Module 5 of the online  [Guide to Customs' Procedures](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html)  for more information on Important Permit Fields table, List of Message, and Declaration Types for permit applications and Types of Permit Applications Under  **Resources**.
 
