@@ -8,7 +8,7 @@ third_nav_title: Export Procedures
 
 All goods imported into, exported from or transhipped via Singapore can only be moved through authorised piers and places, e.g. Free Trade Zones (FTZs), land checkpoints and other authorised piers and places. The landing of goods at any other location is prohibited.
 
-### Free Trade Zones and Land Checkpoints
+## Free Trade Zones and Land Checkpoints
 
 All goods may be imported, exported or transhipped via the following Free Trade Zones and land checkpoints:
 
@@ -28,7 +28,7 @@ All goods may be imported, exported or transhipped via the following Free Trade 
 -   Tuas Checkpoint
 -   Woodlands Checkpoint
 
-### Passenger Terminals
+## Passenger Terminals
 
 The following passenger terminals are not intended for the import, export and transhipment of goods. Only personal effects accompanying incoming crew and passengers may be brought in via the following passenger terminals:
 
@@ -39,7 +39,7 @@ The following passenger terminals are not intended for the import, export and tr
 -   West Coast Pier
 -   Marina Bay Cruise Centre Singapore <br>(See [Customs Circular](/news-and-media/circulars/2012-05-23-Circular062012.pdf) for more information)
 
-### For more information on: 
+## For more information on: 
 
 -   [Other Authorised Piers and Places](/businesses/exporting-goods/export-procedures/authorised-piers-places/other-authorised-piers-and-places)
     
