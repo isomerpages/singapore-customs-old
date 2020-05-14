@@ -89,7 +89,7 @@ collections:
     output: true
   business_hidden_tradenet:
     output: true 
-  business_hidden_exporting-procedures:
+  business_hidden_export-procedures-more:
     output: true   
   security-lodgement:
     output: true    
