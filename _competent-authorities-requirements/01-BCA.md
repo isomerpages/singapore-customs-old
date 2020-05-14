@@ -1,6 +1,6 @@
 ---
 title: Building and Construction Authority (BCA)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/BCA
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/BCA
 third_nav_title: Competent Authorities Requirements
 ---
 
