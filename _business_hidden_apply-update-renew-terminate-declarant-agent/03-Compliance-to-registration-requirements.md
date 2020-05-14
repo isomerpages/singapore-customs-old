@@ -1,7 +1,7 @@
 ---
 title: Compliance to Registration
 permalink: /businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/Compliance-to-registration
-third_nav_title: Apply Update Renew Terminate Declarant Agent
+third_nav_title: Apply Update Renew Terminate Declaring Agent
 ---
 
 
