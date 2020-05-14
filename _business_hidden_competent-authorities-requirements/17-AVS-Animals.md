@@ -1,6 +1,6 @@
 ---
 title: National Parks Board/Animal Veterinary Service (Animal)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/AVS-Animals
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/AVS-Animals
 third_nav_title: Competent Authorities Requirements
 ---
 
