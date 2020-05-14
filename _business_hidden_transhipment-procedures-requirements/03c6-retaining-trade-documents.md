@@ -4,8 +4,7 @@ permalink: /businesses/transhipping-goods/transhipment-procedures/retaining-trad
 third_nav_title: Transhipment Requirements 
 ---
 
-
-## Retaining Your Trade Documents
+# Retaining Your Trade Documents
 
 All Declaring Agents and Transhipment Agents are required to keep documents and records relating to the purchase, import, sale or export of their goods for a period of at least 5 years from the date of permit application approval.
 
