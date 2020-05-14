@@ -1,6 +1,6 @@
 ---
 title: National Parks Board (CITES)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/Nparks-Cites
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/Nparks-Cites
 third_nav_title: Competent Authorities Requirements
 ---
 
