@@ -1,6 +1,7 @@
 ---
 title: Ministry of Home Affairs - Gambling Regulatory Unit (GRU)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/singapore-police-force---public-entertainment-liquor-licensing
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/singapore-police-force---public-entertainment-liquor-licensing
+
 third_nav_title: Competent Authorities Requirements
 ---
 
