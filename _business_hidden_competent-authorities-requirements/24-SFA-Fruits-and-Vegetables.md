@@ -1,6 +1,6 @@
 ---
 title: Singapore Food Agency (Fruits and Vegetables)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/SFA-Fruits-and-Vegetables
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/SFA-Fruits-and-Vegetables
 third_nav_title: Competent Authorities Requirements
 ---
 
