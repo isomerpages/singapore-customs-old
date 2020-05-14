@@ -1,6 +1,6 @@
 ---
 title: Annexes and Appendices
-permalink: /about-us/National-Single-Window/Overview/Annexes-and-appendices
+permalink: /businesses/National-Single-Window/Overview/Annexes-and-appendices
 third_nav_title: Overview
 ---
 
