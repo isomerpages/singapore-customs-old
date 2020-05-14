@@ -1,6 +1,6 @@
 ---
 title: Singapore Civil Defence Force (SCDF)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/SCDF
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/SCDF
 third_nav_title: Competent Authorities Requirements
 ---
 
