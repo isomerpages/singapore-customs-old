@@ -1,6 +1,6 @@
 ---
 title: Singapore Food Agency (Meat)
-permalink: /about-us/national-single-window/overview/competent-authorities-requirements/SFA-Meat
+permalink: /businesses/national-single-window/overview/competent-authorities-requirements/SFA-Meat
 third_nav_title: Competent Authorities Requirements
 ---
 
