@@ -21,6 +21,8 @@ colors:
 resources_name: news-and-media
 
 collections:
+  about-us:
+    output: true
   about-us_hidden_organisation-overview:
     output: true
   individuals:
@@ -95,8 +97,6 @@ collections:
     output: true    
   business_hidden_apply-update-renew-terminate-declarant-agent:
     output: true   
-  organisation-overview:
-    output: true 
   importing-investment-precious-metals:   
     output: true   
   business_hidden_competent-authorities-requirements:   
