@@ -19,8 +19,8 @@ third_nav_title: Strategic Goods Control
 -   [Chemical Weapons Convention (CWC)](http://www.opcw.org/)
 -   [Nuclear Non-Proliferation Treaty (NPT)](https://www.un.org/disarmament/wmd/nuclear/npt/)
 -   [UN Register of Conventional Arms](http://www.un.org/disarmament/convarms/Register/)
--   [United Nations Security Council (UNSC) Resolutions](http://www.un.org/en/sc/documents/resolutions/)
--   [United Nations Security Council (UNSC) Sanctions Committees](http://www.un.org/sc/committees/index.shtml)
+-   [United Nations Security Council (UNSC) Resolutions](https://www.un.org/securitycouncil/content/resolutions-0)
+-   [United Nations Security Council (UNSC) Sanctions Committees](https://www.un.org/securitycouncil/content/repertoire/sanctions-and-other-committees)
 -   [United Nations Security Council (UNSC) Consolidated Sanctions List](https://www.un.org/sc/suborg/en/sanctions/un-sc-consolidated-list)
 -   [World Health Organisation: Laboratory Biosafety Manual](http://www.who.int/csr/resources/publications/biosafety/who_cds_csr_lyo_20034/en/)
 
@@ -35,7 +35,7 @@ third_nav_title: Strategic Goods Control
 **Canada**
 
 -   [Department of Foreign Affairs and International Trade (Export and Import Controls Bureau)](http://www.international.gc.ca/controls-controles/index.aspx)
--   [The Controlled Goods Program](http://ssi-iss.tpsgc-pwgsc.gc.ca/dmc-cgd/index-eng.html)
+-   [The Controlled Goods Program](https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/index-eng.html)
 
 **China**
 
@@ -59,7 +59,7 @@ third_nav_title: Strategic Goods Control
 
 **India**
 
--   [Central Board of Excise and Customs](http://www.cbec.gov.in/index)
+-   [Central Board of Excise and Customs](https://www.cbic.gov.in/)
 
 **Japan**
 
@@ -98,7 +98,7 @@ third_nav_title: Strategic Goods Control
 **United States of America (USA)**
 
 -   [US Department of State (Bureau of International Security and Nonproliferation)](http://www.state.gov/t/isn/)
--   [US Department of State (Directorate of Defense Trade Controls)](http://www.pmddtc.state.gov/)
+-   [US Department of State (Directorate of Defense Trade Controls)](https://www.pmddtc.state.gov/ddtc_public)
 -   [US Department of Commerce (Bureau of Industry and Security)](http://www.bis.doc.gov/about/index.htm)
 -   [US Department of Commerce (Bureau of Industry and Security) - The Elements of an Effective Export Compliance Program](/documents/businesses/the-elements-of-an-effective-export-compliance-program.pdf)
 -   [US Export Administration Regulations](http://www.access.gpo.gov/bis/index.html)
