@@ -8,7 +8,7 @@ third_nav_title: Strategic Goods Control
 
 ## Courses
 
-The  [Singapore Customs Academy](https://www.customsacademy.gov.sg/) provides courses to enhance the industry’s awareness and understanding of Singapore’s strategic goods control system.
+The  Singapore Customs Academy provides courses to enhance the industry’s awareness and understanding of Singapore’s strategic goods control system.
 
 Interested parties may apply for these courses  [here](https://www.customsacademy.gov.sg/).
 
