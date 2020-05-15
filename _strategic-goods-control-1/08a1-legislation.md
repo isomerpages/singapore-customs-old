@@ -36,4 +36,4 @@ Singapore has updated the categories of goods and technology which require a bro
 -   [Strategic Goods Control Circulars](/news-and-media/circulars/)
 -   [Frequently Asked Questions (FAQs)](https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx)
 
-_Note: Legislation is reproduced on this website with the permission of the Government of Singapore. Acts of Parliament are available without charge and updated monthly at the  [Singapore Government Statutes Online website.](https://sso.agc.gov.sg/)  Singapore Legal Publications can be purchased online from  [Toppan Leefung Pte Ltd.](http://www.toppanleefung.com/Header_LegalPub.aspx)_
+_Note: Legislation is reproduced on this website with the permission of the Government of Singapore. Acts of Parliament are available without charge and updated monthly at the  [Singapore Government Statutes Online website.](https://sso.agc.gov.sg/)  Singapore Legal Publications can be purchased from  [Toppan Leefung Pte Ltd.](http://www.toppanleefung.com)_
