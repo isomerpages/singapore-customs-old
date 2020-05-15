@@ -19,13 +19,13 @@ We play a proactive role in balancing the intricate requirements of trade facili
 
 ## Our Vision, Mission and Core Values
 
-## Vision
+**Vision**
 A leading Customs that advances Singapore’s economy.
 
-## Mission
+**Mission**
 We protect revenue, and make trade easy, fair and secure.
 
-## Core Values
+**Core Values**
 
 -   **Integrity** <br> We are upright and fair. We are incorruptible, trustworthy, and do not show favouritism.
     
