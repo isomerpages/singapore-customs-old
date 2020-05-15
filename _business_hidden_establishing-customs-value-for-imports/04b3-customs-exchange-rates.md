@@ -28,6 +28,6 @@ E.g. Exchange rates for the period 4 May – 10 May 2020 are based on the weekly
 
 Please refer to [here](/documents/businesses/retrieving-weekly-rates-from-mas(1).pdf) on the guide to retrieve the weekly average exchange rates.
 
-### Foreign currencies not listed in Exchange Rates
+## Foreign currencies not listed in Exchange Rates
 
 If any component of the customs value is settled in a foreign currency not listed on Monetary Authority of Singapore's website, that value in foreign currency should be converted to Singapore Dollars using the current selling rate of that currency from reputable sources such as banks in Singapore, local circulated newspapers, reputable news agencies or online resources, at the time when customs duty or excise duty is paid for the imported goods.
