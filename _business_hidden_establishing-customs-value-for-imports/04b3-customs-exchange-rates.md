@@ -24,9 +24,9 @@ However, if Company B is to pay US$10,000 to Company A, then the exchange rate s
 
 To provide facilitation to the trading community, Singapore Customs is administratively providing the weekly average exchange rates, published by the [Monetary Authority of Singapore](https://secure.mas.gov.sg/msb/ExchangeRates.aspx) in the preceeding week, to all TradeNet users when making declarations to Customs for the current week.
 
-E.g. Exchange rates for the period 4 May – 10 May 2020 are based on the weekly Average for Period ending 1 May 2020 from the Monetary Authority of Singapore.
+E.g. Exchange rates for the period 4 May – 10 May 2020 are based on the weekly average for Period ending 30 Apr 2020 from the Monetary Authority of Singapore.
 
-Please refer to [here](/documents/businesses/retrieving-weekly-rates-from-mas(1).pdf) on the guide to retrieve the average weekly exchange rates.
+Please refer to [here](/documents/businesses/retrieving-weekly-rates-from-mas(1).pdf) on the guide to retrieve the weekly average exchange rates.
 
 ### Foreign currencies not listed in Exchange Rates
 
