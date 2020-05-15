@@ -20,7 +20,7 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 [Certificate of Origin](https://form.gov.sg/5e7025bbbce24a0011937cbd) 
 
-[Harmonised System / Classification of Goods](https://form.gov.sg/5e6713af65cca600110d2d43)
+[Classification of Goods](https://form.gov.sg/5e6713af65cca600110d2d43)
 
 [Refunds](https://form.gov.sg/5e732a0b5e7c180011db1f08)
 
@@ -37,7 +37,7 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 [Enquiries on SC 401](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
 
-[Enquriries on Customs Documentation](https://form.gov.sg/#!/5eb0c6175ef87a00115694cb)
+[Enquiries on Customs Documentation](https://form.gov.sg/#!/5eb0c6175ef87a00115694cb)
 
 [Reporting of Customs Offences](https://form.gov.sg/5e995f095dad670011b20509)
 
