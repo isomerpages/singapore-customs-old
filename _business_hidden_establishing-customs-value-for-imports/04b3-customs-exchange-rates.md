@@ -10,15 +10,15 @@ If any component of the customs value is settled in a foreign currency, that val
 
 An example is shown below:
 
-Question
+  -Question
 
-Company A sold 100 boxes of batteries to Company B at Cost, Insurance and Freight (CIF) US$10,000 but states that payment should be settled in Singapore Dollars at S$13,700. Which of the 2 currencies should be used to determine the customs value?
+  Company A sold 100 boxes of batteries to Company B at Cost, Insurance and Freight (CIF) US$10,000 but states that payment should be     settled in Singapore Dollars at S$13,700. Which of the 2 currencies should be used to determine the customs value?
 
-Answer
+  -Answer
 
-Since Company B paid for the batteries in Singapore Dollars, the amount of S$13,700 should be used to determine the customs value.
+  Since Company B paid for the batteries in Singapore Dollars, the amount of S$13,700 should be used to determine the customs value.
 
-However, if Company B is to pay US$10,000 to Company A, then the exchange rate should be used to convert US$10,000 to Singapore Dollars to determine the customs value.
+  However, if Company B is to pay US$10,000 to Company A, then the exchange rate should be used to convert US$10,000 to Singapore         Dollars to determine the customs value.
 
 ## Weekly Exchange Rates
 
