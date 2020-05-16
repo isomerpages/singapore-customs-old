@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/temporary-import-scheme/qualifying-goods-
 third_nav_title: Temporary Import 
 ---
 
-## Qualifying Goods and Purposes
+# Qualifying Goods and Purposes
 
 | **S/N** | **Type of Goods** | **Purpose** |
 |--|--|--|
