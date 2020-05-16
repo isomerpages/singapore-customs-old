@@ -4,11 +4,11 @@ permalink: /businesses/importing-goods/temporary-import-scheme/hand-carried-nc-g
 third_nav_title: Alternatives to the Temporary Import Scheme
 ---
 
-## Temporary Importation/Exportation of Hand-carried Non-commercial Goods
+# Temporary Importation/Exportation of Hand-carried Non-commercial Goods
 
 Travellers who wish to hand-carry items belonging to an organisation for activities, such as concerts, church and school camps, into or out of Singapore for non-commercial purposes may apply to import or export such items under GST relief, subject to Singapore Customs' approval.
 
-**Application Procedures**
+## Application Procedures
 
 1.  Seek approval from the Competent Authority if you are temporarily importing or exporting controlled goods. Please refer to the  [controlled goods for import](/businesses/importing-goods/controlled-and-prohibited-goods-for-import)  and  [controlled goods for export](/businesses/exporting-goods/controlled-and-prohibited-goods-for-export).
 2.  Submit the following documents at least 5 working days before the date of arrival to/departure from Singapore:
