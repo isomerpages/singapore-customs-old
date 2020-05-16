@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/temporary-import-scheme/duration-and-exte
 third_nav_title: Temporary Export 
 ---
 
-## Temporary Export Duration and Extension
+# Temporary Export Duration and Extension
 
 For goods temporarily exported as trade samples or for repair purposes, these goods have to be re-imported into Singapore within 3 months from the date of export.
 
