@@ -4,11 +4,11 @@ permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-v
 third_nav_title: Import Certificate and Delivery Verification
 ---
 
-## Delivery Verification
+# Delivery Verification
 
 The exporting country may require a Delivery Verification (DV) after you have imported your goods. Please check if your exporter requires a DV when applying for an Import Certificate (IC).
 
-### Applying for Delivery Verification
+## Applying for Delivery Verification
 
 You should apply for a DV from Singapore Customs if it is required by your exporter. There are two types of DVs - **partial delivery**  and  **complete delivery**. For both types of DVs, please:
 
@@ -17,7 +17,7 @@ You should apply for a DV from Singapore Customs if it is required by your expor
 
 This information is needed to verify the delivery of your goods into Singapore.
 
-### Verification for Partial Delivery
+## Verification for Partial Delivery
 
 This refers to verifying the delivery of the goods under the IC when they are imported into Singapore over different shipments.
 
@@ -32,7 +32,7 @@ For verification of partial delivery, please upload:
 
 We will endorse the Statement of Delivery Verification and upload the copy to you via NTP. When all the goods under the IC have been imported, you should apply for verification for the complete delivery.
 
-### Verification for Complete Delivery
+## Verification for Complete Delivery
 
 This refers to the verification of the delivery when all the goods under the IC have been imported into Singapore.
 
@@ -49,7 +49,7 @@ We will verify that the goods in its stated quantity have arrived in Singapore b
 
 After verification, you should send the ICDV to the exporter without delay.
 
-### Submitting Your DV Application
+## Submitting Your DV Application
 
 For **Complete DV** or  **Partial DV**, please submit your documents to us via NTP.
 
