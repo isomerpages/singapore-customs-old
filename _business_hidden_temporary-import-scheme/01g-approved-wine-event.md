@@ -1,14 +1,14 @@
 ---
 title: Approved Wine Event
 permalink: /businesses/importing-goods/temporary-import-scheme-2/approved-wine-event
-third_nav_title: Temporary Import Scheme
+third_nav_title: For more information
 ---
 
 # Approved Wine Event
 
 Duty exemption and GST relief are granted to exhibitors who import wine for sampling purposes at approved events.
 
-### Qualifying Criteria
+## Qualifying Criteria
     
    -   The wine imports must be used at events approved under the [Business Events in Singapore (BEiS) scheme](https://www.visitsingapore.com/mice/en/plan-your-event/event-assistance-schemes/beis/overview/) administered by the Singapore Tourism Board.
 
@@ -45,7 +45,7 @@ Duty exemption and GST relief are granted to exhibitors who import wine for samp
 | **2206.00.10** | Cider & Perry |
 | **2206.00.99** | Other fermented beverages or mixtures of fermented beverages and non-alcoholic beverages not elsewhere specified |
 
-### Application Procedures
+## Application Procedures
    To apply for duty exemption and GST relief, the event organiser should:
 
 1) Seek prior approval from the Singapore Food Agency (SFA) for the import of approved wines.
@@ -68,7 +68,7 @@ Duty exemption and GST relief are granted to exhibitors who import wine for samp
 
 6) Take note of the **additional requirements** below.
 
-### Additional Requirements
+## Additional Requirements
     
  **Labelling of Wine Bottles**
 
