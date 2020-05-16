@@ -71,7 +71,7 @@ collections:
     output: true
   importing-dutiable-motor-vehicles:
     output: true
-  guide-to-importing-dutiable-motor-vehicles:
+  business_hidden_importing-dutiable-motor-vehicles-steps:
     output: true
   importing-goods-for-destruction-or-recycling:
     output: true
