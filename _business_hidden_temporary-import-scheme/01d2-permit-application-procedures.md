@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/temporary-import-scheme/permit-applicatio
 third_nav_title: Temporary Import 
 ---
 
-## Permit Application Procedures
+# Permit Application Procedures
 
 ![](/images/permit-application-procedures1.jpg)
 
