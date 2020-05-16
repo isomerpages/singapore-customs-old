@@ -65,9 +65,7 @@ collections:
     output: true
   importing-by-post-or-courier-service:
     output: true
-  temporary-import-scheme:
-    output: true
-  temporary-import-scheme-2: 
+  business_hidden_temporary-import-scheme:
     output: true
   importing-dutiable-motor-vehicles:
     output: true
