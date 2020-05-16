@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/temporary-import-scheme/ata-carnet
 third_nav_title: Alternatives to the Temporary Import Scheme
 ---
 
-## ATA Carnet
+# ATA Carnet
 
 A foreign entity such as a foreign exhibitor can use an ATA Carnet to temporarily import into Singapore goods (excluding intoxicating liquors and tobacco) for display or use at exhibitions, fairs or other similar events.
 
