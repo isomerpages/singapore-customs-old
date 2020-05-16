@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/temporary-import-scheme/temporary-import-
 third_nav_title: Temporary Import 
 ---
 
-## Permit Application Procedures for Temporary Import of Scientific or Technical Goods
+# Permit Application Procedures for Temporary Import of Scientific or Technical Goods
 
 1.  Seek approval from the relevant Competent Authority (CA) if you are importing scientific or technical goods that are controlled.
 2.  Submit the following supporting documents to Singapore Customs for assessment of eligibility under the TIS:
