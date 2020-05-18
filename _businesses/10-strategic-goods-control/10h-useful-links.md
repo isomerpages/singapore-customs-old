@@ -101,7 +101,6 @@ third_nav_title: Strategic Goods Control
 -   [US Department of State (Directorate of Defense Trade Controls)](https://www.pmddtc.state.gov/ddtc_public)
 -   [US Department of Commerce (Bureau of Industry and Security)](http://www.bis.doc.gov/about/index.htm)
 -   [US Department of Commerce (Bureau of Industry and Security) - The Elements of an Effective Export Compliance Program](/documents/businesses/the-elements-of-an-effective-export-compliance-program.pdf)
--   [US Export Administration Regulations](http://www.access.gpo.gov/bis/index.html)
 -   [US Department of Homeland Security (Bureau of Customs and Border Protection)](http://www.cbp.gov/)
 -   [US Department of Homeland Security (Bureau of Immigration and Customs Enforcement)](http://www.ice.gov/)
 -   [US Department of Energy (National Nuclear Security Administration)](http://www.nnsa.doe.gov/)
