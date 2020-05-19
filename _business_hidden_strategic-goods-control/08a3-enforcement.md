@@ -68,4 +68,4 @@ Penalties for offences under the SGCA include seizure and forfeiture of goods, f
 
 Companies which violate any regulatory requirement relating to SGCA may also be liable to enforcement actions under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and the Chemical Weapons (Prohibition) Act (CWPA).
 
-You may view more information on prescribed offences and penalties under the  [Customs Act, SGCA, RIEA and CWPA](/businesses/acts-and-subsidiary-legislation/overview).
+You may view more information on prescribed offences and penalties under the  [Customs Act, SGCA, RIEA and CWPA](/businesses/acts-and-subsidiary-legislation/overview){:target="_blank"}.
