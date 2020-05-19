@@ -4,7 +4,7 @@ permalink: /businesses/chemical-weapons-convention/licensing-requirements/defini
 third_nav_title: Additional Information
 ---
 
-## Definition of activity
+# Definition of activity
 
 | **Controlled Activity** | **Definition** |
 |--|--|
