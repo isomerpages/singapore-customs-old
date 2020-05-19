@@ -21,7 +21,7 @@ Singapore Customs is the National Authority to administer the SGCA. The function
 -   Serving as the focal point for local and international enquiries
 
 
-Singapore Customs also coordinates closely with other government agencies such as the  [Immigration & Checkpoints Authority](http://www.ica.gov.sg/)  and  [Singapore Police Force](http://www.spf.gov.sg/)  to enforce the SGCA.
+Singapore Customs also coordinates closely with other government agencies such as the  [Immigration & Checkpoints Authority](http://www.ica.gov.sg/){:target="_blank"}  and  [Singapore Police Force](http://www.spf.gov.sg/){:target="_blank"}  to enforce the SGCA.
 
 ## For more information on: 
 
