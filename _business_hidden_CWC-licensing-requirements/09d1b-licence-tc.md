@@ -4,7 +4,7 @@ permalink: /businesses/chemical-weapons-convention/licensing-requirements/licenc
 third_nav_title: Additional Information
 ---
 
-## Licence Terms and Conditions
+# Licence Terms and Conditions
 
 You are required to abide by the [terms and conditions](/documents/businesses/nacwclicence-term-and-conditions.pdf) stated in the CWC licence.
 
