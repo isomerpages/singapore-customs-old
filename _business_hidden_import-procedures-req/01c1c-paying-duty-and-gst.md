@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/paying-duty-and-gst
 third_nav_title: Importing Requirements
 ---
 
-### Paying Duty and GST
+# Paying Duty and GST
 You are responsible for the payment of duties and GST (taxes) upon import of your goods.
 
 Payment can be made via:
