@@ -51,7 +51,7 @@ collections:
     output: true
   inspections: 
     output: true
-  licensing-requirements: 
+  business_hidden_CWC-licensing-requirements: 
     output: true
   business_hidden_strategic-goods-permit-and-reg-req: 
     output: true
