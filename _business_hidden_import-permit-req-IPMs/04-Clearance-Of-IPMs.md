@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/importing-investment-pr
 third_nav_title: Importing Investment Precious Metals IPM
 ---
 
-## Clearance Of IPMs
+# Clearance Of IPMs
 
 During cargo clearance, the relevant import permit (if required) and supporting documents (for example, commercial invoice, packing list, Bill of Lading/Airway Bill) must be produced to the checkpoint officers for verification.
     
