@@ -4,13 +4,13 @@ permalink: /businesses/strategic-goods-control/permit-and-registration-requireme
 third_nav_title: Permit and Registration Requirements
 ---
 
-## Brokering
+# Brokering
 
 Brokering is the arrangement, negotiation, or the act of facilitating the arrangement or negotiation, of a contract to acquire or dispose controlled goods or technology, with reason to believe the contract will, or is likely to, result in the removal of the goods and technology from one foreign country to another.
 
 Before engaging in any brokering activities, you must submit a brokering registration form or a brokering permit application to Singapore Customs.
 
-### Registering as a Broker
+## Registering as a Broker
 
 You should register as a broker with Singapore Customs at least 14 working days before brokering in arms, explosives and other items listed in the  [Strategic Goods (Control) (Brokering) Order 2007](http://sso.agc.gov.sg/SL/SGCA2002-S640-2007).
 
@@ -28,7 +28,7 @@ In addition, registered brokers are required to submit a  [half-yearly report on
 
 Your application should be processed within 7 working days if the information and documents provided are complete. However, some applications may take longer to process, depending on the nature of the item, destination or parties involved in the transaction.
 
-### Applying for a Brokering Permit
+## Applying for a Brokering Permit
 
 You will need a brokering permit if you:
 
