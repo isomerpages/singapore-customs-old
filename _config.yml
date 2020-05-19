@@ -35,7 +35,7 @@ collections:
     output: true
   individuals_hidden_going-through-customs:
     output: true
-  registration-matters:
+  business_hidden_registration-procedures:
     output: true
   business-resources:
     output: true
