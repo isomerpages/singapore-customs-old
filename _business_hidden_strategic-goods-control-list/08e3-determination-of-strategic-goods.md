@@ -8,7 +8,7 @@ third_nav_title: Strategic Goods Control List
 
 ## How to determine strategic goods?
 
-To determine if your product is controlled under the Strategic Goods (Control) Act (SGCA), please compare your product’s description and specification against the descriptions in the  [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list). If your product meets the stated descriptions, it is controlled as strategic goods under the SGCA. You may refer to this  [guidebook](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/guidebook-on-the-determination-of-strategic-goods_3-oct-2019.pdf?la=en&hash=FB74FB31B8431E5AE1E57108CBCCE99A67928178) for more information.
+To determine if your product is controlled under the Strategic Goods (Control) Act (SGCA), please compare your product’s description and specification against the descriptions in the  [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list){:target="_blank"}. If your product meets the stated descriptions, it is controlled as strategic goods under the SGCA. You may refer to this  [guidebook](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/guidebook-on-the-determination-of-strategic-goods_3-oct-2019.pdf?la=en&hash=FB74FB31B8431E5AE1E57108CBCCE99A67928178){:target="_blank"} for more information.
 
 ## Determination Database
 
@@ -18,7 +18,7 @@ _Disclaimer:_ _The determination of strategic goods provided here is for general
 
 ## What if I am unable to determine if my product is controlled as strategic goods?
 
-If you are unable to determine whether your product is controlled as strategic goods after going through the Strategic Goods Control List and Determination Database, you may submit an  [Application for Determination of Strategic Goods](https://form.gov.sg/5d78b89628467500121ef098) to Singapore Customs for advice on the product determination.
+If you are unable to determine whether your product is controlled as strategic goods after going through the Strategic Goods Control List and Determination Database, you may submit an  [Application for Determination of Strategic Goods](https://form.gov.sg/5d78b89628467500121ef098){:target="_blank"} to Singapore Customs for advice on the product determination.
 
 Please note it is not necessary to submit this application if you are able to classify your products. It is a quicker option for you to carry out your own determination.
 
@@ -46,13 +46,13 @@ You will need to submit these supporting documents for your product where applic
 -   Detailed technical specifications and data sheets (besides the weight and dimension)
 -   Material Safety Data Sheet (MSDS) or Certificate of Analysis (COA), if your product contains chemicals (providing the full chemical composition adding up to 100%)
 -   Drawings or blueprints
--   [Product Questionnaire](/eservices/customs-forms-and-service-links), if your product is a machine tool, biological product or if the product contains information security
+-   [Product Questionnaire](/eservices/customs-forms-and-service-links){:target="_blank"}, if your product is a machine tool, biological product or if the product contains information security
 -   Export authorisation from the originating country (for re-export of goods from Singapore)
 
 Please ensure the supporting documents are clear and properly numbered, with the total number of pages indicated at the top right-hand corner of every page. If the supporting documents are not in English, please provide its corresponding translation in English.
 
 ## How do I submit the application?
 
-Please submit your completed  [application](https://form.gov.sg/5d78b89628467500121ef098)  with the supporting documents.
+Please submit your completed  [application](https://form.gov.sg/5d78b89628467500121ef098){:target="_blank"}  with the supporting documents.
 
 The application will be processed when all supporting documents have been received. Additional information may be requested during the processing of application.
