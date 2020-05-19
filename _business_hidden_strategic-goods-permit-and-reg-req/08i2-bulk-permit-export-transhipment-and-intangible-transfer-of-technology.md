@@ -51,7 +51,7 @@ We will conduct a TradeFIRST assessment on the company during a site validation,
 
 If your strategic goods transactions are pre-approved under the Bulk Permit, you should apply for a TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents.
 
-For the transfer of strategic goods such as arms, munitions and chemical weapons precursors which are also controlled by other  [Competent Authorities (CAs)](/about-us/national-single-window/overview/competent-authorities-requirements), you need to submit only one TradeNet permit application, as the application will also be routed to the relevant CAs for processing.
+For the transfer of strategic goods such as arms, munitions and chemical weapons precursors which are also controlled by other  [Competent Authorities (CAs)](/businesses/National-Single-Window/Overview/Competent-Authorities-Requirements), you need to submit only one TradeNet permit application, as the application will also be routed to the relevant CAs for processing.
 
 ## Key Responsibilities of a Bulk Permit Holder
 
