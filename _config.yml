@@ -89,7 +89,7 @@ collections:
     output: true 
   business_hidden_export-procedures-more:
     output: true   
-  security-lodgement:
+  business_hidden_registration-procedures:
     output: true    
   business_hidden_apply-update-renew-terminate-declarant-agent:
     output: true   
