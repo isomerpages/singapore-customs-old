@@ -8,7 +8,7 @@ third_nav_title: Strategic Goods Control
 
 ## Multilateral Export Control Regimes
 
--   [Australia Group (AG)](http://www.australiagroup.net/)
+-   [Australia Group (AG)](http://www.australiagroup.net/){:target="_blank"}
 -   [Missile Technology Control Regime (MTCR)](http://mtcr.info/)
 -   [Nuclear Suppliers Group (NSG)](http://www.nuclearsuppliersgroup.org/)
 -   [Wassenaar Arrangement (WA)](http://www.wassenaar.org/)
