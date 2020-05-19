@@ -4,7 +4,7 @@ permalink: /businesses/registration-matters/registration-procedures/activate-cus
 third_nav_title: Registration Procedures
 ---
 
-## Activate Customs Account
+# Activate Customs Account
 
 Declaring Entities that intend to engage in import and/or export activities in Singapore, or appoint a Declaring Agent to apply for customs import, export and transhipment permits or certificates through TradeNet have to:
 
