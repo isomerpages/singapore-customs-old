@@ -4,7 +4,7 @@ permalink: /businesses/registration-matters/registration-procedures/register-cla
 third_nav_title: Registration Procedures
 ---
 
-## Register Claimants
+# Register Claimants
 
 A Claimant registration is required before a Claimant Organisation can be granted the Goods and Services Tax (GST) relief and/or duty exemption for the following scenarios only:
 
