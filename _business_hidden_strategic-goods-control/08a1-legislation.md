@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control-1/overview/legislation
 third_nav_title: Overview
 ---
 
-## Legislation
+# Legislation
 
 Singapore’s regulatory controls on strategic goods are based on the Strategic Goods (Control) Act and its subsidiary legislation.
 
@@ -12,7 +12,7 @@ Singapore’s regulatory controls on strategic goods are based on the Strategic 
 
 The  [Strategic Goods (Control) Act (SGCA)](https://sso.agc.gov.sg/Act/SGCA2002)  regulates the export, transhipment, transit, intangible transfer of technology and brokering of strategic goods and strategic goods technology. It prescribes a “catch-all” provision where all goods or technology intended or likely to be used for weapons of mass destruction purposes will be subject to controls.
 
-**Subsidiary Legislation**
+## Subsidiary Legislation
 
 **Strategic Goods (Control) Regulations**
 
