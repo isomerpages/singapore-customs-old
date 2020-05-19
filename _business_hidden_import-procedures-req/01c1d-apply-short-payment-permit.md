@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/apply-short-payment-per
 third_nav_title: Importing Requirements
 ---
 
-### Apply for a Short-Payment Permit
+# Apply for a Short-Payment Permit
 
 A short-payment permit application is required to be taken up to account for the short-fall in duty and/or GST paid for goods that had been imported and declared previously. This may include but not limited to the following scenarios:
 
