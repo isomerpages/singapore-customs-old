@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/apply-customs-import-pe
 third_nav_title: Importing Requirements
 ---
 
-### Apply for a Customs Import Permit
+# Apply for a Customs Import Permit
     
  To import goods into Singapore, you will need to:
     
