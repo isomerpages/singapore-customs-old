@@ -4,11 +4,11 @@ permalink: /businesses/registration-matters/registration-procedures/security-lod
 third_nav_title: Security Lodgement
 ---
 
-## What is the Amount of Security Required?
+# What is the Amount of Security Required?
 
 The amount of security required for a permit application is dependent on the movement type and goods type:
 
-### Temporary Importation of Goods for Approved Purposes
+## Temporary Importation of Goods for Approved Purposes
 
 |Movement Type| Goods Type: Dutiable Goods* |Motor Vehicles|
 |--|--|--|
@@ -23,7 +23,7 @@ The amount of security required for a permit application is dependent on the mov
 | **Inward Movement** <br> [Temporary Import (TI) of Goods for Approved Purposes](/businesses/importing-goods/temporary-import-scheme) | Non-GST Registered Entity |100% of potential GST|50% of potential GST|
 
 
-### Movements Involving Dutiable Goods not under Temporary Import
+## Movements Involving Dutiable Goods not under Temporary Import
 
 | Movement  Type | Dutiable Goods*  |
 |--|--|
