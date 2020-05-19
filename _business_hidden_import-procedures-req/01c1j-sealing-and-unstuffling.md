@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/sealing-and-unstuffling
 third_nav_title: Importing Requirements
 ---
 
-### Sealing and Unstuffing
+# Sealing and Unstuffing
 
 Officers at the entry points may seal any package or container before releasing the goods. Such sealed goods must be unpacked or unstuffed under Customs’ supervision.
 
