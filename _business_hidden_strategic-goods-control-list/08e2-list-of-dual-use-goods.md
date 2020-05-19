@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control/strategic-goods-control-list/list
 third_nav_title: Strategic Goods Control List
 ---
 
-## List of Dual-use Goods
+# List of Dual-use Goods
 
 The List of Dual-Use Goods includes a wide range of goods that are designed for commercial applications, but can have military applications or potentially be used as precursors or components of weapons of mass destruction.
 
