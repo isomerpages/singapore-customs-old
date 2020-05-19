@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/controlled-prohibited-g
 third_nav_title: Importing Requirements
 ---
 
-### Controlled & Prohibited Goods
+# Controlled & Prohibited Goods
     
  Before importing your goods, you are required to check if the goods are prohibited for import, or are subject to authorisation before they may be imported.
     
