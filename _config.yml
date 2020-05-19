@@ -61,7 +61,7 @@ collections:
     output: true
   business_hidden_establishing-customs-value-for-imports: 
     output: true
-  import-procedures: 
+  business_hidden_import-procedures-req: 
     output: true
   importing-by-post-or-courier-service:
     output: true
