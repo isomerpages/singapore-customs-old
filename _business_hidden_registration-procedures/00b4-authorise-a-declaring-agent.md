@@ -4,7 +4,7 @@ permalink: /businesses/registration-matters/registration-procedures/authorise-a-
 third_nav_title: Registration Procedures 
 ---
 
-## Authorise a Declaring Agent
+# Authorise a Declaring Agent
 
 The day after the approval of your Inter-Bank GIRO (IBG) application or successful registration of your security with Singapore Customs, the Key Personnel of your entity whose particulars are registered with a Unique Entity Number (UEN) Issuance Agency such as Accounting and Corporate Regulatory Authority, Registry of Societies etc. or the Authorised Personnel of the entity may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)  to use your:
 
