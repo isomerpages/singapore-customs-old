@@ -4,19 +4,19 @@ permalink: /businesses/strategic-goods-control-1/overview/scope-of-control
 third_nav_title: Overview
 ---
 
-## Scope of Control
+# Scope of Control
 
 ![strategic goods control act1](/images/strategic%20goods%20control%20act1.png)
 
-### Controlled Items
+## Controlled Items
 
 The [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list) specifies the items that are subject to controls under the  [Strategic Goods (Control) Act (SGCA)](https://sso.agc.gov.sg/Act/SGCA2002).
 
-### Catch-all Controls
+## Catch-all Controls
 
 In addition, the SGCA prescribes a “catch-all” provision where all goods and technology  **intended or likely to be used for weapons of mass destruction purposes will be subject to controls.**
 
-### Controlled Activities
+## Controlled Activities
 
 The SGCA regulates the transfer and brokering of strategic goods and strategic goods technology, and any other goods or technology that can be used to develop, produce, operate, stockpile or acquire weapons of mass destruction, and missiles capable of delivering such weapons.
 
