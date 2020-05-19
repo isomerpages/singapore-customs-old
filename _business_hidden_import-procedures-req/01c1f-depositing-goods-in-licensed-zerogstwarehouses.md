@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/depositing-goods-in-lic
 third_nav_title: Importing Requirements
 ---
 
-### Depositing Goods in Licensed or Zero-GST Warehouses
+# Depositing Goods in Licensed or Zero-GST Warehouses
 
 Dutiable goods imported and stored in a [licensed warehouse](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme) do not incur duty and GST. Duty and GST are only payable when these goods are removed from the licensed warehouse into customs territory for local use.
 
