@@ -4,7 +4,7 @@ permalink: /businesses/strategic-goods-control/strategic-goods-control-list/list
 third_nav_title: Strategic Goods Control List
 ---
 
-## List of Military Goods
+# List of Military Goods
 
 The List of Military Goods includes items such as arms, ammunitions, bombs, tanks, imaging devices, military aircrafts, warships and chemicals.
 
