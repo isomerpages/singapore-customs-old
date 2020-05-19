@@ -19,4 +19,4 @@ The  [List of Military Goods](/businesses/strategic-goods-control/strategic-good
 
 ## For more information on:
 
-[![](/images/strategic-goods.jpg)](/businesses/strategic-goods-control/strategic-goods-control-list/determination-of-strategic-goods)
+[![](/images/strategic-goods.jpg)](/businesses/strategic-goods-control/strategic-goods-control-list-2/determination-of-strategic-goods)
