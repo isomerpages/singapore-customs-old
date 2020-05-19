@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/retaining-trade-documen
 third_nav_title: Importing Requirements
 ---
 
-### Retaining your Trade Documents
+# Retaining your Trade Documents
 
 You and your Declaring Agent are required to keep documents and records relating to the purchase, import, sale or export of your goods for at least 5 years from the date of permit application approval.
 
