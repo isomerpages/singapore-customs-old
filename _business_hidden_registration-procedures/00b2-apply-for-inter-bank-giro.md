@@ -4,7 +4,7 @@ permalink: /businesses/registration-matters/registration-procedures/apply-for-in
 third_nav_title: Registration Procedures
 ---
 
-## Application Procedure
+# Application Procedure
 
 [Declaring Entities](/businesses/registration-matters/registration-procedures/activate-customs-account)  that wish to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Customs from your bank account to Singapore Customs directly (instead of through their  [Declaring Agent](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)), and all Declaring Agents must apply for an Inter-Bank GIRO (IBG) with Singapore Customs.
 
@@ -19,7 +19,7 @@ When the IBG application is approved, the Primary Contact (or the Secondary Cont
 
 If you have an existing IBG with Singapore Customs and wish to change the bank account used for your IBG, you are required to submit a new IBG application.
 
-### Authorise a Declaring Agent
+## Authorise a Declaring Agent
 
 You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"} to use your IBG for the payment of duties and GST for your customs permits.
 
@@ -27,7 +27,7 @@ Learn more about authorising Declaring Agents [here](/businesses/registration-ma
 
 When your customs permit application requiring duty and/or GST payment is approved, the payment mode will be denoted by the  [permit condition(s) for payment](/businesses/importing-goods/import-procedures/).
 
-### Checking your IBG Deduction Status
+## Checking your IBG Deduction Status
 
 Your bank statement will reflect successful IBG deductions initiated by Singapore Customs. The format and type of information such as permit number reflected in the bank statement may differ for different banks.
 
