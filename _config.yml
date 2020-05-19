@@ -49,7 +49,7 @@ collections:
     output: true
   business_hidden_chemical-weapons-convention: 
     output: true
-  inspections: 
+  business_hidden_CWC-inspections: 
     output: true
   business_hidden_CWC-licensing-requirements: 
     output: true
@@ -93,7 +93,7 @@ collections:
     output: true    
   business_hidden_apply-update-renew-terminate-declarant-agent:
     output: true   
-  importing-investment-precious-metals:   
+  business_hidden_import-permit-req-IPMs:   
     output: true   
   business_hidden_competent-authorities-requirements:   
     output: true  
