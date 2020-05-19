@@ -55,7 +55,7 @@ collections:
     output: true
   strategic-goods-control: 
     output: true
-  strategic-goods-control-1: 
+  business_hidden_strategic-goods-control: 
     output: true
   business_hidden_iras-scheme: 
     output: true
