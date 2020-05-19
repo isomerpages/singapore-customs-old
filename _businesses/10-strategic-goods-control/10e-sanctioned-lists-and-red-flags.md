@@ -10,7 +10,7 @@ third_nav_title: Strategic Goods Control
 
 As a member of the United Nations, Singapore implements the  [Resolutions](http://www.un.org/en/sc/documents/resolutions/index.shtml)  passed by the United Nations Security Council (UNSC) through our domestic laws. These include arms embargoes and sanctions on missiles or nuclear related goods. Activities which contravene the decisions of the United Nations Security Council (UNSC) in their Resolutions are prohibited.
 
-Please refer to the  **[United Nations Security Sanctions](/businesses/united-nations-security-council-sanctions/)** page for more information.
+Please refer to the  **[United Nations Security Sanctions](/businesses/united-nations-security-council-sanctions/){:target="_blank"}** page for more information.
 
 You are also advised to look out for red flags to ensure your trading activities comply with Singapore’s domestic laws and the UNSC Resolutions. Please note Singapore does not enforce unilateral sanctions imposed by other countries.
 
@@ -42,7 +42,7 @@ Nuclear materials are highly toxic and hazardous. Below is a list of things you 
 
 ## Unilateral Sanctioned Lists
 
-In addition to  [United Nations Security Council (UNSC) sanctions](/businesses/united-nations-security-council-sanctions/), certain countries also impose unilateral sanctions.
+In addition to  [United Nations Security Council (UNSC) sanctions](/businesses/united-nations-security-council-sanctions/){:target="_blank"}, certain countries also impose unilateral sanctions.
 
 While Singapore does not enforce the laws of other countries, parties in Singapore may be affected by unilateral sanctions imposed by other countries as they may have extraterritorial implications.
 
@@ -51,10 +51,10 @@ Note: The links below are meant to be a general guide and do not constitute a co
 
 | Country | Lists |
 |--|--|
-| **Japan** | [List of End-Users for Catch-all Controls](http://www.meti.go.jp/policy/anpo/englishpage.html) |
-| **European Union** | [Common Foreign and Security Policy (CFSP) of the European Union Sanctions Policy](http://eeas.europa.eu/cfsp/sanctions/index_en.htm) |
-| **United Kingdom** | [Sanctions, embargoes and restrictions](https://www.gov.uk/sanctions-embargoes-and-restrictions) <br> [Current arms embargoes and other restrictions](https://www.gov.uk/current-arms-embargoes-and-other-restrictions) |
-| **United States** | [**US Bureau of Industry and Security**](http://www.bis.doc.gov/): <br><br> - [Denied Persons List](http://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/denied-persons-list) <br> - [Unverified List](http://www.bis.doc.gov/enforcement/unverifiedlist/unverified_parties.html) <br> - [Entity List](https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list) |
+| **Japan** | [List of End-Users for Catch-all Controls](http://www.meti.go.jp/policy/anpo/englishpage.html){:target="_blank"} |
+| **European Union** | [Common Foreign and Security Policy (CFSP) of the European Union Sanctions Policy](http://eeas.europa.eu/cfsp/sanctions/index_en.htm){:target="_blank"} |
+| **United Kingdom** | [Sanctions, embargoes and restrictions](https://www.gov.uk/sanctions-embargoes-and-restrictions){:target="_blank"} <br> [Current arms embargoes and other restrictions](https://www.gov.uk/current-arms-embargoes-and-other-restrictions){:target="_blank"} |
+| **United States** | [**US Bureau of Industry and Security**](http://www.bis.doc.gov/){:target="_blank"}: <br><br> - [Denied Persons List](http://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/denied-persons-list){:target="_blank"} <br> - [Unverified List](http://www.bis.doc.gov/enforcement/unverifiedlist/unverified_parties.html){:target="_blank"} <br> - [Entity List](https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list){:target="_blank"} |
 |  |  [**US Department of State**](http://www.state.gov/): <br><br> - [Nonproliferation Sanctions](http://www.state.gov/t/isn/c15231.htm) <br> - [List of Statutorily Debarred Parties](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=7188dac6db3cd30044f9ff621f961914) <br> - [International Traffic in Arms Regulations](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)|
 |  | [**US Department of the Treasury**](http://www.treasury.gov/): <br><br> - [Sanctions Programs and Country Information](http://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx) <br>  - [Sanctions Programs and Country Information - North Korea Sanctions](https://www.treasury.gov/resource-center/sanctions/Programs/pages/nkorea.aspx) <br> - [Specially Designated Nationals List (SDN)](http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) <br> - [OFAC Recent Actions](http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx) |
 
