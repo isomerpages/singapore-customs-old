@@ -12,7 +12,7 @@ accordion:
 ---
 
 
-## Enforcement
+# Enforcement
 
 Singapore Customs conducts regular checks on activities carried out by traders to ensure legitimate transfers of strategic goods and strategic goods technology.
 
@@ -52,11 +52,11 @@ Summary of minor or technical offences that were compounded:
 
 -   Breach of condition of permit or registration
 
-### **Highlights of enforcement cases**
+## **Highlights of enforcement cases**
 
 {% include accordion.html %}
 
-### Key Offences
+## Key Offences
 
 Penalties for offences under the SGCA include seizure and forfeiture of goods, fines and imprisonment. Singapore Customs may offer to compound offences for a sum not exceeding S$10,000 per offence.
 
