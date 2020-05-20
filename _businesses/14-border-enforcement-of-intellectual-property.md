@@ -49,13 +49,13 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
   -   a statutory declaration that the particulars in the notice are true;
   -   a fee of S$200;
   -   security in the form of a deposit of money or a guarantee issued by a bank, finance company or insurance company in Singapore. Please contact Operations Management Branch, Singapore Customs, on the quantum of the security required. A guarantee shall remain in force (a) until 31 December of the following year in the case of an annual security; or (b) for 1 year in the case of a one-time security;
-      -   a Letter of Undertaking to bear all reasonable costs relating to the seizure, transportation, storage and disposal of the copies or goods;
-      -   (for trade marks) a copy of the certificate of registration issued by the Registrar of Trade Marks in relation to the registered trade mark specified in the notice, and evidence that the registration of the registered trade mark was duly renewed at all times;
-      -   (where the notice is given by a person as agent) evidence of the authority of the person giving the notice.
+  -   a Letter of Undertaking to bear all reasonable costs relating to the seizure, transportation, storage and disposal of the copies or goods;
+  -   (for trade marks) a copy of the certificate of registration issued by the Registrar of Trade Marks in relation to the registered trade mark specified in the notice, and evidence that the registration of the registered trade mark was duly renewed at all times;
+  -   (where the notice is given by a person as agent) evidence of the authority of the person giving the notice.
 
  3\. The fee of S$200 and security (if furnished in the form of deposit of money) shall be made via crossed cheque payable to "Singapore Customs" or bank transfer to Singapore Customs' bank account (DBS 001-028867-9).  
   
- 4\. The required documents shall be submitted to Singapore Customs (attention: Operations Management Branch) at 55 Newton Road, #10-01, Revenue House, Singapore 307987.  
+ 4\. The required documents shall be submitted to Singapore Customs (attention: Operations Management Branch) at 55 Newton Road, #07-01, Revenue House, Singapore 307987.  
   
 Template of Documents:
 
