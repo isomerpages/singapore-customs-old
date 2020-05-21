@@ -18,7 +18,7 @@ accordion:
 Singapore Customs administers the:
 
 -   [Customs Act](/businesses/acts-and-subsidiary-legislation/customs-act)
--   [Goods and Services Tax Act](/about-us/acts-and-subsidiary-legislation/goods-and-services-tax)  (jointly with the Inland Revenue Authority of Singapore)
+-   [Goods and Services Tax Act](/businesses/acts-and-subsidiary-legislation/goods-and-services-tax)  (jointly with the Inland Revenue Authority of Singapore)
 -   [Regulation of Imports and Exports Act](/about-us/acts-and-subsidiary-legislation/regulation-of-imports-and-exports-act)
 -   [Free Trade Zones Act](/about-us/acts-and-subsidiary-legislation/free-trade-zones-act)
 -   [Strategic Goods (Control) Act](/about-us/acts-and-subsidiary-legislation/strategic-goods-control-act)
