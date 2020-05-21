@@ -34,7 +34,7 @@ If the export is not subject to the above restrictions, you may apply for an exp
 
 ## Restrictions for Exports to Non-Member States
 
-**The following restrictions apply to exports of scheduled chemicals to [non-Member States](http://www.opcw.org/about-opcw/member-states/).** 
+**The following restrictions apply to exports of scheduled chemicals to [non-Member States](https://www.opcw.org/about-us/member-states){:target="_blank"}.** 
 
 | Schdeule | Schdeule 1 | Schdeule 2 | Schdeule 3|
 |---|---|---|---|
