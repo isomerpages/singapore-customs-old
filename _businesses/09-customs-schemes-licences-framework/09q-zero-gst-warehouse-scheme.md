@@ -42,6 +42,8 @@ To qualify for the Zero-GST Warehouse Scheme, the company must:
 -   Be responsible for the security, accountability and control of the goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the respective Zero-GST warehouse licence types
 
+## Storage of Listed Goods
+
 With effect from 1 Jan 2018, to mitigate money laundering and terrorism financing risks, Zero-GST warehouse licensees storing listed goods must:
 
 -   Seek Singapore Customs' approval in writing to store the listed goods
@@ -49,7 +51,15 @@ With effect from 1 Jan 2018, to mitigate money laundering and terrorism financin
 -   Obtain, maintain and update information on identity of the person(s) with control over the listed goods and the person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 -   Conduct screening, maintain and update the screening records of customers who deposit the goods, person(s) with control over the listed goods and person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 
-You may refer to this document on the  [HS Codes and HS descriptions](/documents/businesses/list-of-listed-goods.pdf)  for listed goods.
+You may refer to the HS Codes and HS descriptions for listed goods [here](/documents/businesses/list-of-listed-goods.pdf).
+
+## Filing of Suspicious Transaction
+
+Under Section 39 of the Corruption, Drug Trafficking and other Serious Crimes (Confiscation of Benefits) Act, Cap 65A, you have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar) to the Suspicious Transaction Reporting Office (STRO) if you know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of your trade, profession, businesss or employment.
+
+You also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
+
+You may refer to the red flag indicators for Zero-GST warehouse licensees [here](https://www.police.gov.sg/-/media/tradezerogstratedlicensedwarehousesindicators.pdf) to detect and file a STR with the STRO.
 
 ## Licence Fee
 
