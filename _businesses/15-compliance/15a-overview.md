@@ -19,10 +19,10 @@ Singapore Customs administers the:
 
 -   [Customs Act](/businesses/acts-and-subsidiary-legislation/customs-act)
 -   [Goods and Services Tax Act](/businesses/acts-and-subsidiary-legislation/goods-and-services-tax)  (jointly with the Inland Revenue Authority of Singapore)
--   [Regulation of Imports and Exports Act](/about-us/acts-and-subsidiary-legislation/regulation-of-imports-and-exports-act)
--   [Free Trade Zones Act](/about-us/acts-and-subsidiary-legislation/free-trade-zones-act)
--   [Strategic Goods (Control) Act](/about-us/acts-and-subsidiary-legislation/strategic-goods-control-act)
--   [Chemical Weapons (Prohibition) Act](/about-us/acts-and-subsidiary-legislation/chemical-weapons-prohibition-act)
+-   [Regulation of Imports and Exports Act](/businesses/acts-and-subsidiary-legislation/regulation-of-imports-and-exports-act)
+-   [Free Trade Zones Act](/businesses/acts-and-subsidiary-legislation/free-trade-zones-act)
+-   [Strategic Goods (Control) Act](/businesses/acts-and-subsidiary-legislation/strategic-goods-control-act)
+-   [Chemical Weapons (Prohibition) Act](/businesses/acts-and-subsidiary-legislation/chemical-weapons-prohibition-act)
 
 We strive for a high level of compliance by the trading community with Singapore’s trade and customs laws, through a multi-pronged approach of strengthening self-compliance, timely detection of violations, deterrence through effective enforcement and penalties, regular monitoring of compliance status, and risk reviews.
 
