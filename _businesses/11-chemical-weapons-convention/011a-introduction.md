@@ -8,13 +8,13 @@ accordion:
   - title: Verification Regime
     content: <br> Member States are also required to declare any chemical weapons-related activities and industrial activities relating to the  [scheduled chemicals](/businesses/chemical-weapons-convention/controlled-chemicals)  and facilities producing unscheduled discrete organic chemicals. <br><br> The declarations are the basis for data monitoring and on-site  [inspections](/businesses/chemical-weapons-convention/inspections)  at the declared facilities. These inspections seek to verify that activities at the declared facilities are in accordance with the obligations of the Convention, and consistent with the submitted declarations. It is a confidence-building measure for ensuring that Member States meet the requirements of the Convention, and serves as deterrence against any intention to contravene the provisions of the Convention. <br>
   - title: Member States
-    content: <br> For the full list of Member States, please click [here](http://www.opcw.org/about-opcw/member-states/){:target="_blank"}.     
+    content: <br> For the full list of Member States, please click [here](https://www.opcw.org/about-us/member-states){:target="_blank"}.     
 ---
 
 # Introduction
 The Chemical Weapons Convention (CWC) is an international treaty which prohibits the development, production, stockpiling, transfer and use of chemical weapons and stipulates their timely destruction. It entered into force in 1997.
 
-The  [Organisation for the Prohibition of Chemical Weapons](http://www.opcw.org/)  (OPCW) is the implementing body for the CWC. Its activities include monitoring the implementation status of  [Member States](http://www.opcw.org/html/db/members_ratifyer.html), conducting on-site verification measures and providing a forum for consultation and co-operation amongst Member States.
+The  [Organisation for the Prohibition of Chemical Weapons](http://www.opcw.org/){:target="_blank"} (OPCW) is the implementing body for the CWC. Its activities include monitoring the implementation status of  [Member States](https://www.opcw.org/about-us/member-states){:target="_blank"}, conducting on-site verification measures and providing a forum for consultation and co-operation amongst Member States.
 
 Singapore ratified the CWC in May 1997 and Singapore Customs is the designated National Authority (NA) for the CWC (NA(CWC)).
 
