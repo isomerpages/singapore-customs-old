@@ -14,7 +14,7 @@ Traders who are self-compliant will enjoy smoother business operations. For inst
 
 Singapore Customs holds regular dialogues with various segments of the trading community to understand their business needs and to keep them updated on regulatory developments. We also conduct outreach to specific traders to assist them in resolving compliance-related issues.
 
-Singapore Customs Academy conducts various training courses to equip traders with the relevant knowledge in technical areas and regulatory requirements. Interested traders may visit the  [Singapore Customs Academy website](http://www.customsacademy.gov.sg/)  for information on courses available.
+Singapore Customs Academy conducts various training courses to equip traders with the relevant knowledge in technical areas and regulatory requirements. Interested traders may visit the  [Singapore Customs Academy website](businesses/business-resources/courses-and-events)  for information on courses available.
 
 ## Best Practices
 
