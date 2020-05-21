@@ -55,7 +55,7 @@ You may refer to the HS Codes and HS descriptions for listed goods [here](/docum
 
 ## Filing of Suspicious Transaction
 
-Under Section 39 of the Corruption, Drug Trafficking and other Serious Crimes (Confiscation of Benefits) Act, Cap 65A, you have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar) to the Suspicious Transaction Reporting Office (STRO) if you know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of your trade, profession, businesss or employment.
+Under Section 39 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Cap 65A, you have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar) to the Suspicious Transaction Reporting Office (STRO) if you know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of your trade, profession, businesss or employment.
 
 You also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
 
