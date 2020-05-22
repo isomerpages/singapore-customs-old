@@ -4,7 +4,7 @@ permalink: /businesses/valuation-duties-taxes-fees/application-for-customs-rulin
 third_nav_title: Valuation, Duties, Taxes & Fees
 accordion:
   - title: Who can apply?
-    content: <br> The customs value is determined based on valuation principles from the Customs (Valuation) Regulations.<br><br> Importers may apply for a Customs ruling on valuation before importing your goods. Do refer to the valuation principles when preparing your application.<br>
+    content: <br> The customs value is determined based on valuation principles from the [Customs (Valuation) Regulations](https://sso.agc.gov.sg/SL/CA1960-RG8?DocDate=20020930&TransactionDate=20090831235959){:target="_blank"}.<br><br> Importers may apply for a Customs ruling on valuation before importing your goods. Do refer to the valuation principles when preparing your application.<br>
   - title: How to apply?
     content: <br> You may submit the  [Application For Customs Ruling on Classification of Goods](https://form.gov.sg/#!/5cb03b49a25e2c0010866861){:target="_blank"} with the following supporting documents <br><br> -   Letter of enquiry from applicant <br> -   The issue to be considered <br> -   Comprehensive description of the arrangement <br> -   Business reasons for the arrangement, if applicable <br> -   Copies of all relevant documents with the relevant parts of the passages identified <br> -   Proposed treatment with reasons and references to the appropriate laws <br> -   Previous request/enquiry on the same or a similar arrangement, if applicable. <br>
   - title: How much does it cost to apply? 
