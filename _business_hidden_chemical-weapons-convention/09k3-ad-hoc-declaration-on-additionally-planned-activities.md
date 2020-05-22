@@ -46,7 +46,7 @@ Licensees may submit the AH using the same declaration forms as the ADAA.
 
 2) Submit the application forms with supporting documents by:
 
--   Email:  [customs_nacwc@customs.gov.sg](mailto:customs_nacwc@customs.gov.sg2)
+-   Email:  [customs_nacwc@customs.gov.sg](mailto:customs_nacwc@customs.gov.sg)
 -   Mail: Singapore Customs  
     National Authority (Chemical Weapons Convention)  
     55 Newton Road #06-02  
