@@ -93,10 +93,10 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Declaration Cover For Reporting Template | [Word Doc](/documents/eservices/SC-A-069_Declaration_Cover_Template.doc) (263KB) <br><br> [PDF](/documents/eservices/SC-A-069_Declaration_Cover_Template.pdf) (268KB)|
-| 2. | Schedule 1 Chemical(s) (Template D.1) | [Word Doc](/documents/eservices/SC-A-071A_Template_D1_ADPA_for_S1_Chemicals.doc) (489KB) <br><br> [PDF](/documents/eservices/Sched-1-Chem-D.pdf) (326KB)|
-| 3. | Schedule 2 Chemical(s) (Template D.2) | [Word Doc](/documents/eservices/SC-A-071B_Template_D2_ADPA_for_S2_Chemicals.doc) (475KB)  <br><br> [PDF](/documents/eservices/Sched-2-Chem-D.pdf) (317KB) |
-| 4. | Schedule 3 Chemical(s) (Template D.3) | [Word Doc](/documents/eservices/SC-A-071C_Template_D3_ADPA_for_S3_Chemicals.doc) (440KB)  <br><br> [PDF](/documents/eservices/Sched-3-Chem-D.pdf) (302KB) |
-| 5. | Unscheduled Discrete Organic Chemical(s) (Template D.4) | [Word Doc](/documents/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.doc) (324KB) <br><br> [PDF](/documents/eservices/Unscheduled-Discrete-Organic-Chem.pdf) (277KB) |
+| 2. | Schedule 1 Chemical(s) (Template D.1) | [Word Doc](/documents/eservices/SC-A-071A_Template_D1_ADPA_for_S1_Chemicals.doc) (489KB) <br><br> [PDF](/documents/eservices/SC-A-071A_Template_D1_ADPA_for_S1_Chemicals.pdf) (326KB)|
+| 3. | Schedule 2 Chemical(s) (Template D.2) | [Word Doc](/documents/eservices/SC-A-071B_Template_D2_ADPA_for_S2_Chemicals.doc) (475KB)  <br><br> [PDF](/documents/eservices/SC-A-071B_Template_D2_ADPA_for_S2_Chemicals.pdf) (317KB) |
+| 4. | Schedule 3 Chemical(s) (Template D.3) | [Word Doc](/documents/eservices/SC-A-071C_Template_D3_ADPA_for_S3_Chemicals.doc) (440KB)  <br><br> [PDF](/documents/eservices/SC-A-071C_Template_D3_ADPA_for_S3_Chemicals.pdf) (302KB) |
+| 5. | Unscheduled Discrete Organic Chemical(s) (Template D.4) | [Word Doc](/documents/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.doc) (324KB) <br><br> [PDF](/documents/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.pdf) (277KB) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
