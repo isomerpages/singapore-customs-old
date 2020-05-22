@@ -20,7 +20,7 @@ The [HS/CA Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/port
 
 You can also check if a product is subject to control by any competent authority. If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authority controlling the product. You may click on the Competent Authority's acronym to access its contact information.
 
-In view of the current COVID-19 situation, you may refer to the HS Classification Reference for Covid-19 Medical Supplies on the [World Customs Organisation website (WCO)] (http://www.wcoomd.org/-/media/wco/public/global/pdf/topics/nomenclature/covid_19/hs-classification-reference_2_1-24_4_20_en.pdf?la=en){:target="_blank"} for more information.
+In view of the current COVID-19 situation, you may refer to the HS Classification Reference for Covid-19 Medical Supplies on the [World Customs Organisation website (WCO)]{:target="_blank"} for more information.
 
 ## Traders' Product Guide
 
@@ -28,7 +28,7 @@ The  [Traders’ Product Guide](https://www.customs.gov.sg/-/media/trader-produc
 
 ## Customs Ruling Database
 
-The [Customs Ruling Database](documents/businesses/Customs Ruling Database_Sep 19.xlsx)(/tradenet/portlets/search/searchcountryport/searchinitcountryport){:target="_blank"} is a list of commodities and their corresponding HS codes compiled from past Customs Rulings that were issued. You may refer to it to view products which had been assessed by Singapore Customs.
+The [Customs Ruling Database](documents/businesses/Customs Ruling Database_Sep 19.xlsx){:target="_blank"} is a list of commodities and their corresponding HS codes compiled from past Customs Rulings that were issued. You may refer to it to view products which had been assessed by Singapore Customs.
 
 The classification of goods provided here is for general reference only. Every effort has been made to ensure that the information presented is complete and accurate. Singapore Customs assumes no responsibility and accepts no liability for any action taken or omitted by you on the basis of the classification provided.
 
