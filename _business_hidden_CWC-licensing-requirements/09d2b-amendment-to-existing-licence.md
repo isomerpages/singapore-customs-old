@@ -28,7 +28,7 @@ Licensees may amend their existing licence to:
 
 3) For submission of multiple files, please zip the documents and submit as a single file in the appropriate form. For files that are larger than 7MB, you may submit your supporting documents via:
 
--   Email:  [customs_nacwc@customs.gov.sg](mailto:customs_nacwc@customs.gov.sg2)
+-   Email:  [customs_nacwc@customs.gov.sg](mailto:customs_nacwc@customs.gov.sg)
 -   Mail: Singapore Customs  
     National Authority (Chemical Weapons Convention)  
     55 Newton Road #06-02  
