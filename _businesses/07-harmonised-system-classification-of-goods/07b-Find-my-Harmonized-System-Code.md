@@ -28,7 +28,7 @@ The  [Traders’ Product Guide](https://www.customs.gov.sg/-/media/trader-produc
 
 ## Customs Ruling Database
 
-The [Customs Ruling Database](/documents/businesses/Customs Ruling Database_Sep 19.xlsx){:target="_blank"} is a list of commodities and their corresponding HS codes compiled from past Customs Rulings that were issued. You may refer to it to view products which had been assessed by Singapore Customs.
+The [Customs Ruling Database](/documents/businesses/Customs Ruling Database_Sep 19.xlsx) is a list of commodities and their corresponding HS codes compiled from past Customs Rulings that were issued. You may refer to it to view products which had been assessed by Singapore Customs.
 
 The classification of goods provided here is for general reference only. Every effort has been made to ensure that the information presented is complete and accurate. Singapore Customs assumes no responsibility and accepts no liability for any action taken or omitted by you on the basis of the classification provided.
 
