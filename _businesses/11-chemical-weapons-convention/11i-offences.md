@@ -4,7 +4,7 @@ permalink: /businesses/chemical-weapons-convention/offences
 third_nav_title: Chemical Weapons Convention (CWC)
 accordion:
   - title: Do
-    content: <br> ✔ Ensure you obtain a valid CWC licence before you engage in any controlled activities with scheduled chemicals. <br> ✔ Check if the scheduled chemicals are also controlled under other regulations. For example, export of scheduled chemicals above certain concentration thresholds would require the strategic goods export permit. <br> ✔ Check the list of OPCW [Member States](http://www.opcw.org/about-opcw/member-states/) and the relevant import and export restrictions for the scheduled chemicals in these Member States. <br> ✔ Perform checks to ensure that the end-user is a legitimate customer and not a sanctioned entity. <br> ✔ Ensure you apply for the correct permit type and fill up all the mandatory fields.
+    content: <br> ✔ Ensure you obtain a valid CWC licence before you engage in any controlled activities with scheduled chemicals. <br> ✔ Check if the scheduled chemicals are also controlled under other regulations. For example, export of scheduled chemicals above certain concentration thresholds would require the strategic goods export permit. <br> ✔ Check the list of OPCW [Member States](https://www.opcw.org/about-us/member-states){:target="_blank"} and the relevant import and export restrictions for the scheduled chemicals in these Member States. <br> ✔ Perform checks to ensure that the end-user is a legitimate customer and not a sanctioned entity. <br> ✔ Ensure you apply for the correct permit type and fill up all the mandatory fields.
   - title: Do Not
     content: <br> ✖ Assume the same controls apply to all scheduled chemicals. These chemicals are grouped under three different schedules with different degrees of controls depending on their purity, type of activities, and the countries receiving or supplying the chemicals.
 ---
@@ -45,7 +45,7 @@ Penalties for offences under the CWPA and relevant sections of the Regulation of
 
 Companies which violate any regulatory requirements relating to scheduled chemicals may also be liable to enforcement actions under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and the Strategic Goods (Control) Act (SGCA).
 
-You may view more information on prescribed offences and penalties under the Customs Act, [CWPA, RIEA and SGCA](/about-us/acts-and-subsidiary-legislation/customs-act).
+You may view more information on prescribed offences and penalties under the Customs Act, [CWPA, RIEA and SGCA](/businesses/acts-and-subsidiary-legislation/customs-act).
 
 ## Best Practices
 
