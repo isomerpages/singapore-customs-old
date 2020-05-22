@@ -22,7 +22,7 @@ An example is shown below:
 
 ## Weekly Average Exchange Rates
 
-To provide facilitation to the trading community, Singapore Customs is administratively providing the weekly average exchange rates, published by the [Monetary Authority of Singapore](https://secure.mas.gov.sg/msb/ExchangeRates.aspx){:target="_blank"} in the preceeding week, to all TradeNet users when making declarations to Customs for the current week.
+To provide facilitation to the trading community, Singapore Customs is administratively providing the weekly average exchange rates, published by the [Monetary Authority of Singapore](https://secure.mas.gov.sg/msb/ExchangeRates.aspx){:target="_blank"} in the preceding week, to all TradeNet users when making declarations to Customs for the current week.
 
 E.g. Exchange rates for the period 4 May – 10 May 2020 are based on the weekly average exchange rates for Period ending 30 Apr 2020 from the Monetary Authority of Singapore.
 
