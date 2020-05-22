@@ -53,7 +53,7 @@ Although nuclear-related items are prohibited from export or re-export to Iran, 
 -   Items listed under _INFCIRC/254/Rev.13/Part 1_; and
 -   Items listed under  _INFCIRC/254/Rev.10/Part 2_.
 
-The documents can be accessed on the UNSC website at [https://undocs.org/S/RES/2231(2015)](http://www.https://www.undocs.org/S/RES/2231(2015)){:target="_blank"}. The listed items are also controlled under the  **Strategic Goods (Control) Act**, and require a strategic goods permit for the export, re-export, transhipment or transit from or via Singapore. 
+The documents can be accessed on the UNSC website at [https://undocs.org/S/RES/2231(2015)](https://www.undocs.org/S/RES/2231(2015)){:target="_blank"}. The listed items are also controlled under the  **Strategic Goods (Control) Act**, and require a strategic goods permit for the export, re-export, transhipment or transit from or via Singapore. 
 
 To seek the UNSC’s in-principle approval of such  **exports**, you are required to submit a completed form and an end-user certification based on the templates provided by the UNSC to Customs. Customs will inform the UNSC of your request for in-principle approval. As the UNSC would take time to process your application, please submit them  **at least 2 months prior**  to the intended date of exportation.
 
