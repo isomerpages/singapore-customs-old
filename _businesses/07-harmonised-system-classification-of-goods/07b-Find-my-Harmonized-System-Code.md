@@ -16,7 +16,7 @@ Singapore adopts the 8-digit HS Codes in the  [ASEAN Harmonised Tariff Nomenclat
   
 ## Harmonised System/Competent Authority (HS/CA) Product Code Search Engine
 
-The [HS/CA Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) is available for you to do a quick search for the HS codes, product codes and descriptions of a product within the Singapore Trade Classification, Customs & Excise Duties.
+The [HS/CA Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} is available for you to do a quick search for the HS codes, product codes and descriptions of a product within the Singapore Trade Classification, Customs & Excise Duties.
 
 You can also check if a product is subject to control by any competent authority. If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authority controlling the product. You may click on the Competent Authority's acronym to access its contact information.
 
