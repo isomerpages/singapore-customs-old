@@ -77,10 +77,10 @@ Please submit the  **Declaration Cover For Reporting Template** (_compulsory_), 
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Declaration Cover For Reporting Template | [Word Doc](/documents/eservices/Declaration-cover-for-reporting-template.doc) (263KB) <br><br> [PDF](/documents/eservices/Declaration-cover-for-reporting-template.pdf) (268KB) |
-| 2. | Schedule 1 Chemical(s) (Template C.1) | [Word Doc](/documents/eservices/Schedule-1-chemicals-c.doc) (283KB)  <br><br> [PDF](/documents/eservices/Schedule-1-chemicals-c.pdf) (237KB)|
-| 3. | Schedule 2 Chemical(s) (Template C.2) | [Word Doc](/documents/eservices/Schedule-2-chemicals-c.doc) (385KB) <br><br> [PDF](/documents/eservices/Schedule-2-chemicals-c.pdf) (320KB) |
-| 4. | Schedule 3 Chemical(s) (Template C.3) | [Word Doc](/documents/eservices/Schedule-3-chemicals-c.doc) (454KB) <br><br> [PDF](/documents/eservices/Schedule-3-chemicals-c.pdf) (270KB) |
+| 1. | Declaration Cover For Reporting Template | [Word Doc](/documents/eservices/SC-A-069_Declaration_Cover_Template.doc) (263KB) <br><br> [PDF](/documents/eservices/Declaration-cover-for-reporting-template.pdf) (268KB) |
+| 2. | Schedule 1 Chemical(s) (Template C.1) | [Word Doc](/documents/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.doc) (283KB)  <br><br> [PDF](/documents/eservices/Schedule-1-chemicals-c.pdf) (237KB)|
+| 3. | Schedule 2 Chemical(s) (Template C.2) | [Word Doc](/documents/eservices/SC-A-070B_Template_C2_ADAA_for_S2_Chemicals.doc) (385KB) <br><br> [PDF](/documents/eservices/Schedule-2-chemicals-c.pdf) (320KB) |
+| 4. | Schedule 3 Chemical(s) (Template C.3) | [Word Doc](/documents/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.doc) (454KB) <br><br> [PDF](/documents/eservices/Schedule-3-chemicals-c.pdf) (270KB) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
