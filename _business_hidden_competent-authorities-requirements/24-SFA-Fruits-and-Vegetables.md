@@ -11,7 +11,7 @@ The Singapore Food Agency (SFA), Licensing and Permits Group, Food Trade Departm
 
 Please follow the steps below for the importation and transhipment:
 
--   Download a copy of the legislation from the [SFA website](http://www.sfa.gov.sg/).
+-   Download a copy of the legislation from the [SFA website](http://www.sfa.gov.sg/){:target="_blank"}.
 -   Obtain a licence from SFA, in accordance with the Control of Plants Act.
 -   Prepare your permit application for submission to SFA via TradeNet.
 
@@ -21,4 +21,4 @@ When applying for the Import Permit, please declare full information in the foll
 -   CA/SC Product Code (e.g., HVL0TH for iceberg lettuce, and CA/SC Product Quantity, which is the Nett Quantity of Items, in accordance with the HS Code (e.g. 10.00))
 -   CA/SC Product Unit of Quantity, in accordance to HSC Code and Product Code (e.g., TNE)
 
-Importers and transhippers have to comply with all approval conditions. You may refer to the [SFA website](http://www.sfa.gov.sg/) for more details.
+Importers and transhippers have to comply with all approval conditions. You may refer to the [SFA website](http://www.sfa.gov.sg/){:target="_blank"} for more details.
