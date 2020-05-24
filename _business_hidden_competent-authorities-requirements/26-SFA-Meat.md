@@ -11,8 +11,8 @@ The Singapore Food Agency (SFA), Licensing and Permits Group, Food Trade Departm
 
 Please follow the import requirements below for meat and meat products:
 
--   Traders have to apply for the SFA Licence for the import, export, and transhipment of meat products and fish products. You may refer to the [SFA website](http://www.sfa.gov.sg/) for more information.
--   Traders are restricted to importing meat and meat products from SFA approved sources. You may refer to the [SFA website](http://www.sfa.gov.sg/) for the list of countries and establishments that have been approved to export meat to Singapore.
+-   Traders have to apply for the SFA Licence for the import, export, and transhipment of meat products and fish products. You may refer to the [SFA website](http://www.sfa.gov.sg/){:target="_blank"} for more information.
+-   Traders are restricted to importing meat and meat products from SFA approved sources. You may refer to the [SFA website](http://www.sfa.gov.sg/){:target="_blank"} for the list of countries and establishments that have been approved to export meat to Singapore.
 -   Each consignment has to be accompanied by an import permit issued by SFA (Meat) and a veterinary health certificate issued by the competent authority of the exporting country to certify that Singapore’s animal health and food safety requirements have been complied with. Traders are restricted to importing salted or preserved eggs and processed egg products from SFA-approved establishments, with an accompanying health certificate.
 -   An import permit issued by SFA (Meat) is required for every consignment of meat product. Traders may apply for the import permit by declaring the import via the TradeNet system. The system will route the application to SFA (Meat) for processing. Upon approval, the import permit for the consignment would be incorporated into the Cargo Clearance Permit (CCP), to be printed at the trader's terminal. When preparing the import, export or transhipment permit application, please declare the following:
     -   SFA (Meat and Fish) licence number in the Licence/Certificate No. field. The registration number for processed food products and food appliances must be keyed in for processed egg products and salted or preserved eggs.
@@ -23,7 +23,7 @@ Please follow the import requirements below for meat and meat products:
         -   CA/SC Code 1 field, i.e. Establishment Code (consisting of country code and processing plant number)
         -   CA/SC Code 2 field, i.e. Health Certificate number
 
-You may refer to the [SFA website](http://www.sfa.gov.sg/) for the list of product codes for meat and meat products.
+You may refer to the [SFA website](http://www.sfa.gov.sg/){:target="_blank"} for the list of product codes for meat and meat products.
 
 Upon submission of the permit application via TradeNet, please attach a copy of the health certificate, together with other supporting documents, (e.g., Bill of Lading, invoice, sales contract, etc.) in your permit application on TradeNet.
 
