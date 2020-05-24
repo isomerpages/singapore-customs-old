@@ -4,7 +4,7 @@ permalink: /businesses/exporting-goods/export-procedures/controlled-prohibited-g
 third_nav_title: Exporting Requirements
 ---
 
-### Controlled & Prohibited Goods
+# Controlled & Prohibited Goods
 
 Before exporting your goods, you are required to check if the goods are prohibited for export, or are subject to control before they may be exported.
 
