@@ -7,7 +7,7 @@ third_nav_title: Competent Authorities Requirements
 
 # National Environment Agency - Radiation Protection and Nuclear Science Department (RPNSD)
 
-**Controlled items classified under RPNSD Controlled HS codes**
+## Controlled items classified under RPNSD Controlled HS codes
 
 Before you prepare the import/export permit application for controlled items under the purview of RPNSD, please note that the importer/exporter must have either a Dealer Licence (N1, L1 or L2) or a Possession Licence (N2, L3 or L4) issued by RPNSD. In the case of irradiating apparatus covered by Possession Licence (i.e. N2 or L3), each irradiating apparatus must have its individual Possession Licence.
 
@@ -30,7 +30,7 @@ To obtain auto-approval on TradeNet, please ensure that the following informatio
 
 Do not use default or generic item descriptions when declaring information for permit application. Please use the exact descriptions provided on the invoice.
 
-**Non-Controlled items classified under RPNSD Controlled HS code**
+## Non-Controlled items classified under RPNSD Controlled HS code
 
 These refer to items classified under a controlled HS code marked with “*” in Appendix C.  
   
@@ -40,15 +40,15 @@ However, if the item is controlled by RPNSD (e.g. ultrasonic cleaning apparatus)
 
 Please refer to  [Appendix C](/documents/about-us/appendix-c-items-under-import-export-control.pdf) is the list of RPNSD controlled products and their HS codes for import and export.
 
-**Import/Export of Spare Parts (excluding X-ray tubes)**
+## Import/Export of Spare Parts (excluding X-ray tubes)
 
 For the import/export of spare parts of a radiation (irradiating) equipment which do not include the source of radiation or the x-ray tube, please declare RADSPARE at both the Licence Number and Product Code fields.
 
-**Import of New Items control by RPNSD**
+## Import of New Items control by RPNSD
 
-A written request by the importer/exporter, together with the relevant documents is required to be submitted to RPNSD for the inclusion of new radioactive materials or new irradiating apparatus into a Dealer Licence so that a new Product Code can be generated for TradeNet auto-processing. Please inform RPNSD at least ten working days in advance to prevent any delay of approval. For more information on RPNSD, please click on this  [link](http://www.nea.gov.sg/anti-pollution-radiation-protection/radiation-protection).
+A written request by the importer/exporter, together with the relevant documents is required to be submitted to RPNSD for the inclusion of new radioactive materials or new irradiating apparatus into a Dealer Licence so that a new Product Code can be generated for TradeNet auto-processing. Please inform RPNSD at least ten working days in advance to prevent any delay of approval. For more information on RPNSD, please click on this  [link](http://www.nea.gov.sg/anti-pollution-radiation-protection/radiation-protection){:target="_blank"}.
 
-**Import/Export items controlled by RPNSD and other competent authority**
+## Import/Export items controlled by RPNSD and other competent authority
 
 In the event that the items to be imported or exported are controlled by RPNSD and other competent authorities, (e.g. medical irradiating apparatus, which is also controlled by the Health Sciences Authority (HSA)), the importer or exporter must consult and seek approval(s) from other competent authorities before proceeding with the import or export.
 
