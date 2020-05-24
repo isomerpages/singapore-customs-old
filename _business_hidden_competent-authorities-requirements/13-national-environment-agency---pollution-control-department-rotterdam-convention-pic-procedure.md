@@ -20,8 +20,8 @@ With effect from 21 Aug 2005, all imports and exports of hazardous chemicals in 
 All export permit applications will be routed to PCD for on-line processing. The HS and Product codes assigned to the 39 hazardous chemicals under the Rotterdam Convention are at Appendix C.
 
 Note:  
-For more information and updates, please visit  [PCD's website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances).
+For more information and updates, please visit  [PCD's website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances){:target="_blank"}.
 
-Refer to  [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do).
+Refer to  [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
 
 
