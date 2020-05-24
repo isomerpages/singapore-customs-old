@@ -6,13 +6,13 @@ third_nav_title: Export Procedures
 
 # Exporting Pets
 
-All exports of live pets are regulated by the National Parks Board (NParks)  [Animal and Veterinary Service](https://www.nparks.gov.sg/avs) (AVS). You are required to abide by AVS’s  [export licence and pets quarantine requirements](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/exporting-dogs-and-cats/preparing-to-leave-singapore).
+All exports of live pets are regulated by the National Parks Board (NParks)  [Animal and Veterinary Service](https://www.nparks.gov.sg/avs){:target="_blank"} (AVS). You are required to abide by AVS’s  [export licence and pets quarantine requirements](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/exporting-dogs-and-cats/preparing-to-leave-singapore){:target="_blank"}.
 
 The table below shows the requirements for bringing your personal pet out of Singapore, as well as exporting live pets for commercial purposes, by all modes of transport (land, air or sea).
 
 You may engage a declaring agent who is registered as a TradeNet user to assist with declaring the Customs permits.
 
-### Requirements for Exporting Pets 
+## Requirements for Exporting Pets 
 
 |**Scenarios** | **As manifested cargoes**  |**As part of owner's accompanied baggage (for example, hand-carried) <br> For commercial purpose**  | **As part of owner's accompanied baggage (for example, hand-carried) <br> For personal purpose** |**Remarks**  |
 |--|--|--|--  |--|
