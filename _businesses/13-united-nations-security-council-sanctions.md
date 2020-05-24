@@ -9,15 +9,15 @@ The  **United Nations Security Council (UNSC)**  resolutions impose sanctions in
 
 As a member of the United Nations, Singapore implements the [resolutions adopted by the UNSC](https://www.un.org/securitycouncil/content/resolutions){:target="_blank"}. Specifically, the import into, export from, transhipment and transit through Singapore of certain goods which contravene the UNSC sanctions are prohibited under Regulation 6(1)(b) of the  **Regulation of Imports and Exports Regulations (RIER)**. A comprehensive list of UNSC sanctions can be found on the [UNSC Sanctions Committees website](https://www.un.org/sc/suborg/en/){:target="_blank"}.
 
-## **Democratic People’s Republic of Korea (DPRK)**
+## Democratic People’s Republic of Korea (DPRK)
 
--   [**List of Prohibited Imports and (Inward) Transhipment or goods in Transit from the DPRK**](/businesses/united-nations-security-council-sanctions/list-of-prohibited-import-dprk)
+-   [List of Prohibited Imports and (Inward) Transhipment or goods in Transit from the DPRK](/businesses/united-nations-security-council-sanctions/list-of-prohibited-import-dprk)
     
 
--   [**List of Prohibited Exports and (Outward) Transhipment or goods in Transit to the DPRK**](/businesses/united-nations-security-council-sanctions/list-of-prohibited-export-dprk)
+-   [List of Prohibited Exports and (Outward) Transhipment or goods in Transit to the DPRK](/businesses/united-nations-security-council-sanctions/list-of-prohibited-export-dprk)
 
 
-## **Permit Requirements**
+**Permit Requirements**
 
 A permit is required if you intend to  **import,  export,  tranship**  and  **transit all goods**  through Singapore which are  **originating from or bound for the DPRK**.
 
@@ -40,13 +40,13 @@ You are also reminded to comply with any stipulated permit conditions.
 
 ## Islamic Republic of Iran
 
-- [**List of Prohibited Imports and (Inward), Transhipment or goods in Transit from Iran**](/businesses/united-nations-security-council-sanctions/list-of-prohibited-imports-inward-transhipment-iran)
+- [List of Prohibited Imports and (Inward), Transhipment or goods in Transit from Iran](/businesses/united-nations-security-council-sanctions/list-of-prohibited-imports-inward-transhipment-iran)
     
 
-- [**List of Prohibited Exports and (Outward) Transhipment, or goods in Transit to Iran**](/businesses/united-nations-security-council-sanctions/list-of-prohibited-exports-outward-transhipment-iran)
+- [List of Prohibited Exports and (Outward) Transhipment, or goods in Transit to Iran](/businesses/united-nations-security-council-sanctions/list-of-prohibited-exports-outward-transhipment-iran)
 
 
-## **Permit Requirements for UNSC Procurement Channel**
+**Permit Requirements for UNSC Procurement Channel**
 
 Although nuclear-related items are prohibited from export or re-export to Iran, UNSC Resolution _2231(2015)_  endorsed the establishment of a dedicated “procurement channel” for the transfer of the nuclear-related items, materials, equipment, goods and technology to Iran. Through this procurement channel, the UNSC will allow certain exports of nuclear-related items to Iran if the UNSC has given their prior in-principle approval. The items which qualify for the procurement channel are:
 
@@ -61,7 +61,7 @@ For  **re-exports**,  **transhipment**, and  **transit** of these items please e
 
 The  **export**,  **re-export**,  **transhipment**  or  **transit**  of these items to Iran from Singapore without  **both**  a valid approval from the UNSC  **and**  a strategic goods permit from Singapore is an offence.
 
-## **General Permit Requirements**
+**General Permit Requirements**
 
 With the exception of goods under the UNSC Procurement Channel, all other goods which are  **imported from, exported, re-exported, in transit or transhipment to Iran**  would require a permit to be applied for **at least 3 working days** before the intended shipment date to or from Singapore. Please refer to the permit requirements for the [import](/businesses/importing-goods/import-procedures/), [export](/businesses/exporting-goods/export-procedures), [transhipment and transit](/businesses/transhipping-goods/transhipment-procedures) of goods through Singapore.
 
@@ -82,9 +82,9 @@ While Singapore does not enforce [unilateral sanctions](/businesses/strategic-go
 
 ## Other UNSC Sanctioned Countries
 
-[**List of Prohibited Items to or from Other UNSC Sanctioned Countries**](/businesses/united-nations-security-council-sanctions/prohibited-items-unsc-sanctioned-countries)
+-   [List of Prohibited Items to or from Other UNSC Sanctioned Countries](/businesses/united-nations-security-council-sanctions/prohibited-items-unsc-sanctioned-countries)
 
-## **Permit Requirements**
+**Permit Requirements**
 
 To  **import, export, tranship or transit**  goods **permitted under the exceptions or exclusions outlined in the UNSC Resolutions**, you are required to apply for a permit via TradeNet before the intended shipment date from or to Singapore.
 
