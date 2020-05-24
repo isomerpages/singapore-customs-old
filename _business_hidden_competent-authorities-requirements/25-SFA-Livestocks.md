@@ -22,7 +22,7 @@ When applying for the relevant permits and licences from SFA, please take note o
 
   
 
-TradeNet Declarations
+## TradeNet Declarations
 
 When preparing for the Import, Export and Transhipment permit applications through TradeNet, please declare full information in the following fields:
 
@@ -38,4 +38,4 @@ When preparing for the Import, Export and Transhipment permit applications throu
 
   
 
-You may refer to the [SFA website](http://www.sfa.gov.sg/) for more information on the import requirements, HS codes, and Product Codes List.
+You may refer to the [SFA website](http://www.sfa.gov.sg/){:target="_blank"} for more information on the import requirements, HS codes, and Product Codes List.
