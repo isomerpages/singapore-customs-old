@@ -10,13 +10,13 @@ third_nav_title: Export Procedures
 
 For departure via Changi International Airport, traders must present the goods with the relevant Customs Export permit, supporting invoice and boarding pass/confirmed air-ticket to Singapore Customs officers for inspection.
 
-Please refer to IRAS’ website for more details on [HCES](https://www.iras.gov.sg/irashome/Schemes/GST/Hand-Carried-Exports-Scheme--HCES-/).
+Please refer to IRAS’ website for more details on [HCES](https://www.iras.gov.sg/irashome/Schemes/GST/Hand-Carried-Exports-Scheme--HCES-/){:target="_blank"}.
 
 For departure via other checkpoints, please note that HCES is not applicable.
 
 ## Exporting Trade Samples via Hand-Carry
 
-Please refer to  [Exporting Trade Samples](/businesses/02c5-exporting-trade-samples)  for the permit requirements.
+Please refer to [Exporting Trade Samples](/businesses/02c5-exporting-trade-samples) for the permit requirements.
 
 ## Exporting Temporary Imported Goods via Hand-Carry
 
