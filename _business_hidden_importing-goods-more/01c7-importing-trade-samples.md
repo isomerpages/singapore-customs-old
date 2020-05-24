@@ -5,7 +5,7 @@ third_nav_title: Import Procedures
 ---
 
 
-## What are Trade Samples?
+# What are Trade Samples?
 
 **Trade samples**  refer to goods which are imported solely:
 
