@@ -76,5 +76,5 @@ The [Asia-Europe Meeting](http://www.aseminfoboard.org/) (ASEM) is an informal p
 
 **ASEAN Customs Capacity Building Working Group (CCBWG)**
 
-*Knowledge- Based Service (KBS)*
+*Knowledge- Based Service (KBS)*<br>
 To support ASEAN community-building efforts, Singapore Customs participates in the ASEAN Customs Capacity Building Working Group (CCBWG), which aims to promote best practices to improve technical and professional capabilities of Customs Personnel. A [Knowledge-Based Service (KBS) website](http://kbscustoms.asean.org/) was developed by Thai Customs to enhance awareness of CCBWG’s work and promote knowledge-sharing amongst ASEAN Customs administrations.
