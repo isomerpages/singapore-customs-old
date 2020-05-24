@@ -9,9 +9,9 @@ third_nav_title: Competent Authorities Requirements
 
 ## Hazardous Wastes under the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal
 
-The import, export and transit of Hazardous Wastes are subject to control by the Pollution Control Department. Please note that you are required to obtain a Basel Permit for the import, export and transit of hazardous wastes controlled under the Basel Convention and the Hazardous Waste (Control of Export, Import and Transit) Act and its Regulations. For more information on the control of transboundary movements of hazardous wastes in Singapore, please visit  [PCD website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances).
+The import, export and transit of Hazardous Wastes are subject to control by the Pollution Control Department. Please note that you are required to obtain a Basel Permit for the import, export and transit of hazardous wastes controlled under the Basel Convention and the Hazardous Waste (Control of Export, Import and Transit) Act and its Regulations. For more information on the control of transboundary movements of hazardous wastes in Singapore, please visit  [PCD website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances){:target="_blank"}.
 
-PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in granting any permit for the export, import or transit of hazardous wastes. The import, export and transit of hazardous wastes are not allowed with non-parties to the Basel Convention. The status of ratification of countries to the Basel Convention as well as information on Basel Convention may be viewed at  [http://www.basel.int/](http://www.basel.int/).
+PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in granting any permit for the export, import or transit of hazardous wastes. The import, export and transit of hazardous wastes are not allowed with non-parties to the Basel Convention. The status of ratification of countries to the Basel Convention as well as information on Basel Convention may be viewed at  [http://www.basel.int/](http://www.basel.int/){:target="_blank"}.
 
 ## Export, Import and Transit of Hazardous Wastes
 
@@ -71,13 +71,13 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
 **Note:  
 Prior approval via the TradeNet shall be obtained for the export, import and transit of all non-hazardous wastes.**
 
-### Notes
+## Notes
 
 1. Please quote the  **Unique Reference No.**  on all supporting documents before faxing.
 2. The HS Codes and Product Codes for Hazardous Wastes are listed here.
 3. If the importer / exporter does not have the required Basel Export, Import or Transit permit, please contact PCD officers at 67319377 for advice.
 
-### Export and Import of Used Electrical & Electronic Equipments
+## Export and Import of Used Electrical & Electronic Equipments
 
 **1.**  Declarant must declare the following in the export or import permit application:<br>
 - Item description and item quantity under ‘Item Details’ column
@@ -93,7 +93,7 @@ Prior approval via the TradeNet shall be obtained for the export, import and tra
 **Note:  
 Prior approval via the TradeNet shall be obtained for the export and import of all Used Electrical & Electronic Equipments.**
 
-### NOTES:
+## NOTES:
 
 1.  Please quote the  **Unique Reference No.**  on all supporting documents before faxing.
 2.  The HS Codes and Product Codes for Used Electrical & Electronic Equipments are listed  [here](/about-us/national-single-window/overview/annexes-and-appendices).
