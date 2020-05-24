@@ -4,7 +4,7 @@ permalink: /businesses/exporting-goods/export-procedures/depositing-goods-in-ftz
 third_nav_title: Exporting Requirements
 ---
 
-### Depositing Goods in the Free Trade Zones
+# Depositing Goods in the Free Trade Zones
 
 Free Trade Zones (FTZs) in Singapore facilitate entrepot trade and transhipment activities.
 
