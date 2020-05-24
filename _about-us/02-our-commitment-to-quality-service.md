@@ -20,7 +20,7 @@ The service we provide will be:
 
 ## Our Service Standards
 
-### Emails and letters
+**Emails and letters**
 
 Our response time depends on the nature and complexity of the enquiry or feedback. We generally reply to straightforward enquiries and feedback within 3 working days, but may take longer for more complex issues. If your feedback or request requires further study, we will inform you that more time is needed.
 
@@ -33,7 +33,6 @@ Our response time depends on the nature and complexity of the enquiry or feedbac
 |**Process Certificates of Origin Online Applications**                             |  Certificates of Origin for goods of Singapore origin applications within 2 hours<br><br>Back-to-back Certificates of Origin applications within 2 working days    |
 |**Issue Import Certificates and Delivery Verifications (ICDV)**                    |  100% within 2 working days upon receipt of complete application with all the relevant supporting documents                                                        |
 |**Issue Customs Rulings**                                                          | Within 30 days upon receipt of full supporting documents                                                                                                           | |
-
 <br>
 
 |Travellers                                                                       |                       |
@@ -42,9 +41,9 @@ Our response time depends on the nature and complexity of the enquiry or feedbac
 |**Process Assessment and Collection of Duty/GST from Travellers/Crew Members**\* | 95% within 8 minutes  |
 |**Endorse Export Permits under the Hand-Carried Exports Scheme**\*               | 95% within 15 minutes |
 
-**\* On weekends and public holidays, the processing time may be a little longer. You are advised to come to the Singapore Customs counter early.**
+>**\* On weekends and public holidays, the processing time may be a little longer. You are advised to come to the Singapore Customs counter early.**
 
-### Delighting Our Customers
+## Delighting Our Customers
 
 Singapore Customs is committed to provide our customers with prompt and professional service.
 
