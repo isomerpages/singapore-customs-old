@@ -18,11 +18,11 @@ Prior to the import of sand and granite regulated by BCA, a company must possess
 1.  a licence issued by BCA; and
 2.  meet the Test Requirements in BCA Testing Requirements for Imported Aggregates.
 
-For more details on BCA Testing Requirements for Imported Aggregates, please visit  [BCA's website](http://www.bca.gov.sg/AggregatesImport/others/test_requirements.pdf).
+For more details on BCA Testing Requirements for Imported Aggregates, please visit  [BCA's website](http://www.bca.gov.sg/AggregatesImport/others/test_requirements.pdf){:target="_blank"}.
 
 License application form can be obtained from:
 
-1.  [BCA's Internet website](http://www.bca.gov.sg/ImportersLicensing/Importerslicensing.html), or
+1.  [BCA's Internet website](http://www.bca.gov.sg/ImportersLicensing/Importerslicensing.html){:target="_blank"}, or
 2.  BCA’s office at:  
     52 Jurong Gateway Road #12-01  
     Singapore 608550  
@@ -54,5 +54,5 @@ To import your first consignment from a new source, please submit the following 
 1.  Storage Permit
 2.  Isolation location plan
 
-For more details on the import of sand and granite, please visit  [BCA's website](http://www.bca.gov.sg/ImportersLicensing/Importerslicensing.html)  or contact Mr Thomas Tan at 68044556.
+For more details on the import of sand and granite, please visit  [BCA's website](http://www.bca.gov.sg/ImportersLicensing/Importerslicensing.html){:target="_blank"} or contact Mr Thomas Tan at 68044556.
 
