@@ -11,9 +11,9 @@ third_nav_title: Competent Authorities Requirements
 
 **2.**  Requirements for Importers (Users) and Carriers
 
-  a. A prior “Approval to Possess” granted by MOH to the importer is required for BATA Schedules 1 and 2 high-risk pathogens, and Schedule 5 toxins. For more information on BATA requirements for each Schedule, please  [visit our website](https://www.moh.gov.sg/biosafety) or email us at  MOH_Biosafety@moh.gov.sg.
+  a. A prior “Approval to Possess” granted by MOH to the importer is required for BATA Schedules 1 and 2 high-risk pathogens, and Schedule 5 toxins. For more information on BATA requirements for each Schedule, please  [visit our website](https://www.moh.gov.sg/biosafety){:target="_blank"} or email us at  MOH_Biosafety@moh.gov.sg.
 
-  b. For local transportation of Schedules 1, 2 and 5 pathogens and toxins, carriers must comply with the requirements prescribed in BATA Transportation Regulation (downloadable from  [our website](https://www.moh.gov.sg/biosafety/about-bata)).
+  b. For local transportation of Schedules 1, 2 and 5 pathogens and toxins, carriers must comply with the requirements prescribed in BATA Transportation Regulation (downloadable from  [our website](https://www.moh.gov.sg/biosafety/about-bata){:target="_blank"}).
 
 **3.**  TradeNet application submission  
     An online application for import or transhipment permit is submitted via TradeNet, with the relevant supporting documents (e.g. commercial invoice, airway bill, declaration letter) for processing.  
@@ -47,7 +47,7 @@ e. Transhipment Details (if applicable)
 -   Place of temporary storage
 -   Date of exportation and vessel details
 
-**1.**  The MOH product code is updated regularly, and the current “List of Biological Agents and Toxins” can be downloaded from our website under the Useful Info and Guidelines tab at  https://www.moh.gov.sg/content/moh_web/biosafety/useful-info-and-guidelines.html.
+**1.**  The MOH product code is updated regularly, and the current “List of Biological Agents and Toxins” can be downloaded from our website under the Useful Info and Guidelines tab at  https://www.moh.gov.sg/content/moh_web/biosafety/useful-info-and-guidelines.html{:target="_blank"}.
 
 **2.**  For queries related to import requirements of items that are not listed in the “List of Biological Agents and Toxins”, please send your query to  MOH_Biosafety@moh.gov.sg.
 
