@@ -52,7 +52,7 @@ We protect revenue, and make trade easy, fair and secure.
 |**2007**| Singapore Customs launches TradeXchange, an IT platform that connects the trade and logistics community. Secure Trade Partnership, Singapore’s national supply chain security programme, is launched. |
 |**2010**| 100th anniversary of Singapore Customs.                                                                                                                                                               |
 
-## International Relations
+## International Fora
 
 Singapore Customs participates actively in international and regional customs fora to work with other Customs administrations to facilitate international trade. The key fora that Singapore Customs attend are:
 
@@ -74,8 +74,8 @@ The [Association of Southeast Asian Nations](http://www.asean.org/) (ASEAN) was 
 
 The [Asia-Europe Meeting](http://www.aseminfoboard.org/) (ASEM) is an informal process of dialogue and cooperation bringing together European and Asian countries. The first ASEM Summit was held in 1996. Singapore Customs participates in the ASEM Working Group on Customs Matters (AWC) and ASEM Customs Director-Generals/Commissioners Meeting.
 
-**Capacity Building**
+**ASEAN Customs Capacity Building Working Group (CCBWG)**
 
-Knowledge- Based Service (KBS)
+*Knowledge- Based Service (KBS)*
 
 To support ASEAN community-building efforts, Singapore Customs participates in the ASEAN Customs Capacity Building Working Group (CCBWG), which aims to promote best practices to improve technical and professional capabilities of Customs Personnel. A [Knowledge-Based Service (KBS) website](http://kbscustoms.asean.org/) was developed by Thai Customs to enhance awareness of CCBWG’s work and promote knowledge-sharing amongst ASEAN Customs administrations.
