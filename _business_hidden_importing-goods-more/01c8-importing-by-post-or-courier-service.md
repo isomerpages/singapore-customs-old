@@ -10,7 +10,7 @@ Goods (e.g. new or used articles, online purchases, gifts) imported by post or c
 
 GST relief is granted on goods imported by post or air, excluding intoxicating liquors and tobacco, with a total  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value) not exceeding S$400.  Please note that GST relief is not granted for goods imported by other transport modes e.g. sea freight and land unless specified  [here](/businesses/importing-goods/overview).
 
-## **Things to Note for International Parcels Delivered by Post or Courier Service**
+## Things to Note for International Parcels Delivered by Post or Courier Service
 
 **Determining the total CIF value**
 
