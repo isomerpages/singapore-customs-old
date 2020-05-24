@@ -9,7 +9,7 @@ third_nav_title: Competent Authorities Requirements
 
 1) The import, export and transhipment of live animals, birds, veterinary biologics, animal feed and animal products are regulated by  National Parks Board (NParks) Animal Veterinary Service (AVS), Inspection and Biosecurity Management Division, Licensing and Compliance.
 
-2) For more information on permit and licence requirements, please contact 52 Jurong Gateway Road #09-01, Singapore 608550 or visit [www.nparks.gov.sg/avs](http://www.nparks.gov.sg/avs).
+2) For more information on permit and licence requirements, please contact 52 Jurong Gateway Road #09-01, Singapore 608550 or visit [www.nparks.gov.sg/avs](http://www.nparks.gov.sg/avs){:target="_blank"}.
 
 3) TradeNet Declaration
 
@@ -27,4 +27,4 @@ When you prepare the import, export and transshipment permit application through
 -   Licence field:
     -   Licence number issued by NParks AVS (Animal) to importers for the import of live pigs, live poultry, hen eggs, live frogs and dried birds' nest.
 
-Refer to  [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do).
+Refer to  [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
