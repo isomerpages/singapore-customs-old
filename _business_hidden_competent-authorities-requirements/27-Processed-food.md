@@ -10,8 +10,8 @@ The Singapore Food Agency (SFA), Licensing and Permits Group, Food Trade Departm
 
 Please follow the import requirements below for processed food and food appliances:
 
--   Traders have to register with SFA (Processed Food) to obtain a Registration Number. You may refer to the [SFA website](http://www.sfa.gov.sg/) for more information.
--   Food products that have been identified to be of high potential health risk (through trend studies), or have a history of poor food safety record, are placed under strict import control. You are required to submit the supporting documents (e.g., health certificates or laboratory analytical reports) to certify the safety of the products when applying for your import permit. Please visit the [SFA website](http://www.sfa.gov.sg/) for more details on the test parameters and import requirements of the processed food items.
+-   Traders have to register with SFA (Processed Food) to obtain a Registration Number. You may refer to the [SFA website](http://www.sfa.gov.sg/){:target="_blank"} for more information.
+-   Food products that have been identified to be of high potential health risk (through trend studies), or have a history of poor food safety record, are placed under strict import control. You are required to submit the supporting documents (e.g., health certificates or laboratory analytical reports) to certify the safety of the products when applying for your import permit. Please visit the [SFA website](http://www.sfa.gov.sg/){:target="_blank"} for more details on the test parameters and import requirements of the processed food items.
 
  
 Please include the following in the import permit application:
@@ -26,4 +26,4 @@ Please select the most relevant product codes for the declaration of import perm
 
 Please follow up with SFA (Processed Food) after applying for your permit. You must comply with the conditional approval message stated in the import permit and contact SFA if the message states that inspection of your products is required.
 
-You may visit the [SFA website](http://www.sfa.gov.sg/) for more information on import requirements, procedures for processed food and food appliances, and the SFA (Processed Food) Product Code List.
+You may visit the [SFA website](http://www.sfa.gov.sg/){:target="_blank"} for more information on import requirements, procedures for processed food and food appliances, and the SFA (Processed Food) Product Code List.
