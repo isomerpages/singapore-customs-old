@@ -7,7 +7,7 @@ third_nav_title: Competent Authorities Requirements
 
 # Health Sciences Authority HSA
 
-**Import Declaration of Health Products**
+## Import Declaration of Health Products
 
 For the following health products  that are subject to HSA’s licensing and/or approval requirements before importation, an importer or dealer is required to submit import declarations using applicable HSA Product Codes and furnish the relevant licence and/or approval information:
 
@@ -43,7 +43,7 @@ e. Medicated oil and balm; <br>
 f. Herbal materials; and <br> 
 g. Homoeopathic medicines <br>
 
-**HSA Product Codes**
+## HSA Product Codes
 
 **Table 1. HSA Product Codes**
 
@@ -80,7 +80,7 @@ g. Homoeopathic medicines <br>
 
 In addition to the HSA Product Codes in Table 1 above, importers and dealers are also required to furnish all relevant HSA licence/approval information in the CA/SC code 1, 2 and 3 fields, where applicable. Details of the information to be furnished for therapeutic products, medical devices, Chinese Proprietary Medicines and other types of imports are provided in Tables 2 to 5
 
-**Information to be Declared for Health Products Subjected to Licensing/Approval Requirements**
+## Information to be Declared for Health Products Subjected to Licensing/Approval Requirements
 
 When submitting a declaration, please observe the following requirements:
 
@@ -103,5 +103,5 @@ The Tables 2 to 5 below provide guidance to importers and dealers on licence inf
 [**Table 5**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table5_other-category-products.pdf)  Other Products regulated by HSA including Poisons, Controlled Drugs, Psychotropic Substances and Oral Dental Gums
 
 ***
-### [Frequently Asked Questions (FAQs)](https://www.hsa.gov.sg/docs/default-source/hprg-ald/frequently_asked_questions.pdf)
+## [Frequently Asked Questions (FAQs)](https://www.hsa.gov.sg/docs/default-source/hprg-ald/frequently_asked_questions.pdf)
 
