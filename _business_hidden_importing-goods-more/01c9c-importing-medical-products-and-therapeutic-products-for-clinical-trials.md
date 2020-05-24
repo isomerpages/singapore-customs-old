@@ -7,7 +7,7 @@ third_nav_title: Import Procedures
 # Importing Medicinal Products and Therapeutic Products for Clinical Trials
 
 
-### The import of the following clinical trial test materials (CTMs) into Singapore is granted Goods and Services Tax (GST) relief pursuant to item 40, 41 and 42 of the Schedule to the GST (Imports Relief) Order:  
+## The import of the following clinical trial test materials (CTMs) into Singapore is granted Goods and Services Tax (GST) relief pursuant to item 40, 41 and 42 of the Schedule to the GST (Imports Relief) Order:  
 
 1.  Medicinal products, therapeutic products, and their placebos for regulated clinical trials in Singapore
     
@@ -16,19 +16,18 @@ third_nav_title: Import Procedures
 3.  Therapeutic products and their placebos, for  use in any clinical trial outside Singapore and are imported for the purpose of being exported for such intended use
     
 
-###  Application Requirements
+##  Application Requirements
 
 Before applying for the GST relief for the CTMs, you should take note of the following:
 
--   Obtain the necessary approval and or notification from the [Health Sciences Authority](http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Clinical_Trials/Overview.html) for the import of these trial test materials.
+-   Obtain the necessary approval and or notification from the [Health Sciences Authority](http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Clinical_Trials/Overview.html){:target="_blank"} for the import of these trial test materials.
     
--   Obtain approval from the [National Environment Agency](http://www.nea.gov.sg/energy-waste/waste-management) if the CTMs are imported for destruction or disposal in Singapore.
+-   Obtain approval from the [National Environment Agency](http://www.nea.gov.sg/energy-waste/waste-management){:target="_blank"} if the CTMs are imported for destruction or disposal in Singapore.
     
 -   Register for a [claimant account](/businesses/registration-matters/registration-procedures/register-claimants) with Singapore Customs.
     
 
-### When applying for a TradeNet GST relief permit, please take note of the following:  
-  
+## When applying for a TradeNet GST relief permit, please take note of the following:  
 
 1.  The TradeNet permit with the **Message Type “In-Non Payment”** and **Declaration Type “GTR – GST Relief”** has to be taken up for each importation
     
@@ -46,7 +45,7 @@ Please be advised that non-CTM goods cannot be submitted in the same permit appl
 
 ## Cargo Clearance of CTMs
 
-For verification during  [cargo clearance](https://www.ica.gov.sg/enteringanddeparting/cargo_postal_info), please present the relevant import permit and supporting documents such as commercial invoice, packing list and Bill of Lading/Airway Bill to the checkpoint officers.
+For verification during  [cargo clearance](https://www.ica.gov.sg/enteringanddeparting/cargo_postal_info){:target="_blank"}, please present the relevant import permit and supporting documents such as commercial invoice, packing list and Bill of Lading/Airway Bill to the checkpoint officers.
 
 **HS Codes for CTM**
 
