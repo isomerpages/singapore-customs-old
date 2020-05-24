@@ -6,7 +6,7 @@ third_nav_title: Valuation, Duties, Taxes & Fees
 
 ## **Overview**
 
-
+{:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
 |[![](/images/v1.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value) |[![](/images/v2.jpg)](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) | [![](/images/v3.jpg)](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst)| [![](/images/v4.jpg)](/businesses/valuation-duties-taxes-fees/refund-of-duties-and-gst) |

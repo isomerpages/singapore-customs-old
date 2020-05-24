@@ -6,6 +6,7 @@ third_nav_title: Registration Matters
 
 # Registration Procedures
 
+{:.mobile-block}
 |   |   |   |   |
 |---|---|---|---|
 |[ ![](/images/R1.jpg)](/businesses/registration-matters/registration-procedures/activate-customs-account)  |[ ![](/images/R2.jpg)](/businesses/registration-matters/registration-procedures/apply-for-inter-bank-giro) |[ ![](/images/R3.jpg)](/businesses/registration-matters/registration-procedures/security-lodgement)    |[ ![](/images/R4.jpg)](/businesses/registration-matters/registration-procedures/authorise-a-declaring-agent)

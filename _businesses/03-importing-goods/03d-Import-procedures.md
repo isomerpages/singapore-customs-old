@@ -128,6 +128,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 
 ## For more information on:
 
+{:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
 | [![](/images/I1.jpg)](/businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods)  |  [![](/images/I2.jpg)](/importing-goods/import-procedures/types-of-import-permits) | [![](/images/I3.jpg)](/businesses/importing-goods/import-procedures/permit-validity-and-error-messages) |  [![](/images/I4.jpg)](/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation)|

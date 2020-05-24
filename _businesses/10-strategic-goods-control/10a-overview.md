@@ -25,6 +25,7 @@ Singapore Customs also coordinates closely with other government agencies such a
 
 ## For more information on: 
 
+{:.mobile-block}
 |  |  |  |
 |--|--|--|
 | **[![](/images/sgco1.jpg)](/businesses/strategic-goods-control-1/overview/legislation)** |**[![](/images/sgco2.jpg)](/businesses/strategic-goods-control-1/overview/scope-of-control)** | **[![](/images/sgco3.jpg)](/businesses/strategic-goods-control-1/overview/enforcement)** |
