@@ -33,7 +33,7 @@ Goods and Services Tax (GST) relief may be granted for such cases of re-import a
 The importer or the appointed freight handling agent should follow the steps in the tables below to apply for duty exemption and GST relief for re-importing dutiable shut-out goods.
 
 
-#### Duty Exemption and GST Relief for Re-Importing Dutiable Shut-Out Goods Previously Released From a Licensed Warehouse, Into a licensed Warehouse
+**Duty Exemption and GST Relief for Re-Importing Dutiable Shut-Out Goods Previously Released From a Licensed Warehouse, Into a licensed Warehouse**
 
 1) Submit the following supporting documents to the Permits Unit of the Procedures & Systems Branch of Singapore Customs via [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg):
 
@@ -51,7 +51,7 @@ The importer or the appointed freight handling agent should follow the steps in 
 
 Please refer to  [Circular No. 02/2015](/news-and-media/circulars/2015-01-19-Circular022015.pdf) on the requirements for the movement of dutiable goods and the declaration for exportation of dutiable goods from a licensed warehouse.
 
-#### Duty Exemption and GST Relief for Re-Importing Dutiable Shut-Out Goods Previously under Transhipment with Inter-gateway Movement into a Licensed Warehouse (ie. Transhipment From First Checkpoint to Second Checkpoint, and Shut-out From Second Checkpoint)
+**Duty Exemption and GST Relief for Re-Importing Dutiable Shut-Out Goods Previously under Transhipment with Inter-gateway Movement into a Licensed Warehouse (ie. Transhipment From First Checkpoint to Second Checkpoint, and Shut-out From Second Checkpoint)**
 
 1) [Apply](/businesses/importing-goods/import-procedures/) for a Customs In-Non Payment (Approved Premises/Schemes) permit via TradeNet before the re-importation of dutiable goods into a licensed warehouse.
 
@@ -60,7 +60,7 @@ Please refer to  [Circular No. 02/2015](/news-and-media/circulars/2015-01-19-Cir
 -   The previous Customs permit number must be declared in the “Previous Permit No.” field; and
 -   Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.
 
-#### No Duty Exemption and GST Relief for Re-Importing or Importing Dutiable Shut-out Goods (Including those previously Imported under the Temporary Import Scheme) into Customs Territory
+**No Duty Exemption and GST Relief for Re-Importing or Importing Dutiable Shut-out Goods (Including those previously Imported under the Temporary Import Scheme) into Customs Territory**
 
 1) Dutiable shut-out goods will not have duty exemption and GST relief upon re-importation or importation into customs territory.
 
