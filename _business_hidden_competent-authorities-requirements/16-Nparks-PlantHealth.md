@@ -31,4 +31,4 @@ Importers are required to provide all relevant information to NParks for approva
 
 5) The details of the regulated pests, plants, plant products and other materials are listed in the respective Schedules of the Rules. You may email Plant Science and Health Branch (Plant Health Section) at [nparks_public_affairs@nparks.gov.sg](mailto:nparks_public_affairs@nparks.gov.sg) or call 6316 5153 for more information.
 
-Refer to  [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do).
+Refer to  [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
