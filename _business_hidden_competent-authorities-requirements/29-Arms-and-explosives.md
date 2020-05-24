@@ -7,7 +7,7 @@ third_nav_title: Competent Authorities Requirements
 
 # Singapore Police Force - Arms and Explosives (A&E) - Police Licensing & Regulatory Department (PLRD)
 
-**Arms and Explosives Act Chapter 13**
+## Arms and Explosives Act Chapter 13
 
 The import, export and transhipment of arms, explosives and explosives precursors are regulated under the Arms and Explosives Act Chapter 13.
 
@@ -27,7 +27,7 @@ The import, export and transhipment of arms, explosives and explosives precursor
 
 The definition of "explosive precursors" us defined as any substance specified in the Second Schedule of the Arms and Explosive Act.
 
-**Regulation of Imports and Exports Regulation**
+## Regulation of Imports and Exports Regulation
 
 PLRD also regulates the following items under Regulation of Imports and Exports Regulations:
 
@@ -43,15 +43,15 @@ PLRD also regulates the following items under Regulation of Imports and Exports 
 (d) Toy or replica explosives, grenades, ammunitions or improvised explosive devices (IED)  
 (e) Handcuffs
 
-**Functions of AED (PLRD)**
+## Functions of AED (PLRD)
 
 The function of AED (PLRD) is to regulate the dealing in, manufacture, possession or control, storage, import, export and transhipment of arms, explosives and explosive precursors.
 
-**Types of Licences**
+## Types of Licences
 
 AED PLRD issues 2 types of licences – long term (valid for a period of 1 year or 2 years) and short term (valid for a period of 14 days).
 
-*Long Term Licences*
+**Long Term Licences**
 
 -   Licence to possess firearms or explosive precursors
 -   Licence to deal in arms, explosives or explosive precursors
@@ -59,13 +59,13 @@ AED PLRD issues 2 types of licences – long term (valid for a period of 1 year 
 -   Licence to store arms, explosives or explosive precursors
 -   Licence to repair arms
 
-*Short Term Licences*
+**Short Term Licences**
 
 -   Licence to import arms, explosives or explosives precursors
 -   Licence to export arms, explosives or explosive precursors
 -   Licence to remove explosives
 
-**Offences**
+## Offences
 
 Under Section 13(1) of the Arms and Explosives Act, Chapter 13, no person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such other conditions as may be prescribed:
 
@@ -97,7 +97,7 @@ in the case of a body corporate, to a fine not exceeding $100,000; and
 
 in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-**TradeNet Requirements**
+## TradeNet Requirements
 
 When declaring TradeNet Permit, the declarant is required to upload the following documents via the TradeNet portal to AED PLRD to support the application:
 
@@ -128,7 +128,7 @@ If the Dealer Licence is for your company, you are required to specify the "Arms
 
 If you do not require a Dealer Licence, please specify "N.A." in the "Licence Number" field and the "Name" and "NRIC/Passport Number" of the individual or name of company in the "General/Traders' Remarks" field of your permit application.
 
-**On-line processing of Permit Applications**
+## On-line processing of Permit Applications
 
 All permit applications containing AED PLRD controlled items will be routed to AED PLRD for online processing. To facilitate the processing of your permit applications, you are required to upload the relevant abovementioned documents via the TradeNet portal to AED PLRD.
 
@@ -140,10 +140,10 @@ If an individual receives queries from AED (PLRD), the declarant shall answer th
 
 For the export of arms, explosives or explosive precursors, the permit application must be declared on TradeNet  **prior to the departure date for processing**. AED (PLRD) will not approve the permit application of any controlled goods that have departed Singapore. Investigation will be carried out against the exporter for all exportation cases of AED (PLRD)’s controlled goods that were conducted without prior approval and export licence.
 
-**Approval Messages**
+## Approval Messages
 
 Once the import, export or transhipment permit application is approved, the importer or exporter is required to comply with all the requirements and conditions stated in the approval message(s).
 
-**Enquiries**
+## Enquiries
 
-For more information, please visit AED PLRD's  [website](https://www.police.gov.sg/e-services). For further enquiries, you may contact us at 6835 0000 or email to SPF_Licensing_Feedback@gov.sg.
+For more information, please visit AED PLRD's  [website](https://www.police.gov.sg/e-services){:target="_blank"}. For further enquiries, you may contact us at 6835 0000 or email to SPF_Licensing_Feedback@gov.sg.
