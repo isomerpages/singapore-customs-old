@@ -21,7 +21,7 @@ For scenarios (2) and (4) above, an importer or his appointed Declaring Agent mu
 
 Please note that the importer must obtain the approval of the Competent Authority (CA)  **prior to the importation** of goods that are subject to control and adhere to the requirements of the CA.
 
-### Short-Payment
+## Short-Payment
 
 An importer or his appointed Declaring Agent should apply for a Short-Payment permit within 2 working days from the date of destruction or recycling of the goods, if he had short-paid the duty and/or GST for goods that had been imported and declared. The following details must be included:
 
@@ -32,10 +32,10 @@ The importer or his appointed declaring agent must declare the previous  **In-Pa
 
 Please take note of the relevant procedural requirements when applying for an In-Non-Payment (Destruction) permit for the destruction or recycling of imported goods listed in the respective categories below.
 
-**1.** [**Dutiable Motor Vehicles**](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-motor-vehicles)
+1. [Dutiable Motor Vehicles](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-motor-vehicles)
 
-**2.** [**Dutiable Liquor & Tobacco Products and Ethanol**](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-liquor-tobacco-ethanol) 
+2. [Dutiable Liquor & Tobacco Products and Ethanol](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-liquor-tobacco-ethanol) 
 
-**3.** [**Non-Controlled and Non-Dutiable Goods**](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/nc-nd-goods)
+3. [Non-Controlled and Non-Dutiable Goods](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/nc-nd-goods)
 
-**4.** [**Controlled Non-Dutiable Goods**](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/controlled-nd-goods)
+4. [Controlled Non-Dutiable Goods](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/controlled-nd-goods)
