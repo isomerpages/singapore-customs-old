@@ -7,7 +7,7 @@ third_nav_title: Competent Authorities Requirements
 
 # Enterprise Singapore (ESG) - Import and Export of Rice
 
-**PROCEDURE FOR IMPORT OF RICE TO SINGAPORE**
+## Procedure for Import of Rice to Singapore
 
 In Singapore, rice of all description is a controlled item under the Price Control (Rice) Order 1990 of the Price Control Act (Chapter 244). The Government requires an importer to apply for a licence, obtainable from Enterprise Singapore.
 
@@ -27,11 +27,11 @@ The Singapore Storage & Warehouse Pte Ltd (SSW) is the designated warehouse oper
 
 For all rice consignments, importers are to submit declarations for rice imports and exports. Rice importers can sell either to wholesalers or directly to retailers. The stockpile participants may establish their own local distribution network.
 
-**RICE IMPORT LICENCE**
+## Rice Import Licence
 
 Rice of all descriptions is declared to be a controlled item under the Price Control Act (Chapter 244) and the Price Control (Rice) Order 1990. As such, no person shall import the item unless he has a valid licence issued by Enterprise Singapore.
 
-**PROCEDURE IN PROCESSING RICE IMPORT LICENCE: ONLINE LICENCE APPLICATION**
+## Procedure in Processing Rice Import Licence: Online Licence Application
 
 If the conditions are met, the Licence will be prepared for submission to Assistant Price Controller for approval.
 
