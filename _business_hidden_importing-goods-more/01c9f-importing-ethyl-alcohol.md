@@ -6,23 +6,23 @@ third_nav_title: Import Procedures
 
 # Importing Ethyl Alcohol
 
-### Dutiable Ethyl Alcohol
+## Dutiable Ethyl Alcohol
 
 Importing  **dutiable ethyl alcohol**  or  **undenatured ethyl alcohol**  incurs Goods and Services Tax (GST) and duty.
 
-GST is calculated based on the  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods plus all duties and other charges incidental to the sale and delivery of the goods into Singapore, whether or not shown on the invoice. The duty rates can be found  [here](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value).
+GST is calculated based on the [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods plus all duties and other charges incidental to the sale and delivery of the goods into Singapore, whether or not shown on the invoice. The duty rates can be found [here](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value).
 
 A Customs In-Payment (Duty and GST) permit is required to account for its import and payment of the duty and GST.
 
-### Duty Exemption for Approved Purposes
+## Duty Exemption for Approved Purposes
 
 The import of dutiable ethyl alcohol by the following organisations or persons for approved purposes are exempted from excise duty. Please note that GST is still applicable.
 
 -   Educational and research establishments, Singapore government departments, statutory bodies and any company with research and development facilities solely for instructional, official or research and development purposes
--   Registered pharmacists for medical purposes and purposes authorised in  [Part II of the Schedule to the Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5?DocDate=20121228)
--   Registered medical practitioners, registered dentists, veterinary surgeons and any person in charge of a hospital or kindred institution for scientific purposes and purposes authorised in  [Part II of the Schedule to the Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5?DocDate=20121228)
+-   Registered pharmacists for medical purposes and purposes authorised in  [Part II of the Schedule to the Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5?DocDate=20121228){:target="_blank"}
+-   Registered medical practitioners, registered dentists, veterinary surgeons and any person in charge of a hospital or kindred institution for scientific purposes and purposes authorised in  [Part II of the Schedule to the Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5?DocDate=20121228){:target="_blank"}
 
-### Application for Duty Exemption of Ethyl Alcohol
+## Application for Duty Exemption of Ethyl Alcohol
 
 1) Submit a completed  [duty exemption application form](http://eservices.customs.gov.sg/scripts/customs/DutyExemptEA/DEA1_Form.asp)  for our assessment of duty exemption eligibility.
 
@@ -38,7 +38,7 @@ If you decide to increase or decrease the quantity of ethyl alcohol to import, p
 
 Requests for the change in ethyl alcohol quota are considered on a case-by-case basis.
 
-### Denatured Ethyl Alcohol
+## Denatured Ethyl Alcohol
 
 Denatured ethyl alcohol is non-dutiable and its import is subject to GST payment only.
 
@@ -46,7 +46,7 @@ A Customs In-Payment (GST) permit is required to account for its import payment 
 
 Do retain supporting documents, such as the Certificate of Analysis issued by the supplier or an independent authority, bill of lading or air waybill and invoice, for each shipment of denatured ethyl alcohol imported. The documents are subject to inspection by Singapore Customs.
 
-### What Qualifies as Denatured Ethyl Alcohol?
+## What Qualifies as Denatured Ethyl Alcohol?
 
 Specific denaturants are added into ethyl alcohol to qualify as denatured ethyl alcohol.
 
