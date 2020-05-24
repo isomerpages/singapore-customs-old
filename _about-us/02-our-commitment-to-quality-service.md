@@ -33,6 +33,7 @@ Our response time depends on the nature and complexity of the enquiry or feedbac
 |**Process Certificates of Origin Online Applications**                             |  Certificates of Origin for goods of Singapore origin applications within 2 hours<br><br>Back-to-back Certificates of Origin applications within 2 working days    |
 |**Issue Import Certificates and Delivery Verifications (ICDV)**                    |  100% within 2 working days upon receipt of complete application with all the relevant supporting documents                                                        |
 |**Issue Customs Rulings**                                                          | Within 30 days upon receipt of full supporting documents                                                                                                           |
+<br>
 
 |Travellers                                                                       |                       |
 |---------------------------------------------------------------------------------|-----------------------|
