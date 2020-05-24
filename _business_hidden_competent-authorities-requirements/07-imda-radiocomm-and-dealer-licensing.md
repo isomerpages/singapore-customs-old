@@ -7,14 +7,14 @@ third_nav_title: Competent Authorities Requirements
 
 # Info-communications Media Development Authority (IMDA) - Radiocomm & Dealer Licensing
 
-**Guidelines on Declaration of Importation of Telecommunication Equipment**
+## Guidelines on Declaration of Importation of Telecommunication Equipment
 
--   Every imported telecommunication equipment should be declared on TradeNet to the Info-communications Media Development Authority (IMDA) for processing. Please refer to the  [procedures for the import of telecommunication equipment and the list of AHTN and product codes](https://www.imda.gov.sg/regulations-licensing-and-consultations/licensing/licences/licence-for-the-sale-of-telecommunication-equipment/tradenet---list-of--ahtn-codes). All dealers or importers are requested to comply with the procedures.
+-   Every imported telecommunication equipment should be declared on TradeNet to the Info-communications Media Development Authority (IMDA) for processing. Please refer to the  [procedures for the import of telecommunication equipment and the list of AHTN and product codes](https://www.imda.gov.sg/regulations-licensing-and-consultations/licensing/licences/licence-for-the-sale-of-telecommunication-equipment/tradenet---list-of--ahtn-codes){:target="_blank"}. All dealers or importers are requested to comply with the procedures.
     
 -   Selected telecommunication equipment may require prior approval by IMDA before it is granted entry into Singapore (e.g. military equipment, scanning receivers and transmitters that are used for unlawful transmissions, interception and jamming of signals).
     
 
-**Guide for Auto Processing of Import Permits (eg. Import of Telecommunication Equipment for Own Use Without a Dealer's Licence)**
+## Guide for Auto Processing of Import Permits (eg. Import of Telecommunication Equipment for Own Use Without a Dealer's Licence)
 
 Small quantities (eg. one or two sets) of the following types of telecommunication equipment may be imported for an individual's personal use or his/her company’s use without a Dealer's Licence.
 
@@ -33,12 +33,12 @@ Small quantities (eg. one or two sets) of the following types of telecommunicati
 
 ***
 
-**Import by Licensed Equipment Dealers**
+## Import by Licensed Equipment Dealers
 
 For import of telecommunication equipment by licensed equipment dealers, the following details need to be provided for an automated permit processing:
 
 -   Valid Dealer's licence  
-    Please declare the appropriate valid IMDA Dealer's Individual or Class licence in the import declarations. If you do not have a Dealer's Licence, please apply for one on  [LicenceOne](https://licence1.business.gov.sg/)  Portal. The licence number should be provided in the “Licence” field on the TradeNet declaration.
+    Please declare the appropriate valid IMDA Dealer's Individual or Class licence in the import declarations. If you do not have a Dealer's Licence, please apply for one on  [LicenceOne](https://licence1.business.gov.sg/){:target="_blank"} Portal. The licence number should be provided in the “Licence” field on the TradeNet declaration.
 -   Licence Type  
     A Dealer’s Class Licence allows you to import the following types of equipment:
     1. Registered or approved telecommunication equipment (under the “ESER”, “SER” or “General Equipment (GER)” scheme
