@@ -27,7 +27,7 @@ You may refer to this [handbook](/documents/businesses/handbook-on-the-rules-of-
 
 ## What is a preferential Certificate of Origin?
 
-A preferential CO allows your buyer to pay lower or no customs duty when you export your goods under a [Free Trade Agreement](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview) or Schemes of Preferences. To check whether the goods are covered under the Free Trade Agreement or Schemes of Preferences and the preferential tariffs, you may refer to Enterprise Singapore's [Tariff Finder](https://mendel-online.com/#/signup/ESG) Tool to assist you.
+A preferential CO allows your buyer to pay lower or no customs duty when you export your goods under a [Free Trade Agreement](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} or Schemes of Preferences. To check whether the goods are covered under the Free Trade Agreement or Schemes of Preferences and the preferential tariffs, you may refer to Enterprise Singapore's [Tariff Finder](https://mendel-online.com/#/signup/ESG){:target="_blank"} Tool to assist you.
 
 These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
 
@@ -42,15 +42,15 @@ You may use the [FTA Cost Statement Calculator](/documents/businesses/FTACostSta
 
 Ordinary COs are issued by Singapore Customs or any of the following authorised organisations:
 
--   [Singapore Chinese Chamber of Commerce and Industry](http://www.sccci.org.sg/)
+-   [Singapore Chinese Chamber of Commerce and Industry](http://www.sccci.org.sg/){:target="_blank"}
     
--   [Singapore Indian Chamber of Commerce and Industry](http://www.sicci.com/)
+-   [Singapore Indian Chamber of Commerce and Industry](http://www.sicci.com/){:target="_blank"}
     
--   [Singapore International Chamber of Commerce](http://www.sicc.com.sg/)
+-   [Singapore International Chamber of Commerce](http://www.sicc.com.sg/){:target="_blank"}
     
--   [Singapore Malay Chamber of Commerce and Industry](http://www.smcci.org.sg/)
+-   [Singapore Malay Chamber of Commerce and Industry](http://www.smcci.org.sg/){:target="_blank"}
     
--   [Singapore Manufacturing Federation](http://www.smfederation.org.sg/)
+-   [Singapore Manufacturing Federation](http://www.smfederation.org.sg/){:target="_blank"}
     
 
 These authorised organisations issue ordinary COs for locally manufactured or processed goods, and goods from other countries which are re-exported from Singapore. However, they do not issue ordinary COs for the export of Singapore-origin textiles and textile goods to the United States of America.
@@ -59,7 +59,7 @@ Preferential COs are issued only by Singapore Customs.
 
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
-## Step 1: Register your Manufacturing Premises
+**Step 1: Register your Manufacturing Premises**
 
 Register using the [manufacturer’s application form](/documents/businesses/SCA006-manufacturers-application-ver-11-apr19.doc).
 
@@ -69,7 +69,7 @@ The manufacturer's registration will be valid for 2 years from the date of your 
 
 (You may skip this step if you are already registered with us as a manufacturer for the specific goods.)
     
-## Step 2: Submit the Manufacturing Cost Statement
+**Step 2: Submit the Manufacturing Cost Statement**
     
 -   After registration, submit the manufacturing cost statement to Singapore Customs for verification that the goods in question meet the origin criteria under the respective Free Trade Agreements and Schemes.
     
@@ -77,14 +77,14 @@ The manufacturer's registration will be valid for 2 years from the date of your 
     
 -   The typical processing time for a Manufacturing Cost Statement is 7 working days upon receipt of the submission provided the submission is complete and accurate.
     
-## Step 3: Apply for Certificate of Origin via TradeNet
+**Step 3: Apply for Certificate of Origin via TradeNet**
 
 
 Apply for a CO with export permit under the respective Free Trade Agreements or Schemes via TradeNet.
 
 You may refer to this [handbook](/documents/businesses/handbook-on-the-Application-procedures-for-a-certificate-of-origin-via-tradenet-and-related-administrative-matters-Jan-2020(2).pdf) for more information on how to apply for a CO and export permit via TradeNet.
     
-## Step 4: Collect the Certificate of Origin
+**Step 4: Collect the Certificate of Origin**
 
 
 The CO must be collected within 1 month from its approval date. The exporter may authorise a person to collect the CO on their behalf.
@@ -118,7 +118,7 @@ In general, the re-export may be eligible for a back-to-back preferential CO iss
     
 -   The goods fulfill the relevant requirements in the [Operational Certification Procedures](/documents/businesses/Back-to-back-pco-legal-text-reference-Aug-2019.pdf) of the FTA.
 
-Please refer to the legal text of the respective [Free Trade Agreements](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview) for the eligibility requirements for back-to-back preferential CO application.
+Please refer to the legal text of the respective [Free Trade Agreements](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} for the eligibility requirements for back-to-back preferential CO application.
 
 | Certificate Type | Back-to-Back Preferential CO |
 |------------------|------------------------------|
@@ -153,7 +153,7 @@ You may refer to **Electronic Exchange of Form D via the ASEAN Single Window** f
 
 ## How to renew the validity of expired manufacturing cost statements?
 
-You can renew the manufacturing cost statements by submitting a letter of undertaking via [e-filing](http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp).
+You can renew the manufacturing cost statements by submitting a letter of undertaking via [e-filing](http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp){:target="_blank"}.
 
 The letter would declare the goods of all models still qualify at the prevailing origin criterion(a) under the respective Free Trade Agreements or Schemes previously approved.
 
@@ -180,7 +180,7 @@ You may amend a CO electronically via TradeNet if:
 
 If the amendment is made after the CO has been generated for printing, all previously issued COs under the export permit will be considered null and void and must be returned to Singapore Customs for cancellation. A new CO number will be issued and the CO can be collected 2 working hours after approval.
 
-**Electronic Exchange of Form D via the ASEAN Single Window (ASW)**
+## Electronic Exchange of Form D via the ASEAN Single Window (ASW)
 
 The ASEAN Single Window (ASW) is an environment that connects and integrates the National Single Windows (NSWs) of ASEAN Member States (AMS), thereby allowing the electronic exchange of data between the AMS.
 
