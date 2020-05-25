@@ -12,7 +12,7 @@ Please note that Application for Certificate of Free Sales, Certificate of Non-M
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp) |
-| 2. | Registration for Manufacturer/New Product Line | [Word Doc](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/certificate-of-origin-related-forms/sc-a-006_v11.doc?la=en&hash=57AD06DAB65A31A534E12429CE93C40A1A84BC0A) (364KB) |
+| 2. | Registration for Manufacturer/New Product Line | [Word Doc](/documents/eservices/SC-A-006_v11.doc) (364KB) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
