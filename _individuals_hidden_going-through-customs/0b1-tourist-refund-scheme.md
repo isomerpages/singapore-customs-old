@@ -7,7 +7,7 @@ third_nav_title: Departure
 
 The Tourist Refund Scheme (TRS) is administered by Singapore Customs on behalf of the Inland Revenue Authority of Singapore (IRAS).  The scheme allows tourists to claim a refund of the Goods and Services Tax (GST) paid on goods purchased from participating retailers if the goods are brought out of Singapore via Changi International Airport or Seletar Airport.
 
-For more information on the scheme’s qualifying conditions and tourist eligibility criteria, please refer to IRAS’ webpage on  [Tourist Refund Scheme](https://www.iras.gov.sg/IRASHome/Schemes/GST/Tourist-Refund-Scheme/).
+For more information on the scheme’s qualifying conditions and tourist eligibility criteria, please refer to IRAS’ webpage on  [Tourist Refund Scheme](https://www.iras.gov.sg/IRASHome/Schemes/GST/Tourist-Refund-Scheme/){:target="_blank"}.
 
 
 ***
@@ -19,7 +19,7 @@ GST refund, subject to conditions of the scheme, can be claimed at these locatio
 -   Seletar Airport
 
 ## How do I process my GST refund?
-Before departing from the airport, please proceed to the electronic TRS (eTRS) self-help kiosk  [](https://www.iras.gov.sg/IRASHome/GST/Consumers/Tourist-Refund-Scheme/)to apply for your GST refund.  You will need to scan your physical passport to retrieve all eTRS transactions tagged to your passport.
+Before departing from the airport, please proceed to the electronic TRS (eTRS) self-help kiosk  [](https://www.iras.gov.sg/IRASHome/GST/Consumers/Tourist-Refund-Scheme/){:target="_blank"} to apply for your GST refund.  You will need to scan your physical passport to retrieve all eTRS transactions tagged to your passport.
 
 -   **For check-in items:** Before checking-in your purchases, proceed to the eTRS self-help kiosks located at the Departure Check-in Hall (before Departure Immigration) to apply for your GST refund.
 -   **For hand-carry items:** Proceed to the eTRS self-help kiosks located at the Departure Transit Lounge (after Departure Immigration) to apply for GST refund.
@@ -38,7 +38,7 @@ Before departing from the airport, please proceed to the electronic TRS (eTRS) s
 Additional Information:
 
 -   You should be submitting your GST refund claim at the terminal where you will be checking in your purchases or where your flight will be departing from.
--   Singapore Customs  **does not**  issue eTRS transactions nor process any refund (cash or non-cash). To check if you have been successfully issued with eTRS transactions by participating retailers or for updates on the refund status of your eTRS transactions, please visit  [touristrefund.sg](https://touristrefund.sg/) to register and login to your e-Service account.
+-   Singapore Customs  **does not**  issue eTRS transactions nor process any refund (cash or non-cash). To check if you have been successfully issued with eTRS transactions by participating retailers or for updates on the refund status of your eTRS transactions, please visit  [touristrefund.sg](https://touristrefund.sg/){:target="_blank"} to register and login to your e-Service account.
 
 **All refunds (cash or non-cash) are processed by Global Tax Free Pte Ltd (the approved Central Refund Counter Operator), not Singapore Customs.**
 
