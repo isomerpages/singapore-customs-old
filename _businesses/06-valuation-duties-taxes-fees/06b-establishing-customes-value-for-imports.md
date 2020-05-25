@@ -16,8 +16,8 @@ accordion:
 However, some imports can:
 
 -   [Qualify for preferential tariff treatment](/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports)
--   Be exempted from duties refer to  [Customs (Duties Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5#pr2-) and Section 2(1A) of  [Customs (Duties) Order](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)[)](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)
--   Be  [exempted from GST](https://sso.agc.gov.sg/SL/GSTA1993-OR3)
+-   Be exempted from duties refer to  [Customs (Duties Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5#pr2-){:target="_blank"} and Section 2(1A) of  [Customs (Duties) Order](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)[)](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-){:target="_blank"}
+-   Be  [exempted from GST](https://sso.agc.gov.sg/SL/GSTA1993-OR3){:target="_blank"}
 
 ## Transaction Value Method
 
@@ -78,10 +78,10 @@ If the transaction value method cannot be used, the following alternatives will 
 -   Computed value - the value based on cost of production, general expenses and profits in the country of origin of the imported goods
 -   Residual valuation - the value determined by Singapore Customs, based on flexible interpretation of all the previous methods
 
-## **No Insurance Purchased**
+## No Insurance Purchased
 Traders can set the insurance to zero value if no insurance charges were incurred when importing the goods.
 
-**For more infotmation on:**
+## For more infotmation on:
 
 {:.mobile-block}
 |  |  |  |
