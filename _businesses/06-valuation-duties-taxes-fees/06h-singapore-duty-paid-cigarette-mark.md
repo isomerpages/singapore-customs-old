@@ -6,7 +6,7 @@ third_nav_title: Valuation, Duties, Taxes & Fees
 
 # Singapore Duty-Paid Cigarette (SDPC) Mark
 
-Since 1 Jan 2009, all individual sticks of cigarettes meant for sale and consumption in Singapore are required to bear the SDPC marking according to specifications in the  [Customs Regulations](https://sso.agc.gov.sg/SL/CA1960-RG2?DocDate=20170220).
+Since 1 Jan 2009, all individual sticks of cigarettes meant for sale and consumption in Singapore are required to bear the SDPC marking according to specifications in the  [Customs Regulations](https://sso.agc.gov.sg/SL/CA1960-RG2?DocDate=20170220){:target="_blank"}.
 
 ## Marking Specification
 
@@ -16,7 +16,7 @@ Since 1 Jan 2009, all individual sticks of cigarettes meant for sale and consump
 
 Importers and manufacturers of cigarettes are required to obtain approval from Singapore Customs before importation or manufacture of new brands or variants of cigarettes meant for sale and consumption in Singapore.
 
-Please complete the  [online application](https://form.gov.sg/5ccac0a442502b00107a9554)  and upload the following supporting documents in the format below:
+Please complete the  [online application](https://form.gov.sg/5ccac0a442502b00107a9554){:target="_blank"} and upload the following supporting documents in the format below:
 
 (a) Photographs of the cigarette sample against a ruler or measuring device; and
 
