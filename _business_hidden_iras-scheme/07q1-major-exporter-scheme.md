@@ -16,7 +16,7 @@ Companies approved under the MES can enjoy GST suspension for non-dutiable goods
 
 **An overview of how the Major Exporter Scheme works:**
 
-![](https://www.customs.gov.sg/-/media/cus/images/business/major-exporter-scheme.jpg)
+![](/images/major-exporter-scheme.jpg)
 
 ## Customs Permit Requirements
 
