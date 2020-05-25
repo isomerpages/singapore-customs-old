@@ -47,7 +47,7 @@ If an overseas company sold goods to a local company and the commercial invoice 
 
 More information [here](/businesses/importing-goods/import-procedures/types-of-import-permits) about the types of customs permits and situations where no customs permit is required.
 
-Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/) on the arrangements to account for the GST.
+Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/){:target="_blank"}  on the arrangements to account for the GST.
 
 **Visit links below for more information on Importing requirements:** 
 
