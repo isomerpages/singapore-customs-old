@@ -428,6 +428,19 @@ a[href$=".pdf"]:before {
 }
 //End of Dennis tweak to not display pdf icon before all pdf links
 
+//Dennis tweak to show list as responsive cards
+ul.card-list{
+  list-style-type: none;
+  li{
+    display: inline-block;
+    border: 1px solid #d6d6d6;
+    padding: 1rem;
+    margin: 0;
+    width: 240px;
+  }
+}
+//End of Dennis tweak to show list as responsive cards
+
 //Dennis tweak so that hero banner will not be too narrow on ipad
 @media screen and (min-width: 500px){
   #main-content{
