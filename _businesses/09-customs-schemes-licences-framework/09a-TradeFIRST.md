@@ -34,7 +34,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
 
     -   [Waiver of security amount of S$2000 and below](/news-and-media/circulars/2010-11-15-Circular192010.pdf)
     -   [Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme)
-    -   [TradeNet Account](/about-us/national-single-window/overview)
+    -   [TradeNet Account](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet)
     -   [Cargo Agent’s Import Authorisation Scheme](/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme)
     -   [Certificate of Origin](/businesses/certificates-of-origin/overview)
     
