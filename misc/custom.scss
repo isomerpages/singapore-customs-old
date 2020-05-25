@@ -422,6 +422,12 @@ $desktop: 960px + (2 * $gap) !default;
 	background: unset;
 }
 
+//Dennis tweak to not display pdf icon before all pdf links
+a[href$=".pdf"]:before {   
+    content: none;
+}
+//End of Dennis tweak to not display pdf icon before all pdf links
+
 //Dennis tweak so that hero banner will not be too narrow on ipad
 @media screen and (min-width: 500px){
   #main-content{
