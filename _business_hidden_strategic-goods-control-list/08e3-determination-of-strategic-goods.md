@@ -8,11 +8,11 @@ third_nav_title: Strategic Goods Control List
 
 ## How to determine strategic goods?
 
-To determine if your product is controlled under the Strategic Goods (Control) Act (SGCA), please compare your product’s description and specification against the descriptions in the  [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list){:target="_blank"}. If your product meets the stated descriptions, it is controlled as strategic goods under the SGCA. You may refer to this  [guidebook](https://www.customs.gov.sg/-/media/cus/files/business/strategic-goods-control/guidebook-on-the-determination-of-strategic-goods_3-oct-2019.pdf?la=en&hash=FB74FB31B8431E5AE1E57108CBCCE99A67928178){:target="_blank"} for more information.
+To determine if your product is controlled under the Strategic Goods (Control) Act (SGCA), please compare your product’s description and specification against the descriptions in the  [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list){:target="_blank"}. If your product meets the stated descriptions, it is controlled as strategic goods under the SGCA. You may refer to this  [guidebook](/documents/businesses/guidebook-on-the-determination-of-strategic-goods-3-oct-2019.pdf){:target="_blank"} for more information.
 
 ## Determination Database
 
-The  [Determination Database](https://www.customs.gov.sg/-/media/cus/files/business/harmonized-system-classification-of-goods/strategic-goods-determination-database_sep-19.xlsx?la=en&hash=D74AB6CBD98CBFDA2195B7C1268CCCB4DCD3629E)  is a list of products and their determination compiled from past applications. You may refer to it to view products which have been assessed by Singapore Customs.
+The  [Determination Database](/documents/businesses/Strategic-Goods-Determination-Database_Sep-19.xlsx)  is a list of products and their determination compiled from past applications. You may refer to it to view products which have been assessed by Singapore Customs.
 
 _Disclaimer:_ _The determination of strategic goods provided here is for general reference only. Every effort has been made to ensure that the information presented is complete and accurate._ _Singapore Customs assumes no responsibility and accepts no liability for any action taken or omitted by you on the basis of the classification provided._
 
