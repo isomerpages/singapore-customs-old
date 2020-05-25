@@ -86,4 +86,4 @@ For convenience, you may make an advance declaration and payment of GST using ou
 
 It is the responsibility of travellers to make an accurate and complete declaration of all goods exceeding their duty-free concession and GST relief in their possession, including goods carried for or on behalf of other persons.
 
-Those who fail to declare at the Red Channel can be fined and prosecuted in court. More information on customs offences [here](/individuals/0c-offences).
+Those who fail to declare at the Red Channel can be fined and prosecuted in court. More information on customs offences [here](/individuals/going-through-customs/offences).
