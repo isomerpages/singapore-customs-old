@@ -56,7 +56,7 @@ Presentation materials:
 -   [3rd Panel Discussion: Private Sector Best Practices for Compliance (NEC Corporation)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - NEC.pdf)
 -   [3rd Panel Discussion: Private Sector Best Practices for Compliance (DSM Dyneema)](/documents/businesses/TSSB/Joint Industry Outreach Seminar - 3rd Panel - DSM.pdf)
 -   [3rd Panel Discussion: Private Sector Best Practices for Compliance (Rockwell Automation)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - Rockwell Automation.pdf)
--   [United States - Proliferation Trends](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - Proliferation Trends.pdf)
+-   [United States - Red Flag Indicators](https://www.bis.doc.gov/index.php/all-articles/23-compliance-a-training/51-red-flag-indicators){:target="_blank"}
 -   [Japan's Controls on Intangible Transfer of Technology](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - Japans Controls on ITT.pdf)
 -   [China's Export Control System](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - China.pdf)
 
