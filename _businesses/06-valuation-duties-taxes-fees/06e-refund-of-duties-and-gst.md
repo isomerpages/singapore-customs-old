@@ -46,7 +46,7 @@ There are three possible outcomes:
 
 ---- 
 
-If the GST was deducted via IBG from the taxable importer's bank account registered with Singapore Customs, (i.e. payment permits with the permit conditions "GF" & "TX"), the importer is advised to claim the GST as input tax from  [IRAS](https://www.iras.gov.sg/irashome/default.aspx)  during the company's accounting period. The same applies if the GST was paid by the taxable importer at the bank.
+If the GST was deducted via IBG from the taxable importer's bank account registered with Singapore Customs, (i.e. payment permits with the permit conditions "GF" & "TX"), the importer is advised to claim the GST as input tax from  [IRAS](https://www.iras.gov.sg/irashome/default.aspx){:target="_blank"} during the company's accounting period. The same applies if the GST was paid by the taxable importer at the bank.
 
 However, if the claim for refund is due to stating the wrong importer's name or UEN, the importer can apply for a GST refund from Singapore Customs.
 
