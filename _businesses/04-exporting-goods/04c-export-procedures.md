@@ -112,7 +112,7 @@ For minor offences, Singapore Customs may compound offences for a sum not more t
 | **Making a false declaration.** <br><br> _(Section 28(1)(a) of the RIEA)_ | A fine not exceeding S$10,000, or imprisonment not exceeding 2 years, or both. |
 | **Importing, exporting or transhipping goods without a permit.** <br><br> _(Regulation 3(1) of the RIER)_ | **_First conviction:_** <br> A fine not exceeding S$100,000 or 3 times the value of the goods, whichever is greater, or imprisonment not exceeding 2 years, or both. <br><br> **_Second or subsequent conviction:_** <br>A fine not exceeding S$200,000 or 4 times the value of the goods, whichever is greater, or imprisonment not exceeding 3 years, or both. |
 
-Learn more about the prescribed offences and penalties under the [Customs Act](/about-us/acts-and-subsidiary-legislation/customs-act) and the [RIEA](/about-us/acts-and-subsidiary-legislation/customs-act).
+Learn more about the prescribed offences and penalties under the [Customs Act](/businesses/acts-and-subsidiary-legislation/overview) and the [RIEA](/businesses/acts-and-subsidiary-legislation/overview).
 
 
 ## Best Practices
