@@ -44,10 +44,6 @@ Seminar Materials
 
 -   [Agenda](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Agenda.pdf)
     
--   [Developments in US Export Controls](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 -Developments in US Export Controls.pdf)
-    
--   [Overview of Japan's Export Control System](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Overview of Japans Export Control.pdf)
-    
 -   [What to Expect at a BIS End-use Check](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - What to expect at BIS End Use Check.pdf)
     
 -   [Exports to Iran under the Joint Comprehensive Plan of Action](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Exports to Iran under the Joint Comprehensive Plan.pdf)
