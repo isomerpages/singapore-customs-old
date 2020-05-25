@@ -9,7 +9,7 @@ third_nav_title: Arrivals
 
 ## What to declare?
 
-Under Singapore’s laws, arriving travellers are required to declare and pay the duty and Goods and Services Tax (GST) to bring in dutiable and taxable goods exceeding their  [duty-free concession and GST relief](/individuals/0a1-duty-free-concession-and-gst-relief). This is applicable whether the goods were purchased overseas or in Singapore.
+Under Singapore’s laws, arriving travellers are required to declare and pay the duty and Goods and Services Tax (GST) to bring in dutiable and taxable goods exceeding their  [duty-free concession and GST relief](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief). This is applicable whether the goods were purchased overseas or in Singapore.
 
 ***
 
@@ -48,8 +48,8 @@ Major traveller entry checkpoints in Singapore operate the Red and Green Channel
 
 Proceed to the Red Channel if you are carrying:
 
--   [Dutiable goods exceeding your duty-free concession or Goods exceeding your GST relief](/individuals/0a1-duty-free-concession-and-gst-relief); 
--   [Controlled or restricted goods or Prohibited goods](/individuals/0a3-prohibited-and-controlled-goods)
+-   [Dutiable goods exceeding your duty-free concession or Goods exceeding your GST relief](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief); 
+-   [Controlled or restricted goods or Prohibited goods](/individuals/going-through-customs/arrivals/prohibited-and-controlled-goods)
 
 The Red Channel and the examination counters are manned by **the Immigration & Checkpoints Authority (ICA)**. Checks on persons, baggage and vehicles entering Singapore are conducted by ICA.
 
@@ -73,7 +73,7 @@ More information on permit requirements is available  [here](/businesses/importi
 
 ***
 
-### When to use the Green Channel
+## When to use the Green Channel
 ![](/images/GreenC.gif)
 
 Proceed to the Green Channel if you are not carrying any declarable goods stated above. ICA officers will conduct selective checks at the Green Channel.
@@ -83,6 +83,6 @@ If in doubt, always ask the checking officers at the Red Channel/Customs Examina
 It is the responsibility of travellers to make an accurate and complete declaration of all goods exceeding their duty-free concession and GST relief in their possession, including goods carried for or on behalf of other persons.
 
 Those who fail to do so can be fined and prosecuted in court. 
-<br> More information on customs offences is available [here.](/individuals/0c-offences)
+<br> More information on customs offences is available [here.](/individuals/going-through-customs/offences)
 
 
