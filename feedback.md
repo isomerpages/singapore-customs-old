@@ -33,6 +33,8 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 
 # General Enquiries & Feedback
 
+[Networked Trade Platform](https://www.ntp.gov.sg/public/helpdesk/singapore-customs)
+
 [Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)
 
 [Enquiries on SC 401](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
