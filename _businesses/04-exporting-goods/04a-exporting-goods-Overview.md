@@ -24,8 +24,8 @@ To account for the export of your goods (for example, from customs territory, ze
 
 ## Step 1 : Register for UEN and Activate Customs Account
 
-Entity can register with the [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/) or the relevant  [Unique Entity Number](http://www.uen.gov.sg/)  (UEN) issuance agency to obtain a UEN and
-[Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
+Entity can register with the [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/){:target="_blank"} or the relevant  [Unique Entity Number](http://www.uen.gov.sg/){:target="_blank"} (UEN) issuance agency to obtain a UEN and
+[Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}.
 
 If entity intends to:
 -   Engage in import or export activities in Singapore, or
@@ -34,20 +34,20 @@ If entity intends to:
 ## Step 2: Check if your goods are controlled
 Do check if the goods you intend to export are controlled goods subject to restrictions by Competent Authorities (CAs) in Singapore.
 
-You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)  using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
+You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
 
-If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)  of the product, you may apply for an  [official classification ruling](/documents/businesses/application-for-classification.doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
+If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} of the product, you may apply for an  [official classification ruling](/documents/businesses/application-for-classification.doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
 ## Step 3:  Apply for Customs Export Permit
 You may:
 
 -   Appoint a  [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
--   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID](/about-us/national-single-window/overview/what-you-need-to-know-about-tradenet)
+-   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet)
 
 All permit applications must be submitted electronically via TradeNet, which is accessible through:
 
--   TradeNet front-end solution from any  [approved solution provider](/about-us/national-single-window/overview/tradenet-solution-providers), or
--   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
+-   TradeNet front-end solution from any  [approved solution provider](/businesses/national-single-window/overview/TradeNet-Solution-Providers), or
+-   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}.
 
 Each permit application typically costs S$2.88. If you are engaging a declaring agent, you may wish to check with your appointed agent on the charges involved in obtaining a permit.
 
