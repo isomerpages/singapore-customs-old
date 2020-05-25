@@ -5,7 +5,7 @@ third_nav_title: Business Resources
 ---
 
 
-## **Courses for Businesses**
+# Courses for Businesses
 
 Singapore Customs has appointed Nanyang Polytechnic (NYP) and Republic Polytechnic (RP) to provide a suite of specialised courses on customs requirements for the business community. This training collaboration seeks to meet the industry’s demands for more frequent courses while enhancing the effectiveness of adult learning. It leverages on the teaching expertise and pedagogy of the polytechnic professionals.  
 
