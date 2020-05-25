@@ -33,7 +33,7 @@ collections:
     output: true
   eservices:
     output: true
-  individuals_hidden_going-through-customs:
+  individuals_going-through-customs:
     output: true
   business_registration-procedures:
     output: true
