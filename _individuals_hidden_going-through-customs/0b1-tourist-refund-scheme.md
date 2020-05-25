@@ -19,7 +19,7 @@ GST refund, subject to conditions of the scheme, can be claimed at these locatio
 -   Seletar Airport
 
 ## How do I process my GST refund?
-Before departing from the airport, please proceed to the electronic TRS (eTRS) self-help kiosk  [](https://www.iras.gov.sg/IRASHome/GST/Consumers/Tourist-Refund-Scheme/){:target="_blank"} to apply for your GST refund.  You will need to scan your physical passport to retrieve all eTRS transactions tagged to your passport.
+Before departing from the airport, please proceed to the electronic TRS (eTRS) self-help kiosk to apply for your GST refund.  You will need to scan your physical passport to retrieve all eTRS transactions tagged to your passport.
 
 -   **For check-in items:** Before checking-in your purchases, proceed to the eTRS self-help kiosks located at the Departure Check-in Hall (before Departure Immigration) to apply for your GST refund.
 -   **For hand-carry items:** Proceed to the eTRS self-help kiosks located at the Departure Transit Lounge (after Departure Immigration) to apply for GST refund.
