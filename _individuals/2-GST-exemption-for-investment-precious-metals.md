@@ -5,7 +5,7 @@ permalink: /individuals/GST-exemption-for-investment-precious-metals/
 
 # GST Exemption for Investment Precious Metals
 
-Individuals or businesses importing Investment Precious Metals (IPM) into Singapore are exempted from paying Goods and Services Tax (GST) if the IPMs meet the IPM Qualifying Criteria. Read more about the GST exemption for IPMs  [here](https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Working-out-your-taxes/When-is-GST-not-charged/Supplies-Exempt-from-GST/#title5).
+Individuals or businesses importing Investment Precious Metals (IPM) into Singapore are exempted from paying Goods and Services Tax (GST) if the IPMs meet the IPM Qualifying Criteria. Read more about the GST exemption for IPMs  [here](https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Working-out-your-taxes/When-is-GST-not-charged/Supplies-Exempt-from-GST/#title5){:target="_blank"}.
 
 ## Hand-carried IPMs
 
