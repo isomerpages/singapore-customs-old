@@ -98,7 +98,7 @@ All goods (dutiable and non-dutiable) that are uplifted as sea stores are not to
 
 You may re-import rejected or undelivered sea stores from a Free Trade Zone or authorised pier or place into a Licensed Warehouse/Zero-GST Warehouse as shut-out goods.
 
-Please refer to the information on the  [re-importing of shut-out goods](/businesses/importing-goods/import-procedures/re-importing-shut-out-goods) and  [procedures for dutiable sea stores](https://www.customs.gov.sg/-/media/cus/files/business/exporting-goods/export-procedures/supply-of-air-sea-stores/procedures-for-dutiable-sea-stores.pdf?la=en&hash=3A9846266DFF8F2D74F044B511628689B7926790).
+Please refer to the information on the  [re-importing of shut-out goods](/businesses/importing-goods/import-procedures/re-importing-shut-out-goods) and  [procedures for dutiable sea stores](/news-and-media/circulars/1999-06-28-Circular2499.pdf).
 
 **Submission of Statement for Sea Stores**
 
