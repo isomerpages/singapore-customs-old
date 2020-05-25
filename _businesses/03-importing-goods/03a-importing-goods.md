@@ -43,22 +43,22 @@ An entity that intends to:
 
 will need to:
 
--   Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/)  or the relevant  [Unique Entity Number](http://www.uen.gov.sg/)  (UEN) issuance agency to obtain a UEN; and
--   [Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
+-   Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/){:target="_blank"} or the relevant  [Unique Entity Number](http://www.uen.gov.sg/){:target="_blank"}   (UEN) issuance agency to obtain a UEN; and
+-   [Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} 
 
 ## Step 2: Check if Your Goods are Controlled
 Do check if the goods you intend to import are controlled goods or goods subject to restrictions by Competent Authorities (CAs) in Singapore.
 
 You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchCountryPort/searchInitCountryPort.do) using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, the name of the CA will be indicated next to its HS code. You may check directly with the respective CAs on their licensing requirements.
 
-If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchCountryPort/searchInitCountryPort.do)  of the product, you may apply for an  [official classification ruling](/documents/businesses/SCA004-(2).doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
+If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchCountryPort/searchInitCountryPort.do){:target="_blank"} of the product, you may apply for an  [official classification ruling](/documents/businesses/SCA004-(2).doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
 ## Step 3: Apply for Inter-Bank GIRO
 You or your Declaring Agent must maintain an Inter-Bank GIRO (IBG) with Singapore Customs to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Custom from your bank account to Singapore Customs directly.
 
 Mail the completed  [Application for Inter-Bank GIRO form](/eservices/customs-forms-and-service-links) to Singapore Customs’ address as indicated in the form.
 
-You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP) to use your IBG for the payment of duties and GST for your customs permit one day after the approval of your IBG application. If you do not maintain an IBG with Singapore Customs, the duties and GST will be deducted from your Declaring Agent’s IBG.
+You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"} to use your IBG for the payment of duties and GST for your customs permit one day after the approval of your IBG application. If you do not maintain an IBG with Singapore Customs, the duties and GST will be deducted from your Declaring Agent’s IBG.
 
 ## Step 4: Furnish Security
 You are required to furnish security for transactions involving dutiable goods, temporary import of goods for approved purposes, and for the operation of licensed premises such as licensed warehouses and excise factories.
@@ -71,12 +71,12 @@ Visit [here](/businesses/registration-matters/registration-procedures/security-l
 You may:
 
 -   Appoint a  [Declaring Agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for customs permits on your behalf; or
--   Apply for customs permits for your own or on behalf of your clients. To do so, you will need to register as a  [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct).
+-   Apply for customs permits for your own or on behalf of your clients. To do so, you will need to register as a  [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}.
 
 All permit applications must be submitted via TradeNet, which is accessible through:
 
--   TradeNet front-end software from an  [approved software vendor;](/about-us/national-single-window/overview/tradenet-solution-providers) or
--   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
+-   TradeNet front-end software from an  [approved software vendor;](/businesses/national-single-window/overview/TradeNet-Solution-Providers) or
+-   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}.
 
 Each permit application typically costs S$2.88. This does not include service fees charged by service providers such as freight forwarders, Declaring Agents etc. If you are engaging a Declaring Agent for assistance to submit the permit application, you may wish to check the amount of service fees that they charge.
 
