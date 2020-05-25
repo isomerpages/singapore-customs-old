@@ -26,7 +26,7 @@ You may refer to the lists below for the Harmonized System (HS) codes of control
 
 -   For the latest AHTN2017 HS codes, please refer to [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)
     
--   [Competent Authorities’ Help Desks](https://www.customs.gov.sg/-/media/cus/files/about-us/annexes-and-appendices/annex-e---ca-helpdesk-list.pdf?la=en&hash=389D47ADFB0ABE83173CF4BAA6308C9466AF067F)
+-   [Competent Authorities’ Help Desks](/documents/about-us/annex-e-ca-helpdesk-list.pdf)
     
 
 **Step 2**: Determine the category the controlled item fall under, whether it is:
