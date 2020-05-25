@@ -15,15 +15,15 @@ The NTP is a:
 -   Open innovation platform allowing development of insights & new services with cross-industry data
 -   Document hub for digitisation at source that enables reuse of data to cut costs and streamline processes
 
-Visit the NTP [here](http://www.ntp.gov.sg/) and stay tuned as more services are launched on the platform 
+Visit the NTP [here](http://www.ntp.gov.sg/){:target="_blank"} and stay tuned as more services are launched on the platform 
 
 
 | Useful Links  |  |
 |--|--|
-| Learn more about the NTP | [Overview of the NTP](https://www.ntp.gov.sg/public/introduction-to-ntp---overview) |
-| Find out more about what the NTP offers | [NTP Features](https://www.ntp.gov.sg/public/introduction-to-ntp---ntp-features) |
-| Discover how you can manage your documents digitally on the NTP | [NTP Data Repository](https://www.ntp.gov.sg/public/introduction-to-ntp---ntp-features) |
-| Explore the Value-Added Services on the NTP | [NTP Value-Added Service (VAS) listing](https://www.ntp.gov.sg/public/browse-vas-catalogue) |
-| Read more about News featuring the NTP | [NTP News](https://www.ntp.gov.sg/public/news?newsType=News%20Media%20Releases%20Data%20Template) |
+| Learn more about the NTP | [Overview of the NTP](https://www.ntp.gov.sg/public/introduction-to-ntp---overview){:target="_blank"} |
+| Find out more about what the NTP offers | [NTP Features](https://www.ntp.gov.sg/public/introduction-to-ntp---ntp-features){:target="_blank"} |
+| Discover how you can manage your documents digitally on the NTP | [NTP Data Repository](https://www.ntp.gov.sg/public/introduction-to-ntp---ntp-features){:target="_blank"} |
+| Explore the Value-Added Services on the NTP | [NTP Value-Added Service (VAS) listing](https://www.ntp.gov.sg/public/browse-vas-catalogue){:target="_blank"} |
+| Read more about News featuring the NTP | [NTP News](https://www.ntp.gov.sg/public/news?newsType=News%20Media%20Releases%20Data%20Template){:target="_blank"} |
 
 For further queries, please reach out to [Enquiry_NTP@customs.gov.sg](mailto:Enquiry_NTP@customs.gov.sg).
