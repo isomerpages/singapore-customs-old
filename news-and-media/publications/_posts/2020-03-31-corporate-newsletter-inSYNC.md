@@ -9,7 +9,6 @@ inSYNC is a publication by Singapore Customs. We keep you updated on topics that
 
 Click [here](https://form.gov.sg/5e859b60a0ffc50011a4ee83) to subscribe to the latest issue of inSYNC today.
 
-----------
 {:.card-list}
 -   [![Issue 56: Jan-Mar 2020](/images/inSYNC/Issue56_thumbnail.jpg)<br>
 Issue 56: Jan-Mar 2020](/news-and-media/publications/2020-01-01-Issue56.pdf)
