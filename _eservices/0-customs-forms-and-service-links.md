@@ -158,7 +158,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 4. | Application for Duty Exemption of Dutiable Goods by Industrial Users | [Web Link](http://eservices.customs.gov.sg/scripts/customs/common/eservice.asp?AppID=DED1) |
 | 5. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](http://eservices.customs.gov.sg/scripts/customs/DutyExemptEA/DEA1_Form.asp) |
 | 6. | Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects | [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) |
-| 7. | Application for Kimberley Process Certificate |   [](https://www.customs.gov.sg/-/media/cus/files/eservices/customs-forms-and-service-links/permits-and-licence-forms/sc-a-032-application-for-kimberley-process-certificate.docx?la=en&hash=96AA21BEBF0B91A961D10E8940ABC9A86137AFFA)[Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e)|
+| 7. | Application for Kimberley Process Certificate |  [Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e)|
 | 8. | Application for Licensed Premises | [Web Link](http://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp) |
 | 9. | Application for Valuation of Tax-Exempted Motor Vehicles | [Word Doc](/documents/eservices/Tax-Exempted-Motor-Vehicles.doc) (326KB) |
 | 10. | Big-Eye Tuna Re-export Certificate | [Word Doc](/documents/eservices/Big-Eye-Tuna.doc) (589KB) |
