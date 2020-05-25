@@ -23,7 +23,7 @@ resources_name: news-and-media
 collections:
   about-us:
     output: true
-  about-us_organisation-overview:
+  about-us_hidden_organisation-overview:
     output: true
   individuals:
     output: true
