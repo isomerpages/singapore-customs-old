@@ -44,7 +44,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 **Accountability to Singapore Customs**
     
    -   Accountable for dutiable goods stored in the licensed premises and for the payment of duty and GST on goods not accounted for
-   -   Declare relevant Customs permits through  [TradeNet](/about-us/national-single-window/overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+   -   Declare relevant Customs permits through  [TradeNet](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
    -   Report to Singapore Customs if there is any goods discrepancy in the licensed premises by the next working day
    -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
    -   Comply with the Customs Act, Customs Regulations, and the licensing Terms & Conditions
@@ -108,6 +108,6 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 **5)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/national-single-window/overview).
+Customs permits can be declared through  [TradeNet](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet).
 
 Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
