@@ -37,7 +37,7 @@ collections:
     output: true
   registration-procedures:
     output: true
-  business_hidden_business-resources:
+  business-resources:
    output: true
   importing-goods-more: 
     output: true
