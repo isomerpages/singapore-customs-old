@@ -55,7 +55,7 @@ collections:
     output: true
   strategic-goods-control: 
     output: true
-  business_hidden_iras-scheme: 
+  iras-scheme: 
     output: true
   business_hidden_establishing-customs-value-for-imports: 
     output: true
