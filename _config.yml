@@ -89,7 +89,7 @@ collections:
     output: true   
   registration-security-lodgement:
     output: true    
-  business_hidden_apply-update-renew-terminate-declarant-agent:
+  apply-update-renew-terminate-declarant-agent:
     output: true   
   business_hidden_import-permit-req-IPMs:   
     output: true   
