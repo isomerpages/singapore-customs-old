@@ -37,4 +37,4 @@ You can send your queries to  [customs_vdp@customs.gov.sg](mailto:customs_vdp@cu
 
 ## FAQs
 
-You may refer to the  [FAQs](https://www.customs.gov.sg/ask-customs)  on the programme.
+You may refer to the  [FAQs](https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx) on the programme.
