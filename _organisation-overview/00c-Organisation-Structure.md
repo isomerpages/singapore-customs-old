@@ -1,7 +1,6 @@
 ---
 title: Organisation Structure 
 permalink: /about-us/organisation-overview/organisation-structure
-third_nav_title: Organisation Overview
 ---
 
 # Organisation Structure

@@ -1,7 +1,6 @@
 ---
 title: Divisions and Structure
 permalink: /about-us/organisation-overview/division-and-structure
-third_nav_title: Organisation Overview
 ---
 
 # Divisions and Branches
