@@ -77,7 +77,7 @@ collections:
     output: true
   united-nations-security-council-sanctions: 
     output: true
-  business_hidden_strategic-goods-control-list:
+  strategic-goods-control-list:
     output: true
   business_hidden_import-certificate-and-delivery-verification:
     output: true
