@@ -45,7 +45,7 @@ collections:
     output: true
   transhipment-procedures-requirements:
     output: true
-  business_hidden_chemical-weapons-convention: 
+  chemical-weapons-convention: 
     output: true
   business_hidden_CWC-inspections: 
     output: true
