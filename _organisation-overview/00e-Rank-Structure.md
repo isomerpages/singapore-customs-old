@@ -1,6 +1,6 @@
 ---
 title: Rank Structure
-permalink: /about-us/rank-structure
+permalink: /about-us/organisation-overview/rank-structure
 third_nav_title: Organisation Overview
 ---
 

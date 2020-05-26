@@ -1,6 +1,6 @@
 ---
 title: Divisions and Structure
-permalink: /about-us/division-and-structure
+permalink: /about-us/organisation-overview/division-and-structure
 third_nav_title: Organisation Overview
 ---
 

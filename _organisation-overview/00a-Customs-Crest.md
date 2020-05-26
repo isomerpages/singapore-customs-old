@@ -1,6 +1,6 @@
 ---
 title: Customs Crest
-permalink: /about-us/customs-crest/
+permalink: /about-us/organisation-overview/customs-crest/
 third_nav_title: Organisation Overview
 ---
 
