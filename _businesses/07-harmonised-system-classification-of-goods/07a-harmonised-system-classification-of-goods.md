@@ -8,7 +8,7 @@ third_nav_title: Harmonised System (HS) Classification of Goods
 
 The information in this section aims to provide some background of HS classification and the possible ways to build up your capability in HS classification.
 
-![HSC1.png](/images/HSC1.png)
+![HSC1.png](/images/image001 (1).png)
 
 ## What is the Harmonised System (HS)?
 
