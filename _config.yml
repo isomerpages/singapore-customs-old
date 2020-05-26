@@ -79,7 +79,7 @@ collections:
     output: true
   strategic-goods-control-list:
     output: true
-  business_hidden_import-certificate-and-delivery-verification:
+  import-certificate-and-delivery-verification:
     output: true
   test_hidden:
     output: true
