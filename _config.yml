@@ -49,7 +49,7 @@ collections:
     output: true
   CWC-inspections: 
     output: true
-  business_hidden_CWC-licensing-requirements: 
+  CWC-licensing-requirements: 
     output: true
   business_hidden_strategic-goods-permit-and-reg-req: 
     output: true
