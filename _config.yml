@@ -47,7 +47,7 @@ collections:
     output: true
   chemical-weapons-convention: 
     output: true
-  business_hidden_CWC-inspections: 
+  CWC-inspections: 
     output: true
   business_hidden_CWC-licensing-requirements: 
     output: true
