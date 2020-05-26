@@ -41,7 +41,7 @@ b) For alcoholic products with duty rates based on dutiable content (weight/volu
 
 If 1 kilogramme of alcoholic composite concentrates contains 0.2 kilogramme of powdered alcohol,
 
-the duties payable** = 0.2kg x S$113 = S$22.60
+the duties payable = 0.2kg x S$113 = S$22.60
 
 ## 2. Tobacco products
   
