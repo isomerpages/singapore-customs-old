@@ -35,7 +35,7 @@ collections:
     output: true
   individuals_going-through-customs:
     output: true
-  business_registration-procedures:
+  registration-procedures:
     output: true
   business-resources:
     output: true
