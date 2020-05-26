@@ -98,5 +98,3 @@ c) Biodiesel blend
 Company A imports 1,000 litres of biodiesel blend, comprising 100 litres of diesel. Assuming the excise duty for diesel is S$2.00 per dal (1 dal = 10 litres):
 
 Duties payable = S$2 x 10 = S$20
-
-**For clarifications on how to declare permit for powdered alcohol in TradeNet®, please refer to [Ask Customs](https://ifaqs.flexanswer.com/cfp/pages/Customs/ifaq.aspx).
