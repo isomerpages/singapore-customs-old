@@ -57,7 +57,7 @@ collections:
     output: true
   iras-scheme: 
     output: true
-  business_hidden_establishing-customs-value-for-imports: 
+  establishing-customs-value-for-imports: 
     output: true
   business_hidden_import-procedures-req: 
     output: true
