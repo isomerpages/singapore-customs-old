@@ -91,7 +91,7 @@ collections:
     output: true    
   apply-update-renew-terminate-declarant-agent:
     output: true   
-  business_hidden_import-permit-req-IPMs:   
+  import-permit-req-IPMs:   
     output: true   
   business_hidden_competent-authorities-requirements:   
     output: true  
