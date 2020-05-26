@@ -51,7 +51,7 @@ collections:
     output: true
   CWC-licensing-requirements: 
     output: true
-  business_hidden_strategic-goods-permit-and-reg-req: 
+  strategic-goods-permit-and-reg-req: 
     output: true
   business_hidden_strategic-goods-control: 
     output: true
