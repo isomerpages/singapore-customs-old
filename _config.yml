@@ -83,7 +83,7 @@ collections:
     output: true
   test_hidden:
     output: true
-  business_hidden_tradenet:
+  tradenet:
     output: true 
   business_hidden_export-procedures-more:
     output: true   
