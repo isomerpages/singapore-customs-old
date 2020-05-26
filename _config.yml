@@ -73,7 +73,7 @@ collections:
     output: true
   export-procedures-requirements:
     output: true
-  business_hidden_authorised-piers-places: 
+  authorised-piers-places: 
     output: true
   united-nations-security-council-sanctions: 
     output: true
