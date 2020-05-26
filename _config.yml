@@ -85,7 +85,7 @@ collections:
     output: true
   tradenet:
     output: true 
-  business_hidden_export-procedures-more:
+  export-procedures-more:
     output: true   
   business_hidden_registration-security-lodgement:
     output: true    
