@@ -4,13 +4,13 @@ permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/applyin
 third_nav_title: Importing Dutiable Motor Vehicles
 ---
 
-## Applying for Singapore Customs’ Assessment for Dutiable Motor Vehicles
+# Applying for Singapore Customs’ Assessment for Dutiable Motor Vehicles
 
-### For individuals or parallel importers
+## For individuals or parallel importers
 
 Once the vehicle has been purchased and shipped to Singapore, the importer may apply for an assessment of the vehicle’s customs value. An application has to be submitted for every imported unit of vehicle.
 
-Please complete this  [form](https://form.gov.sg/5e7d9c335b72a90011738341)  and submit it with the following documents, where applicable:
+Please complete this  [form](https://form.gov.sg/5e7d9c335b72a90011738341){:target="_blank"}  and submit it with the following documents, where applicable:
 
 -   Commercial invoice-   Bill of lading
 -   Freight and insurance invoices
@@ -25,7 +25,7 @@ Please complete this  [form](https://form.gov.sg/5e7d9c335b72a90011738341)  and 
 
 Once the application is approved, an approval letter from Singapore Customs containing details of the vehicle, such as unit price and incoterms, will be sent to the importer.
 
-### For Authorised Agents
+## For Authorised Agents
 
 Authorised agents have a distributorship agreement signed with the owner of a brand of motor vehicle, which allows them to import and distribute that brand of motor vehicles in certain territories.
 
@@ -33,4 +33,4 @@ If you are a new authorised agent or an existing agent with queries on the impor
 
 Existing agents are required to submit Agent's Application for Product Code (SC-A-004) for new models or should there be changes to price, specifications, model code, model year, invoicing currency, incoterm, and assigned supplier of the vehicles they carry.
 
-Please complete this  [form](https://form.gov.sg/5e7db3d7b62f4d0011b83dc5)  and submit it with the supporting documents listed in Section D.
+Please complete this  [form](https://form.gov.sg/5e7db3d7b62f4d0011b83dc5){:target="_blank"}  and submit it with the supporting documents listed in Section D.
