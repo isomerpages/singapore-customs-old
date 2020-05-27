@@ -4,9 +4,9 @@ permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/good-an
 third_nav_title: Importing Dutiable Motor Vehicles
 ---
 
-## Goods and Services Tax (GST)
+# Goods and Services Tax (GST)
 
-### For all dutiable motor vehicles:
+## For all dutiable motor vehicles:
 
 -   If the original importer is the party declaring the payment permit, a GST of 7% will be levied on the sum of the vehicle’s customs value and duties payable.
 
