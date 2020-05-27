@@ -22,7 +22,7 @@ As long as the transaction is within the scope of the approved Bulk Permit, its 
 
 To qualify for the Bulk Permit, you must:
 
--   Be a  [registered](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)  trader with Singapore Customs
+-   Be a  [registered](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} trader with Singapore Customs
 -   Have good compliance records
 -   Achieve at least an ‘Enhanced’ band under  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first)
 -   Implement an effective internal compliance programme (ICP)
