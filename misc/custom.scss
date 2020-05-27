@@ -425,6 +425,7 @@ $desktop: 960px + (2 * $gap) !default;
 //Dennis tweak to not display pdf icon before all pdf links
 a[href$=".pdf"]:before {   
     content: none;
+    margin: 0;
 }
 //End of Dennis tweak to not display pdf icon before all pdf links
 
