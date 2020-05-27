@@ -8,7 +8,7 @@ third_nav_title: Guide to Importing Dutiable Motor Vehicles
 
 Once the vehicle has been purchased and shipped to Singapore, the importer may apply for an assessment of the vehicle’s customs value. An application has to be submitted for every imported unit of vehicle.
 
-Please complete this [form](https://form.gov.sg/5e7d9c335b72a90011738341)  and submit it with the following documents, where applicable:
+Please complete this [form](https://form.gov.sg/5e7d9c335b72a90011738341){:target="_blank"}  and submit it with the following documents, where applicable:
 
 -   Commercial invoice
 -   Bill of lading
