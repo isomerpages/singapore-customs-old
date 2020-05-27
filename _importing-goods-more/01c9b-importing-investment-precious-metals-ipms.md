@@ -17,7 +17,7 @@ For the full list of qualifying IPMs bars, wafers, ingots and coins and the resp
 
  - [IPMs Imported by Air/Sea Freight or By Land](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/IPMS-imported-by-air-sea-freight-or-land)
  - [HS Codes For IPMs](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/HS-Codes-For-IPMs)
- - [IPMs Imported by Posts](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/IPMS-imported-by-posts)
+ - [IPMs Imported by Post](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/IPMS-imported-by-posts)
  - [IPMs Imported by Hand-Carry](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/IPMs-Imported-by-Hand-Carry)
  - [Clearance of IPMs](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/Clearance-Of-IPMs)
  - [Approved Refiner & Consolidator Scheme](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/Approved-Refiner-and-Consolidator-Scheme)
