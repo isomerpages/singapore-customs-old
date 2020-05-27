@@ -1,5 +1,5 @@
 
-title: Country/Port Code Search
+title: HS/CA Product Code Search
 permalink: /businesses/business-resources/hsca-product-codes
 third_nav_title: Business Resources
 ---
