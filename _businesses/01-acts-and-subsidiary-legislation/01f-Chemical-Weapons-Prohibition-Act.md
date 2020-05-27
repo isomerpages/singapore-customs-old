@@ -10,7 +10,7 @@ The Chemical Weapons (Prohibition) Act (Chapter 37B) is an Act to give effect to
 Click on the links below to view the Chemical Weapons (Prohibition) Act and selected subsidiary legislation:
 
 -   [Chemical Weapons (Prohibition) Act](https://sso.agc.gov.sg/Act/CWPA2000){:target="_blank"}
--   [Chemical Weapons (Prohibition) Regulations 2007](https://sso.agc.gov.sg/SL/CWPA2000-S669-2007?DocDate=20111101){:target="_blank"}
+-   [Chemical Weapons (Prohibition) Regulations 2007](https://sso.agc.gov.sg/SL/CWPA2000-S669-2007){:target="_blank"}
 
 The National Authority (Chemical Weapons Convention) homepage may also be accessed [here](/businesses/chemical-weapons-convention/legislation).
 
