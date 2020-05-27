@@ -10,7 +10,7 @@ third_nav_title: Temporary Export
 
 Controlled goods require proper authorisation (advance notification, licence or certificate approval) from the relevant Competent Authorities (CAs) before they may be temporarily exported out of Singapore and subsequently re-imported.
 
-Please use the [Harmonised System/Competent Authority (HS/CA) Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) to check if the goods that you wish to import are controlled items. Fill in the description of the goods, Harmonized System (HS) Code or CA Product Code in the respective fields. If the goods are controlled items, the name and contact person of the CA will be indicated next to the item's HS Code. You may check with the contact person of the relevant CA on their licensing requirements of your goods directly.
+Please use the [Harmonised System/Competent Authority (HS/CA) Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} to check if the goods that you wish to import are controlled items. Fill in the description of the goods, Harmonized System (HS) Code or CA Product Code in the respective fields. If the goods are controlled items, the name and contact person of the CA will be indicated next to the item's HS Code. You may check with the contact person of the relevant CA on their licensing requirements of your goods directly.
 
 ## Non-Manipulation of Goods Temporarily Exported
 
@@ -32,7 +32,7 @@ You must produce the permits to the checkpoint officers for verification at the 
 
 Officers at the entry points may affix a seal onto any package or container before releasing the goods. These sealed goods must be unstuffed under Customs supervision.
 
-The organiser/local freight forwarder/local declaring agent/exhibitor must [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) for Customs supervision of unstuffing at least 1 working day before the intended operation. [Fees](/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees) will be charged for the supervision.
+The organiser/local freight forwarder/local declaring agent/exhibitor must [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} for Customs supervision of unstuffing at least 1 working day before the intended operation. [Fees](/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees) will be charged for the supervision.
 
 ## Unauthorised Breakage of Customs Seals
 
