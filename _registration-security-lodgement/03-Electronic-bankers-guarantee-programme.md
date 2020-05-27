@@ -14,10 +14,10 @@ Once the BG has been received and successfully registered, we will send an email
 
 For more information on the programme, you may contact the following participating banks:
 
-BNP Paribas: [https://go.gov.sg/ntp-ebgbnpp](https://go.gov.sg/ntp-ebgbnpp)
+BNP Paribas: [https://go.gov.sg/ntp-ebgbnpp](https://go.gov.sg/ntp-ebgbnpp){:target="_blank"}
 
-DBS: [https://go.gov.sg/ntp-ebgdbs](https://go.gov.sg/ntp-ebgdbs)
+DBS: [https://go.gov.sg/ntp-ebgdbs](https://go.gov.sg/ntp-ebgdbs){:target="_blank"}
 
-OCBC: [https://go.gov.sg/ntp-ebgocbc](https://go.gov.sg/ntp-ebgocbc)
+OCBC: [https://go.gov.sg/ntp-ebgocbc](https://go.gov.sg/ntp-ebgocbc){:target="_blank"}
 
-UOB: [https://go.gov.sg/ntp-ebg](https://go.gov.sg/ntp-ebguob)[uob](https://go.gov.sg/ntp-ebguob)
+UOB: [https://go.gov.sg/ntp-ebg](https://go.gov.sg/ntp-ebguob)[uob](https://go.gov.sg/ntp-ebguob){:target="_blank"}
