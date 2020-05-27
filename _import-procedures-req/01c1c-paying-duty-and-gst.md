@@ -14,7 +14,7 @@ Payment can be made via:
 
 To apply for an IBG, mail the completed  [Application for Inter-Bank GIRO form](/eservices/customs-forms-and-service-links) to Singapore Customs' address as indicated in the form.
 
-You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)  to use your IBG for the payment of taxes for your customs permit one day after the approval of your IBG application. If you do not maintain an IBG with Singapore Customs, the taxes will be deducted from your Declaring Agent’s IBG.
+You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}  to use your IBG for the payment of taxes for your customs permit one day after the approval of your IBG application. If you do not maintain an IBG with Singapore Customs, the taxes will be deducted from your Declaring Agent’s IBG.
 
 Upon approval of a permit application, payment of taxes will be made via IBG. The payment mode will be reflected as one of the two codes in the customs permit:
 
