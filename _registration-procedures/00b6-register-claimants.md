@@ -11,7 +11,7 @@ A Claimant registration is required before a Claimant Organisation can be grante
 -   GST relief on [Medicinal Products and Therapeutic Products for Clinical Trials](/businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials);
 -   Duty exemption on [ethyl alcohol for approved purposes](/businesses/importing-goods/import-procedures/importing-ethyl-alcohol);
 -   Duty exemption on manufactured beers used for testing purposes in licensed breweries;
--   Duty exemption and GST relief on [wines imported for approved wine events](/businesses/importing-goods/temporary-import-scheme/approved-wine-event);
+-   Duty exemption and GST relief on [wines imported for approved wine events](/businesses/importing-goods/temporary-import-scheme-2/approved-wine-event);
 -   Duty exemption granted to tobacco manufacturers;
 -   Duty exemption and GST relief on the re-importation of locally-registered dutiable motor vehicles that were previously temporarily exported;
 -   Duty exemption on certain types of [vehicles](/businesses/importing-goods/import-procedures/importing-duty-exempted-motor-vehicles-and-gst-exempted-boats), including ambulances and half-cut motor cars; or
