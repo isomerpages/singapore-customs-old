@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/importing-goods-for-des
 third_nav_title: Importing Goods for Destruction or Recycling 
 ---
 
-## Controlled Non-Dutiable Goods
+# Controlled Non-Dutiable Goods
 The importer or his appointed Declaring Agent may apply for the relevant Competent Authority's approval, escort , and supervision of the destruction of controlled goods.
 
 Upon approval by the Competent Authority, please  [apply](/businesses/importing-goods/import-procedures/) for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation (where applicable). When applying, do note:
