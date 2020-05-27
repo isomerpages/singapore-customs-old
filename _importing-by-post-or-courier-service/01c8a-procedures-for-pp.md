@@ -6,7 +6,7 @@ third_nav_title: Importing by Post or Courier Service
 
 ## Procedures for Postal Parcels
 
-The addressee indicated on postal parcels from overseas is deemed to be the importer. Goods imported by **post** or Speedpost services are processed and managed by [SingPost](http://www.singpost.com/). (**Note**: Please refer to the next section on Procedures for Courier Parcels for information on goods imported under vPost, SingPost's eCommerce service.) The collection procedures for postal parcels is dependent on the type of goods and CIF value as shown in the table below.
+The addressee indicated on postal parcels from overseas is deemed to be the importer. Goods imported by **post** or Speedpost services are processed and managed by [SingPost](http://www.singpost.com/){:target="_blank"}. (**Note**: Please refer to the next section on Procedures for Courier Parcels for information on goods imported under vPost, SingPost's eCommerce service.) The collection procedures for postal parcels is dependent on the type of goods and CIF value as shown in the table below.
 
 | **Types of Goods** | **CIF value** | **GST Payable** | **Duty Payable** | **Permit Required** |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ The addressee indicated on postal parcels from overseas is deemed to be the impo
 |  | >S$400 | Yes | Yes | No |
 | Dutiable, Controlled | < or = S$400 | Yes | Yes | Yes, if required by CA, <br> **In-Payment (Duty and GST)** permit |
 |  | >S$400 | Yes | Yes | Yes, **In-Payment (Duty and GST)** permit |
-| Non-Dutiable, Non-Controlled goods imported by taxable persons under IRAS' [Major Exporter Scheme (MES)](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/) | < or = S$400 | No | No | No |
+| Non-Dutiable, Non-Controlled goods imported by taxable persons under IRAS' [Major Exporter Scheme (MES)](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"} | < or = S$400 | No | No | No |
 |  | >S$400 | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit |
-| Non-Dutiable, Controlled goods imported by taxable persons under IRAS' [MES](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/)| < or = S$400  | No | No | Yes, if required by CA, **In-Non-Payment (**Approved Premises/Schemes**)** permit|
+| Non-Dutiable, Controlled goods imported by taxable persons under IRAS' [MES](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"}| < or = S$400  | No | No | Yes, if required by CA, **In-Non-Payment (**Approved Premises/Schemes**)** permit|
 |  | >S$400 | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit | 
 
 To facilitate clearance, the importer should arrange with the overseas sender to attach the invoice or confirmation slip (with the value of goods indicated) or Postal Convention Note (with the value of goods indicated) to the postal parcel for the computation of GST and/or duty payable.
