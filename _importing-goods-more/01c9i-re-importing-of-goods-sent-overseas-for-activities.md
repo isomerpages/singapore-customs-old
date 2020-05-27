@@ -21,7 +21,7 @@ Goods sent overseas may be re-imported into Singapore due to:
 -   Re-import of goods stored or used in a Free Trade Zone
 -   Return of damaged or rejected goods
 
-Similar to imports, all re-imports of goods into Singapore incur Goods and Services Tax (GST) and/or duty payments. You may find out more about  [duties](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and [GST](/businesses/valuation-duties-taxes--fees/goods-and-services-tax-gst).
+Similar to imports, all re-imports of goods into Singapore incur Goods and Services Tax (GST) and/or duty payments. You may find out more about  [duties](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and [GST](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst).
 
 Please view the tabs below for more information on re-importing goods under different scenarios.
 
