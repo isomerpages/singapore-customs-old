@@ -20,7 +20,7 @@ third_nav_title: Import Procedures
 
 Before applying for the GST relief for the CTMs, you should take note of the following:
 
--   Obtain the necessary approval and or notification from the [Health Sciences Authority](http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Clinical_Trials/Overview.html){:target="_blank"} for the import of these trial test materials.
+-   Obtain the necessary approval and or notification from the [Health Sciences Authority](https://www.hsa.gov.sg/Clinical-Trials/){:target="_blank"} for the import of these trial test materials.
     
 -   Obtain approval from the [National Environment Agency](http://www.nea.gov.sg/energy-waste/waste-management){:target="_blank"} if the CTMs are imported for destruction or disposal in Singapore.
     
