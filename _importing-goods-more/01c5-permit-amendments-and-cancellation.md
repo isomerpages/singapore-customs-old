@@ -4,13 +4,13 @@ permalink: /businesses/importing-goods/import-procedures/permit-amendments-and-c
 third_nav_title: Import Procedures
 ---
 
-## Permit Amendment
+# Permit Amendment
 
-You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](/about-us/07a5-annexes-and-appendices)  for the list of non-amendable fields.
+You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](/businesses/national-single-window/overview/annexes-and-appendices)  for the list of non-amendable fields.
 
-Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](/about-us/07a5-annexes-and-appendices).
+Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](/businesses/national-single-window/overview/annexes-and-appendices).
 
-## Permit Cancellation
+# Permit Cancellation
 
 Please cancel the permit within the permit validity period and apply for a new one if you have provided inaccurate details which cannot be amended. You are not allowed to use import permits that have been cancelled to import goods.
 
