@@ -12,7 +12,7 @@ Import of IPMs by **air freight**, of a **total CIF value exceeding S$400**, req
 
 Import of IPMs by **other freight modes such as by sea or land**, requires an In-Non Payment (GST Relief) permit, **regardless** of the CIF value of the IPMs.
 
-The following should be declared in the [In-Non Payment (GST Relief) permit](/importing-goods/import-procedures/types-of-import-permits) application:
+The following should be declared in the [In-Non Payment (GST Relief) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) application:
 
 -   Place of Receipt Code=IGPM
 -   Claimant UEN=Importer UEN
