@@ -55,7 +55,7 @@ You may refer to the HS Codes and HS descriptions for listed goods [here](/docum
 
 ## Filing of Suspicious Transaction Report
 
-Under Section 39 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Cap 65A, you have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar) to the Suspicious Transaction Reporting Office (STRO) if you know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of your trade, profession, businesss or employment.
+Under Section 39 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Cap 65A, you have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar){:target="_blank"} to the Suspicious Transaction Reporting Office (STRO) if you know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of your trade, profession, businesss or employment.
 
 You also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
 
@@ -77,7 +77,7 @@ An annual licence fee is payable when the licence is issued. It is based on the 
 -   **Accountability to Singapore Customs**
     
     -   Accountable for goods stored in the licensed premises and for the payment of GST on goods not accounted for
-    -   Declare relevant Customs permits through  [TradeNet](/about-us/national-single-window/overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/businesses/national-single-window/tradenet) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the GST Act, GST (General) Regulations and the licensing Terms & Conditions
@@ -98,9 +98,9 @@ An annual licence fee is payable when the licence is issued. It is based on the 
 
 ## Customs Supervision
 
-For containers sealed with a red customs seal, the application to unstuff GST-unpaid goods at a zero-GST warehouse should be  [e-filed](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) to the Company Compliance Branch 1 working day before the intended unstuffing.
+For containers sealed with a red customs seal, the application to unstuff GST-unpaid goods at a zero-GST warehouse should be  [e-filed](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} to the Company Compliance Branch 1 working day before the intended unstuffing.
 
-Goods that are not fit for use may be destroyed under Customs’ supervision. [Fees for supervision of unstuffing, survey and destruction](https://sso.agc.gov.sg/SL/CA1960-S634-2012?DocDate=20131010) are applicable accordingly.
+Goods that are not fit for use may be destroyed under Customs’ supervision. [Fees for supervision of unstuffing, survey and destruction](https://sso.agc.gov.sg/SL/CA1960-S634-2012?DocDate=20131010){:target="_blank"} are applicable accordingly.
 
 
 ## How to Apply?
@@ -115,7 +115,7 @@ Goods that are not fit for use may be destroyed under Customs’ supervision. [F
 -   Title deed or tenancy agreement
 -   Other relevant documents
 
-**Step 3**: Apply  [online](http://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp).
+**Step 3**: Apply  [online](http://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp){:target="_blank"}.
 
 Singapore Customs reserves the right to impose a Banker’s Guarantee or insurance bond, if required.
 
