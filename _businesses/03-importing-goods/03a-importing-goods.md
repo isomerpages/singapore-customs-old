@@ -49,7 +49,7 @@ will need to:
 ## Step 2: Check if Your Goods are Controlled
 Do check if the goods you intend to import are controlled goods or goods subject to restrictions by Competent Authorities (CAs) in Singapore.
 
-You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchCountryPort/searchInitCountryPort.do) using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, the name of the CA will be indicated next to its HS code. You may check directly with the respective CAs on their licensing requirements.
+You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchCountryPort/searchInitCountryPort.do){:target="_blank"} using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, the name of the CA will be indicated next to its HS code. You may check directly with the respective CAs on their licensing requirements.
 
 If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchCountryPort/searchInitCountryPort.do){:target="_blank"} of the product, you may apply for an  [official classification ruling](/documents/businesses/SCA004-(2).doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
