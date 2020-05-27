@@ -49,12 +49,12 @@ The amount of security required for a permit application is dependent on the mov
 
 Security is  **not**  required for:
 
--   Transactions where the security amount required for a permit application is S$2,000 or less (see  [Circular No. 19/2010](/news-and-media/circulars/2010-11-15-Circular192010.pdf for more information)
+-   Transactions where the security amount required for a permit application is S$2,000 or less (see  [Circular No. 19/2010](/news-and-media/circulars/2010-11-15-Circular192010.pdf) for more information)
 -   All movement of unmanufactured tobacco
 -   Outward movement of undenatured ethyl alcohol (of alcoholic strength by volume of 80% or more) by road
 
 For first-time security lodgement for permit applications, you are to compute and lodge the amount of security required. The amount of security lodged should be sufficient to meet your operational needs and should include a buffer amount to avoid any possible disruption to your transactions, as a permit application will be rejected if the amount of security required for the permit application exceeds the amount of security lodged with Singapore Customs.
 
-**Operation of Licensed Premises and Other Purposes**
+## Operation of Licensed Premises and Other Purposes
 
 For first-time security lodgement for the operation of licensed premises and other purposes, Singapore Customs will inform you the amount of security required to be lodged.
