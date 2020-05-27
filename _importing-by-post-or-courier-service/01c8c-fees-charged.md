@@ -4,7 +4,7 @@ permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-co
 third_nav_title: Importing by Post or Courier Service 
 ---
 
-## Fees Charged by Service Providers
+# Fees Charged by Service Providers
 
 Please be informed that the charges involved in the handling of your importation of goods may vary among different service providers. Such charges may exceed the cost of your online purchase and may include shipping fees, handling fees, clearance fees, permit application fees as well as any GST and/or duty payment made by the service provider on your behalf.
 
