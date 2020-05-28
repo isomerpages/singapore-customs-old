@@ -95,6 +95,8 @@ collections:
     output: true 
   competent-authorities-requirements:   
     output: true          
+
+google_analytics: UA-70503404-1
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
