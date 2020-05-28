@@ -39,7 +39,7 @@ Importers who wish to register their imported cars for usage on public roads sho
 
 {% include accordion.html %}
 
-## For more infomation on: 
+## For more information on: 
 
 {:.mobile-block}
 |  |  |  |  |
