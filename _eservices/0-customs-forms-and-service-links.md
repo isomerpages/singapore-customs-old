@@ -208,7 +208,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 9. | Application for Strategic Trade Scheme (STS) Bulk Permit | [STS Bulk Permit Application Form](https://form.gov.sg/#!/5c7f50d3bd0db30017e1eaa1) |
 | 10. | End-user Certification Form for Seeking In-principle Approval from the UNSC Procurement Channel | [Word Doc](/documents/eservices/EndUserCertification-UNSC.docx) (15KB) |
 | 11. | Half-Yearly Report on Brokering Activities | [Word Doc](/documents/eservices/Report-Brokering.docx) |
-| 12. | Registration to Broker Goods under the Strategic Goods (Control) (Brokering) Order 2007 | [Web Link](http://go.gov.sg/customs-breg) |
+| 12. | Registration to Broker Goods under the Strategic Goods (Control) (Brokering) Order 2019 | [Web Link](http://go.gov.sg/customs-breg) |
 | 13. | Sample Format of the End User Statement for Strategic Trade Scheme Bulk Permit | [Word Doc](/documents/eservices/End-User-Statement-StratTradeScheme-Bulk.docx)  (14KB) |
 | 14. | Sample Format of the End User Statement for Strategic Trade Scheme Individual Permit | [Word Doc](/documents/eservices/EndUserStatment-Strat-Trade-scheme-indv.docx) (40KB) |
 | 15. | Sample Format of End User Certificate (EUC) for UNSC countries | [Word Doc](/documents/eservices/EUC-For-UNSC.doc) (44KB) |
