@@ -32,4 +32,4 @@ Please refer to the guide [here](/documents/businesses/retrieving-weekly-rates-f
 
 If any component of the customs value is settled in a foreign currency not listed on Monetary Authority of Singapore's website, that value in foreign currency should be converted to Singapore Dollars using the current selling rate of that currency from reputable sources such as banks in Singapore, local circulated newspapers, reputable news agencies or online resources, at the time when customs duty or excise duty is paid for the imported goods.
 
-You may contact us via customs_ttsb@customs.gov.sg should you require any clarifications on the Exchange Rates.
+You may contact us via [customs_ttsb@customs.gov.sg](mailto:customs_ttsb@customs.gov.sg) should you require any clarifications on the Exchange Rates.
