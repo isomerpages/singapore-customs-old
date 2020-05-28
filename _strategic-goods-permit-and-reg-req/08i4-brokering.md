@@ -12,7 +12,7 @@ Before engaging in any brokering activities, you must submit a brokering registr
 
 ## Registering as a Broker
 
-You should register as a broker with Singapore Customs at least 14 working days before brokering in arms, explosives and other items listed in the  [Strategic Goods (Control) (Brokering) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019?DocDate=20190801).
+You should register as a broker with Singapore Customs at least 14 working days before brokering in arms, explosives and other items listed in the  [Strategic Goods (Control) (Brokering) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019?DocDate=20190801){:target="_blank"}.
 
 **Step 1:**  Complete the  [application form.](/eservices/customs-forms-and-service-links)
 
