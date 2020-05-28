@@ -8,7 +8,7 @@ third_nav_title: Importing Dutiable Motor Vehicles
 
 ## Cars
 
-For passenger, classic cars and vintage cars that are manufactured before 1940, an [excise duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) rate of **20%** will be levied on the [customs value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the vehicle.
+For passenger, classic cars and vintage cars that are manufactured before 1940, an [excise duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) rate of **20%** will be levied on the [customs value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports) of the vehicle.
 
 For vintage cars registered under the various [Vintage Vehicle Schemes](http://www.lta.gov.sg/content/ltaweb/en/roads-and-motoring/owning-a-vehicle/registering-your-vehicle/registration-of-vintage-vehicles.html){:target="_blank"} with the Land Transport Authority of Singapore where the vehicle was previously exempted from excise duty and a transfer of ownership occurs, the excise duty will be the duty amount that would have been payable when the vehicle was first imported into Singapore.
 
