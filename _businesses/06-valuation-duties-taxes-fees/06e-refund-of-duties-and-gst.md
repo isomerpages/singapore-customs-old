@@ -31,7 +31,7 @@ You or your declaring agent can apply for an online refund and be notified of th
 
 There are three possible outcomes:
 
--   Rejection: This could include requiring the taxable importer to claim from the  [Inland Revenue Authority of Singapore (IRAS)](/businesses/valuation-duties-taxes-fees/refund-of-duties-and-gst).
+-   Rejection: This could include requiring the taxable importer to claim from the  [Inland Revenue Authority of Singapore (IRAS)](https://www.iras.gov.sg/irashome/default.aspx){:target="_blank"}.
 -   Approval: All successful refunds will be credited directly into the Inter-Bank GIRO (IBG) accounts of the payers who maintained IBG accounts with Singapore Customs.
 -   Pending supporting documents: The applicant will receive a notification to submit the following supporting documents:
     - Refund permit
@@ -46,7 +46,7 @@ There are three possible outcomes:
 
 ---- 
 
-If the GST was deducted via IBG from the taxable importer's bank account registered with Singapore Customs, (i.e. payment permits with the permit conditions "GF" & "TX"), the importer is advised to claim the GST as input tax from  [IRAS](https://www.iras.gov.sg/irashome/default.aspx){:target="_blank"} during the company's accounting period. The same applies if the GST was paid by the taxable importer at the bank.
+If the GST was deducted via IBG from the taxable importer's bank account registered with Singapore Customs, (i.e. payment permits with the permit conditions "GF" & "TX"), the importer is advised to claim the GST as input tax from IRAS during the company's accounting period. The same applies if the GST was paid by the taxable importer at the bank.
 
 However, if the claim for refund is due to stating the wrong importer's name or UEN, the importer can apply for a GST refund from Singapore Customs.
 
