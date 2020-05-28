@@ -15,7 +15,7 @@ accordion:
 
 However, some imports can:
 
--   [Qualify for preferential tariff treatment](/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports)
+-   [Qualify for preferential tariff treatment](/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports){:target="_blank"}
 -   Be exempted from duties refer to  [Customs (Duties Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5#pr2-){:target="_blank"} and Section 2(1A) of  [Customs (Duties) Order](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-)[)](https://sso.agc.gov.sg/SL/CA1960-OR4#pr2-){:target="_blank"}
 -   Be  [exempted from GST](https://sso.agc.gov.sg/SL/GSTA1993-OR3){:target="_blank"}
 
@@ -25,7 +25,7 @@ The transaction value method is first considered in establishing the customs val
 
 To establish the customs value using this method, all other charges incidental to the sale and delivery of the imports must be added to the transaction value or the price paid or payable for the imports. Examples of these charges include selling commissions, assists (materials supplied by the importer), packing costs, proceeds of resale accruing to the seller, royalties and licence fees, freight and insurance charges.
 
-If any component of the customs value is settled in a foreign currency, that value should be converted to Singapore dollars using the prevailing [Customs exchange rate](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates) at the time of import.
+If any component of the customs value is settled in a [foreign currency](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates){:target="_blank"}, that value should be converted to Singapore Dollars using the current selling rate of that currency in Singapore, at the time when customs duty or excise duty is paid for the imported goods.
 
 **Example 1**:
 
