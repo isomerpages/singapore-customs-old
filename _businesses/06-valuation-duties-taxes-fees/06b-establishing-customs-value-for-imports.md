@@ -81,7 +81,7 @@ If the transaction value method cannot be used, the following alternatives will 
 ## No Insurance Purchased
 Traders can set the insurance to zero value if no insurance charges were incurred when importing the goods.
 
-## For more infotmation on:
+## For more information on:
 
 {:.mobile-block}
 |  |  |  |
