@@ -29,7 +29,7 @@ GST payable by Company B = 7% x S$1,500=S$105
     
 GST payable = *7% x (Customs value or Last Selling Price (LSP) + duties payable)*
 
-Company A imported a motor car that was bought at S$100,000 on  [Free on Board (FOB) incoterms](/businesses/valuation-duties-taxes--fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance). The overseas freight, handling and insurance charges to ship the car to Singapore cost S$1,000. Assuming  [the excise duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)  for motor cars is 20% of the customs value:
+Company A imported a motor car that was bought at S$100,000 on  [Free on Board (FOB) incoterms](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance). The overseas freight, handling and insurance charges to ship the car to Singapore cost S$1,000. Assuming  [the excise duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods)  for motor cars is 20% of the customs value:
 
 Customs value of car = S$101,000
 
