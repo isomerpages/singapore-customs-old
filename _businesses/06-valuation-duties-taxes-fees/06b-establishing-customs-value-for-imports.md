@@ -1,6 +1,6 @@
 ---
 title: Establishing Customs Value for Imports
-permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value
+permalink: /businesses/06-valuation-duties-taxes-fees/06b-establishing-customs-value-for-imports.md
 third_nav_title: Valuation, Duties, Taxes & Fees
 accordion: 
   - title: ^Definition of Cost, Insurance and Freight incoterms
