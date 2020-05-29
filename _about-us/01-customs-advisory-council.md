@@ -19,13 +19,17 @@ Ministry of Finance
 
 ### Members
 
-**Professor Annie Koh**<br>
-Academic Director<br>  
+**Professor Annie Koh**
+Academic Director
 International Trading Institute, Singapore Management University<br> 
 
 **Mr Dave Ng Wee Peng**  
 First Deputy Chairman  
 Singapore Logistics Association
+
+**Mr Hsu Sin Yun**  
+Deputy Commissioner (Operations)  
+Immigration & Checkpoints Authority
 
 **Ms Lim Khoon Ling**  
 Senior Vice President (South Asia)  
@@ -51,9 +55,6 @@ Managing Director, A.P. Moller Singapore Pte Ltd
 General Manager  
 DHL Express Singapore Hub
 
-**Mr Hsu Sin Yun**  
-Deputy Commissioner (Operations)  
-Immigration & Checkpoints Authority
 
 **Mr Shamir Rahim**  
 Chief Executive Officer  
