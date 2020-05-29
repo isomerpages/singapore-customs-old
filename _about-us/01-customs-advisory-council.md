@@ -19,8 +19,8 @@ Ministry of Finance
 
 ### Members
 
-**Professor Annie Koh**
-Academic Director
+**Professor Annie Koh**<br>
+Academic Director<br>
 International Trading Institute, Singapore Management University<br> 
 
 **Mr Dave Ng Wee Peng**  
