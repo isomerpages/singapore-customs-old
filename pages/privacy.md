@@ -11,8 +11,7 @@ permalink: /privacy/
 
   - You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-  - If you provide us with personally identifiable data,
-
+  - If you provide us with personally identifiable data, <br>
       - We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way.
 
       - We will NOT share your Personal Data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
@@ -23,8 +22,7 @@ permalink: /privacy/
 
   - This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-  - Please email customs_feedback@customs.gov.sg if you:
-
+  - Please email customs_feedback@customs.gov.sg if you:<br>
     - have any enquires or feedback on our data protection policies and procedures,
 
     - need more information on or access to data which you have provided to us in the past.
