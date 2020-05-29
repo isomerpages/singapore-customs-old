@@ -30,7 +30,7 @@ breadcrumb: Feedback
 
 [Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)
 
-[Subscribe to Our Publications](https://form.gov.sg/5e859b60a0ffc50011a4ee83)
+[Subscribe to Mailing List](https://form.gov.sg/5e859b60a0ffc50011a4ee83)
 
 [Enquiries on SC 401](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
 
