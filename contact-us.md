@@ -10,12 +10,6 @@ locations:
       - Revenue House
       - Singapore 307987
     maps_link: https://goo.gl/maps/8nbEaGazPkNnHXMh7
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.00am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.00am - 12.00pm
   - title: Customs Operations Command
     address:
       - 1 Bulim Drive
@@ -27,11 +21,7 @@ locations:
       - Singapore Customs Academy  
       - 55 Newton Road #02-01  
       - Revenue House  
-      - Singapore 307987  
-    operating_hours:
-      - days: Mon - Fri
-        time: 8:30am to 5:30pm
-        description: Closed on Public Holidays  
+      - Singapore 307987 
     
   - title: Our Stations
     address:
