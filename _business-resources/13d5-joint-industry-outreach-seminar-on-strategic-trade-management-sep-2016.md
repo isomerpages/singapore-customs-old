@@ -48,16 +48,13 @@ Registration for this event is now  **CLOSED**
 
 ### Seminar Materials
 
--   [Agenda](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/agenda-for-joint-industry-outreach-seminar_9-sep-2016(2).pdf)
--   [US Export Controls Update](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/us-export-controls-update.pdf)
--   [Overview of Export Control Reform](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/overview-of-export-control-reform.pdf)
--   [Japan's Security Export Control System and Internal Compliance Programs (ICPs)](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/japans-security-export-control-system-and-icp.pdf)
--   [German Export Controls - Licenses and Conditions therefor](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/german-export-controls---licenses-and-conditions-thereof.pdf)
--   [Export Control and Sanctions Prosecutions of Corporations](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/export-control-and-sanctions-prosecutions--of-corporations.pdf)
--   [Understanding the Control, Implementing the Solution](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/understanding-the-control-implementing-the-solution--seatronics-pte-ltd-icp.pdf)
--   [Compliance with U.S. Law as a Non-U.S. Company](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/strategic-trade-management---iran-sanctions.pdf)
--   [Strategic Goods Control and Self-Compliance](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/strategic-goods-control-and-self-compliance.pdf)
--   [Blue Lantern End-Use Monitoring Program](https://www.customs.gov.sg/-/media/cus/files/business/resources/courses-events/9-sep-2016-joint-industry-outreach-on-strategic-trade-management/blue-lantern-end-use-monitoring-program.pdf)
+-   [Agenda](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Agenda for Joint Industry Outreach Seminar_9 Sep 2016(2).pdf)
+-   [Overview of Export Control Reform](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Overview of Export Control Reform.pdf)
+-   [German Export Controls - Licenses and Conditions therefor](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - German Export Controls - Licenses and Conditions Thereof.pdf)
+-   [Export Control and Sanctions Prosecutions of Corporations](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Export Control and Sanctions Prosecutions of Corporations.pdf)
+-   [Understanding the Control, Implementing the Solution](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Understanding the Control Implementing the Solution Seatronics Pte Ltd ICP.pdf)
+-   [Strategic Goods Control and Self-Compliance](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Strategic Goods Control and Self-Compliance.pdf)
+-   [Blue Lantern End-Use Monitoring Program](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Blue Lantern End-Use Monitoring Program.pdf)
 
 ----------
 

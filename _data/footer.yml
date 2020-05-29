@@ -1,9 +1,10 @@
 contact_us: /contact-us/
 show_reach: true
 feedback: /feedback/
-faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/SingaporeCustoms 
+    facebook: https://www.facebook.com/SingaporeCustoms    
 links:
   - title: Careers
     url: /careers/ 
+  - title: FAQ
+    url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx

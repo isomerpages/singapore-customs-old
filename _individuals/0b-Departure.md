@@ -6,5 +6,6 @@ third_nav_title: Going Through Customs
 
 # Departure
 
-| [![](/images/Departure(1).jpg)](/individuals/going-through-customs/departure/tourist-refund-scheme)  | [![](/images/Departure(2).jpg)](/individuals/going-through-customs/departure/three-quarter-tank-rule) |
+{:.mobile-block}
+| ![](/images/whitebox.jpg) | [![](/images/Departure(1).jpg)](/individuals/going-through-customs/departure/tourist-refund-scheme) | [![](/images/Departure(2).jpg)](/individuals/going-through-customs/departure/three-quarter-tank-rule) | ![](/images/whitebox.jpg) |
 

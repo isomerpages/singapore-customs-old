@@ -21,7 +21,7 @@ Ministry of Finance
 
 **Professor Annie Koh**  
 Academic Director  
-International Trading Institute
+International Trading Institute, Singapore Management University 
 
 **Mr Dave Ng Wee Peng**  
 First Deputy Chairman  

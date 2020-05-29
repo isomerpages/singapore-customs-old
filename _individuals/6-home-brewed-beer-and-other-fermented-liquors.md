@@ -5,7 +5,7 @@ breadcrumb: Home Brewed Beer And Other Fermented Liquors
 ---
 # Home-Brewed Beer & Other Fermented Liquors
 
-An individual does not require a licence to home-brew beer and other fermented liquors if the following conditions, as specified in the [Customs (Home-Brewing of Fermented Liquors) (Exemption) Order](http://sso.agc.gov.sg/SL/CA1960-OR9?DocDate=20090831), are fulfilled:
+An individual does not require a licence to home-brew beer and other fermented liquors if the following conditions, as specified in the [Customs (Home-Brewing of Fermented Liquors) (Exemption) Order](http://sso.agc.gov.sg/SL/CA1960-OR9?DocDate=20090831){:target="_blank"}, are fulfilled:
 
 -   The individual shall be 18 years old and above
 -   The manufacture of liquor shall be by fermentation and not by distillation

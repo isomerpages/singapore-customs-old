@@ -4,22 +4,23 @@ layout: homepage
 title: Singapore Customs
 description: Singapore Customs is the lead agency on trade facilitation and revenue enforcement.
 permalink: /
+notification: Singapore Customs remains in operation in the post Circuit Breaker period. To achieve the objective of safe distancing, we encourage members of public to access our digital services. Businesses can continue to submit trade declarations via TradeNet and other requests via our eServices (www.customs.gov.sg/services) or the Networked Trade Platform (www.ntp.gov.sg). For payment of taxes at the various Checkpoints, please make an advance declaration using Customs@SG app or the web portal (www.go.gov.sg/customs-sg).
 sections:
     - hero:
         title:
         subtitle:
-        background: /images/New Banner.jpg
+        background: /images/NewBanner2.png
         key_highlights:
             - title: Duty-Free Concession and GST Relief
-              url: https://singapore-customs-staging.netlify.app/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
+              url: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
             - title: Quick Guide for Importers
-              url: https://singapore-customs-staging.netlify.app/businesses/importing-goods/overview
+              url: /businesses/importing-goods/overview
             - title: Registration Matters
-              url: https://singapore-customs-staging.netlify.app/businesses/registration-matters/overview
-            - title: Customs Schemes & Licenses
-              url: https://singapore-customs-staging.netlify.app/businesses/customs-schemes-licences-framework/trade-first
+              url: /businesses/registration-matters/overview
+            - title: Customs Schemes & Licences
+              url: /businesses/customs-schemes-licences-framework/overview
             - title: Customs Forms & Service Links
-              url: https://singapore-customs-staging.netlify.app/eservices/customs-forms-and-service-links
+              url: /eservices/customs-forms-and-service-links
               
     - carousel:
        - title: Networked Trade Platform

@@ -4,13 +4,16 @@
 #                                #
 ##################################
 
-logo: /images/ic-logo.png
+logo: /images/Customs-homepage-logo.png
 
 links:
   - title: Home
     url: /
   - title: About Us
     collection: about-us
+    sublinks:
+      - title: Careers
+        url: /careers
   - title: Individuals
     collection: individuals
   - title: Businesses
@@ -23,10 +26,4 @@ links:
     url: /contact-us/
   - title: FAQ
     url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
-  - title: Test
-    url: /test/
-    sublinks:
-    - title: Test 1a
-      url: /test/test1/test1a
-    - title: Test 1b
-      url: /test/test1/test1b
+

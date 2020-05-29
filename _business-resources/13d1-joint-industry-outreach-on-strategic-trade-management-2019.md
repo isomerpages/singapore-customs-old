@@ -45,21 +45,20 @@ Highlights:
 
 Presentation materials:
 
--   [Agenda](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---agenda.pdf)
--   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Australia)](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---1st-panel---australia.pdf)
--   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Japan)](https://www.customs.gov.sg/-/media/cus/files/business/jpninvestmentscreening4pages.pptx)
--   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (US)](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---1st-panel---us.pdf)
--   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Philippines)](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---2nd-panel---philippines.pdf)
--   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Malaysia)](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---2nd-panel---malaysia.pdf)
--   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Singapore)](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---2nd-panel---singapore.pdf)
--   [3rd Panel Discussion: Private Sector Best Practices for Compliance (CAPTCIS)](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---3rd-panel---captcis.pdf)
--   [3rd Panel Discussion: Private Sector Best Practices for Compliance (NEC Corporation)](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---3rd-panel---nec.pdf)
--   [3rd Panel Discussion: Private Sector Best Practices for Compliance (DSM Dyneema)](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---3rd-panel---dsm-dyneema.pdf)
--   [3rd Panel Discussion: Private Sector Best Practices for Compliance (Rockwell Automation)](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---3rd-panel---rockwell-automation.pdf)
--   [United States - Red Flag Indicators](https://www.bis.doc.gov/index.php/all-articles/23-compliance-a-training/51-red-flag-indicators)
--   [United States - Proliferation Trends](https://www.customs.gov.sg/-/media/cus/files/business/joint-industry-outreach-seminar-2019---proliferation-trends.pdf)
--   [Japan's Controls on Intangible Transfer of Technology](https://www.customs.gov.sg/-/media/cus/files/business/japans-controls-on-itt.pptx)
--   [China's Export Control System](https://www.customs.gov.sg/-/media/cus/files/business/china.pdf)
+-   [Agenda](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - Agenda.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Australia)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 1st Panel - Australia.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Japan)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 1st Panel - Japan.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (US)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 1st Panel - US.pdf)
+-   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Philippines)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 2nd Panel - Philippines.pdf)
+-   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Malaysia)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 2nd Panel - Malaysia.pdf)
+-   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Singapore)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 2nd Panel - Singapore.pdf)
+-   [3rd Panel Discussion: Private Sector Best Practices for Compliance (CAPTCIS)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - CAPTCIS.pdf)
+-   [3rd Panel Discussion: Private Sector Best Practices for Compliance (NEC Corporation)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - NEC.pdf)
+-   [3rd Panel Discussion: Private Sector Best Practices for Compliance (DSM Dyneema)](/documents/businesses/TSSB/Joint Industry Outreach Seminar - 3rd Panel - DSM.pdf)
+-   [3rd Panel Discussion: Private Sector Best Practices for Compliance (Rockwell Automation)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - Rockwell Automation.pdf)
+-   [United States - Red Flag Indicators](https://www.bis.doc.gov/index.php/all-articles/23-compliance-a-training/51-red-flag-indicators){:target="_blank"}
+-   [Japan's Controls on Intangible Transfer of Technology](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - Japans Controls on ITT.pdf)
+-   [China's Export Control System](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - China.pdf)
 
 Full Video of the Seminar (4 part video):
 

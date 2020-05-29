@@ -22,7 +22,7 @@ The table below indicates the activities that may be reported in an AH.
 | Local Sales/Distribution | X | X | X |
 
 √ : indicates that ADPA is required.   
-See [full list](https://www.customs.gov.sg/-/media/cus/files/business/chemical-weapons-convention/guidetonacwclicencewithschchemlist.pdf?la=en&hash=BB1E42B4501617DFDA8B2AC9F57BED5D57FFDE34) of scheduled chemicals.
+See [full list](/documents/businesses/GuidetoNACWCLicencewithSchChemList.pdf) of scheduled chemicals.
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
 
@@ -46,7 +46,7 @@ Licensees may submit the AH using the same declaration forms as the ADAA.
 
 2) Submit the application forms with supporting documents by:
 
--   Email:  [customs_nacwc@customs.gov.sg](mailto:customs_nacwc@customs.gov.sg2)
+-   Email:  [customs_nacwc@customs.gov.sg](mailto:customs_nacwc@customs.gov.sg)
 -   Mail: Singapore Customs  
     National Authority (Chemical Weapons Convention)  
     55 Newton Road #06-02  
