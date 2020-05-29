@@ -4,12 +4,6 @@ permalink: /feedback/
 breadcrumb: Feedback
 ---
 
-# Our Service Standards
----
-
-We aim to reply emails and letters within 3 working days. We may take a slightly longer time to respond to more complex queries. If we cannot fully answer your query on time, we will give you an update.
-
-
 # For Individuals
  
 [Checkpoint Matters](https://go.gov.sg/checkpointmatters)
@@ -29,7 +23,6 @@ We aim to reply emails and letters within 3 working days. We may take a slightly
 [Strategic Goods Control / UN Security Council Sanctions / Chemical Weapons Convention](https://form.gov.sg/5e7311f15ec7a00011a06429)
 
 [Valuation and Customs Exchange Rate](https://form.gov.sg/#!/5e6ed24b39ddca001164cce2)
-
 
 # General Enquiries & Feedback
 
