@@ -1,9 +1,9 @@
 ---
-title: Traders' Satisfaction Survey and Pro-Enterprise Ranking Survey Results 
+title: 2017 Traders' Satisfaction Survey and Pro-Enterprise Ranking Survey Results 
 permalink: /news-and-media/publications/Traders-Satisfaction-Survey-and-Pro-Enterprise-ranking-survey-results
 ---
 
-# Traders' Satisfaction Survey and Pro-Enterprise Ranking Survey Results
+# 2017 Traders' Satisfaction Survey and Pro-Enterprise Ranking Survey Results
 
 As part of our drive for continual service improvement, Singapore Customs conducts surveys to measure our customers' satisfaction on their interactions with us. We have heard your feedback, and wish to thank all respondents for sharing their valuable feedback and suggestions.
 
@@ -16,7 +16,7 @@ The 2017 Traders' Satisfaction Survey (TSS) was conducted from Nov 2017 to Mar 2
 97.8% of you have given us a reassuring ‘Satisfied’ and 82.6% were 'Very Satisfied’.
 
 
-(Missing Table)
+![Results](images/traders-survey.JPG)
 
 
 **Pro-Enterprise Ranking (PER) Survey 2017 Results**
@@ -56,7 +56,7 @@ Singapore Customs will continue to be mindful of traders' feedback to streamline
 
 Traders are encouraged to visit our website regularly to check on the latest updates and developments. You may also wish to use the recently launched "Ask Jamie" to assist you in your queries. A summary of our responses to some common feedback and suggestions we received is appended below.
 
-[Feedback and Suggestions](images/We%20Heard%20You.png)
+![Feedback and Suggestions](images/We-Heard-You.png)
 
 
 

@@ -19,17 +19,25 @@ Ministry of Finance
 
 ### Members
 
-**Professor Annie Koh**  
-Academic Director  
-International Trading Institute, Singapore Management University 
+**Professor Annie Koh**<br>
+Academic Director<br>
+International Trading Institute, Singapore Management University<br> 
 
 **Mr Dave Ng Wee Peng**  
 First Deputy Chairman  
 Singapore Logistics Association
 
+**Mr Hsu Sin Yun**  
+Deputy Commissioner (Operations)  
+Immigration & Checkpoints Authority
+
 **Ms Lim Khoon Ling**  
 Senior Vice President (South Asia)  
 Expeditors Singapore Pte Ltd
+
+**Mr Luke Goh**  
+Deputy Secretary (Trade)  
+Ministry of Trade and Industry
 
 **Mr Ong Kim Pong**  
 Regional Chief Executive Officer, Southeast Asia  
@@ -47,6 +55,7 @@ Managing Director, A.P. Moller Singapore Pte Ltd
 General Manager  
 DHL Express Singapore Hub
 
+
 **Mr Shamir Rahim**  
 Chief Executive Officer  
 VersaFleet Pte Ltd
@@ -62,11 +71,3 @@ Changi Airport Group
 **Mr Yee Ping Yi**  
 Deputy Secretary (Planning)  
 Ministry of Finance
-
-**Mr Luke Goh**  
-Deputy Secretary (Trade)  
-Ministry of Trade and Industry
-
-**Mr Hsu Sin Yun**  
-Deputy Commissioner (Operations)  
-Immigration & Checkpoints Authority

@@ -1,9 +1,9 @@
 ---
-title: Travellers’ Satisfaction Survey Results
+title: 2017 Travellers’ Satisfaction Survey Results
 permalink: /news-and-media/publications/travellers-satisfaction-survey-results
 ---
 
-# Travellers’ Satisfaction Survey Results
+# 2017 Travellers’ Satisfaction Survey Results
 
 The Travellers’ Satisfaction Survey is conducted periodically to measure travellers’ perceptions of customs services at the checkpoints, and to identify gaps between travellers’ expectations and actual levels of service experienced.
 
