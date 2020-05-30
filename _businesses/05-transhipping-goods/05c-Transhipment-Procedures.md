@@ -89,5 +89,5 @@ You are accountable as a Transhipment Agent and Declaring Agent for the tranship
 {:.mobile-block}
 |  |  |  |  | 
 |--|--|--| -- | 
-|[ ![](/images/t4.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/t3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/t2.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/t1.jpg)](/businesses/exporting-goods/export-procedures/authorised-piers-places) | 
+|[ ![](/images/t4.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/t3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/t2.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/t1.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places) | 
 
