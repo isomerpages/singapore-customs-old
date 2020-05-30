@@ -1,6 +1,6 @@
 ---
 title: Country/Port Code Search
-permalink: /eservices/country-and-port-codes
+permalink: /eservices/country-and-port-codes/
 ---
 
 ![Singapore Customs](https://www.tradenet.gov.sg/tradenet/resources/images/sc_masthead.gif?ctoken=YGNP-L9DN-P1FL-QE9G-ATQ5-EGXM-B49S-8PU6)
