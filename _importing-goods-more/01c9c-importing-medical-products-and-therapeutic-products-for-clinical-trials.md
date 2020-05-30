@@ -16,7 +16,7 @@ third_nav_title: Import Procedures
 3.  Therapeutic products and their placebos, for  use in any clinical trial outside Singapore and are imported for the purpose of being exported for such intended use
     
 
-##  Application Requirements
+###  Application Requirements
 
 Before applying for the GST relief for the CTMs, you should take note of the following:
 
