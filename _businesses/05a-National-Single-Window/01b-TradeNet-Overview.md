@@ -16,9 +16,9 @@ TradeNet  reduces the cost and time to prepare, submit and process trade documen
 
 TradeNet has been the focus of several academic studies since its introduction. Below is a non-exhaustive list of published journal articles about TradeNet:
 
--   King, J. and Konsynski, B. (1990). *Singapore TradeNet: A Tale of One City. Harvard Business School.*
+-   King, J. and Konsynski, B. (1990). Singapore TradeNet: A Tale of One City. *Harvard Business School.*
   
--   Teo, H.H., Tan, C.Y. and Wei, K.K. (1997). *Organisational Transformation Using Electronic Data Interchange: The Case of TradeNet® in Singapore (Vol. 13, No. 4, pp.139-165). Journal of Management Information Systems.*
+-   Teo, H.H., Tan, C.Y. and Wei, K.K. (1997). Organisational Transformation Using Electronic Data Interchange: The Case of TradeNet® in Singapore. *Journal of Management Information Systems, 13*(4), 139-165.
   
 ## For more information on TradeNet
 
