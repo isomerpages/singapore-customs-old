@@ -8,7 +8,7 @@ third_nav_title: Strategic Goods Control
 
 ## United Nations Security Council (UNSC) Sanctions
 
-As a member of the United Nations, Singapore implements the  [Resolutions](http://www.un.org/en/sc/documents/resolutions/index.shtml){:target="_blank"}  passed by the United Nations Security Council (UNSC) through our domestic laws. These include arms embargoes and sanctions on missiles or nuclear related goods. Activities which contravene the decisions of the United Nations Security Council (UNSC) in their Resolutions are prohibited.
+As a member of the United Nations, Singapore implements the  [Resolutions](https://www.un.org/securitycouncil/content/resolutions){:target="_blank"}  passed by the United Nations Security Council (UNSC) through our domestic laws. These include arms embargoes and sanctions on missiles or nuclear related goods. Activities which contravene the decisions of the United Nations Security Council (UNSC) in their Resolutions are prohibited.
 
 Please refer to the  **[United Nations Security Sanctions](/businesses/united-nations-security-council-sanctions/){:target="_blank"}** page for more information.
 
