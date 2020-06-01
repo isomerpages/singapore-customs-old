@@ -22,7 +22,7 @@ Please note that Application for Certificate of Free Sales, Certificate of Non-M
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Advanced Notifications on Transfer of Schedule 1 Chemical |  [Word Doc](/documents/eservices/Advanced-Notifications-on-Transfer.doc) (191KB) <br><br> [PDF](/documents/eservices/SC-A-077(AdvancedNotificationsOnTransferS1).pdf) (80KB)|
+| 1. | Advanced Notifications on Transfer of Schedule 1 Chemical |  [Word Doc](/documents/eservices/SC-A-077_Advanced_Notification_on_Transfer_of_Schedule 1_Chemicals.doc) (191KB) <br><br> [PDF](/documents/eservices/SC-A-077_Advanced_Notification_on_Transfer_of_Schedule 1_Chemicals.pdf) (80KB)|
 | 2. | End-User Certificate | [Word Doc](/documents/eservices/NACWC_EndUserCertificate.doc) (386KB) <br><br> [PDF](/documents/eservices/NACWC_EndUserCertificate.pdf) (377KB)|
 | 3. | Product Enquiry | [Web Link](https://form.gov.sg/5cd8dc28cac8390017348d6c) |
 | 4. | Update of Licensee Contact Information | [Web Link](https://form.gov.sg/5cd9095ecac8390017349199) |
