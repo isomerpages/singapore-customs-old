@@ -17,7 +17,7 @@ The [Asia-Pacific Economic Cooperation](http://www.apec.org/){:target="_blank"} 
 
 Singapore Customs participates in the SCCP. The main objectives of the SCCP are to simplify and harmonise regional customs procedures to ensure that goods and services move efficiently, effectively and safely through the region, and to facilitate border control.
 
-**Association of Southeast Asian Nations (ASEAN) Economic Community **
+**Association of Southeast Asian Nations (ASEAN) Economic Community**
 
 The [Association of Southeast Asian Nations](http://www.asean.org/){:target="_blank"} (ASEAN) was established on 8 August 1967. Several instruments have been concluded over the years to further the cooperation among ASEAN customs administrations.
 
