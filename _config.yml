@@ -94,7 +94,9 @@ collections:
   import-permit-req-IPMs:   
     output: true 
   competent-authorities-requirements:   
-    output: true          
+    output: true   
+  inSYNC:   
+    output: true  
 
 google_analytics: UA-70503404-1
 ##################################################################################################################
