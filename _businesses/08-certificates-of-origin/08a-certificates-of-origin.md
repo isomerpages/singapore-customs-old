@@ -19,6 +19,8 @@ More information on the electronic transmission of Form D via the ASW can be fou
 
 A Certificate of Origin (CO) helps to attest the origin of goods. There are two types of COs, namely ordinary COs and preferential COs.
 
+With effect from 1 May 2020, China has implemented full electronic transmission of Preferential Certificate of Origin (PCO) for acceptance on goods from Singapore under the Electronic Origin Data Exchange System (EODES). To assist your customers in China to enjoy a seamless clearance of the goods, exporters and their appointed declaring agents/freight forwarders are encouraged to leverage on the International Connectivity Preferential Certificate of Origin (IC PCO) service on Networked Trade Platform (NTP). More information on how you could sign up for the IC PCO service can be found in [Notice 18/2019] (/news-and-media/notices/2019-10-15-N.pdf) under News and Media > Notices.
+
 ## What is an ordinary Certificate of Origin?
 
 An ordinary CO, also known as a non-preferential CO, is a trade document that helps to identify the origin of the good.
