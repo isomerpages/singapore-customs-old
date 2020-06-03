@@ -14,4 +14,7 @@ Traders may use the flat rate of 1% for insurance to compute the Customs value o
 -   For transaction values quoted in *Cost and Freight (CFR) International Commercial Terms (incoterms)*^ and,
 -   Where the actual insurance charges are not known or not available to the importer
 
+# No Insurance Purchased
+Traders can set the insurance to zero value if no insurance charges were incurred when importing the goods.
+
 {% include accordion.html %}
