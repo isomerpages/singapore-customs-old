@@ -78,9 +78,6 @@ If the transaction value method cannot be used, the following alternatives will 
 -   Computed value - the value based on cost of production, general expenses and profits in the country of origin of the imported goods
 -   Residual valuation - the value determined by Singapore Customs, based on flexible interpretation of all the previous methods
 
-## No Insurance Purchased
-Traders can set the insurance to zero value if no insurance charges were incurred when importing the goods.
-
 ## For more information on:
 
 {:.mobile-block}
