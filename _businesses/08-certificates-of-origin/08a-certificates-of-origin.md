@@ -21,7 +21,7 @@ A Certificate of Origin (CO) helps to attest the origin of goods. There are two 
 
 With effect from 1 May 2020, China has implemented full electronic transmission of Preferential Certificate of Origin (PCO) for acceptance on goods from Singapore under the Electronic Origin Data Exchange System (EODES). To assist your customers in China to enjoy a seamless clearance of the goods, exporters and their appointed declaring agents/freight forwarders are encouraged to leverage on the International Connectivity Preferential Certificate of Origin (IC PCO) service on Networked Trade Platform (NTP). More information on how you could sign up for the IC PCO service can be found in [Notice 18/2019](news-and-media/notices/2019-10-15-N.pdf) under News and Media > Notices.
 
-You may also wish to dowbload the [handbook](documents/businesses/Transmission and Receipt of Electronic Preferential Certificate of Origin via Networked Trade Platform-Oct 19[3458].pdf) on EODES for more detailed information on EODES
+For more information on EODES, you may wish to download the [handbook](/documents/businesses/EODES%20handbook%20June%202020.pdf) avaiable. 
 
 ## What is an ordinary Certificate of Origin?
 
@@ -77,7 +77,7 @@ The manufacturer's registration will be valid for 2 years from the date of your 
     
 -   After registration, submit the manufacturing cost statement to Singapore Customs for verification that the goods in question meet the origin criteria under the respective Free Trade Agreements and Schemes.
     
--   The submission should be made using the latest [Manufacturing Cost Statement](documents/businesses/Manufacturing Cost Statement (June 2020).xlsm). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
+-   The submission should be made using the latest [Manufacturing Cost Statement](/documents/businesses/Manufacturing%20Cost%20Statement%20June%202020.xlsm). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
     
 -   The typical processing time for a Manufacturing Cost Statement is 7 working days upon receipt of the submission provided the submission is complete and accurate.
     
