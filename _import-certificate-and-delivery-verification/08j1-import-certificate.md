@@ -18,7 +18,7 @@ Download the [application form.](/eservices/customs-forms-and-service-links)
 -   Fill in these details:
     
     -   Applicant's full name, address, telephone/fax number and email address
-    -   [Unique Entity No. (UEN)](http://www.uen.gov.sg/)
+    -   [Unique Entity No. (UEN)](http://www.uen.gov.sg/){:target="_blank"}
     -   Exporter's name and address
     -   End-user's name and address
     -   8-digit  HS Code
@@ -76,7 +76,7 @@ Under an approved IC, you must not:
 
 ## Applying for a Permit to Import Goods under an IC
 
-After receiving the approved IC, you should apply for an import permit via  [TradeNet](https://www.tradexchange.gov.sg/tradexchange/login.portal)  before the goods arrive in Singapore.
+After receiving the approved IC, you should apply for an import permit via  [TradeNet](https://www.ntp.gov.sg/public/government-services){:target="_blank"}  before the goods arrive in Singapore.
 
 ## Do note the following:
 
