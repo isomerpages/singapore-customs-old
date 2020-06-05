@@ -60,17 +60,16 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 | No. | Strategic Goods Control | Related Link |
 |--|--|--|
-| 1. | Strategic Goods (Control) List | [PDF]() |
-| 2. | Individual Permit for physical transfer of strategic goods or technology: Export, Transhipment and Transit| [Web Link]() |
-| 3. | Intangible transfer of Strategic Goods Technology (ITT) | [PDF]() |
-| 4. | Application for Stratefic Trade Scheme (STS) Bulk Permit | [PDF]() |
-| 5. | Resources for Strategic Goods Control | [PDF]() |
+| 1. | Strategic Goods (Control) List | [Web Link](/businesses/strategic-goods-control/strategic-goods-control-list) |
+| 2. | Individual Permit for physical transfer of strategic goods or technology: Export, Transhipment and Transit| [Web Link](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit) |
+| 3. | Intangible transfer of Strategic Goods Technology (ITT) | [Web Link](businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt) |
+| 4. | Application for Stratefic Trade Scheme (STS) Bulk Permit | [Web Link](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology) |
+| 5. | Resources for Strategic Goods Control | [Web Link](/businesses/strategic-goods-control/resources) |
 
-| No. | National Authority for Chemical Weapon Convention (NACWC) | Related Link |
+| No. | [National Authority for Chemical Weapon Convention (NACWC)](/businesses/chemical-weapons-convention/controlled-chemicals) | Related Link |
 |--|--|--|
-| 1. | Organisation for the Prohibition of Chemical Weapons (OPCW) | [PDF]() |
-| 2. | Annual Declaration for Past Activities (ADPA)| [Web Link]() |
-| 3. | Annual Declaration for Anticipated Activities (ADAA) | [PDF]() |
+| 1. | Organisation for the Prohibition of Chemical Weapons (OPCW) | [Web Link](https://www.opcw.org/){:target="_blank"} |
+| 2. | Annual Declaration / Ad-Hoc Declarations and Advance Notification of Transfer| [Web Link](/businesses/chemical-weapons-convention/declarations) |
 
 
 #### [Module 3 - Tax Regime and Valuation](https://www.youtube.com/watch?v=7j1QJGcI-UY){:target="_blank"} 
