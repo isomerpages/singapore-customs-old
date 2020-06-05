@@ -37,25 +37,25 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 5. | Duty Free Shop Scheme | [Web Link](/businesses/customs-schemes-licences-framework/duty-free-shop-scheme) |
 | 6. | Excise Factory Scheme | [Web Link](/businesses/customs-schemes-licences-framework/excise-factory-scheme) |
 | 7. | Industrial Exemption Factory Scheme | [Web Link](/businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme) |
-| 8. | Import - Tax Suspension Schemes | [PDF](https://www.customs.gov.sg/-/media/cus/files/e-learning/BA000008/doc.pdf) |
+| 8. | Import - Tax Suspension Schemes | [PDF](/documents/businesses/PSB/TN Team/Module_2_-_tax_suspension_schemes.pdf) |
 | 9. | Temporary Import Scheme | [Web Link](/businesses/importing-goods/temporary-import-scheme) |
 
-|No. | Original CO | Related Link |
+|No. | [Original CO](/businesses/certificates-of-origin/overview) | Related Link |
 |--|--|--|
-|1. | Singapore Chinese Chamber of Commerce and Industry | [PDF]() |
-|2. | Singapore Indian Chamber of Commerce and Industry | [Web Link]() |
-|3. | Singapore Internation Chamber of Commerce | [PDF]() |
-|4. | Singapore Malay Chamber of Commerce and Industry | [PDF]() |
-|5. | Singapore Manufacturers' Federation | [PDF]() |
+|1. | Singapore Chinese Chamber of Commerce and Industry | [Web Link](https://www.sccci.org.sg/){:target="_blank"} |
+|2. | Singapore Indian Chamber of Commerce and Industry | [Web Link](https://www.sicci.com/){:target="_blank"} |
+|3. | Singapore Internation Chamber of Commerce | [Web Link](https://sicc.com.sg/){:target="_blank"} |
+|4. | Singapore Malay Chamber of Commerce and Industry | [Web Link](https://www.smcci.org.sg/){:target="_blank"} |
+|5. | Singapore Manufacturers' Federation | [Web Link](http://www.smfederation.org.sg/){:target="_blank"} |
 
 | No.| Manufacturer | Related Link |
 |--|--|--|
-|1. | Application for Registration as a Manufacturer | [PDF]() |
-|2. | Letter of Undertaking for Manufacturer Cost Statement | [Web Link]() |
+|1. | Application for Registration as a Manufacturer | [PDF](/documents/eservices/SC-A-006_v11.doc) |
+|2. | Letter of Undertaking for Manufacturer Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp) {:target="_blank"}|
 
-| Free Trade Agreement (FTAs) | 
+| [Free Trade Agreement (FTAs)](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} | 
 
-| Import Certificate and Delivery Verification (ICDV) |
+| [Import Certificate and Delivery Verification (ICDV)](/businesses/strategic-goods-control/import-certificate-and-delivery-verification) |
 
 
 | No. | Strategic Goods Control | Related Link |
