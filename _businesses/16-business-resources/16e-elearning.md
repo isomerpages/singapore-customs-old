@@ -14,7 +14,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 | Title | Related Link |
 |--|--|
-| ACTA | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
+| ACTA | [Web Link](https://www.acra.gov.sg/){:target="_blank"}|
 | Customs Account and Declaring Agent Account e-Services | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
 | Apply for Inter-Bank GIRO (IBG) | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
 | TradeNet Front End Solution Provider | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
