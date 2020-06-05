@@ -64,7 +64,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 |--|--|--|
 | 1. | Strategic Goods (Control) List | [Web Link](/businesses/strategic-goods-control/strategic-goods-control-list) |
 | 2. | Individual Permit for physical transfer of strategic goods or technology: Export, Transhipment and Transit| [Web Link](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit) |
-| 3. | Intangible transfer of Strategic Goods Technology (ITT) | [Web Link](businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt) |
+| 3. | Intangible transfer of Strategic Goods Technology (ITT) | [Web Link](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt) |
 | 4. | Application for Stratefic Trade Scheme (STS) Bulk Permit | [Web Link](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology) |
 | 5. | Resources for Strategic Goods Control | [Web Link](/businesses/strategic-goods-control/resources) |
 
