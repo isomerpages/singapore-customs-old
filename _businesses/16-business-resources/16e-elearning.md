@@ -53,11 +53,11 @@ The following [e-learning videos and information on Customs Procedures](https://
 |1. | Application for Registration as a Manufacturer | [PDF](/documents/eservices/SC-A-006_v11.doc) |
 |2. | Letter of Undertaking for Manufacturer Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp){:target="_blank"}|
 
-|| [Free Trade Agreement (FTAs)](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} | 
-|--|--|
+|[Free Trade Agreement (FTAs)](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} | 
 
-|| [Import Certificate and Delivery Verification (ICDV)](/businesses/strategic-goods-control/import-certificate-and-delivery-verification) |
-|--|--|
+
+| [Import Certificate and Delivery Verification (ICDV)](/businesses/strategic-goods-control/import-certificate-and-delivery-verification) |
+|
 
 
 | No. | Strategic Goods Control | Related Link |
