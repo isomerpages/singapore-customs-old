@@ -10,17 +10,18 @@ third_nav_title: Business Resources
 The following [e-learning videos and information on Customs Procedures](https://www.youtube.com/watch?v=f2htGA3Ykn0){:target="_blank"} are for your reference only. Please refer to the respective pages for the latest information and updates.
 
 
-### [Module 1 - Registration](https://www.youtube.com/watch?v=DIi9J8B7CzQ){:target="_blank"} 
+#### [Module 1 - Registration](https://www.youtube.com/watch?v=DIi9J8B7CzQ){:target="_blank"} 
 
 | Title | Related Link |
 |--|--|
 | ACTA | [Web Link](https://www.acra.gov.sg/){:target="_blank"}|
-| Customs Account and Declaring Agent Account e-Services | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
-| Apply for Inter-Bank GIRO (IBG) | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
-| TradeNet Front End Solution Provider | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
-| Customs Froms and Services | [PDF](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
-| Application for the Authorization of Declaring Agent(s) | [Web Link](/businesses/business-resources/courses-and-events/events-for-traders) |
-| Application for Claimant | [Web Link](https://go.gov.sg/sc401) |
+| Customs Account and Declaring Agent Account e-Services | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} |
+| Apply for Inter-Bank GIRO (IBG) | [Web Link](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/apply-for-inter-bank-giro){:target="_blank"}  |
+| TradeNet Front End Solution Provider | [Web Link](https://www.customs.gov.sg/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers){:target="_blank"}  |
+| Customs Froms and Services | [Web Link](https://www.customs.gov.sg/eservices/customs-forms-and-service-links){:target="_blank"}  |
+| Application for the Authorization of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}  |
+| Application for Claimant | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP){:target="_blank"} |
+| Responsiblities of Declaring Agent and Declarant | [Web Link](https://go.gov.sg/sc401) |
 | Courses and Events | [Web Link](https://go.gov.sg/sc401) |
 
 
