@@ -7,23 +7,26 @@ third_nav_title: Business Resources
 
 ## e-Learning Resources
 
-The following e-learning videos and information on Customs Procedures are for your reference only. Please refer to the respective pages for the latest information and updates.
+The following [e-learning videos and information on Customs Procedures](https://www.youtube.com/watch?v=f2htGA3Ykn0){:target="_blank"} are for your reference only. Please refer to the respective pages for the latest information and updates.
 
 
-### Module 1 - Registration
+#### [Module 1 - Registration](https://www.youtube.com/watch?v=DIi9J8B7CzQ){:target="_blank"} 
+
 | Title | Related Link |
 |--|--|
-| ACTA | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
-| Customs Account and Declaring Agent Account e-Services | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
-| Apply for Inter-Bank GIRO (IBG) | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
-| TradeNet Front End Solution Provider | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
-| Customs Froms and Services | [PDF](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
-| Application for the Authorization of Declaring Agent(s) | [Web Link](/businesses/business-resources/courses-and-events/events-for-traders) |
-| Application for Claimant | [Web Link](https://go.gov.sg/sc401) |
+| ACTA | [Web Link](https://www.acra.gov.sg/){:target="_blank"}|
+| Customs Account and Declaring Agent Account e-Services | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} |
+| Apply for Inter-Bank GIRO (IBG) | [Web Link](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/apply-for-inter-bank-giro){:target="_blank"}  |
+| TradeNet Front End Solution Provider | [Web Link](/businesses/national-single-window/overview/tradenet-solution-providers){:target="_blank"}  |
+| Customs Froms and Services | [Web Link](https://www.customs.gov.sg/eservices/customs-forms-and-service-links){:target="_blank"}  |
+| Application for the Authorization of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}  |
+| Application for Claimant | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP){:target="_blank"} |
+| Responsiblities of Declaring Agent and Declarant | [Web Link](https://go.gov.sg/sc401) |
 | Courses and Events | [Web Link](https://go.gov.sg/sc401) |
 
 
-### Module 2 - Nature of Business Part 1 and Part 2
+### Module 2 - Nature of Business [Part 1](https://www.youtube.com/watch?v=XDdJJTII0eU){:target="_blank"}  and [Part 2](https://www.youtube.com/watch?v=E7JpzovwsQc){:target="_blank"} 
+
 | Schemes | Related Link |
 |--|--|
 | Schemes and Facilitations - TradeFirst | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
@@ -44,20 +47,14 @@ The following e-learning videos and information on Customs Procedures are for yo
 | Singapore Malay Chamber of Commerce and Industry | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
 | Singapore Manufacturers' Federation | [PDF](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
 
-
 | Manufacturer | Related Link |
 |--|--|
 | Application for Registration as a Manufacturer | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
 | Letter of Undertaking for Manufacturer Cost Statement | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
 
+| Free Trade Agreement (FTAs) | 
 
-| Free Trade Agreement (FTAs) | Related Link |
-|--|--|
-
-
-| Import Certificate and Delivery Verification (ICDV) | Related Link |
-|--|--|
-
+| Import Certificate and Delivery Verification (ICDV) |
 
 
 | Strategic Goods Control | Related Link |
@@ -75,13 +72,15 @@ The following e-learning videos and information on Customs Procedures are for yo
 | Annual Declaration for Anticipated Activities (ADAA) | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
 
 
-### Module 3 - Tax Regime and Valuation
+### [Module 3 - Tax Regime and Valuation](https://www.youtube.com/watch?v=7j1QJGcI-UY){:target="_blank"} 
+
 | Title | Related Link |
 |--|--|
 | List of dutiable goods | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
 
 
-### Module 4 - Classification of Goods
+### [Module 4 - Classification of Goods](https://www.youtube.com/watch?v=F-ZPshYvVP0){:target="_blank"} 
+
 | Title | Related Link |
 |--|--|
 | Singapore Trade CLassification, Customs & Excise Duties | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
@@ -89,7 +88,8 @@ The following e-learning videos and information on Customs Procedures are for yo
 | HSCA Product Code Search | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
 
 
-### Module 5 - TradeNet Permit Application
+### [Module 5 - TradeNet Permit Application](https://www.youtube.com/watch?v=pyHaVVy6sLY){:target="_blank"} 
+
 | Title | Related Link |
 |--|--|
 | Login to TradeNet | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
