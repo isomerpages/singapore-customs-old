@@ -7,10 +7,10 @@ third_nav_title: Business Resources
 
 ## e-Learning Resources
 
-The following e-learning videos and information on Customs Procedures are for your reference only. Please refer to the respective pages for the latest information and updates.
+The following [e-learning videos and information on Customs Procedures](https://www.youtube.com/watch?v=f2htGA3Ykn0){:target="_blank"} are for your reference only. Please refer to the respective pages for the latest information and updates.
 
 
-### Module 1 - Registration
+### [Module 1 - Registration](https://www.youtube.com/watch?v=DIi9J8B7CzQ)
 | Title | Related Link |
 |--|--|
 | ACTA | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
