@@ -26,80 +26,80 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 10. | Courses and Events | [Web Link](/businesses/business-resources/courses-and-events) |
 
 
-### Module 2 - Nature of Business [Part 1](https://www.youtube.com/watch?v=XDdJJTII0eU){:target="_blank"}  and [Part 2](https://www.youtube.com/watch?v=E7JpzovwsQc){:target="_blank"} 
+#### Module 2 - Nature of Business [Part 1](https://www.youtube.com/watch?v=XDdJJTII0eU){:target="_blank"}  and [Part 2](https://www.youtube.com/watch?v=E7JpzovwsQc){:target="_blank"} 
 
-| Schemes | Related Link |
-|--|--|
-| Schemes and Facilitations - TradeFirst | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
-| Secure Trade Partnership (STP) & STP-Plus| [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
-| Storage - Licensed Warehouse Scheme | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
-| Storage - Zero-GST Warehouse Scheme (ZGS) | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
-| Duty Free Shop Scheme | [PDF](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
-| Excise Free Scheme | [Web Link](/businesses/business-resources/courses-and-events/events-for-traders) |
-| Industrial Exemption Factory Scheme | [Web Link](https://go.gov.sg/sc401) |
-| Import - Tax Suspension Schemes | [Web Link](/businesses/business-resources/courses-and-events/events-for-traders) |
-| Temporary Import Scheme | [Web Link](https://go.gov.sg/sc401) |
+| No. | Schemes | Related Link |
+|--|--|--|
+| 1. | Schemes and Facilitations - TradeFirst | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) |
+| 2. | Secure Trade Partnership (STP) & STP-Plus| [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp) |
+| 3. | Storage - Licensed Warehouse Scheme | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme) |
+| 4. | Storage - Zero-GST Warehouse Scheme (ZGS) | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme) |
+| 5. | Duty Free Shop Scheme | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/duty-free-shop-scheme) |
+| 6. | Excise Free Scheme | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/excise-factory-scheme) |
+| 7. | Industrial Exemption Factory Scheme | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme) |
+| 8. | Import - Tax Suspension Schemes | [PDF](https://www.customs.gov.sg/-/media/cus/files/e-learning/BA000008/doc.pdf) |
+| 9. | Temporary Import Scheme | [Web Link](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme) |
 
-| Original CO | Related Link |
-|--|--|
-| Singapore Chinese Chamber of Commerce and Industry | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
-| Singapore Indian Chamber of Commerce and Industry | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
-| Singapore Internation Chamber of Commerce | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
-| Singapore Malay Chamber of Commerce and Industry | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
-| Singapore Manufacturers' Federation | [PDF](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
+|No. | Original CO | Related Link |
+|--|--|--|
+|1. | Singapore Chinese Chamber of Commerce and Industry | [PDF]() |
+|2. | Singapore Indian Chamber of Commerce and Industry | [Web Link]() |
+|3. | Singapore Internation Chamber of Commerce | [PDF]() |
+|4. | Singapore Malay Chamber of Commerce and Industry | [PDF]() |
+|5. | Singapore Manufacturers' Federation | [PDF]() |
 
-| Manufacturer | Related Link |
-|--|--|
-| Application for Registration as a Manufacturer | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
-| Letter of Undertaking for Manufacturer Cost Statement | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
+| No.| Manufacturer | Related Link |
+|--|--|--|
+|1. | Application for Registration as a Manufacturer | [PDF]() |
+|2. | Letter of Undertaking for Manufacturer Cost Statement | [Web Link]() |
 
 | Free Trade Agreement (FTAs) | 
 
 | Import Certificate and Delivery Verification (ICDV) |
 
 
-| Strategic Goods Control | Related Link |
-|--|--|
-| Strategic Goods (Control) List | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
-| Individual Permit for physical transfer of strategic goods or technology: Export, Transhipment and Transit| [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
-| Intangible transfer of Strategic Goods Technology (ITT) | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
-| Application for Stratefic Trade Scheme (STS) Bulk Permit | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
-| Resources for Strategic Goods Control | [PDF](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
+| No. | Strategic Goods Control | Related Link |
+|--|--|--|
+| 1. | Strategic Goods (Control) List | [PDF]() |
+| 2. | Individual Permit for physical transfer of strategic goods or technology: Export, Transhipment and Transit| [Web Link]() |
+| 3. | Intangible transfer of Strategic Goods Technology (ITT) | [PDF]() |
+| 4. | Application for Stratefic Trade Scheme (STS) Bulk Permit | [PDF]() |
+| 5. | Resources for Strategic Goods Control | [PDF]() |
 
-| National Authority for Chemical Weapon Convention (NACWC) | Related Link |
-|--|--|
-| Organisation for the Prohibition of Chemical Weapons (OPCW) | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
-| Annual Declaration for Past Activities (ADPA)| [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
-| Annual Declaration for Anticipated Activities (ADAA) | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
-
-
-### [Module 3 - Tax Regime and Valuation](https://www.youtube.com/watch?v=7j1QJGcI-UY){:target="_blank"} 
-
-| Title | Related Link |
-|--|--|
-| List of dutiable goods | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
+| No. | National Authority for Chemical Weapon Convention (NACWC) | Related Link |
+|--|--|--|
+| 1. | Organisation for the Prohibition of Chemical Weapons (OPCW) | [PDF]() |
+| 2. | Annual Declaration for Past Activities (ADPA)| [Web Link]() |
+| 3. | Annual Declaration for Anticipated Activities (ADAA) | [PDF]() |
 
 
-### [Module 4 - Classification of Goods](https://www.youtube.com/watch?v=F-ZPshYvVP0){:target="_blank"} 
+#### [Module 3 - Tax Regime and Valuation](https://www.youtube.com/watch?v=7j1QJGcI-UY){:target="_blank"} 
 
-| Title | Related Link |
-|--|--|
-| Singapore Trade CLassification, Customs & Excise Duties | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
-| Competent Authorities' Requirements for Controlled Items | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
-| HSCA Product Code Search | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
+|No. | Title | Related Link |
+|--|--|--|
+|1. | List of dutiable goods | [PDF]() |
 
 
-### [Module 5 - TradeNet Permit Application](https://www.youtube.com/watch?v=pyHaVVy6sLY){:target="_blank"} 
+#### [Module 4 - Classification of Goods](https://www.youtube.com/watch?v=F-ZPshYvVP0){:target="_blank"} 
 
-| Title | Related Link |
-|--|--|
-| Login to TradeNet | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
-| What you need to know about TradeNet | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
-| Controlled & Prohibited Goods for Import | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
-| List of Message and Declaration types for permit application | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
-| Import Permit Fields | [PDF](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
-| List of Non-Amendable Permit Fields | [Web Link](/businesses/business-resources/courses-and-events/events-for-traders) |
-| Sample CCP | [Web Link](https://go.gov.sg/sc401) |
+| No. | Title | Related Link |
+|--|--|--|
+| 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF]() |
+| 2. | Competent Authorities' Requirements for Controlled Items | [Web Link]() |
+| 3. | HSCA Product Code Search | [Web Link](/eservices/harmonized-system-competent-authority-product-code-search-engine) |
+
+
+#### [Module 5 - TradeNet Permit Application](https://www.youtube.com/watch?v=pyHaVVy6sLY){:target="_blank"} 
+
+| No. | Title | Related Link |
+|--|--|--|
+| 1. | Login to TradeNet | [PDF]() |
+| 2. | What you need to know about TradeNet | [Web Link]() |
+| 3. | Controlled & Prohibited Goods for Import | [PDF]() |
+| 4. | List of Message and Declaration types for permit application | [PDF]() |
+| 5. | Import Permit Fields | [PDF]() |
+| 6. | List of Non-Amendable Permit Fields | [Web Link]() |
+| 7. | Sample CCP | [Web Link]() |
 
 
 
