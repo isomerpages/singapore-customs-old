@@ -10,7 +10,8 @@ third_nav_title: Business Resources
 The following [e-learning videos and information on Customs Procedures](https://www.youtube.com/watch?v=f2htGA3Ykn0){:target="_blank"} are for your reference only. Please refer to the respective pages for the latest information and updates.
 
 
-### [Module 1 - Registration](https://www.youtube.com/watch?v=DIi9J8B7CzQ)
+### [Module 1 - Registration](https://www.youtube.com/watch?v=DIi9J8B7CzQ){:target="_blank"} 
+
 | Title | Related Link |
 |--|--|
 | ACTA | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
@@ -23,7 +24,10 @@ The following [e-learning videos and information on Customs Procedures](https://
 | Courses and Events | [Web Link](https://go.gov.sg/sc401) |
 
 
-### Module 2 - Nature of Business Part 1 and Part 2
+
+
+### Module 2 - Nature of Business [Part 1](https://www.youtube.com/watch?v=XDdJJTII0eU){:target="_blank"}  and [Part 2](https://www.youtube.com/watch?v=E7JpzovwsQc){:target="_blank"} 
+
 | Schemes | Related Link |
 |--|--|
 | Schemes and Facilitations - TradeFirst | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
@@ -75,13 +79,15 @@ The following [e-learning videos and information on Customs Procedures](https://
 | Annual Declaration for Anticipated Activities (ADAA) | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
 
 
-### Module 3 - Tax Regime and Valuation
+### [Module 3 - Tax Regime and Valuation](https://www.youtube.com/watch?v=7j1QJGcI-UY){:target="_blank"} 
+
 | Title | Related Link |
 |--|--|
 | List of dutiable goods | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
 
 
-### Module 4 - Classification of Goods
+### [Module 4 - Classification of Goods](https://www.youtube.com/watch?v=F-ZPshYvVP0){:target="_blank"} 
+
 | Title | Related Link |
 |--|--|
 | Singapore Trade CLassification, Customs & Excise Duties | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
@@ -89,7 +95,8 @@ The following [e-learning videos and information on Customs Procedures](https://
 | HSCA Product Code Search | [PDF](/documents/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
 
 
-### Module 5 - TradeNet Permit Application
+### [Module 5 - TradeNet Permit Application](https://www.youtube.com/watch?v=pyHaVVy6sLY){:target="_blank"} 
+
 | Title | Related Link |
 |--|--|
 | Login to TradeNet | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
