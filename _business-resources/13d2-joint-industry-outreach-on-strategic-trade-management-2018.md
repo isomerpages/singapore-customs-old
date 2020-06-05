@@ -54,7 +54,7 @@ Presentation materials:
 -   [Compliance across the supply chain - Best practices for shipping goods via freight forwarders and agents](/documents/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by CCmB Singapore Customs.pdf)
 -   [Strategic goods technology violations revealed - by METI](/documents/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by Japan Enforcement System and Recent Violation Cases.pdf)
 -   [Counter-Proliferation case studies](/documents/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by US Case Examples.pdf)
--   [What to look out for Singapore's Catch-All Controls](singapore-customs/documents/businesses/TSSB/Joint Industry Outreach 2018 - 1630 Presentation by TSSB.pdf)
+-   [What to look out for Singapore's Catch-All Controls](/documents/businesses/TSSB/Joint Industry Outreach 2018 - 1630 Presentation by TSSB.pdf)
 
 Full Video of the seminar (4 part video):
 
