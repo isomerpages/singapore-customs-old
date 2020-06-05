@@ -24,8 +24,6 @@ The following [e-learning videos and information on Customs Procedures](https://
 | Courses and Events | [Web Link](https://go.gov.sg/sc401) |
 
 
-
-
 ### Module 2 - Nature of Business [Part 1](https://www.youtube.com/watch?v=XDdJJTII0eU){:target="_blank"}  and [Part 2](https://www.youtube.com/watch?v=E7JpzovwsQc){:target="_blank"} 
 
 | Schemes | Related Link |
@@ -48,20 +46,14 @@ The following [e-learning videos and information on Customs Procedures](https://
 | Singapore Malay Chamber of Commerce and Industry | [PDF](/documents/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
 | Singapore Manufacturers' Federation | [PDF](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
 
-
 | Manufacturer | Related Link |
 |--|--|
 | Application for Registration as a Manufacturer | [PDF](/documents/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
 | Letter of Undertaking for Manufacturer Cost Statement | [Web Link](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) |
 
+| Free Trade Agreement (FTAs) | 
 
-| Free Trade Agreement (FTAs) | Related Link |
-|--|--|
-
-
-| Import Certificate and Delivery Verification (ICDV) | Related Link |
-|--|--|
-
+| Import Certificate and Delivery Verification (ICDV) |
 
 
 | Strategic Goods Control | Related Link |
