@@ -17,7 +17,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 | ACTA | [Web Link](https://www.acra.gov.sg/){:target="_blank"}|
 | Customs Account and Declaring Agent Account e-Services | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} |
 | Apply for Inter-Bank GIRO (IBG) | [Web Link](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/apply-for-inter-bank-giro){:target="_blank"}  |
-| TradeNet Front End Solution Provider | [Web Link](https://www.customs.gov.sg/about-us/national-single-window/tradenet/tradenet-front-end-solution-providers){:target="_blank"}  |
+| TradeNet Front End Solution Provider | [Web Link](/businesses/national-single-window/overview/tradenet-solution-providers){:target="_blank"}  |
 | Customs Froms and Services | [Web Link](https://www.customs.gov.sg/eservices/customs-forms-and-service-links){:target="_blank"}  |
 | Application for the Authorization of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}  |
 | Application for Claimant | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP){:target="_blank"} |
