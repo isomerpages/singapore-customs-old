@@ -53,9 +53,11 @@ The following [e-learning videos and information on Customs Procedures](https://
 |1. | Application for Registration as a Manufacturer | [PDF](/documents/eservices/SC-A-006_v11.doc) |
 |2. | Letter of Undertaking for Manufacturer Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp){:target="_blank"}|
 
-| [Free Trade Agreement (FTAs)](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} | 
+|| [Free Trade Agreement (FTAs)](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} | 
+|--|--|
 
-| [Import Certificate and Delivery Verification (ICDV)](/businesses/strategic-goods-control/import-certificate-and-delivery-verification) |
+|| [Import Certificate and Delivery Verification (ICDV)](/businesses/strategic-goods-control/import-certificate-and-delivery-verification) |
+|--|--|
 
 
 | No. | Strategic Goods Control | Related Link |
@@ -76,15 +78,15 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 |No. | Title | Related Link |
 |--|--|--|
-|1. | List of dutiable goods | [PDF]() |
+|1. | List of dutiable goods | [Web Link](/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods) |
 
 
 #### [Module 4 - Classification of Goods](https://www.youtube.com/watch?v=F-ZPshYvVP0){:target="_blank"} 
 
 | No. | Title | Related Link |
 |--|--|--|
-| 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF]() |
-| 2. | Competent Authorities' Requirements for Controlled Items | [Web Link]() |
+| 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF](documents/businesses/stcced-2018-apr-20.pdf) |
+| 2. | Competent Authorities' Requirements for Controlled Items | [Web Link](/businesses/national-single-window/overview/competent-authorities-requirements) |
 | 3. | HSCA Product Code Search | [Web Link](/eservices/harmonized-system-competent-authority-product-code-search-engine) |
 
 
