@@ -21,7 +21,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 4. | Customs Froms and Services | [Web Link](/eservices/customs-forms-and-service-links) |
 | 5. | Application for the Authorization of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}  |
 | 6. | Application for Claimant | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP){:target="_blank"} |
-| 7. | Responsiblities of Declaring Agent and Declarant | [PDF](xxxxx) |
+| 7. | Responsiblities of Declaring Agent and Declarant | [PDF](/documents/businesses/PSB/TN Team/Module 1 - responsibility of declaring agent and declarant.pdf) |
 | 8. | Courses and Events | [Web Link](/businesses/business-resources/courses-and-events) |
 
 
