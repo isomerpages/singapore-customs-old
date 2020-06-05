@@ -85,7 +85,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 | No. | Title | Related Link |
 |--|--|--|
-| 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF](documents/businesses/stcced-2018-apr-20.pdf) |
+| 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF](/documents/businesses/stcced-2018-apr-20.pdf) |
 | 2. | Competent Authorities' Requirements for Controlled Items | [Web Link](/businesses/national-single-window/overview/competent-authorities-requirements) |
 | 3. | HSCA Product Code Search | [Web Link](/eservices/harmonized-system-competent-authority-product-code-search-engine) |
 
