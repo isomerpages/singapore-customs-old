@@ -99,7 +99,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 3. | Controlled & Prohibited Goods for Import | [Web Link](/businesses/importing-goods/controlled-and-prohibited-goods-for-import) |
 | 4. | List of Message and Declaration types for permit application | [PDF](/documents/businesses/PSB/TN Team/Module_5_-_list_of_message_and_declaration_types_for_permit_applications.pdf) |
 | 5. | Types of Permit Applications | [PDF](/documents/businesses/PSB/TN Team/Module_5_-_types_of_permit_applications.pdf) |
-| 6. | Import Permit Fields | [PDF](/documents/businesses/PSB/TN Team/Module_5_-_important_permit_fields_table.pdf) |
+| 6. | Important Permit Fields | [PDF](/documents/businesses/PSB/TN Team/Module_5_-_important_permit_fields_table.pdf) |
 | 7. | List of Non-Amendable Permit Fields | [PDF](/documents/about-us/annexb_04102013.pdf) |
 | 8. | Sample CCP | [PDF](/documents/about-us/SampleCCPOriginal1.pdf) |
 
