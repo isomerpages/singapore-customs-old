@@ -18,7 +18,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 2. | Customs Account and Declaring Agent Account e-Services | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} |
 | 3.| Apply for Inter-Bank GIRO (IBG) | [Web Link](/businesses/registration-matters/registration-procedures/apply-for-inter-bank-giro) |
 | 4.| TradeNet Front End Solution Provider | [Web Link](/businesses/national-single-window/overview/tradenet-solution-providers) |
-| 5. | Customs Froms and Services | [Web Link](/eservices/customs-forms-and-service-links) |
+| 5. | Customs Forms and Services | [Web Link](/eservices/customs-forms-and-service-links) |
 | 6. | Application for the Authorization of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}  |
 | 7. | Application for Claimant | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP){:target="_blank"} |
 | 8. | Responsiblities of Declaring Agent and Declarant | [PDF](/documents/businesses/PSB/TN Team/Module_1_-_responsibility_of_declaring_agent_and_declarant.pdf) |
@@ -30,15 +30,15 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 | No. | Schemes | Related Link |
 |--|--|--|
-| 1. | Schemes and Facilitations - TradeFirst | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/tradefirst) |
-| 2. | Secure Trade Partnership (STP) & STP-Plus| [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp) |
-| 3. | Storage - Licensed Warehouse Scheme | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme) |
-| 4. | Storage - Zero-GST Warehouse Scheme (ZGS) | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme) |
-| 5. | Duty Free Shop Scheme | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/duty-free-shop-scheme) |
-| 6. | Excise Free Scheme | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/excise-factory-scheme) |
-| 7. | Industrial Exemption Factory Scheme | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme) |
+| 1. | Schemes and Facilitations - TradeFirst | [Web Link](/businesses/customs-schemes-licences-framework/trade-first) |
+| 2. | Secure Trade Partnership (STP) & STP-Plus| [Web Link](/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp) |
+| 3. | Storage - Licensed Warehouse Scheme | [Web Link](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme) |
+| 4. | Storage - Zero-GST Warehouse Scheme (ZGS) | [Web Link](/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme) |
+| 5. | Duty Free Shop Scheme | [Web Link](/businesses/customs-schemes-licences-framework/duty-free-shop-scheme) |
+| 6. | Excise Factory Scheme | [Web Link](/businesses/customs-schemes-licences-framework/excise-factory-scheme) |
+| 7. | Industrial Exemption Factory Scheme | [Web Link](/businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme) |
 | 8. | Import - Tax Suspension Schemes | [PDF](https://www.customs.gov.sg/-/media/cus/files/e-learning/BA000008/doc.pdf) |
-| 9. | Temporary Import Scheme | [Web Link](https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme) |
+| 9. | Temporary Import Scheme | [Web Link](/businesses/importing-goods/temporary-import-scheme) |
 
 |No. | Original CO | Related Link |
 |--|--|--|
