@@ -53,7 +53,7 @@ Exports from an STP-Plus certified company to these MRA partners will be recogni
 
 Singapore Customs continues to engage like-minded customs administrations to expand our list of MRA partners, and bring about greater benefits to the trading community.
 
-Please refer to the  [Factsheet on Mutual Recognition](/documents/businesses/factsheet-on-mutual-recognition-oct-2019.pdf)  for more details on the procedures to enjoy the benefits under the MRAs.
+Please refer to the  [Factsheet on Mutual Recognition](/documents/businesses/Factsheet on MRA (updated June 2020).pdf)  for more details on the procedures to enjoy the benefits under the MRAs.
 
 ## STP and STP-Plus Certified Companies
 
