@@ -12,17 +12,17 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 #### [Module 1 - Registration](https://www.youtube.com/watch?v=DIi9J8B7CzQ){:target="_blank"} 
 
-| Title | Related Link |
-|--|--|
-| ACTA | [Web Link](https://www.acra.gov.sg/){:target="_blank"}|
+| No. | Title | Related Link |
+|--|--|--|
+| 1.| ACTA | [Web Link](https://www.acra.gov.sg/){:target="_blank"}|
 | Customs Account and Declaring Agent Account e-Services | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} |
-| Apply for Inter-Bank GIRO (IBG) | [Web Link](https://www.customs.gov.sg/businesses/registering-to-trade/registration-procedures/apply-for-inter-bank-giro){:target="_blank"}  |
-| TradeNet Front End Solution Provider | [Web Link](/businesses/national-single-window/overview/tradenet-solution-providers){:target="_blank"}  |
-| Customs Froms and Services | [Web Link](https://www.customs.gov.sg/eservices/customs-forms-and-service-links){:target="_blank"}  |
-| Application for the Authorization of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}  |
-| Application for Claimant | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP){:target="_blank"} |
-| Responsiblities of Declaring Agent and Declarant | [Web Link](https://go.gov.sg/sc401) |
-| Courses and Events | [Web Link](https://go.gov.sg/sc401) |
+| 2.| Apply for Inter-Bank GIRO (IBG) | [Web Link](/businesses/registration-matters/registration-procedures/apply-for-inter-bank-giro) |
+| 3.| TradeNet Front End Solution Provider | [Web Link](/businesses/national-single-window/overview/tradenet-solution-providers) |
+| 4. | Customs Froms and Services | [Web Link](/eservices/customs-forms-and-service-links) |
+| 5. | Application for the Authorization of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}  |
+| 6. | Application for Claimant | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP){:target="_blank"} |
+| 7. | Responsiblities of Declaring Agent and Declarant | [PDF](xxxxx) |
+| 8. | Courses and Events | [Web Link](/businesses/business-resources/courses-and-events) |
 
 
 ### Module 2 - Nature of Business [Part 1](https://www.youtube.com/watch?v=XDdJJTII0eU){:target="_blank"}  and [Part 2](https://www.youtube.com/watch?v=E7JpzovwsQc){:target="_blank"} 
