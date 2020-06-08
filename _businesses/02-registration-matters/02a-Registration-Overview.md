@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/register-matters/overview
+permalink: /businesses/registration-matters/overview
 third_nav_title: Registration Matters
 ---
 
