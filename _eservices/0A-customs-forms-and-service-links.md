@@ -52,7 +52,7 @@ Please submit the  **Licence Amendment Application Cover Form**  (_compulsory_),
 | 2. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 2 Chemical(s) (Form B.2) | [Web Link](https://form.gov.sg/5ecf65dc42ee5f00110bd03c) |
 | 3. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 3 Chemical(s) (Form B.3) | [Web Link](https://form.gov.sg/5ecf65b3b56f920011e7b9e1) |
 | 4. | Addition of new chemical(s) for Unscheduled Discrete Organic Chemical(s) (Form B.4) | [Web Link](https://form.gov.sg/5ecf649be14a9b0011ad8afe) |
-| 5. | Increment of maximum aggregate for licensed Schedule 2, 3 and/ or Unscheduled Discrete Organic Chemical(s) (Form B.5) | [Web Link](https://form.gov.sg/5cf084133e2f9500177a4dbb) |
+| 5. | Increment of maximum aggregate for licensed Schedule 2, 3 and/ or Unscheduled Discrete Organic Chemical(s) (Form B.5) | [Web Link](https://form.gov.sg/5ecf6469680cf40012d67ceb) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
