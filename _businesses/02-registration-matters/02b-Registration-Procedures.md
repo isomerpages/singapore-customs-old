@@ -1,7 +1,7 @@
 ---
 title: Registration Procedures
-permalink: /businesses/register-to-trade/registration-procedures
-third_nav_title: Register to Trade
+permalink: /businesses/registration-matters/registration-procedures
+third_nav_title: Registration Matters
 ---
 
 # Registration Procedures
