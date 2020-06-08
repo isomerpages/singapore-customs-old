@@ -36,9 +36,9 @@ Please submit the  **Licence Application Cover Form**  (_compulsory_), together 
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Licence Application Cover Form | [Web Link](https://form.gov.sg/5cda22e8cac8390017349d9c) |
-| 2. | Schedule 2 Chemical(s) (Form A.2) <br><br> _For Company/Organisation involved in the production/ processing/ consumption/ import/ export of Schedule 2 Chemical(s)_ | [Web Link](https://form.gov.sg/5cdd0136b1c3590017479034) |
-| 3. | Schedule 3 Chemical(s) (Form A.3) <br><br> _For Company/Organisation involved in the production/ import/ export of Schedule 3 Chemical(s)_ | [Web Link](https://form.gov.sg/5cecef166aadc4001735c36f) |
-| 4. | Unscheduled Discrete Organic Chemical(s) (Form A.4) <br><br> _For Company/Organisation involved in the production of Unscheduled Discrete Organic Chemical(s)_ | [Web Link](https://form.gov.sg/5cedff6f33099000104a8ea6) |
+| 2. | Schedule 2 Chemical(s) (Form A.2) <br><br> _For Company/Organisation involved in the production/ processing/ consumption/ import/ export of Schedule 2 Chemical(s)_ | [Web Link](https://form.gov.sg/5ed07de8b56f920011e9a5cb) |
+| 3. | Schedule 3 Chemical(s) (Form A.3) <br><br> _For Company/Organisation involved in the production/ import/ export of Schedule 3 Chemical(s)_ | [Web Link](https://form.gov.sg/5ed07e6ade28b700116475b1) |
+| 4. | Unscheduled Discrete Organic Chemical(s) (Form A.4) <br><br> _For Company/Organisation involved in the production of Unscheduled Discrete Organic Chemical(s)_ | [Web Link](https://form.gov.sg/5ed07e79680cf40012d86d86) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
@@ -49,9 +49,9 @@ Please submit the  **Licence Amendment Application Cover Form**  (_compulsory_),
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Licence Amendment Application Cover Form | [Web Link](https://form.gov.sg/5cda29e4cac8390017349e5d) |
-| 2. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 2 Chemical(s) (Form B.2) | [Web Link](https://form.gov.sg/5cdbc50bcac839001734b786) |
-| 3. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 3 Chemical(s) (Form B.3) | [Web Link](https://form.gov.sg/5ceba76d5606aa0017d8dc8d) |
-| 4. | Addition of new chemical(s) for Unscheduled Discrete Organic Chemical(s) (Form B.4) | [Web Link](https://form.gov.sg/5cece4aa5d6edc00173c1b5e) |
+| 2. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 2 Chemical(s) (Form B.2) | [Web Link](https://form.gov.sg/5ecf65dc42ee5f00110bd03c) |
+| 3. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 3 Chemical(s) (Form B.3) | [Web Link](https://form.gov.sg/5ecf65b3b56f920011e7b9e1) |
+| 4. | Addition of new chemical(s) for Unscheduled Discrete Organic Chemical(s) (Form B.4) | [Web Link](https://form.gov.sg/5ecf649be14a9b0011ad8afe) |
 | 5. | Increment of maximum aggregate for licensed Schedule 2, 3 and/ or Unscheduled Discrete Organic Chemical(s) (Form B.5) | [Web Link](https://form.gov.sg/5cf084133e2f9500177a4dbb) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
