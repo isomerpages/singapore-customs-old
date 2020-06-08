@@ -36,9 +36,9 @@ Please submit the  **Licence Application Cover Form**  (_compulsory_), together 
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Licence Application Cover Form | [Web Link](https://form.gov.sg/5cda22e8cac8390017349d9c) |
-| 2. | Schedule 2 Chemical(s) (Form A.2) <br><br> _For Company/Organisation involved in the production/ processing/ consumption/ import/ export of Schedule 2 Chemical(s)_ | [Web Link](https://form.gov.sg/5cdd0136b1c3590017479034) |
-| 3. | Schedule 3 Chemical(s) (Form A.3) <br><br> _For Company/Organisation involved in the production/ import/ export of Schedule 3 Chemical(s)_ | [Web Link](https://form.gov.sg/5cecef166aadc4001735c36f) |
-| 4. | Unscheduled Discrete Organic Chemical(s) (Form A.4) <br><br> _For Company/Organisation involved in the production of Unscheduled Discrete Organic Chemical(s)_ | [Web Link](https://form.gov.sg/5cedff6f33099000104a8ea6) |
+| 2. | Schedule 2 Chemical(s) (Form A.2) <br><br> _For Company/Organisation involved in the production/ processing/ consumption/ import/ export of Schedule 2 Chemical(s)_ | [Web Link](https://form.gov.sg/5ed07de8b56f920011e9a5cb) |
+| 3. | Schedule 3 Chemical(s) (Form A.3) <br><br> _For Company/Organisation involved in the production/ import/ export of Schedule 3 Chemical(s)_ | [Web Link](https://form.gov.sg/5ed07e6ade28b700116475b1) |
+| 4. | Unscheduled Discrete Organic Chemical(s) (Form A.4) <br><br> _For Company/Organisation involved in the production of Unscheduled Discrete Organic Chemical(s)_ | [Web Link](https://form.gov.sg/5ed07e79680cf40012d86d86) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
