@@ -50,6 +50,6 @@ Certain import situations do not require Customs permits. These include, but not
 
 ## Further information
 
-You may access Module 5 of the online e-Learning [Guide to Customs’ Procedures](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html) for more information on ‘Important Permit Fields table’, ‘List of Message and Declaration Types for permit applications’ and ‘Types of Permit Applications’ via **Resources** > Module 5.
+You may access Module 5 of the online e-Learning [Guide to Customs’ Procedures](/businesses/business-resources/elearning) for more information on ‘Important Permit Fields table’, ‘List of Message and Declaration Types for permit applications’ and ‘Types of Permit Applications’ via **Resources** > Module 5.
 
 Declarants may also attend the [course](/businesses/business-resources/courses-and-events) SC 111 – Hands-On TradeNet Declaration which provides participants with an overview on the various TradeNet messages and declaration types and a guided practical session on preparing and submitting a permit application via TradeNet.
