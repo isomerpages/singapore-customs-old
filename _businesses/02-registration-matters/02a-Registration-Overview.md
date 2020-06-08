@@ -1,10 +1,10 @@
 ---
 title: Overview
-permalink: /businesses/registration-matters/overview
-third_nav_title: Registration Matters
+permalink: /businesses/register-to-trade/overview
+third_nav_title: Register to Trade
 ---
 
-# Quick Guide on Registration Matters
+# Quick Guide for Traders
 
 ## Activating a Customs Account
 
