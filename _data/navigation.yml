@@ -18,7 +18,24 @@ links:
   - title: News And Media
     resource_room: true
   - title: E-Services
-    collection: eservices
+    url: https://www.customs.gov.sg/services
+    sublinks:
+      - title: E-Services
+        url: /services
+      - title: Customs Forms & Service Links
+        url: /eservices/customs-forms-and-service-links
+      - title: Harmonised System Competent Authority Product Code Search Engine
+        url: https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do
+      - title: Exchange Rates
+        url: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates
+      - title: Country/Port Code Search Engine
+        url: /eservices/country-and-port-codes/
+      - title: Pay Your Bills
+        url: /eservices/pay-your-bills/
+      - title: Customs Sg Mobile And Web Application
+        url: /eservices/customs-sg-mobile-and-web-application/
+      - title: Manifest Reconciliation Statement (MRS) Scheme
+        url: /eservices/manifest-reconciliation-statement-scheme/ 
   - title: Contact Us 
     url: /contact-us/
   - title: FAQ
