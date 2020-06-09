@@ -66,7 +66,7 @@ The uplift of **duty** and/or **Goods and Services Tax (GST)-paid or accounted**
 **Duty** and/or **Goods and Services Tax (GST)-paid or accounted**  sea stores that are controlled for export require proper authorisation (e.g. advance notification, licence or certificate approval) from the relevant CAs before they can be uplifted onto the vessels. The relevant CAs may also require a **Customs export permit [Message / Declaration Type Code = OUT(DRT)]** to account for the uplift of such controlled goods.
 
 
-Before applying for the above Customs permit, suppliers of dutiable sea stores or their appointed Declaring Agents are required to lodge a  [security](/businesses/00e-security-lodgement).
+Before applying for the above Customs permit, suppliers of dutiable sea stores or their appointed Declaring Agents are required to lodge a  [security](/businesses/registration-matters/registration-procedures/security-lodgement).
 
 When applying for the permit, the following information must be declared:
 
