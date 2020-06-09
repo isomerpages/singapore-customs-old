@@ -23,7 +23,7 @@ You are advised to check if your trade sample is a controlled item before export
 | Controlled trade samples (regardless of value) | Yes |
 
 
-More information [here](/businesses/02b-controlled-and-prohibited-goods-for-export) on controlled and prohibited goods, and how to check if your goods are subject to control.
+More information [here](/businesses/exporting-goods/controlled-and-prohibited-goods-for-export) on controlled and prohibited goods, and how to check if your goods are subject to control.
 
 ## Temporary Export
 
