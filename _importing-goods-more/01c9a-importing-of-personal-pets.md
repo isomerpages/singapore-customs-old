@@ -11,7 +11,7 @@ accordion:
 
 # Importing Personal Pets
 
-The importation of goods, including pets, incurs Goods and Services Tax (GST). The GST for the importation of personal pets is based on the  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value) of the goods.
+The importation of goods, including pets, incurs Goods and Services Tax (GST). The GST for the importation of personal pets is based on the  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports) of the goods.
 
 GST relief may be granted on the importation of personal pets if:
 

@@ -24,7 +24,7 @@ Example:
 
 You may refer to the lists below for the Harmonized System (HS) codes of controlled items under the various CAs’ control, and the contact information of the CAs:
 
--   For the latest AHTN2017 HS codes, please refer to [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)
+-   For the latest AHTN2017 HS codes, please refer to [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}
     
 -   [Competent Authorities’ Help Desks](/documents/about-us/annex-e-ca-helpdesk-list.pdf)
     
@@ -38,7 +38,7 @@ You may refer to the lists below for the Harmonized System (HS) codes of control
 -   Fully controlled & non-dutiable
     
 
-**Step 3**: Comply with the specific [CA's requirements](/documents/about-us/annex-d---competent-authorities-requirements.pdf) to avoid delays in processing, and obtain approval from the CA.
+**Step 3**: Comply with the specific [CA's requirements](/documents/businesses/PSB/TN Team/annex-d-competent-authorities-requirements.pdf) to avoid delays in processing, and obtain approval from the CA.
 After submitting the permit application, you may be required to fax immediately to the CAs the relevant supporting documents with the Unique Reference Number quoted on the top right hand corner of each document.
 
 For applications to the Controller of Undesirable Publications, the supporting documents **must be** attached to the permit application.

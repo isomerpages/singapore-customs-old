@@ -13,7 +13,7 @@ third_nav_title: Overview
  3. Annex B - Fields Not Allowed For Electronic Amendment via TradeNet 4.1<br>[PDF](/documents/businesses/PSB/TN Team/appendix-b-items-under-export-control.pdf) (170KB)
  4. Annex C - List of Reasons for Cancellation Codes <br>[PDF](/documents/businesses/PSB/TN Team/annex-c-list-of-reasons-for-cancellation-codes.pdf) (24KB)
  5. Annex D - Competent Authorities' Requirements <br>[PDF](/documents/businesses/PSB/TN Team/annex-d-competent-authorities-requirements.pdf) (300KB) 
- 6. Annex E - Competent Authorities (CAs) Help Desk List <br> [PDF](/documents/about-us/annex-e-ca-helpdesk-list.pdf) (136KB)
+ 6. Annex E - Competent Authorities (CAs) Help Desk List <br> [PDF](/documents/businesses/PSB/TN Team/annex-e-ca-helpdesk-list.pdf) (136KB)
 
 ## Appendices - CAs' HS and Product Codes
 
