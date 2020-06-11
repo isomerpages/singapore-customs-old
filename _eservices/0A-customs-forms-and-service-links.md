@@ -170,6 +170,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 16. | Swordfish Re-Export Certificate | [Word Doc](Swordfish-re-export.doc) (483KB) |
 | 17. | Template for Letter of Undertaking for TradeNet unavailability | [Word Doc](/documents/eservices/Letter-of-undertaking-tradenet.doc) (48KB) |
 | 18. | Template for Letter of Undertaking to be used for the Export, Transhipment and/or Bringing in Transit of Strategic Goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability | [Word Doc](/documents/eservices/Undertaking-export-transhipment.doc) (116KB) |
+| 19. | Application for Secure Trade Partnership (STP) | [Web Link](https://go.gov.sg/stp-application) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
