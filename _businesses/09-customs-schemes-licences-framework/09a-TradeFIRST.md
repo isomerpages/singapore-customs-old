@@ -42,7 +42,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
 
     -   [Licensed Warehouse Scheme Type I](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
     -   [Zero-GST Warehouse Scheme Type I](/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
-    -   [Microbrewery](/customs-schemes-licences-framework/excise-factory-scheme)
+    -   [Microbrewery](/businesses/customs-schemes-licences-framework/excise-factory-scheme)
     -   Compressed Natural Gas Station
   
 -   **Intermediate Band**
