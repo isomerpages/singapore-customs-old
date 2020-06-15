@@ -4,7 +4,7 @@ favicon: /images/favicon.png
 
 # Site colors
 colors:
-  primary-color: '#20639b'
+  primary-color: '#041D42'
   secondary-color: '#041D42'
   media-colors:
     - title: media-color-one
