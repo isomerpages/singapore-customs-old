@@ -206,7 +206,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](http://go.gov.sg/customs-bpermit) |
 | 7. | Application for Permit to Transmit or Export(via Hand-Carry) Strategic Goods Related Software and Technology | [Web Link](http://go.gov.sg/customs-itt) |
 | 8. | Application for Preliminary Advice on Strategic Goods Transaction | [Web Link](http://go.gov.sg/customs-padv) |
-| 9. | Application for Strategic Trade Scheme (STS) Bulk Permit | [STS Bulk Permit Application Form](https://form.gov.sg/#!/5c7f50d3bd0db30017e1eaa1) |
+| 9. | Application for Strategic Trade Scheme (STS) Bulk Permit | [STS Bulk Permit Application Form](https://go.gov.sg/stsbulkpermit-form) |
 | 10. | End-user Certification Form for Seeking In-principle Approval from the UNSC Procurement Channel | [Word Doc](/documents/eservices/EndUserCertification-UNSC.docx) (15KB) |
 | 11. | Half-Yearly Report on Brokering Activities | [Word Doc](/documents/eservices/Report-Brokering.docx) |
 | 12. | Registration to Broker Goods under the Strategic Goods (Control) (Brokering) Order 2019 | [Web Link](http://go.gov.sg/customs-breg) |
