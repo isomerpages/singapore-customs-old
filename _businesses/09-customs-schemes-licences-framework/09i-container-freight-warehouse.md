@@ -31,7 +31,7 @@ An annual licence fee of $4,000 is payable when the licence is issued.
 -   **Accountability to Singapore Customs**
     -   Accountable for all goods held in the licensed premises and for the payment of GST on goods not accounted for
     -   Ensure timely and accurate reconciliation of all goods and submission of monthly reconciled report to Singapore Customs within the prescribed period
-    -   Declare relevant Customs permits through  [TradeNet](/about-us/national-single-window/Overview) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/businesses/national-single-window/tradenet) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
     -   Comply with the GST Act, GST (General) Regulations and the licensing Terms & Conditions

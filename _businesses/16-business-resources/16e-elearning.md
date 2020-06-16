@@ -14,7 +14,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 | No. | Title | Related Link |
 |--|--|--|
-| 1.| ACTA | [Web Link](https://www.acra.gov.sg/){:target="_blank"}|
+| 1.| ACRA | [Web Link](https://www.acra.gov.sg/){:target="_blank"}|
 | 2. | Customs Account and Declaring Agent Account e-Services | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} |
 | 3.| Apply for Inter-Bank GIRO (IBG) | [Web Link](/businesses/registration-matters/registration-procedures/apply-for-inter-bank-giro) |
 | 4.| TradeNet Front End Solution Provider | [Web Link](/businesses/national-single-window/overview/tradenet-solution-providers) |

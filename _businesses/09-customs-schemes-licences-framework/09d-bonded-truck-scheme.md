@@ -26,7 +26,7 @@ To qualify for the Bonded Truck Scheme, the company must:
     
     -   Notify Singapore Customs within 14 days on any changes including but not limited to the modification, replacement, or intention to de-register the bonded vehicles
     -   Comply with the Customs Act and Customs Regulations and other conditions imposed
-    -   Declare relevant Customs permits through  [TradeNet](/about-us/national-single-window/overview) for movement of all goods in and out of Changi Free Trade Zone, and abide by the stipulated permit conditions
+    -   Declare relevant Customs permits through  [TradeNet](/businesses/national-single-window/tradenet) for movement of all goods in and out of Changi Free Trade Zone, and abide by the stipulated permit conditions
 
 -   **Accountability to Other Competent Authorities**
     
