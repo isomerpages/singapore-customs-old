@@ -27,6 +27,6 @@ You may refer to the  [complete list of permit declaration types](/documents/bus
 
 ## Further information
 
-You may access Module 5 of the online  [Guide to Customs' Procedures](https://www.customs.gov.sg/-/media/cus/files/e-learning/main.html)  for more information on Important Permit Fields table, List of Message, and Declaration Types for permit applications and Types of Permit Applications Under  **Resources**.
+You may access Module 5 of the online  [Guide to Customs' Procedures](/businesses/business-resources/elearning)  for more information on Important Permit Fields table, List of Message, and Declaration Types for permit applications and Types of Permit Applications Under  **Resources**.
 
 Declarants may also attend the SC 111  [Hands-On TradeNet Declaration course](https://app.customscms.gov.sg/coursedetaillist.aspx?courseid=4&&page=ccl)  which provides participants with an overview on the various TradeNet messages and declaration types and a guided practical session on preparing and submitting a permit application via to learn more about preparing and submitting permit applications through TradeNet.
