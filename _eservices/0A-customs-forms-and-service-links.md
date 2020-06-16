@@ -142,7 +142,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 1. | Application for Cargo Agent's Import Authorisation (CAIA) | [Word Doc](/documents/eservices/CAIA.doc) (77KB) |
 | 2. | Application for Certificate of Free Sale (CFS) | [Word Doc](/documents/eservices/CFS.doc) (90KB) |
 | 3. |  Application for Import Certificate and Delivery Verification (ICDV)| [Word Doc](/documents/eservices/ICDV.doc) (161KB) |
-| 4. | Application for Kimberley Process Licence (KPL) | [Word Doc](/documents/eservices/KPL.doc) (77KB) |
+| 4. | Application for Kimberley Process Licence (KPL) | [Word Doc](/documents/eservices/KPL.docx) (77KB) |
 | 5. | Application for Landing Certificate (LC) | [Word Doc](/documents/eservices/LC.doc) (344KB) |
 | 6. | Application for Vessel Registration (VR) | [Word Doc](/documents/eservices/VR.doc) (82KB) |
 
@@ -167,7 +167,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 13. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
 | 14. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP) |
 | 15. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP) |
-| 16. | Swordfish Re-Export Certificate | [Word Doc](Swordfish-re-export.doc) (483KB) |
+| 16. | Swordfish Re-Export Certificate | [Word Doc](/documents/eservices/Swordfish-re-export.doc) (483KB) |
 | 17. | Template for Letter of Undertaking for TradeNet unavailability | [Word Doc](/documents/eservices/Letter-of-undertaking-tradenet.doc) (48KB) |
 | 18. | Template for Letter of Undertaking to be used for the Export, Transhipment and/or Bringing in Transit of Strategic Goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability | [Word Doc](/documents/eservices/Undertaking-export-transhipment.doc) (116KB) |
 | 19. | Application for Secure Trade Partnership (STP) | [Web Link](https://go.gov.sg/stp-application) |
