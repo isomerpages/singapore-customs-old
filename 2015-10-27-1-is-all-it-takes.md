@@ -1,6 +1,6 @@
 ---
 title: 1 IS ALL IT TAKES
-permalink: /news-and-media/
+permalink: /1-is-all-it-takes
 ---
 
 # 1 IS ALL IT TAKES
