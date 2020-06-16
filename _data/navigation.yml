@@ -18,7 +18,7 @@ links:
   - title: News And Media
     resource_room: true
   - title: E-Services
-    url: https://www.customs.gov.sg/services
+    url: /services
     sublinks:
       - title: E-Services
         url: /services
