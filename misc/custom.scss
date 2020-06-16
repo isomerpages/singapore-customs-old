@@ -320,7 +320,7 @@ $desktop: 960px + (2 * $gap) !default;
 
   img {
     //width: auto; //Dennis uncommented this to fix blue box images showing too big in IE
-    max-width: 100%;
+    max-width: max-content;
   }
 
 // Dennis tweak to use tbody instead of tr for table row
