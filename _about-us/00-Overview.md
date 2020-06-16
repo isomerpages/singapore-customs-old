@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Overview
 permalink: /about-us/overview
 ---
 
