@@ -95,7 +95,7 @@ The CO must be collected within 1 month from its approval date. The exporter may
 
 The authorised person is required to produce the Letter of Authorisation **issued by the exporter** for verification during collection:
 
--   [For collection of Form D/E](documents/businesses/authorised-letterform-demar-2016.docx)
+-   [For collection of Form D/E](/documents/businesses/Authorised%20letterForm%20DEMar%202016%20(1).docx)
 -   [For collection of Certificate of Origin other than Form D/E](/documents/businesses/authorised-letterother-co-mar-2016.docx)
 
 Note: Effective, 1 Apr 2016, all Letters of Authorisation for collection of CO must be issued by the exporter unless a blanket [appointment letter](/documents/businesses/appointment-letter-for-blanket-authorisation-for-co-collection.docx) is provided to an entity to collect the CO on their behalf. In such cases, this letter from the exporter and the Letter of Authorisation from the appointed entity must be provided during each CO collection.
