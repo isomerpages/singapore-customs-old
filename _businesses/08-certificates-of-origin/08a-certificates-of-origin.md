@@ -167,7 +167,7 @@ A CO that is not utilised shall be returned to Singapore Customs with a cover le
 
 Tariffs and Trade Services Branch (Rules of Origin Unit)  
 Singapore Customs  
-55 Newton Road #07- 01  
+55 Newton Road #06-01  
 Revenue House  
 Singapore 307987
 
