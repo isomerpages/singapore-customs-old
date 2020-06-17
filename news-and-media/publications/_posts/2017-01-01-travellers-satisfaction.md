@@ -13,7 +13,7 @@ We thank all respondents who had spent their valuable time to provide us with th
 
 Table 1: Overall Performance of Customs Services at the Checkpoints
 
-| Year | **Percentage of Respondents** **who are** **Satisfied**| **Percentage of Respondents** **who are** **Not Satisfied** |
+| Year | **Percentage of Respondents** **who are** **Satisfied**| **Percentage of Respondents** **who are** **Very Satisfied** |
 |---|---|---|
 | 2014 | 99.5% | 96.9% |
 | 2015 | 98.2% | 91.8% |
