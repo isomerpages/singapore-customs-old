@@ -318,10 +318,12 @@ $desktop: 960px + (2 * $gap) !default;
 		color: $secondary;
 	}
 
+//Dennis tweak to ensure images on website will not display beyond original image size
   img {
     //width: auto; //Dennis uncommented this to fix blue box images showing too big in IE
     max-width: max-content;
   }
+//End of Dennis tweak to ensure images on website will not display beyond original image size
 
 // Dennis tweak to use tbody instead of tr for table row
   table{
