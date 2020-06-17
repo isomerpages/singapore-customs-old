@@ -1,5 +1,5 @@
 ---
-title: Customs Sg Mobile And Web Application
+title: Customs SG Mobile And Web Application
 permalink: /eservices/customs-sg-mobile-and-web-application/
 ---
 
