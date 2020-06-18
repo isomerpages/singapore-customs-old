@@ -1,6 +1,6 @@
 ---
-title: Individuals
-permalink: /individuals
+title: Overview
+permalink: /individuals/overview
 ---
 
 # Individuals
