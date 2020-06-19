@@ -44,5 +44,5 @@ Importers who wish to register their imported cars for usage on public roads sho
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-| [![](/images/IDMV1.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value)| [![](/images/IDMV2.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/duty-rates) |  [![](/images/IDMV3.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/good-and-services-tax-gst)| [![](/images/IDMV4.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/applying-for-singapore-customs-assessment-for-dutiable-motor-vehicles) |
+| [![](/images/importing-goods/MV1.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value)| [![](/images/importing-goods/MV2.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/duty-rates) |  [![](/images/importing-goods/MV3.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/good-and-services-tax-gst)| [![](/images/importing-goods/MV4.jpg)](/businesses/importing-goods/importing-dutiable-motor-vehicles/applying-for-singapore-customs-assessment-for-dutiable-motor-vehicles) |
 

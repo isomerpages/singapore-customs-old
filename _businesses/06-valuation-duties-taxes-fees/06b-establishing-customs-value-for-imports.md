@@ -83,5 +83,5 @@ If the transaction value method cannot be used, the following alternatives will 
 {:.mobile-block}
 |  |  |  |
 |--|--|--|
-| **[![](/images/FR1.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)** | **[![](/images/FR2.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rate-for-insurance)** | **[![](/images/FR3.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates)** |
+| **[![](/images/valuation-duties/Eastablishing1.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)** | **[![](/images/valuation-duties/Eastablishing2.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rate-for-insurance)** | **[![](/images/valuation-duties/Eastablishing3.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates)** |
 
