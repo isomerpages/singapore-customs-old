@@ -27,7 +27,7 @@ Please refer to the table below for the terms used on this page:
 
 |  |  ||  |  
 |--|--|--|---|
-|[![Layered Enforcement](/images/AURT1.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/declaring-agent-account) |[![Layered Enforcement](/images/AURT2.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/declarant)  |[![Layered Enforcement](/images/AURT3.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/Compliance-to-registration)|[![Layered Enforcement](/images/AURT4.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/Terms-and-conditions)|  
+|[![Layered Enforcement](/images/registration-procedures/DA1.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/declaring-agent-account) |[![Layered Enforcement](/images/registration-procedures/DA2.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/declarant)  |[![Layered Enforcement](/images/registration-procedures/DA3.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/Compliance-to-registration)|[![Layered Enforcement](/images/registration-procedures/DA4.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/Terms-and-conditions)|  
 
 
 
