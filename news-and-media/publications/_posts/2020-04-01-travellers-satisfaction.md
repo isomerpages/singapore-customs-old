@@ -5,13 +5,13 @@ permalink: /news-and-media/publications/travellers-satisfaction-survey-results
 
 # 2019 Travellers’ Satisfaction Survey Results
 
-The Travellers’ Satisfaction Survey is conducted periodically to measure travellers’ perceptions of Customs' services at the checkpoints, and to identify gaps between travellers’ expectations and actual levels of service experienced.
+The Travellers’ Satisfaction Survey is conducted periodically to measure travellers’ perceptions of Singapore Customs' services at the checkpoints, and to identify gaps between travellers’ expectations and actual levels of service experienced.
 
 From the survey, Singapore Customs seeks to determine the specific service needs and expectations of travellers; and to gather feedback and suggestions for improvements.
 
 We thank all respondents who had spent their valuable time to provide us with their feedback.
 
-Table 1: Overall Performance of Customs Services at the Checkpoints
+Table 1: Overall Performance of Singapore Customs' Services at the Checkpoints
 
 | Year | **Percentage of Respondents** **who are** **Satisfied**| **Percentage of Respondents** **who are** **Very Satisfied** |
 |---|---|---|
