@@ -32,9 +32,9 @@ Your application should be processed within 7 working days if the information an
 
 You will need a brokering permit if you:
 
--   Has been notified by an authorised officer, or
+-   Have been notified by an authorised officer
 -   Know, or 
--   Has reasonable grounds to suspect
+-   Have reasonable grounds to suspect
 
 That the goods or technology you are brokering are intended or likely to be used, wholly or in part, for or in connection with the:
 
