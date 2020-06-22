@@ -3,6 +3,23 @@ title: Feedback
 permalink: /feedback/
 breadcrumb: Feedback
 ---
+# General Enquiries & Feedback
+
+[Networked Trade Platform](https://www.ntp.gov.sg/public/helpdesk/singapore-customs)
+
+[Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)
+
+[Subscribe/Unsubscribe to Mailing List](https://form.gov.sg/5e859b60a0ffc50011a4ee83)
+
+[Enquiries on SC 401](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
+
+[Enquiries on Customs Documentation](https://form.gov.sg/#!/5eb0c6175ef87a00115694cb)
+
+[Reporting of Customs Offences](https://form.gov.sg/5e995f095dad670011b20509)
+
+[Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)
+
+[Quality Service Manager](https://form.gov.sg/#!/5e6862571db1b70011098bf5)
 
 # For Individuals
  
@@ -24,20 +41,4 @@ breadcrumb: Feedback
 
 [Valuation and Customs Exchange Rate](https://form.gov.sg/#!/5e6ed24b39ddca001164cce2)
 
-# General Enquiries & Feedback
 
-[Networked Trade Platform](https://www.ntp.gov.sg/public/helpdesk/singapore-customs)
-
-[Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)
-
-[Subscribe/Unsubscribe to Mailing List](https://form.gov.sg/5e859b60a0ffc50011a4ee83)
-
-[Enquiries on SC 401](https://form.gov.sg/5e9ab0d15dad670011b3a65c)
-
-[Enquiries on Customs Documentation](https://form.gov.sg/#!/5eb0c6175ef87a00115694cb)
-
-[Reporting of Customs Offences](https://form.gov.sg/5e995f095dad670011b20509)
-
-[Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)
-
-[Quality Service Manager](https://form.gov.sg/#!/5e6862571db1b70011098bf5)
