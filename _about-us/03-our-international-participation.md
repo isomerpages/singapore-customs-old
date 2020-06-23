@@ -11,6 +11,8 @@ Singapore Customs participates actively in international and regional customs fo
 
 The [World Customs Organisation](http://www.wcoomd.org/en.aspx){:target="_blank"} (WCO) is an independent intergovernmental body whose mission is to enhance the effectiveness and efficiency of customs administrations. Singapore became a member of the WCO in 1975.
 
+Singapore Customs adopts WCO’s instruments and tools such as the SAFE Framework of Standards to Secure and Facilitate Global Trade, Harmonised System (HS) Classification of Goods and WCO Data Model.
+
 **Asia Pacific Economic Cooperation (APEC) Sub-Committee on Customs Procedures (SCCP)**
 
 The [Asia-Pacific Economic Cooperation](http://www.apec.org/){:target="_blank"} (APEC) was established in 1989 in response to the growing interdependence among Asia-Pacific economies.
