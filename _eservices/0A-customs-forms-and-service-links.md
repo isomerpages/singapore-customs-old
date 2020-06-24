@@ -63,10 +63,10 @@ Please submit the  **Licence Application Cover Form**  and/ or  **Licence Amendm
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Licence Application Cover Form | [Word Doc](/documents/eservices/License-Application-Cover.doc) (191KB) <br><br> [PDF](/documents/eservices/License-Application-Cover.pdf) (353KB) |
-| 2. | Schedule 1 Chemical(s) (Form A.1) <br><br> _For Company/Organisation involved in the production/ processing/ consumption/ storage/ import/ export/ local transfer or distribution of Schedule 1 Chemical(s)_ | [Word Doc](/documents/eservices/Schedule-1-Chemicals.doc) (175KB) <br><br> [PDF](/documents/eservices/Schedule-1-Chemicals.pdf) (294KB) |
-| 3. | Licence Amendment Application Cover Form | [Word Doc](/documents/eservices/Licence-Amendment-Application.doc) (205KB) <br><br> [PDF](/documents/eservices/Licence-Amendment-Application.pdf) (238KB) |
-| 4. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 1 Chemical(s) (Form B.1) | [Word Doc](/documents/eservices/Addition-of-new-chemicals.doc) (401KB) <br><br> [PDF](/documents/eservices/Addition-of-new-chemicals.pdf) (294KB) |
+| 1. | Licence Application Cover Form | [Word Doc](/documents/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form-Sch1.doc) (191KB) <br><br> [PDF](/documents/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form-Sch1.pdf) (353KB) |
+| 2. | Schedule 1 Chemical(s) (Form A.1) <br><br> _For Company/Organisation involved in the production/ processing/ consumption/ storage/ import/ export/ local transfer or distribution of Schedule 1 Chemical(s)_ | [Word Doc](/documents/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.doc) (175KB) <br><br> [PDF](/documents/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.pdf) (294KB) |
+| 3. | Licence Amendment Application Cover Form | [Word Doc](/documents/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form-Sch1.doc) (205KB) <br><br> [PDF](/documents/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form-Sch1.pdf) (238KB) |
+| 4. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 1 Chemical(s) (Form B.1) | [Word Doc](/documents/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.doc) (401KB) <br><br> [PDF](/documents/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.pdf) (294KB) |
 | 5. | Increment of maximum aggregate for licensed Schedule 1 Chemical(s) (Form B.5) | [Word Doc](/documents/eservices/Increment-of-maximum-agregate.doc) (357KB) <br><br> [PDF](/documents/eservices/Increment-of-maximum-agregate.pdf) (347KB)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
@@ -77,7 +77,7 @@ Please submit the  **Declaration Cover For Reporting Template** (_compulsory_), 
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Declaration Cover For Reporting Template | [Word Doc](/documents/eservices/SC-A-069_Declaration_Cover_Template.doc) (263KB) <br><br> [PDF](/documents/eservices/SC-A-069_Declaration_Cover_Template.pdf) (268KB) |
+| 1. | Declaration Cover For Reporting Template | [Word Doc](/documents/eservices/Declaration_Cover_for_Reporting_Template.doc) (263KB) <br><br> [PDF](/documents/eservices/Declaration_Cover_for_Reporting_Template.pdf) (268KB) |
 | 2. | Schedule 1 Chemical(s) (Template C.1) | [Word Doc](/documents/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.doc) (283KB)  <br><br> [PDF](/documents/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.pdf) (237KB)|
 | 3. | Schedule 2 Chemical(s) (Template C.2) | [Word Doc](/documents/eservices/SC-A-070B_Template_C2_ADAA_for_S2_Chemicals.doc) (385KB) <br><br> [PDF](/documents/eservices/SC-A-070B_Template_C2_ADAA_for_S2_Chemicals.pdf) (320KB) |
 | 4. | Schedule 3 Chemical(s) (Template C.3) | [Word Doc](/documents/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.doc) (454KB) <br><br> [PDF](/documents/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.pdf) (270KB) |
@@ -92,7 +92,7 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Declaration Cover For Reporting Template | [Word Doc](/documents/eservices/SC-A-069_Declaration_Cover_Template.doc) (263KB) <br><br> [PDF](/documents/eservices/SC-A-069_Declaration_Cover_Template.pdf) (268KB)|
+| 1. | Declaration Cover For Reporting Template | [Word Doc](/documents/eservices/Declaration_Cover_for_Reporting_Template.doc) (263KB) <br><br> [PDF](/documents/eservices/Declaration_Cover_for_Reporting_Template.pdf) (268KB)|
 | 2. | Schedule 1 Chemical(s) (Template D.1) | [Word Doc](/documents/eservices/SC-A-071A_Template_D1_ADPA_for_S1_Chemicals.doc) (489KB) <br><br> [PDF](/documents/eservices/SC-A-071A_Template_D1_ADPA_for_S1_Chemicals.pdf) (326KB)|
 | 3. | Schedule 2 Chemical(s) (Template D.2) | [Word Doc](/documents/eservices/SC-A-071B_Template_D2_ADPA_for_S2_Chemicals.doc) (475KB)  <br><br> [PDF](/documents/eservices/SC-A-071B_Template_D2_ADPA_for_S2_Chemicals.pdf) (317KB) |
 | 4. | Schedule 3 Chemical(s) (Template D.3) | [Word Doc](/documents/eservices/SC-A-071C_Template_D3_ADPA_for_S3_Chemicals.doc) (440KB)  <br><br> [PDF](/documents/eservices/SC-A-071C_Template_D3_ADPA_for_S3_Chemicals.pdf) (302KB) |
