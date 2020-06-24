@@ -39,7 +39,7 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 | To distill, ferment or manufacture any other intoxicating liquors | $28,000 | Enhanced |
 | To manufacture cigarettes | $120,000 | Enhanced |
 | To manufacture tobacco other than cigarettes | $1,800 | Enhanced | 
-| To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 | Enhanced |
+| To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 | Standard |
 | To refine and treat petroleum or biodiesel blends | $75,000 | Enhanced |
 | To manufacture compressed natural gas for supply to motor vehicles | $2,600 | Standard |
 | To manufacture any other dutiable goods where the goods manufactured are subject to payment of excise duty | $30,000 | Enhanced |
