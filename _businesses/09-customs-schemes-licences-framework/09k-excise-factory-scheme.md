@@ -39,7 +39,7 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 | To distill, ferment or manufacture any other intoxicating liquors | $28,000 | Enhanced |
 | To manufacture cigarettes | $120,000 | Enhanced |
 | To manufacture tobacco other than cigarettes | $1,800 | Enhanced | 
-| To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 | Enhanced |
+| To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 | Standard |
 | To refine and treat petroleum or biodiesel blends | $75,000 | Enhanced |
 | To manufacture compressed natural gas for supply to motor vehicles | $2,600 | Standard |
 | To manufacture any other dutiable goods where the goods manufactured are subject to payment of excise duty | $30,000 | Enhanced |
@@ -65,6 +65,10 @@ The annual licence fee varies with the type of activity, and is payable upon iss
     -   Ensure adequate security measures in the licensed premises
     -   Ensure all entrances and exits are secured when there is no movement of goods in the licensed premises
     -   Obtain prior approval from Singapore Customs for any structural alteration to the licensed premises
+
+-   **De-licensing of Licences**
+    -   Ensure all equipment for manufacturing intoxicating liquor are disposed of, in a manner approved by Singapore Customs, prior to application for de-licensing.
+    -   The licensee shall inform Singapore Customs on the method and place of disposal, and submit supporting documents such as invoice, permits, airway bill/bill of lading, certificate of destruction, etc. for verification. Singapore Customs would process the de-licensing application only after the proper disposal of the equipment.
 
 ## How to Apply?
 
