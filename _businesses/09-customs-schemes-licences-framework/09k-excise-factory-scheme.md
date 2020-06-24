@@ -66,6 +66,10 @@ The annual licence fee varies with the type of activity, and is payable upon iss
     -   Ensure all entrances and exits are secured when there is no movement of goods in the licensed premises
     -   Obtain prior approval from Singapore Customs for any structural alteration to the licensed premises
 
+-   **De-licensing of Licences**
+    -   Ensure all equipment for manufacturing intoxicating liquor are disposed of, in a manner approved by Singapore Customs, prior to application for de-licensing.
+    -   The licensee shall inform Singapore Customs on the method and place of disposal, and submit supporting documents such as invoice, permits, airway bill/bill of lading, certificate of destruction, etc. for verification. Singapore Customs would process the de-licensing application only after the proper disposal of the equipment.
+
 ## How to Apply?
 
 **Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
