@@ -22,8 +22,8 @@ Please note that Application for Certificate of Free Sales, Certificate of Non-M
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Advanced Notifications on Transfer of Schedule 1 Chemical |  [Word Doc](/documents/eservices/SC-A-077_Advanced_Notification_on_Transfer_of_Schedule 1_Chemicals.doc) (191KB) <br><br> [PDF](/documents/eservices/SC-A-077_Advanced_Notification_on_Transfer_of_Schedule 1_Chemicals.pdf) (80KB)|
-| 2. | End-User Certificate | [Word Doc](/documents/eservices/NACWC_EndUserCertificate.doc) (386KB) <br><br> [PDF](/documents/eservices/NACWC_EndUserCertificate.pdf) (377KB)|
+| 1. | Advanced Notifications on Transfer of Schedule 1 Chemical |  [Word Doc](/documents/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.doc) (191KB) <br><br> [PDF](/documents/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.pdf) (80KB)|
+| 2. | End-User Certificate | [Word Doc](/documents/eservices/End_User_Certificate.doc) (386KB) <br><br> [PDF](/documents/eservices/End_User_Certificate.pdf) (377KB)|
 | 3. | Product Enquiry | [Web Link](https://form.gov.sg/5cd8dc28cac8390017348d6c) |
 | 4. | Update of Licensee Contact Information | [Web Link](https://form.gov.sg/5cd9095ecac8390017349199) |
 
@@ -79,7 +79,7 @@ Please submit the  **Declaration Cover For Reporting Template** (_compulsory_), 
 |--|--|--|
 | 1. | Declaration Cover For Reporting Template | [Word Doc](/documents/eservices/Declaration_Cover_for_Reporting_Template.doc) (263KB) <br><br> [PDF](/documents/eservices/Declaration_Cover_for_Reporting_Template.pdf) (268KB) |
 | 2. | Schedule 1 Chemical(s) (Template C.1) | [Word Doc](/documents/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.doc) (283KB)  <br><br> [PDF](/documents/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.pdf) (237KB)|
-| 3. | Schedule 2 Chemical(s) (Template C.2) | [Word Doc](/documents/eservices/SC-A-070B_Template_C2_ADAA_for_S2_Chemicals.doc) (385KB) <br><br> [PDF](/documents/eservices/SC-A-070B_Template_C2_ADAA_for_S2_Chemicals.pdf) (320KB) |
+| 3. | Schedule 2 Chemical(s) (Template C.2) | [Word Doc](/documents/eservices/Template_C2_ADAA_for_S2_Chemicals.doc) (385KB) <br><br> [PDF](/documents/eservices/Template_C2_ADAA_for_S2_Chemicals.pdf) (320KB) |
 | 4. | Schedule 3 Chemical(s) (Template C.3) | [Word Doc](/documents/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.doc) (454KB) <br><br> [PDF](/documents/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.pdf) (270KB) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
@@ -93,9 +93,9 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Declaration Cover For Reporting Template | [Word Doc](/documents/eservices/Declaration_Cover_for_Reporting_Template.doc) (263KB) <br><br> [PDF](/documents/eservices/Declaration_Cover_for_Reporting_Template.pdf) (268KB)|
-| 2. | Schedule 1 Chemical(s) (Template D.1) | [Word Doc](/documents/eservices/SC-A-071A_Template_D1_ADPA_for_S1_Chemicals.doc) (489KB) <br><br> [PDF](/documents/eservices/SC-A-071A_Template_D1_ADPA_for_S1_Chemicals.pdf) (326KB)|
-| 3. | Schedule 2 Chemical(s) (Template D.2) | [Word Doc](/documents/eservices/SC-A-071B_Template_D2_ADPA_for_S2_Chemicals.doc) (475KB)  <br><br> [PDF](/documents/eservices/SC-A-071B_Template_D2_ADPA_for_S2_Chemicals.pdf) (317KB) |
-| 4. | Schedule 3 Chemical(s) (Template D.3) | [Word Doc](/documents/eservices/SC-A-071C_Template_D3_ADPA_for_S3_Chemicals.doc) (440KB)  <br><br> [PDF](/documents/eservices/SC-A-071C_Template_D3_ADPA_for_S3_Chemicals.pdf) (302KB) |
+| 2. | Schedule 1 Chemical(s) (Template D.1) | [Word Doc](/documents/eservices/Template_D1_ADPA_for_S1_Chemicals.doc) (489KB) <br><br> [PDF](/documents/eservices/Template_D1_ADPA_for_S1_Chemicals.pdf) (326KB)|
+| 3. | Schedule 2 Chemical(s) (Template D.2) | [Word Doc](/documents/eservices/Template_D2_ADPA_for_S2_Chemicals.doc) (475KB)  <br><br> [PDF](/documents/eservices/Template_D2_ADPA_for_S2_Chemicals.pdf) (317KB) |
+| 4. | Schedule 3 Chemical(s) (Template D.3) | [Word Doc](/documents/eservices/Template_D3_ADPA_for_S3_Chemicals.doc) (440KB)  <br><br> [PDF](/documents/eservices/Template_D3_ADPA_for_S3_Chemicals.pdf) (302KB) |
 | 5. | Unscheduled Discrete Organic Chemical(s) (Template D.4) | [Word Doc](/documents/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.doc) (324KB) <br><br> [PDF](/documents/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.pdf) (277KB) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
