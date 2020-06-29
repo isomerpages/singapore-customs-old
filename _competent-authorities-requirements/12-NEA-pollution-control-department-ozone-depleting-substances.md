@@ -8,7 +8,7 @@ third_nav_title: Competent Authorities Requirements
 
 The import and export of Ozone Depleting Substances (ODS) are subject to control by the Pollution Control Department (PCD). Please note that you are required to obtain a Hazardous Substances Licence for the import and/ or export of ODS listed under the Schedule of the Environmental Protection And Management Act (EPMA). For more information on the control of ODS in Singapore, please visit  [PCD website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances){:target="_blank"}.
 
-The import and/ or export of controlled ODS are not allowed with non-parties to the Montreal Protocol as stipulated under the Environmental Protection And Management (ODS) Regulations. The status of ratification of countries to the Montreal Protocol and its amendments may be viewed at  [http://ozone.unep.org/Ratification_status/](http://ozone.unep.org/Ratification_status/){:target="_blank"}.
+The import and/ or export of controlled ODS are not allowed with non-parties to the Montreal Protocol as stipulated under the Environmental Protection And Management (ODS) Regulations. The status of ratification of countries to the Montreal Protocol and its amendments may be viewed at  [https://ozone.unep.org/all-ratifications](https://ozone.unep.org/all-ratifications){:target="_blank"}.
 
 ## Import of ODS
 
