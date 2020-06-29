@@ -31,9 +31,10 @@ The import and/ or export of controlled ODS are not allowed with non-parties to 
       <br><br>
 
  - **For Non-controlled ODS**  
-   Import permit applications for non-controlled ODS are auto-processed by the TradeNet System
-    a. Declarant must declare the nett quantity and the corresponding Product Codes to the correct HS Codes in the import permit application.
-    b. Please fax the invoice, BL/AWB and the Cargo Clearance Permit (CCP) to PCD for verification only when prompted by the TradeNet system.
+     Import permit applications for non-controlled ODS are auto-processed by the TradeNet System
+     
+     - Declarant must declare the nett quantity and the corresponding Product Codes to the correct HS Codes in the import permit application.
+     - Please fax the invoice, BL/AWB and the Cargo Clearance Permit (CCP) to PCD for verification only when prompted by the TradeNet system.
 
 ## Export of ODS
 
