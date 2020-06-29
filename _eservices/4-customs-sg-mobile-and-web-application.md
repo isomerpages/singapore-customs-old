@@ -87,6 +87,10 @@ Please email [customs_checkpoints@customs.gov.sg](mailto:customs_checkpoints@cus
 
 Yes, for declaration submitted through the mobile app and the web application, a Declaration Number will be emailed to you if a payment submission is successful. You can retrieve your receipt by entering the Declaration Number and your email address in the web application.
 
+**13.** **This is my first time visiting Singapore and I am unaware of Singapore’s Standardised Packaging (SP) law. What if I use Customs@SG app to declare and pay the duty and Goods and Services Tax (GST) on my cigarettes or tobacco products that turn out to be non-compliant?**
+
+Travellers have to ensure that their cigarettes and/or tobacco products comply with the SP requirements before making a declaration and payment via the Customs@SG mobile app or web portal. Do note that no refund will be given for duty and GST already prepaid via the Customs@SG mobile or web portal for cigarettes and/or tobacco products that do not comply with the SP requirements.
+
 ***
 
 ### B. Using the App/Web application

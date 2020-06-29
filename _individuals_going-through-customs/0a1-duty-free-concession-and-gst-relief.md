@@ -58,6 +58,10 @@ There is no duty-free concession and Goods and Services Tax (GST) relief for cig
 
 All cigarettes and tobacco products, including those purchased in Singapore with the ‘SDPC’ mark, are subject to [duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) and GST when brought into Singapore.
 
+With effect from 1 July 2020, all cigarettes and other tobacco products imported into, sold, offered for sale or distributed in Singapore must comply with the new Standardised Packaging (SP) requirements. For further information, you may refer to Health Sciences Authority (HSA)’s [website](https://www.hsa.gov.sg/tobacco-regulation/overview) or contact Ministry of Health (MOH) through email at moh_info@moh.gov.sg.
+
+Importation of cigarettes and / or tobacco products that do not comply with the SP requirements is not allowed, and these cigarettes and / or tobacco products will be disposed of at the checkpoints.
+
 **Motor Fuel Including Motor Spirits, Diesel Products and Compressed Natural Gas (CNG)**
 There is no duty-free concession and GST relief on motor fuel including motor spirits, diesel products and compressed natural gas (CNG) in containers.
 
