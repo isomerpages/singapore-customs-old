@@ -96,5 +96,5 @@ Prior approval via the TradeNet shall be obtained for the export and import of a
 ## NOTES:
 
 1.  Please quote the  **Unique Reference No.**  on all supporting documents before faxing.
-2.  The HS Codes and Product Codes for Used Electrical & Electronic Equipments are listed  [here](/about-us/national-single-window/overview/annexes-and-appendices).
+2.  The HS Codes and Product Codes for Used Electrical & Electronic Equipments are listed  [here](/businesses/national-single-window/overview/annexes-and-appendices).
 3.  If the importer / exporter does not have the required supporting documents, please contact PCD officers at 67319377 for advice.

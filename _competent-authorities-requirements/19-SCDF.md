@@ -13,7 +13,7 @@ The basic requirements are:
 
 a. Before submission of application for the cargo clearance permit
 
-The applicant is required to apply for an import licence online via the following  [website.](https://eservices.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP){:target="_blank"}. The applicant is required to declare the following for import licence:
+The applicant is required to apply for an import licence online via the following  [website.](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP){:target="_blank"}. The applicant is required to declare the following for import licence:
 
 -   EI (Entity Identifier) no. and information
 -   type & quantities of petroleum & flammable materials

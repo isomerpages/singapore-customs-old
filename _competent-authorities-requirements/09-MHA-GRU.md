@@ -1,6 +1,6 @@
 ---
 title: Ministry of Home Affairs - Gambling Regulatory Unit (GRU)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/GRU
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/MHA-Gambling-Regulatory-Unit
 third_nav_title: Competent Authorities Requirements
 ---
 

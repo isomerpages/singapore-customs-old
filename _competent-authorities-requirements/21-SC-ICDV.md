@@ -11,6 +11,6 @@ The Import Certificate and Delivery Verification (ICDV) or more commonly known a
 
 The ICDV, implemented since 1955 legislated under Regulation of Imports and Exports Regulations (RIER), helps address exporting countries’ concerns that their sensitive exports to Singapore are destined for the specific end-user in Singapore, and are not diverted to a third country. For re-export, the goods will be re-exported to the end-user or destination approved by the supplying country as specified in the ICDV.
 
-ICDV is a 3-stage process. First, the importer has to submit an application for an Import Certificate. Next, he has to submit an import permit via  [TradeNet](https://www.tradexchange.gov.sg/tradexchange/default.portal?_nfpb=true&_pageLabel=main_tn&_nfls=false){:target="_blank"} prior to the arrival of the goods. Upon importation, he can obtain a Delivery Verification from Singapore Customs, if such verification is required by the supplying country.
+ICDV is a 3-stage process. First, the importer has to submit an application for an Import Certificate. Next, he has to submit an import permit via  [TradeNet](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"} prior to the arrival of the goods. Upon importation, he can obtain a Delivery Verification from Singapore Customs, if such verification is required by the supplying country.
 
 ![Layered Enforcement](/images/icdv.jpg)

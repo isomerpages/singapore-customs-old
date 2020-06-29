@@ -67,7 +67,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 
 **7) Ministry of Home Affairs (MHA)**
 
--   [Ministry of Home Affairs - Gambling Regulatory Unit](/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-police-force---public-entertainment-liquor-licensing)
+-   [Ministry of Home Affairs - Gambling Regulatory Unit](/businesses/national-single-window/tradenet/competent-authorities-requirements/MHA-Gambling-Regulatory-Unit
 
 **8) National Environment Agency (NEA)**
 
@@ -108,7 +108,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 
 **13) Singapore Police Force (SPF)**
 
--   [Arms and Explosives](/businesses/national-single-window/tradenet/competent-authorities-requirements/Arms-and-explosives)
--   [Public Entertainment & Liquor Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/GRU)
+-   [Arms and Explosives](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-Arms-and-explosives)
+-   [Public Entertainment & Liquor Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-public-entertainment-liquor-licensing)
 
 

@@ -18,7 +18,7 @@ Prior to the import of sand and granite regulated by BCA, a company must possess
 1.  a licence issued by BCA; and
 2.  meet the Test Requirements in BCA Testing Requirements for Imported Aggregates.
 
-For more details on BCA Testing Requirements for Imported Aggregates, please visit  [BCA's website](http://www.bca.gov.sg/AggregatesImport/others/test_requirements.pdf){:target="_blank"}.
+For more details on BCA Testing Requirements for Imported Aggregates, please visit  [BCA's website](https://www.bca.gov.sg/importerslicensing/samplingevaluation.html){:target="_blank"}.
 
 License application form can be obtained from:
 
