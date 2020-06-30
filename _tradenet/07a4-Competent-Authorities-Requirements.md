@@ -67,7 +67,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 
 **7) Ministry of Home Affairs (MHA)**
 
--   [Ministry of Home Affairs - Gambling Regulatory Unit](/businesses/national-single-window/tradenet/competent-authorities-requirements/MHA-Gambling-Regulatory-Unit
+-   [Ministry of Home Affairs - Gambling Regulatory Unit](/businesses/national-single-window/tradenet/competent-authorities-requirements/MHA-Gambling-Regulatory-Unit)
 
 **8) National Environment Agency (NEA)**
 
