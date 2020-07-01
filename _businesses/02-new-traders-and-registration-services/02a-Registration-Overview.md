@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/registration-matters/overview
+permalink: /businesses/new-traders-and-registration-services/overview
 third_nav_title: Registration Matters
 ---
 
@@ -39,7 +39,7 @@ The IBG application usually requires 3 to 4 weeks for the bank’s approval. Onc
 
 ## Security Lodgement
 
-You, or your appointed Declaring Agent, are required to  [furnish security](/businesses/registration-matters/registration-procedures/security-lodgement)  for various scenarios including:
+You, or your appointed Declaring Agent, are required to  [furnish security](/businesses/new-traders-and-registrstion-services/registration-services/security-lodgement)  for various scenarios including:
 
 -   Transactions involving dutiable goods
 -   Temporary import of goods for approved purposes
