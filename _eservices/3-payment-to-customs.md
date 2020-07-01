@@ -1,9 +1,9 @@
 ---
-title: Pay Your Bills
-permalink: /eservices/pay-your-bills/
+title: Payment to Customs
+permalink: /eservices/payment-to-customs/
 ---
 
-# Pay Your Bills
+# Payment to Customs
 
 ## Payment by Interbank GIRO
 
