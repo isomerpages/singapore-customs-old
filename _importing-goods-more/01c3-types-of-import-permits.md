@@ -22,9 +22,10 @@ third_nav_title: Import Procedures
 | **GST Relief and/or Duty Exemption** <br> Inward movement of goods exempted from duty and/or GST for entitled persons (for example, embassies, high commissions and consulates) | GTR |  
 | **Temporary Consignments** | |
 | Importation of goods under the Temporary Import Scheme: | |
-| For exhibitions, fairs, public performances, conferences, sporting events or other similar events (with or without sales) <br> For other purposes | TCS |
-| For repairs, modification, treatment, inspection or emission testing purposes or treatment | TCO |
-| Re-importation of goods temporarily exported | TCR |
+| For exhibitions, fairs, public performances, conferences, sporting events or other similar events (with or without sales)  | TCS |
+| For other purposes | TCO |
+| For repairs, modification, treatment, inspection or emission testing purposes or treatment | TCR |
+| Re-importation of goods temporarily exported | TCI |
 | For exhibitions by the National Heritage Board, Singapore Art Museum, and National Gallery Singapore | TCE | 
 | **Destruction** <br>   Inward movement of goods to be brought into customs territory for the purpose of destruction | DES | 
 | **Re-Export** <br>   Re-exportation of the entire import consignment via the same or different FTZ (not applicable to goods subject to export control by Competent Authorities) | REX | 
