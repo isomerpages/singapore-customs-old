@@ -20,7 +20,12 @@ third_nav_title: Import Procedures
 | **Approved Premises/Schemes** <br>  Movement of dutiable goods from Free Trade Zone (FTZ) or foreign territory into a licensed warehouse for storage <br>  Movement of non-dutiable goods from FTZ or foreign territory into a zero-GST warehouse for storage <br> Inward movement of goods exempted from GST under IRAS’ Major Exporter Scheme, Import Deferment GST Scheme or Approved Import GST Suspension Scheme | APS |
 | **Storage in FTZ** <br>   Inward movement of goods for storage in first or second FTZ | SFZ |  
 | **GST Relief and/or Duty Exemption** <br> Inward movement of goods exempted from duty and/or GST for entitled persons (for example, embassies, high commissions and consulates) | GTR |  
-| **Temporary Consignments** <br> Importation of goods under the Temporary Import Scheme: <br>   For exhibitions, fairs, public performances, conferences, sporting events or other similar events (with or without sales) <br> For other purposes <br>   For repairs, modification, treatment, inspection or emission testing purposes or treatment <br>   Re-importation of goods temporarily exported <br>   For exhibitions by the National Heritage Board, Singapore Art Museum, and National Gallery Singapore | <br><br>TCS<br>TCO<br>TCR<br>TCI<br>TCE | 
+| **Temporary Consignments** | |
+| Importation of goods under the Temporary Import Scheme: | |
+| For exhibitions, fairs, public performances, conferences, sporting events or other similar events (with or without sales) <br> For other purposes | TCS |
+| For repairs, modification, treatment, inspection or emission testing purposes or treatment | TCO |
+| Re-importation of goods temporarily exported | TCR |
+| For exhibitions by the National Heritage Board, Singapore Art Museum, and National Gallery Singapore | TCE | 
 | **Destruction** <br>   Inward movement of goods to be brought into customs territory for the purpose of destruction | DES | 
 | **Re-Export** <br>   Re-exportation of the entire import consignment via the same or different FTZ (not applicable to goods subject to export control by Competent Authorities) | REX | 
 | **Shut-Out** <br>  Return of shut-out dutiable and non-dutiable cargoes from a FTZ to licensed warehouse and zero-GST warehouse respectively <br>  Return of local, GST-paid shut-out non-dutiable cargoes from a FTZ to local warehouse | SHO | 
