@@ -45,3 +45,10 @@ Note: Effective, 1 Apr 2016, all Letters of Authorisation for collection of CO m
 
 Please ensure that the information on the CO is accurate and tick the relevant check boxes before signing on the CO and dispatching it to your overseas customer. 
 <br> Explanation on the check boxes are found on the overleaf notes of the CO.
+
+## How to renew the validity of expired manufacturing cost statements?
+
+You can renew the manufacturing cost statements by submitting a letter of undertaking (LOU) via [e-filing](http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp){:target="_blank"}.
+
+The letter would declare the goods of all models still qualify at the prevailing origin criterion(a) under the respective Free Trade Agreements or Schemes previously approved.
+
