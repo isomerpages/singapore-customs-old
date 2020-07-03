@@ -28,7 +28,7 @@ The following are excluded from the scheme:
 To qualify for the Company Declaration Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be an ALPS tenant
 -   Have direct control and responsibility for all the goods within its facility
