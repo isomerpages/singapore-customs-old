@@ -57,4 +57,10 @@ Ordinary COs are issued by Singapore Customs or any of the following authorised 
     
 Apart from Singapore Customs, these authorised organisations do also issue ordinary COs for locally manufactured or processed goods, and goods from other countries which are re-exported from Singapore. However, they do not issue ordinary COs for the export of Singapore-origin textiles and textile goods to the United States of America.
 
-Preferential COs are issued only by Singapore Customs. 
+All Preferential COs are issued only by Singapore Customs. 
+
+## For more information on:
+
+
+
+
