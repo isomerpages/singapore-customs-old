@@ -15,7 +15,7 @@ The Bonded Truck Scheme allows air express companies to handle time-sensitive tr
 To qualify for the Bonded Truck Scheme, the company must:
 
 -   Be Goods and Services Tax (GST)-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Have premises located within Changi Free Trade Zone for the purpose of bulk-breaking, consolidation and sorting of goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the “Premium” Band
