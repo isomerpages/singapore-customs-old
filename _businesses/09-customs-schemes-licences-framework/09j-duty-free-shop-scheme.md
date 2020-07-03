@@ -81,6 +81,6 @@ The licence is strictly non-transferrable. The duty free shop licensee must take
 
 **2)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/national-single-window/Overview).
+Customs permits can be declared through  [TradeNet](/businesses/national-single-window/overview).
 
-Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
+Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/overview).
