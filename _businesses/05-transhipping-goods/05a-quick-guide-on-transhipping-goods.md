@@ -67,7 +67,7 @@ Do check if the goods you intend to tranship are strategic goods, controlled or 
 
 For the transhipment of dutiable goods such as tobacco, liquor or motor vehicles covered by a Through Bill of Lading or Non-Through Bill of Lading or Airway Bill through Customs Territory, you are required to furnish security in the form of a Banker’s Guarantee/Finance Company Guarantee/Insurance Bond.
 
-For information on security lodgement, please click  [here](/businesses/registration-matters/registration-procedures/security-lodgement).
+For information on security lodgement, please click  [here](/businesses/new-traders-and-registration-services/registration-services/security-lodgement).
 
 ***
 
