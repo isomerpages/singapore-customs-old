@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /businesses/new-traders-and-registration-services/overview
-third_nav_title: Registration Matters
+third_nav_title: New Traders And Registration Services
 ---
 
 # Quick Guide on Registration Matters
