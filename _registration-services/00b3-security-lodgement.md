@@ -21,7 +21,7 @@ With effect from 1 Apr 2016, new security requirements will be imposed on liquor
 
 |  |  | |  |
 |--|--|--|--|
-|[![Layered Enforcement](/images/registration-services/SL1.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Amount-of-security-required) | [![Layered Enforcement](/images/registration-services/SL2.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |[![Layered Enforcement](/images/registration-services/SL3.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Electronic-bankers-guarantee-programme) | [![Layered Enforcement](/images/registration-services/SL4.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security) |
+|[![Layered Enforcement](/images/new-traders-and-registration-services/SL1.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Amount-of-security-required) | [![Layered Enforcement](/images/new-traders-and-registration-services/SL2.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |[![Layered Enforcement](/images/new-traders-and-registration-services/SL3.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Electronic-bankers-guarantee-programme) | [![Layered Enforcement](/images/new-traders-and-registration-services/SL4.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security) |
 
 
 ## Expired Security
