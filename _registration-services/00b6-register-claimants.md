@@ -1,7 +1,7 @@
 ---
 title: Register Claimants 
-permalink: /businesses/registration-matters/registration-procedures/register-claimants
-third_nav_title: Registration Procedures
+permalink: /businesses/new-traders-and-registration-services/registration-services/register-claimants
+third_nav_title: Registration Services
 ---
 
 # Register Claimants
