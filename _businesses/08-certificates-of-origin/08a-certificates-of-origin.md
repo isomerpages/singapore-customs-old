@@ -61,6 +61,7 @@ All Preferential COs are issued only by Singapore Customs.
 
 ## For more information on:
 
+|[![](/isomerpages/singapore-customs/blob/staging/images/Picture7.png]
 
 
 
