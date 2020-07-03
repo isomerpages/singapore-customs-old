@@ -37,7 +37,7 @@ The amount of security required for a permit application is dependent on the mov
 | **Outward Movement by Road  (With Effect from 1 Apr 2016)** <br>1.  Import of Goods for Re-Export  by Road** <br><br>2.  Transhipment of Goods under “**Through**” ***  or “**Non-Through**” ****  Bill of Lading or Airway Bill through Customs Territory with [Outward Movement by Road](/businesses/new-traders-and-registration-services/registration-services/security-lodgement) <br><br>3. Export of Goods from Licensed Premises by Road ** | For liquor and tobacco products, the highest of:<br><br> a. Average weekly potential duty involved in outward movement of such goods by road^; or<br><br> b. 50% of the potential duty; or<br><br> c. $10,000 |
 
 
-*List of Dutiable Goods](/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods)
+*[List of Dutiable Goods](/valuation-duties-taxes-and-fees/duties-and-dutiable-goods/list-of-dutiable-goods)
 
 ** Only the exporter's security can be used to apply for the customs permit (see  [Circular No. 01/2016](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
 
