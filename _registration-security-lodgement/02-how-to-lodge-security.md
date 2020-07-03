@@ -1,6 +1,6 @@
 ---
 title: How to Lodge Security
-permalink: /businesses/registration-matters/registration-procedures/security-lodgement/how-to-lodge-security
+permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security
 third_nav_title: Security Lodgement
 ---
 
