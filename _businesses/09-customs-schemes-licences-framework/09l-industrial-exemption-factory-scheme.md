@@ -89,7 +89,7 @@ You may inform your designated account manager via email. Please state the quota
 
 **2)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/businesses/national-single-window/overview). More information on declaring permits can be found  [here](/businesses/new-traders-and-registration-services/registration-services/overview).
+Customs permits can be declared through  [TradeNet](/businesses/national-single-window/overview). More information on declaring permits can be found  [here](/businesses/new-traders-and-registration-services/overview).
 
 **3) How much do I have to pay for the assessment?**
 
