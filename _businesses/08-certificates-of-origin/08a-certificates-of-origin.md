@@ -41,7 +41,7 @@ These handbooks provide more information on the rules of origin for preferential
 
 You may use the [FTA Cost Statement Calculator](/documents/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
 
-## Who can issue Certificate of Origin (OCO)?
+## Who can issue an Ordinary Certificate of Origin (OCO)?
 
 Ordinary COs are issued by Singapore Customs or any of the following authorised organisations:
 
