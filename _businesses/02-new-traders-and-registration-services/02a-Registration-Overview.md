@@ -4,7 +4,7 @@ permalink: /businesses/new-traders-and-registration-services/overview
 third_nav_title: New Traders And Registration Services
 ---
 
-# Quick Guide on Registration Matters
+# Quick Guide for New Traders and Registration Services
 
 ## Activating a Customs Account
 
