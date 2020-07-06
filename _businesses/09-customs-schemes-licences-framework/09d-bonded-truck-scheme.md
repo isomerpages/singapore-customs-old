@@ -72,7 +72,7 @@ For dutiable goods, please refer to the  [List of Dutiable Goods](/businesses/va
 
 For controlled goods, you may check using this  [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authorities controlling the product.
 
-Find out more about  [Competent Authorities' Requirements for Controlled Items](/about-us/national-single-window/overview/competent-authorities-requirements) to handle controlled goods.
+Find out more about  [Competent Authorities' Requirements for Controlled Items](/businesses/national-single-window/overview/competent-authorities-requirements) to handle controlled goods.
 
 **4)** **What types of vehicles can I use to transport goods under the Bonded Truck Scheme?**
 
@@ -86,6 +86,6 @@ The bonded vehicles’ compartments must meet all specifications listed below:
 
 **5)** **How do I declare Customs permits?**
 
-Customs permits can be declared electronically via  [TradeNet](/about-us/national-single-window/overview).
+Customs permits can be declared electronically via  [TradeNet](/businesses/national-single-window/overview).
 
-Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
+Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/registration-services/overview).
