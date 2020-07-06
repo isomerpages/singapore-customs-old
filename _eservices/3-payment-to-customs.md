@@ -1,6 +1,6 @@
 ---
 title: Payment to Customs
-permalink: /eservices/payment-to-customs
+permalink: /eservices/payment-to-customs/
 ---
 
 # Payment to Customs
