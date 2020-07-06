@@ -128,7 +128,7 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 Customs permits can be declared through  [TradeNet](/businesses/national-single-window/Overview).
 
-Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/registration-services/overview).
+Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/overview).
 
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 
