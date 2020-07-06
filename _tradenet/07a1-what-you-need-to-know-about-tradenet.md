@@ -10,7 +10,7 @@ CrimsonLogic Pte Ltd is the appointed TradeNet administrator. It provides accoun
 
 ## How to be a TradeNet Declaring Agent?
 
-To register, please refer to the  [Declaring Agent and Declarant Registration page](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant) for more information.
+To register, please refer to the  [Declaring Agent and Declarant Registration page](//businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant) for more information.
 
 You will need Internet access and the TradeNet front-end solution from any of the  [approved providers](/businesses/national-single-window/overview/TradeNet-Solution-Providers) to submit applications via TradeNet.
 
