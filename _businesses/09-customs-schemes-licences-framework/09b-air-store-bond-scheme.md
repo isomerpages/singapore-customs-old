@@ -110,4 +110,4 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 Customs permits can be declared through  [TradeNet](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet).
 
-Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
+Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/overview).
