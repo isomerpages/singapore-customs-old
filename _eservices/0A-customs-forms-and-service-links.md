@@ -144,7 +144,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 3. |  Application for Import Certificate and Delivery Verification (ICDV)| [Word Doc](/documents/eservices/ICDV.doc) (161KB) |
 | 4. | Application for Kimberley Process Licence (KPL) | [Word Doc](/documents/eservices/KPL.docx) (77KB) |
 | 5. | Application for Landing Certificate (LC) | [Word Doc](/documents/eservices/LC.doc) (344KB) |
-| 6. | Application for Vessel Registration (VR) | [Word Doc](/documents/eservices/VR.doc) (82KB) |
+| 6. | Application for Vessel Registration (VR) | [Word Doc](/documents/eservices/VR.docx) (82KB) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
