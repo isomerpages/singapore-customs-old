@@ -22,22 +22,14 @@ sections:
             - title: Customs Forms & Service Links
               url: /eservices/customs-forms-and-service-links
               
-    - carousel:
-       - title: Networked Trade Platform
-         subtitle:
-         description: Find out more about the NTP to advance your business and improve your trade operations.
-         image: /images/NTP.png
-         alt: Networked Trade Platform
-       - title: inSYNC Issue 56
-         subtitle: 
-         description: inSYNC is a publication by Singapore Customs. We keep you updated on topics that impact the trading community. Read us to get vital news, pertinent insights, useful pointers, practical advice and more. 
-         image: /images/inSYNC.png
-         alt: inSYNC Issue 56
-       - title: E-SERVICES
-         subtitle: 
-         description: For information on forms, service links and our Customs@SG Mobile & Web Application. 
-         image: /images/E-SERVICES.png
-         alt: E-SERVICES
+    - infopic:
+        title: OUR SERVICES
+        subtitle: Networked Trade Platform
+        description: Find out more about the NTP to advance your business and improve your trade operations. 
+        button: Learn More
+        url: /businesses/national-single-window/networked-trade-platform
+        image: /images/NTP.png
+        alt: 
         
     - resources:
         title: News and Media
