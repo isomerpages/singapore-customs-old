@@ -29,7 +29,7 @@ sections:
         button: Learn More
         url: /businesses/national-single-window/networked-trade-platform
         image: /images/NTP.png
-        alt: 
+        alt: More information on the NTP.
         
     - resources:
         title: News and Media
