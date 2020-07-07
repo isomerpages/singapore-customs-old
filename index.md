@@ -23,8 +23,8 @@ sections:
               url: /eservices/customs-forms-and-service-links
               
     - infopic:
-        title: OUR SERVICES
-        subtitle: Networked Trade Platform
+        title: Networked Trade Platform
+        subtitle: OUR SERVICES
         description: Find out more about the NTP to advance your business and improve your trade operations. 
         button: Learn More
         url: /businesses/national-single-window/networked-trade-platform
