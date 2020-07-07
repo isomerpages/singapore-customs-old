@@ -16,7 +16,7 @@ The areas where duty free goods are sold must be designated and licensed by Sing
 
 To qualify for the DFS Scheme, the company must:
 
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Seek prior approval from the landlord, such as Changi Airport Group (CAG) and Singapore Cruise Centre (SCC), to operate a duty free shop
@@ -81,6 +81,6 @@ The licence is strictly non-transferrable. The duty free shop licensee must take
 
 **2)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/national-single-window/Overview).
+Customs permits can be declared through  [TradeNet](/businesses/national-single-window/overview).
 
-Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
+Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/overview).

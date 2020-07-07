@@ -1,7 +1,7 @@
 ---
 title: Apply/Update/Renew/Terminate Declaring Agent (DA) Account and Declarant
-permalink: /businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant
-third_nav_title: Registration Procedures
+permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant
+third_nav_title: Registration Services
 ---
 
 # Declaring Agent (DA) Account and Declarant
@@ -27,7 +27,7 @@ Please refer to the table below for the terms used on this page:
 
 |  |  ||  |  
 |--|--|--|---|
-|[![Layered Enforcement](/images/registration-procedures/DA1.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/declaring-agent-account) |[![Layered Enforcement](/images/registration-procedures/DA2.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/declarant)  |[![Layered Enforcement](/images/registration-procedures/DA3.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/Compliance-to-registration)|[![Layered Enforcement](/images/registration-procedures/DA4.jpg)](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant/Terms-and-conditions)|  
+|[![Layered Enforcement](/images/new-traders-and-registration-services/DA1.jpg)](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/declaring-agent-account) |[![Layered Enforcement](/images/new-traders-and-registration-services/DA2.jpg)](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/declarant)  |[![Layered Enforcement](/images/new-traders-and-registration-services/DA3.jpg)](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/Compliance-to-registration)|[![Layered Enforcement](/images/new-traders-and-registration-services/DA4.jpg)](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/Terms-and-conditions)|  
 
 
 

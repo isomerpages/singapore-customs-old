@@ -54,11 +54,11 @@ For applications to the Controller of Undesirable Publications, the supporting d
 -   [Rice Control Unit](/businesses/national-single-window/tradenet/competent-authorities-requirements/ESG-Rice)
 -   [Export of Rubber](/businesses/national-single-window/tradenet/competent-authorities-requirements/ESG-Rubber)
 
-**4)  [Health Sciences Authority (HSA)](/businesses/national-single-window/tradenet/competent-authorities-requirements/HAS)**
+**4)  [Health Sciences Authority (HSA)](/businesses/national-single-window/tradenet/competent-authorities-requirements/HSA)**
 
 **5) Info-communications Media Development Authority (IMDA)**
 
--   [Controller of Undesirable Publications (CUP)](/businesses/national-single-window/tradenet/competent-authorities-requirements/CUP)
+-   [Controller of Undesirable Publications (CUP)](/businesses/national-single-window/tradenet/competent-authorities-requirements/IMDA-CUP)
 -   [Radiocomm & Dealer Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/imda-radiocomm-and-dealer-licensing)
 
 **6) Ministry of Health (MOH)**

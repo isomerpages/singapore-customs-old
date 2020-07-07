@@ -19,7 +19,7 @@ Your company can enjoy improved cash flow under the Air Store Bond Scheme.
 To qualify for the Air Store Bond Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Obtain approval from the Changi Airport Group to operate an air store bond
@@ -110,4 +110,4 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 Customs permits can be declared through  [TradeNet](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet).
 
-Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
+Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/overview).

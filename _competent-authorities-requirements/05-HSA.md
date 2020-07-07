@@ -1,6 +1,6 @@
 ---
 title: Health Science Authority (HSA)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/HAS
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/HSA
 third_nav_title: Competent Authorities Requirements
 ---
 

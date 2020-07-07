@@ -35,7 +35,7 @@ collections:
     output: true
   individuals_going-through-customs:
     output: true
-  registration-procedures:
+  registration-services:
     output: true
   business-resources:
    output: true
@@ -96,6 +96,8 @@ collections:
   competent-authorities-requirements:   
     output: true   
   inSYNC:   
+    output: true  
+  certificates-of-origin:
     output: true  
 
 google_analytics: UA-70503404-1

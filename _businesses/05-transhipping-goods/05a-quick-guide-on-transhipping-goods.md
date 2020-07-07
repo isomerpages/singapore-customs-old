@@ -45,7 +45,7 @@ An entity that intends to engage in transhipment activities in Singapore; and ap
 
 -   Register with the  [Accounting and Corporate Regulatory Authority (ACRA)](http://www.acra.gov.sg/){:target="_blank"} or the relevant  [Unique Entity Number](http://www.uen.gov.sg/){:target="_blank"} (UEN) Issuance Agency to obtain a UEN; and
 -   [Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}
--   Register with Customs as a  [Declaring Agent](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)
+-   Register with Customs as a  [Declaring Agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)
 -   Register with Customs as a Transhipment Agent (Note: To be a Transhipment Agent, your registered business with ACRA is required to be a shipping agent, air cargo agent or freight forwarder)
 -   Email your registration request to customs_documentation@customs.gov.sg and provide your entity's name and UEN to register your entity as a Transhipment Agent
 
@@ -67,7 +67,7 @@ Do check if the goods you intend to tranship are strategic goods, controlled or 
 
 For the transhipment of dutiable goods such as tobacco, liquor or motor vehicles covered by a Through Bill of Lading or Non-Through Bill of Lading or Airway Bill through Customs Territory, you are required to furnish security in the form of a Banker’s Guarantee/Finance Company Guarantee/Insurance Bond.
 
-For information on security lodgement, please click  [here](/businesses/registration-matters/registration-procedures/security-lodgement).
+For information on security lodgement, please click  [here](/businesses/new-traders-and-registration-services/registration-services/security-lodgement).
 
 ***
 

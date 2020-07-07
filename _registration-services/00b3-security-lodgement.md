@@ -1,12 +1,12 @@
 ---
 title: Security Lodgement
-permalink: /businesses/registration-matters/registration-procedures/security-lodgement
-third_nav_title: Registration Procedures
+permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement
+third_nav_title: Registration Services
 ---
 
 # Security Lodgement
 
-[Declaring Entities](/businesses/registration-matters/registration-procedures/activate-customs-account), or their appointed  [Declaring Agents](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant), are required to furnish security for various scenarios, such as:
+[Declaring Entities](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account), or their appointed  [Declaring Agents](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant), are required to furnish security for various scenarios, such as:
 
 -   Temporary importation of goods for approved purposes
 -   Movements involving dutiable goods not under temporary import
@@ -21,7 +21,7 @@ With effect from 1 Apr 2016, new security requirements will be imposed on liquor
 
 |  |  | |  |
 |--|--|--|--|
-|[![Layered Enforcement](/images/registration-procedures/SL1.jpg)](/businesses/registration-matters/registration-procedures/security-lodgement/Amount-of-security-required) | [![Layered Enforcement](/images/registration-procedures/SL2.jpg)](/businesses/registration-matters/registration-procedures/security-lodgement/how-to-lodge-security) |[![Layered Enforcement](/images/registration-procedures/SL3.jpg)](/businesses/registration-matters/registration-procedures/security-lodgement/Electronic-bankers-guarantee-programme) | [![Layered Enforcement](/images/registration-procedures/SL4.jpg)](/businesses/registration-matters/registration-procedures/security-lodgement/Renew-extend-withdraw-security) |
+|[![Layered Enforcement](/images/new-traders-and-registration-services/SL1.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Amount-of-security-required) | [![Layered Enforcement](/images/new-traders-and-registration-services/SL2.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |[![Layered Enforcement](/images/new-traders-and-registration-services/SL3.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Electronic-bankers-guarantee-programme) | [![Layered Enforcement](/images/new-traders-and-registration-services/SL4.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security) |
 
 
 ## Expired Security
@@ -36,6 +36,6 @@ Entities, in particular Declaring Agents, should exercise due diligence before a
 
 You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"} to use your security for your permit applications.
 
-Learn more about  [authorising Declaring Agents](/businesses/registration-matters/registration-procedures/authorise-a-declaring-agent).
+Learn more about  [authorising Declaring Agents](/businesses/new-traders-and-registration-services/registration-services/authorise-a-declaring-agent).
 
 After you have authorised your Declaring Agent to use your security, your authorised Declaring Agent may select "I" (for importer/exporter) under the "BG Indicator" field to make use of your security for your permit applications. If the "BG Indicator" field is "D" or left blank, the Declaring Agent's security will be used.

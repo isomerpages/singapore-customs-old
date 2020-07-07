@@ -15,7 +15,7 @@ A Container Freight Warehouse Licence allows approved logistics operators to con
 To qualify for the licence, the company must:
 
 -   Be Goods and Services Tax (GST)-registered with the Inland Revenue Authority of Singapore (IRAS)
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)
 -   Have good compliance records with Singapore Customs and IRAS
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place
 -   Operate a robust computerised inventory system which is able to track and account for the inventory status and movement of all goods stored in the container freight warehouse

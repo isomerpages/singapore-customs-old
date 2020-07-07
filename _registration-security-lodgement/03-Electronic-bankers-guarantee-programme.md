@@ -1,6 +1,6 @@
 ---
 title: Electronic Banker's Guarantee Programme
-permalink: /businesses/registration-matters/registration-procedures/security-lodgement/Electronic-bankers-guarantee-programme
+permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/Electronic-bankers-guarantee-programme
 third_nav_title: Security Lodgement
 ---
 

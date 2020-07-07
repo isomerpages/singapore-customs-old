@@ -1,6 +1,6 @@
 ---
 title: How to Renew/Extend/Withdraw Security
-permalink: /businesses/registration-matters/registration-procedures/security-lodgement/Renew-extend-withdraw-security
+permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security
 third_nav_title: Security Lodgement
 ---
 

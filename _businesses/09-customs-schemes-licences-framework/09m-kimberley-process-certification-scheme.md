@@ -67,11 +67,11 @@ Customs permits are required for the importation and exportation of rough diamon
 You may:
 
 -   Appoint a  [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs permits on your behalf; or
--   Apply for Customs permits on your own. To do so, you need to register as a declaring agent and  [apply for a TradeNet User ID](/about-us/national-single-window/overview/what-you-need-to-know-about-tradenet).
+-   Apply for Customs permits on your own. To do so, you need to register as a declaring agent and  [apply for a TradeNet User ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet).
 
 All permit applications must be submitted via TradeNet, accessible through:
 
--   [TradeNet front-end solution](/about-us/national-single-window/overview/tradenet-solution-providers) from any approved solution provider, or
+-   [TradeNet front-end solution](/businesses/national-single-window/overview/tradenet-solution-providers) from any approved solution provider, or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal).
 
 If you choose to engage a declaring agent to assist you, you may wish to check with your appointed agent on the charges involved.

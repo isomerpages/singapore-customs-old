@@ -28,7 +28,7 @@ The following are excluded from the scheme:
 To qualify for the Company Declaration Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be an ALPS tenant
 -   Have direct control and responsibility for all the goods within its facility
@@ -89,4 +89,4 @@ For dutiable goods, please refer to the  [List of Dutiable Goods](/businesses/va
 
 For controlled items, you may check using this  [search engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do). If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authorities controlling the product.
 
-Find out more about  [Competent Authorities' Requirements for Controlled Items](/about-us/national-single-window/overview/competent-authorities-requirements)  to handle controlled goods.
+Find out more about  [Competent Authorities' Requirements for Controlled Items](/businesses/national-single-window/overview/competent-authorities-requirements)  to handle controlled goods.

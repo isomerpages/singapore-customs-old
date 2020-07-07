@@ -42,7 +42,7 @@ If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg
 You may:
 
 -   Appoint a  [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
--   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet)
+-   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet)
 
 All permit applications must be submitted electronically via TradeNet, which is accessible through:
 

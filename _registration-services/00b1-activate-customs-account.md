@@ -1,7 +1,7 @@
 ---
 title: Activate / Update / Terminate Customs Account
-permalink: /businesses/registration-matters/registration-procedures/activate-customs-account
-third_nav_title: Registration Procedures
+permalink: /businesses/new-traders-and-registration-services/registration-services/activate-customs-account
+third_nav_title: Registration Services
 ---
 
 # Activate Customs Account

@@ -41,7 +41,7 @@ You may refer to Annex A of the  [STS Handbook](/documents/businesses/strategic-
 
 ## Applying for Bulk Permit
 
-You may apply for a Bulk Permit by completing and submitting this  [form](https://go.gov.sg/stsbulkpermit-form) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
+You may apply for a Bulk Permit by completing and submitting this  [form](https://go.gov.sg/stsbulkpermitapplication-form) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
 
 Once the application is received, an account manager will be assigned as Singapore Customs’ contact point to the company for the assessment and other Customs matters.
 

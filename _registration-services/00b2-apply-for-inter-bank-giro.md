@@ -1,12 +1,12 @@
 ---
 title: Apply For Inter-Bank GIRO (IBG) 
-permalink: /businesses/registration-matters/registration-procedures/apply-for-inter-bank-giro
-third_nav_title: Registration Procedures
+permalink: /businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro
+third_nav_title: Registration Services
 ---
 
 # Application Procedure
 
-[Declaring Entities](/businesses/registration-matters/registration-procedures/activate-customs-account)  that wish to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Customs from your bank account to Singapore Customs directly (instead of through their  [Declaring Agent](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)), and all Declaring Agents must apply for an Inter-Bank GIRO (IBG) with Singapore Customs.
+[Declaring Entities](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)  that wish to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Customs from your bank account to Singapore Customs directly (instead of through their  [Declaring Agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)), and all Declaring Agents must apply for an Inter-Bank GIRO (IBG) with Singapore Customs.
 
 The bank account must be linked to your entity's Unique Entity Number and under one of the IBG participating banks listed in  [The Association of Banks in Singapore](https://abs.org.sg/docs/library/swift_bic_codes.pdf){:target="_blank"}'s website.
 
@@ -23,7 +23,7 @@ If you have an existing IBG with Singapore Customs and wish to change the bank a
 
 You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"} to use your IBG for the payment of duties and GST for your customs permits.
 
-Learn more about authorising Declaring Agents [here](/businesses/registration-matters/registration-procedures/authorise-a-declaring-agent).
+Learn more about authorising Declaring Agents [here](/businesses/new-traders-and-registration-services/registration-services/authorise-a-declaring-agent).
 
 When your customs permit application requiring duty and/or GST payment is approved, the payment mode will be denoted by the  [permit condition(s) for payment](/businesses/importing-goods/import-procedures/).
 

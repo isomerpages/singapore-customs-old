@@ -22,7 +22,7 @@ Your company will enjoy these benefits under the Excise Factory Scheme:
 To qualify for the Excise Factory Scheme, the company must:
 
 -   Be GST-registered with the Inland Revenue Authority of Singapore
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the different activities under the scheme (Refer to “Licence Fee” section).
@@ -126,9 +126,9 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 **6.** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/national-single-window/Overview).
+Customs permits can be declared through  [TradeNet](/businesses/national-single-window/Overview).
 
-Find out more about  [Permit Declaration](/businesses/registration-matters/overview).
+Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/overview).
 
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 

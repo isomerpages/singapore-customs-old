@@ -18,7 +18,7 @@ The duty-exempted raw materials must not be sold, transferred or disposed of in 
 
 To qualify for the Industrial Exemption Factory Scheme, the company must:
 
--   Have a valid  [Customs Account](/businesses/registration-matters/registration-procedures/activate-customs-account)
+-   Have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the duty-exempted materials
 
@@ -89,7 +89,7 @@ You may inform your designated account manager via email. Please state the quota
 
 **2)** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/about-us/national-single-window/overview). More information on declaring permits can be found  [here](/businesses/registration-matters/overview).
+Customs permits can be declared through  [TradeNet](/businesses/national-single-window/overview). More information on declaring permits can be found  [here](/businesses/new-traders-and-registration-services/overview).
 
 **3) How much do I have to pay for the assessment?**
 
