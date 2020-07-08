@@ -19,7 +19,7 @@ Licensees that intend to import any Schedule 1 chemical from Member States must 
 
 ## Information Required For Import Permit
 
-If the import is not subject to the above restrictions, you may apply for an import permit via TradeNet:
+If the import is not subject to the restrictions below, you may apply for an import permit via TradeNet:
 
 **Import Permit**
 
