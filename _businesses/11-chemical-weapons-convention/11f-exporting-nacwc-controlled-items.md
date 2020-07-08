@@ -12,7 +12,7 @@ In addition to the CWC licence, an approved permit is required before every expo
 
 ## Information Required for Export Permit
 
-If the export is not subject to the above restrictions, you may apply for an export permit via TradeNet:
+If the export is not subject to the restrictions below, you may apply for an export permit via TradeNet:
 
 **Export Permit**
 
