@@ -46,7 +46,8 @@ contacts:
   - title: TradeNet
     content:
     - phone: +65 6887 7888
-    - other: *Networked Trade Platform (NTP)*
+  - title: Networked Trade Platform (NTP)
+    content: 
     - phone: +65 6570 3053*
     - other: Our operating hours are 8am to 8pm (Monday to Friday) and 8am to 2pm (Saturday). We are closed on Sunday and public holidays. <br><br>  *For enquiries on NTP or assistance with technical issues. Alternatively, you may reach us via <a href="https://www.ntp.gov.sg/public/helpdesk/singapore-customs">email</a>
   - title: Checkpoints Division
