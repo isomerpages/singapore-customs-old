@@ -26,7 +26,7 @@ The import of dutiable ethyl alcohol by the following organisations or persons f
 
 1) Submit a completed  [duty exemption application form](http://eservices.customs.gov.sg/scripts/customs/DutyExemptEA/DEA1_Form.asp){:target="_blank"}  for our assessment of duty exemption eligibility.
 
-2) When confirmation of eligibility and the approved import quota are received, register for a  [claimant account](/businesses/registration-matters/registration-procedures/register-claimants) with Singapore Customs.
+2) When confirmation of eligibility and the approved import quota are received, register for a  [claimant account](/businesses/new-traders-and-registration-services/registration-services/register-claimants) with Singapore Customs.
 
 3) Once the claimant registration is approved, submit a  [Customs In-Payment (GST including duty exemption) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) with the place of receipt code declared as “ETHYL”.
 
