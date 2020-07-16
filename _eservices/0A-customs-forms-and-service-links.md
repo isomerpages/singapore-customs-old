@@ -160,7 +160,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 6. | Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects | [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) |
 | 7. | Application for Kimberley Process Certificate |  [Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e)|
 | 8. | Application for Licensed Premises | [Web Link](http://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp) |
-| 9. | Application for Valuation of Tax-Exempted Motor Vehicles | [Word Doc](/documents/eservices/Tax-Exempted-Motor-Vehicles.doc) (326KB) |
+| 9. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4) |
 | 10. | Big-Eye Tuna Re-export Certificate | [Word Doc](/documents/eservices/Big-Eye-Tuna.doc) (589KB) |
 | 11. | Declaration of Facts for Motor Vehicles | [Web Link](https://form.gov.sg/#!/5e7d9c335b72a90011738341) |
 | 12. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
