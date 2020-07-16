@@ -47,7 +47,7 @@ contacts:
     content:
     - phone: +65 6887 7888
     - phone: +65 6570 3053*
-    - other: For system/technical issues with TradeNet functions.<br><br>For system/technical issues with Networked Trade Platform functions.<br><br>*Our operating hours are 8am to 8pm (Monday to Friday) and 8am to 2pm (Saturday). We are closed on Sunday and public holidays.
+    - other: For system/technical issues with TradeNet functions. <br><br> For system/technical issues with Networked Trade Platform functions.<br><br> *Our operating hours are 8am to 8pm (Monday to Friday) and 8am to 2pm (Saturday). We are closed on Sunday and public holidays.
   - title: Checkpoints Division
     content:
     - phone: +65 6355 2183
@@ -67,7 +67,6 @@ contacts:
     content:
     - phone: +65 6355 2959
     - other: For feedback regarding Quality Service
-
   - title: Singapore Customs Academy
     content:
     - email: customs_academy@customs.gov.sg
