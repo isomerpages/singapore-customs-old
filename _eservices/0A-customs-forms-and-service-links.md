@@ -63,9 +63,9 @@ Please submit the  **Licence Application Cover Form**  and/ or  **Licence Amendm
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Licence Application Cover Form | [Word Doc](/documents/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form-Sch1.doc) (191KB) <br><br> [PDF](/documents/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form-Sch1.pdf) (353KB) |
+| 1. | Licence Application Cover Form | [Word Doc](/documents/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.doc) (191KB) <br><br> [PDF](/documents/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.pdf) (353KB) |
 | 2. | Schedule 1 Chemical(s) (Form A.1) <br><br> _For Company/Organisation involved in the production/ processing/ consumption/ storage/ import/ export/ local transfer or distribution of Schedule 1 Chemical(s)_ | [Word Doc](/documents/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.doc) (175KB) <br><br> [PDF](/documents/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.pdf) (294KB) |
-| 3. | Licence Amendment Application Cover Form | [Word Doc](/documents/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form-Sch1.doc) (205KB) <br><br> [PDF](/documents/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form-Sch1.pdf) (238KB) |
+| 3. | Licence Amendment Application Cover Form | [Word Doc](/documents/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.doc) (205KB) <br><br> [PDF](/documents/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.pdf) (238KB) |
 | 4. | Addition of new chemical(s) and/ or addition of new activity(ies) for Schedule 1 Chemical(s) (Form B.1) | [Word Doc](/documents/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.doc) (401KB) <br><br> [PDF](/documents/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.pdf) (294KB) |
 | 5. | Increment of maximum aggregate for licensed Schedule 1 Chemical(s) (Form B.5) | [Word Doc](/documents/eservices/Increment-of-maximum-agregate.doc) (357KB) <br><br> [PDF](/documents/eservices/Increment-of-maximum-agregate.pdf) (347KB)|
 
