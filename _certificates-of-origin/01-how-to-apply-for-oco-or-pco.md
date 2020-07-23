@@ -20,19 +20,17 @@ The manufacturer's registration will be valid for 2 years from the date of your 
     
 -   After registration, submit the manufacturing cost statement to Singapore Customs for verification that the goods in question meet the origin criteria under the respective Free Trade Agreements and Schemes.
     
--   The submission should be made using the latest [Manufacturing Cost Statement](/documents/businesses/Manufacturing%20Cost%20Statement%20June%202020%20Updated.xlsm). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
+-   The submission should be made using the latest [Manufacturing Cost Statement](/documents/businesses/Manufacturing%20Cost%20Statement%202020%20Jul.xlsx). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
     
 -   The typical processing time for a Manufacturing Cost Statement is 7 working days upon receipt of the submission provided the submission is complete and accurate.
     
 **Step 3: Apply for Certificate of Origin via TradeNet**
-
 
 Apply for a CO with export permit under the respective Free Trade Agreements or Schemes via TradeNet.
 
 You may refer to this [handbook](/documents/businesses/handbook-on-the-Application-procedures-for-a-certificate-of-origin-via-tradenet-and-related-administrative-matters-Jan-2020(2).pdf) for more information on how to apply for a CO and export permit via TradeNet.
     
 **Step 4: Collect the Certificate of Origin**
-
 
 The CO must be collected within 1 month from its approval date. The exporter may authorise a person to collect the CO on their behalf.
 
