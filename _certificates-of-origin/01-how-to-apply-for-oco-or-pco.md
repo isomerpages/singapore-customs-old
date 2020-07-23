@@ -26,13 +26,11 @@ The manufacturer's registration will be valid for 2 years from the date of your 
     
 **Step 3: Apply for Certificate of Origin via TradeNet**
 
-
 Apply for a CO with export permit under the respective Free Trade Agreements or Schemes via TradeNet.
 
 You may refer to this [handbook](/documents/businesses/handbook-on-the-Application-procedures-for-a-certificate-of-origin-via-tradenet-and-related-administrative-matters-Jan-2020(2).pdf) for more information on how to apply for a CO and export permit via TradeNet.
     
 **Step 4: Collect the Certificate of Origin**
-
 
 The CO must be collected within 1 month from its approval date. The exporter may authorise a person to collect the CO on their behalf.
 
