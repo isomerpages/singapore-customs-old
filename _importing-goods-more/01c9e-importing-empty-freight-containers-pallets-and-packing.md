@@ -6,24 +6,53 @@ third_nav_title: Import Procedures
 
 # Importing Empty Freight Containers, Pallets and Packing
 
-## Import of Empty Freight Containers/ISO Tanks
+This page provides information on the Goods and Services Tax (GST) and permit requirements
+(where applicable) to import empty freight containers, pallets and packings.
 
-Importing empty freight containers and ISO tanks, as a purchase from an overseas supplier, incurs GST payment.
+## Import of Empty Freight Containers
 
-A Customs In-Payment (GST) permit should be declared to account for such imports of freight containers and ISO tanks.
+In general, the import of empty freight containers is subject to GST payment. Freight containers
+include 20/40 ft general container, flat rack, open top (with detachable tarpaulin), reefer and ISO
+tank containers, unit load devices (ULDs) and lower deck containers. The importer is required to
+apply for an In-Payment (GST) permit to account for the GST payment and import of such empty
+freight containers.
 
-## Temporary Import of Empty Freight Containers/ISO Tanks
-
-The temporary import of empty freight containers and ISO tanks, for use in the conveyance of goods meant for import as well as subsequent export to other countries (such as for recycling purposes), is granted GST relief. No Customs permit is required.
+The import of empty freight containers is granted GST relief, if they are for use in the international
+conveyance of goods and are intended to be re-exported as soon as possible. No Customs permit is
+required for the importation of these empty freight containers. GST is payable if the freight
+containers are sold, disposed of or transferred locally.
 
 ## Import of Freight Pallets and Packing
 
-Importing freight pallets and packing for goods, as a purchase from an overseas supplier, incurs GST payment. Examples of these include carton boxes, wooden crates or metal cylinders for compressed gas.
+In general, the import of freight pallets and packings for goods is subject to GST payment.
+Packings include carton boxes, wooden crates or metal cylinders for compressed gas. The importer
+is required to apply for an In-Payment (GST) permit to account for the GST payment of the
+import of such freight pallets and packings.
 
-An In-Payment (GST) permit should be declared to account for the import of the freight pallets and packing.
+The import of freight pallets and packings is granted GST relief, if they are
 
-## Temporary Import of Freight Pallets and Packing
+(a) used, or to be used, as external or internal coverings for goods or as holders on which goods
+are, or are to be rolled, wound or attached; and
 
-The temporary import of used freight pallets and packing, for use in the conveyance and packaging of goods meant for import as well as subsequent export to other countries (such as for recycling purposes), is granted GST relief. An In-Non Payment (GST Relief) permit, with the Place of Receipt code “**RECYCL**”, is required.
+(b) intended to be re-exported as soon as possible.
 
-Before applying for the permit, the importer must register for a claimant account with Singapore Customs. Find out more about claimant registration  [here](/businesses/registration-matters/registration-procedures/register-claimants).
+The importer is required to apply for an In-Non Payment (GST Relief) permit to account for the
+GST Relief of the import of such freight pallets and packings. GST is payable if the freight pallets
+and packings are sold, disposed of or transferred locally.
+
+The following should be declared in the In-Non-Payment (GST Relief) permit application:
+
+-   Place of Receipt code = RECYCL
+-   Claimant UEN = Importer UEN
+-   Claimant Organisation Name = Importer Name
+-   Claimant Name = Name of person from an entity who is authorised by the Claimant
+-   Organisation to claim GST relief on behalf of the entity
+-   Claimant Code = Claimant Name’s NRIC/FIN
+
+No claimant registration is required for the above In-Non-Payment (GST Relief) permit
+application. The GST relief permit must be obtained before the importation of the freight pallets
+and packings and presented at the checkpoint for clearance.
+
+No Customs permit is required if the freight pallets and packings are imported as un-manifested
+cargoes.
+
