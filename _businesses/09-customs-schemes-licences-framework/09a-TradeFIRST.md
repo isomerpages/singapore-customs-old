@@ -109,14 +109,14 @@ There are 6 sections under the TradeFIRST assessment framework:
 
 -   Company’s compliance records
 
-To view the entire TradeFIRST assessment criteria, you may download the checklist  [here](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx).
+To view the entire TradeFIRST assessment criteria, you may download the checklist  [here](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 27Jul2020.xlsx).
 
 The TradeFIRST assessment process is shown in the following table:
 
 |  |  |
 |--|--|
-| **Step 1**  | Account manager sends company the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx)  that explains the assessment framework for the company’s self-assessment. |
-| **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx)  and sends it to the account manager with supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
+| **Step 1**  | Account manager sends company the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 27Jul2020.xlsx)  that explains the assessment framework for the company’s self-assessment. |
+| **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 27Jul2020.xlsx)  and sends it to the account manager with supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
 | **Step 3** | Account manager conducts preliminary assessment on suitability of company, advises on areas of improvement, and gives sufficient time for company to improve those areas where necessary. |
 | **Step 4** | On-site assessment will be conducted. |
 | **Step 5** | After the assessment, the account manager submits the evaluation and recommendation for approval.<br><br>The account manager will inform the company on its application outcome, the  [band](/businesses/customs-schemes-licences-framework/trade-first) it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement. | 
@@ -132,7 +132,7 @@ For any Customs scheme applied successfully, your company will be subject to rev
 | Intermediate | Once in 2 Years |
 | Standard | Once in 2 Years |
 
-During the renewal process, your company is required to submit the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/31May2019-final-TradeFIRST-SelfAssessment-Checklist-approved.xlsx)  and all relevant supporting documents, and undergo the on-site assessment again.
+During the renewal process, your company is required to submit the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 27Jul2020.xlsx)  and all relevant supporting documents, and undergo the on-site assessment again.
 
 Reviews may also be conducted at shorter intervals under special circumstances, such as for companies granted conditional approval with areas identified for improvement within a stipulated time period.
 
