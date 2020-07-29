@@ -45,7 +45,7 @@ Fax: (65) 6742 0004
 Email:  [sales@innosys.com.sg](mailto:sales@innosys.com.sg)
 
 
-**Kaizen Trade Technology Pte Ltd**
+**KT Tech Pte Ltd**
 
 Tel: (65) 6950 7741  
 Fax: (65) 6950 7741  
