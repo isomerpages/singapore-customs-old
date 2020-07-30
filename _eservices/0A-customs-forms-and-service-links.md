@@ -156,7 +156,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 2. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/5ccac0a442502b00107a9554) |
 | 3. | Application for Authorisation of Petroleum Refund Users | [Word Doc](/documents/eservices/Petroleum-Refund-Users.doc) (336KB) |
 | 4. | Application for Duty Exemption of Dutiable Goods by Industrial Users | [Web Link](http://eservices.customs.gov.sg/scripts/customs/common/eservice.asp?AppID=DED1) |
-| 5. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](http://eservices.customs.gov.sg/scripts/customs/DutyExemptEA/DEA1_Form.asp) |
+| 5. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://form.gov.sg/#!/5ef564974cb2d20012590cb1) |
 | 6. | Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects | [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) |
 | 7. | Application for Kimberley Process Certificate |  [Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e)|
 | 8. | Application for Licensed Premises | [Web Link](http://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp) |
