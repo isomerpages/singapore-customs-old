@@ -15,8 +15,8 @@ sections:
               url: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
             - title: Quick Guide for Importers
               url: /businesses/importing-goods/overview
-            - title: Registration Matters
-              url: /businesses/registration-matters/overview
+            - title: New Traders and Registration Services
+              url: /businesses/new-traders-and-registration-services/overview
             - title: Customs Schemes & Licences
               url: /businesses/customs-schemes-licences-framework/overview
             - title: Customs Forms & Service Links
