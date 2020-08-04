@@ -1,6 +1,6 @@
 ---
 title: STOP Illegal Cigarettes! 
-permalink: /STOP-Illegal-Cigarettes
+permalink: /news-and-media/public-outreach/STOP-Illegal-Cigarettes
 ---
 
 # STOP Illegal Cigarettes! 
