@@ -1,6 +1,6 @@
 ---
 title: 1 IS ALL IT TAKES
-permalink: /1-is-all-it-takes
+permalink: /news-and-media/public-outreach/1-is-all-it-takes
 ---
 
 # 1 IS ALL IT TAKES
