@@ -19,7 +19,6 @@ You may use this  [search engine](https://www.tradenet.gov.sg/tradenet/portlets/
 To qualify for the scheme, the cargo agent must meet the following criteria:
 
 -   The registered business activities with the Accounting and Corporate Regulatory Authority (ACRA) are in freight forwarding, logistics or related services
--   Have a paid-up capital of at least $20,000
 -   Is a Declaring Agent registered with Singapore Customs
 -   Have a valid Inter-Bank GIRO maintained with Singapore Customs
 -   Have a warehouse located within the Changi Free Trade Zone
@@ -27,7 +26,7 @@ To qualify for the scheme, the cargo agent must meet the following criteria:
 
 ## How to Apply?
 
-Cargo agents should complete the [Application for Cargo Agent's Import Authorisation (CAIA)](/eservices/customs-forms-and-service-links) [](/eservices/customs-forms-and-service-links)form and email it to  [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg).
+Cargo agents should complete the [Application for Cargo Agent's Import Authorisation (CAIA)](/eservices/customs-forms-and-service-links) [](/eservices/customs-forms-and-service-links)form and submit via the Networked Trade Platform (NTP) at www.ntp.gov.sg by following the procedures stated in the form email.
 
 The one-time registration fee for the CAIA Scheme is $240, which includes two CAIA cards. A $10.50 fee (including Goods and Services Tax) is payable for each additional CAIA card.
 
