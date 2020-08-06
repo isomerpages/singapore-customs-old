@@ -146,4 +146,4 @@ Once the import, export or transhipment permit application is approved, the impo
 
 ## Enquiries
 
-For more information, please visit AED PLRD's  [website](https://www.police.gov.sg/e-services){:target="_blank"}. For further enquiries, you may contact us at 6835 0000 or email to SPF_Licensing_Feedback@gov.sg.
+For more information, please visit AED PLRD's  [website](https://www.police.gov.sg/e-services){:target="_blank"}. For further enquiries, you may contact us at 6835 0000 or email to SPF_Licensing_Feedback@spf.gov.sg.
