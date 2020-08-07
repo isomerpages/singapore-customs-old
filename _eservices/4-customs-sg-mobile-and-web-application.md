@@ -14,8 +14,6 @@ Travellers with purchases that have exceeded their personal  [duty free concessi
 
 Travellers can also choose to declare and pay the taxes online through the  **Customs@SG**  web portal.
 [![](/images/Mobile app 1.png)](https://m.customs.gov.sg/SCTravellerPortal/declaration/home.sc)
-
- The **Customs@SG** mobile app also features a feedback module to provide feedback or submit queries on Customs matters.
  
 **You can download the app from  [Google Play](https://play.google.com/store/apps/details?id=org.customs.gov.sg)  and the  [App Store](https://itunes.apple.com/sg/app/customs-sg/id1062502468?mt=8)  for free.**
 
