@@ -4,7 +4,6 @@ permalink: /eservices/customs-sg-mobile-and-web-application/
 ---
 
 # Customs@SG Mobile & Web Application
-![Image 1 ](/images/Customs@SG1.png)
 
 ## About Customs@SG
 
@@ -15,6 +14,8 @@ Travellers with purchases that have exceeded their personal  [duty free concessi
 Travellers can also choose to declare and pay the taxes online through the  **Customs@SG**  web portal.
 [![](/images/Mobile app 1.png)](https://m.customs.gov.sg/SCTravellerPortal/declaration/home.sc)
  
+The **Customs@SG** mobile app also features a feedback module which members of the public can use to provide feedback or submit queries on Customs matters.
+
 **You can download the app from  [Google Play](https://play.google.com/store/apps/details?id=org.customs.gov.sg)  and the  [App Store](https://itunes.apple.com/sg/app/customs-sg/id1062502468?mt=8)  for free.**
 
 ![Mobile app](/images/Mobile app 2.png)
@@ -27,9 +28,7 @@ Travellers can also choose to declare and pay the taxes online through the  **Cu
 
 Customs@SG is a mobile app developed by Singapore Customs to provide travellers and members of the public with a more convenient way to interact with us. The app has two modules: Goods to Declare module and Feedback module.  
   
-The Goods to Declare module allows you to declare and pay, not more than 3 days before your arrival in Singapore, the duty and/or GST on the goods that you will be bringing into Singapore.  
-  
-The Tip-off module allows you to provide information on illegal cigarette-peddling activities and other Customs offences to us.  
+The Goods to Declare module allows you to declare and pay, not more than 3 days before your arrival in Singapore, the duty and/or GST on the goods that you will be bringing into Singapore.   
   
 The Feedback module allows you to provide feedback or submit queries on Customs matters to us.
 
