@@ -15,6 +15,6 @@ breadcrumb: Feedback
 |[Strategic Goods Control / UN Security Council Sanctions / Chemical Weapons Convention](https://form.gov.sg/5e7311f15ec7a00011a06429)     | |  [Enquiries on Customs Documentation](https://form.gov.sg/#!/5eb0c6175ef87a00115694cb)  |
 | [Valuation and Customs Exchange Rate](https://form.gov.sg/#!/5e6ed24b39ddca001164cce2)| |[Reporting of Customs Offences](https://form.gov.sg/5e995f095dad670011b20509)|
 |   |  |[Media Enquiries](https://form.gov.sg/#!/5e9526f82b18f50011eebce6)|
-|   |  |[Quality Service Manager](https://form.gov.sg/#!/5e6862571db1b70011098bf5)|
+|   |  |[Quality Service Manager](https://form.gov.sg/5f323c88c2ae5c0011b56e27)|
 
 
