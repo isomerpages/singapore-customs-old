@@ -128,8 +128,8 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Monthly Statement of Stores and Jet Fuel Supplied to Aircraft | [Excel Doc](/documents/eservices/ExcelDoc2.xlsx) (315KB) |
-| 2. | Monthly Statement of Stores Supplied to Vessels | [Excel Doc](/documents/eservices/ExcelDoc3.xlsx) (308KB) |
+| 1. | Monthly Statement of Stores and Jet Fuel Supplied to Aircraft | [Excel Doc](/documents/eservices/ExcelDoc2.xls) (315KB) |
+| 2. | Monthly Statement of Stores Supplied to Vessels | [Excel Doc](/documents/eservices/ExcelDoc3.xls) (308KB) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
