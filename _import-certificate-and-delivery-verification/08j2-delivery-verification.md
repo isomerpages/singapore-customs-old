@@ -17,22 +17,22 @@ You should apply for a DV from Singapore Customs if it is required by your expor
 
 This information is needed to verify the delivery of your goods into Singapore.
 
-## Verification for Partial Delivery
+## Partial Delivery Verification
 
 This refers to verifying the delivery of the goods under the IC when they are imported into Singapore over different shipments.
 
 For verification of partial delivery, please upload:
 
--   Copy of the  [Statement of Delivery Verification for Partial Delivery](/documents/businesses/statement-of-dv-for-partial-delivery-03092018.docx)
+-   Copy of the  [Statement for Partial Delivery Verification](/documents/businesses/PSB/Statement for Partial Delivery Verification.docx)
 -   Copy of the import permit(s)
 -   Bill of Lading or Air Waybill
--   Copy of the [Declaration by Importer of Goods under an Import Certificate](/documents/businesses/importer-declaration-for-dv-03092018-(1).docx)
+-   Copy of the [Importer Declaration Letter](/documents/businesses/PSB/Importer Declaration Letter.docx)
 -   Export Licence (and its English translation) from the originating country
 -   Business transaction documents (for example, invoice, packing list, delivery order)
 
 We will endorse the Statement of Delivery Verification and upload the copy to you via NTP. When all the goods under the IC have been imported, you should apply for verification for the complete delivery.
 
-## Verification for Complete Delivery
+## Complete Delivery Verification
 
 This refers to the verification of the delivery when all the goods under the IC have been imported into Singapore.
 
@@ -41,7 +41,7 @@ For verification of complete delivery, please upload:
 -   Importer's ICDV
 -   Copy of the import permit(s)
 -   Bill of Lading or Air Waybill
--   Copy of the  [Declaration by Importer of Goods under an Import Certificate](/documents/businesses/importer-declaration-for-dv-03092018-(1).docx)
+-   Copy of the  [Importer Declaration Letter](/documents/businesses/PSB/Importer Declaration Letter.docx)
 -   Export Licence (and its English translation) from the originating country
 -   Business transaction documents (for example, invoice, packing list, delivery order)
 
