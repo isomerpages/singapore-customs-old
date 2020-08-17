@@ -141,7 +141,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 |--|--|--|
 | 1. | Application for Cargo Agent's Import Authorisation (CAIA) | [Word Doc](/documents/eservices/CAIA.doc) (77KB) |
 | 2. | Application for Certificate of Free Sale (CFS) | [Word Doc](/documents/eservices/CFS.doc) (90KB) |
-| 3. |  Application for Import Certificate and Delivery Verification (ICDV)| [Word Doc](documents/businesses/PSB/SC-A-060 v9.docx) (161KB) |
+| 3. |  Application for Import Certificate and Delivery Verification (ICDV)| [Word Doc](/documents/businesses/PSB/SC-A-060 v9.docx) (161KB) |
 | 4. | Application for Kimberley Process Licence (KPL) | [Word Doc](/documents/eservices/KPL.docx) (77KB) |
 | 5. | Application for Landing Certificate (LC) | [Word Doc](/documents/eservices/LC.doc) (344KB) |
 | 6. | Application for Vessel Registration (VR) | [Word Doc](/documents/eservices/VR.docx) (82KB) |
