@@ -98,7 +98,7 @@ Please note that partial clearance is not allowed for goods departing Singapore 
 
 Generally, you are required to retain the relevant supporting documents relating to the purchase, import, sale or export of the goods for a period of 5 years from the date of approval of the Customs permit.
 
-These documents can be stored as physical hardcopies or as [images](/documents/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system(1).pdf). 
+These documents can be stored as physical hardcopies or as [images](/documents/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf). 
 <br> You are required to produce these supporting documents to Singapore Customs upon request.
 
 ***
