@@ -14,9 +14,9 @@
 /3qtank /individuals/going-through-customs/departure/three-quarter-tank-rule
 /stgcpermit /businesses/strategic-goods-control/permit-and-registration-requirements
 /customsaccount /businesses/new-traders-and-registration-services/registration-services/activate-customs-account
-/authoriseda /businesses/registration-matters/registration-procedures/authorise-a-declaring-agent
-/ibg /businesses/registration-matters/registration-procedures/apply-for-inter-bank-giro
-/da /businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant
+/authoriseda /businesses/new-traders-and-registration-services/registration-services/authorise-a-declaring-agent
+/ibg /businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro
+/da /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant
 /aci /businesses/importing-goods/import-procedures/permit-amendments-and-cancellation
 /mv /businesses/importing-goods/importing-dutiable-motor-vehicles
 /tis /businesses/importing-goods/temporary-import-scheme
@@ -26,7 +26,7 @@
 /gst /businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst
 /duties /businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods
 /refund /businesses/valuation-duties-taxes-fees/refund-of-duties-and-gst
-/security /businesses/registration-matters/registration-procedures/security-lodgement
+/security /businesses/new-traders-and-registration-services/registration-services/security-lodgement
 /vdp /businesses/compliance/voluntary-disclosure-programme
 /fa /businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents
 /circulars /news-and-media/circulars
@@ -37,3 +37,4 @@
 /faq https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
 /eservices/harmonized-system-competent-authority-product-code-search-engine https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do
 /eservices/exchange-rates /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates
+/businessguide /businesses/business-resources/elearning
