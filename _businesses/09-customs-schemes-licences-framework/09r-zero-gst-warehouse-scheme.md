@@ -84,7 +84,7 @@ An annual licence fee is payable when the licence is issued. It is based on the 
 
 -   **Accountability to Other Competent Authorities**
     
-    -   Obtain the necessary approvals from the relevant competent authorities
+    -   Obtain the necessary approvals from the relevant Competent Authorities (for example, the storage of controlled goods, including Dangerous Goods)
 
 -   **Inventory Control**
     

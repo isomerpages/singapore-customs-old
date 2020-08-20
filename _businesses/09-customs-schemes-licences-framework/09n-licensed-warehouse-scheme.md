@@ -71,7 +71,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
     -   Comply with the Customs Act, Customs Regulations and the licensing Terms & Conditions
 
 -   **Accountability to Other Competent Authorities**
-    -   Obtain the necessary approvals from the relevant competent authorities
+    -   Obtain the necessary approvals from the relevant Competent Authorities (for example, the storage of controlled goods, including Dangerous Goods)
 
 -   **Inventory Control**
     -   Ensure inventory records and supporting documents are properly maintained and updated

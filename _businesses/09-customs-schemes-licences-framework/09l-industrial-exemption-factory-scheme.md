@@ -38,7 +38,7 @@ An annual fee of S$600 is payable upon issuance of the certificate of exemption.
 
 -   **Accountability to** **Other Competent Authorities**
     
-    -   Obtain the necessary approvals from the relevant competent authorities
+    -   Obtain the necessary approvals from the relevant Competent Authorities (for example, the storage of controlled goods, including Dangerous Goods)
 
 -   **Inventory** **Control**
     
