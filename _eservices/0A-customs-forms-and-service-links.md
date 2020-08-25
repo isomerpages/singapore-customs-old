@@ -217,12 +217,12 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
-## Voluntary Disclosure Forms
+## Voluntary Disclosure Forms(VDP)
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Login with CorpPass | [Web Link](https://form.gov.sg/5cc8267f09313a001745d0eb) |
-| 2. | Login with SingPass(for individuals or self-registered traders with no UEN only | [Web Link](https://form.gov.sg/5f43857c9abaf400115f7194) |
+| 1. | VDP Login with CorpPass | [Web Link](https://form.gov.sg/5cc8267f09313a001745d0eb) |
+| 2. | VDP Login with SingPass(for individuals or self-registered traders with no UEN only) | [Web Link](https://form.gov.sg/5f43857c9abaf400115f7194) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
