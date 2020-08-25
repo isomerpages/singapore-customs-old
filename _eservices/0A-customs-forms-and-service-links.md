@@ -217,7 +217,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
-## Voluntary Disclosure Forms(VDP)
+## Voluntary Disclosure Programme Form(VDP)
 
 | No. | Forms | Related Link |
 |--|--|--|
