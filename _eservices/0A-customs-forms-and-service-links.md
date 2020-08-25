@@ -223,7 +223,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 |--|--|--|
 | 1. | Submission for Voluntary Disclosure Programme using CorpPass | [Web Link](https://form.gov.sg/5cc8267f09313a001745d0eb) |
 |
-| 2. | Submission for Voluntary Disclosure Programme using SingPass | [Web Link](https://form.gov.sg/5f43857c9abaf400115f7194) |
+| 2. | Submission for Voluntary Disclosure Programme using SingPass(for individuals or self-registered traders with no UEN only | [Web Link](https://form.gov.sg/5f43857c9abaf400115f7194) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
