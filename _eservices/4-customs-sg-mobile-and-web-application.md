@@ -145,6 +145,15 @@ e. Baileys –> Liqueur / Cordials / Herbal liqueur
 
 No. The mobile app and web application can only be used to pay duty and/or GST for hand-carried goods brought into Singapore by travellers. For composition sums, you can make the payments at any AXS Station or SingPost branches island-wide, or via the AXS m-Station App and AXS e-Station.
 
+**2.** **I encountered technical/payment-related issues when making my declaration. How do I request for assistance?**
+
+Need technical support? Contact us via email at [customs_checkpoints@customs.gov.sg](mailto:customs_checkpoints@customs.gov.sg). For us to better assist you, please provide us with the following details:
+
+a.	Customs@SG tax payment receipt(s);<br>
+b.	The exact location where the traveller made the declaration (e.g. inside a lift in Airport Terminal 1);<br>
+c.	Brand, model, OS and version of the mobile phone;<br>
+d.	Mode of connection (Wi-Fi or mobile data);<br>
+e.	Whether there was any pop-up message while the traveller was making the declaration or making payment. If yes, what was the error message?
  
 ## Terms & Conditions
    
