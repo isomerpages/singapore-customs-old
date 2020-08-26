@@ -22,6 +22,7 @@ The Traders' Satisfaction Survey (TSS) 2019 was conducted from Oct 2019 to Nov 2
 **Your Compliments**
 
 Thank you for the compliments. We are delighted to know that you are happy with our service and facilitation.
+
 _“Circulars on updates are provided, and Singapore Customs’ website is informative.”_
 
 _“Our experiences with all Customs officers have been very pleasant. They are all very helpful and provided guidance on how to solve the problems that we encountered.”_
