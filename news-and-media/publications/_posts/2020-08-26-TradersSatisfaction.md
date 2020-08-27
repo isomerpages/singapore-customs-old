@@ -39,7 +39,7 @@ We would like to thank all our survey respondents for your valuable feedback and
 
 Singapore Customs will continue to be mindful of traders' feedback to streamline and simplify existing requirements, enhance our processes to be responsive to business' needs, and better serve the trading community.
 
-Traders are encouraged to visit our website regularly to check for the latest updates and developments. You may also wish to use "Ask Jamie" to assist you in your queries. A summary of our responses to some common feedback and suggestions we received is appended below.
+Traders are encouraged to visit our website regularly to check for the latest updates and developments. You may also wish to use "AskJamie" to assist you in your queries. A summary of our responses to some common feedback and suggestions we received is appended below.
 
 ![Feedback and Suggestions](images/TSS2.png)
 
