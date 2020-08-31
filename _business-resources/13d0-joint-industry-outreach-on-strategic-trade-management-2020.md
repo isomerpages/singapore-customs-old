@@ -6,7 +6,7 @@ third_nav_title: Courses and Events
 
 # Joint Industry Outreach on Strategic Trade Management 2020
 
-![banner.png](/images/banner.png)
+![banner.png](/images/TSSB_Outreach2020.png)
 
 **REGISTRATION IS NOW OPEN**
 
