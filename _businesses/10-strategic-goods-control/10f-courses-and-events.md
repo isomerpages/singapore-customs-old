@@ -14,6 +14,12 @@ The  Singapore Customs Academy provides courses to enhance the industry’s awar
 
 Singapore Customs actively conducts seminars to update the industry on the latest developments in strategic goods control. These seminars also provide a platform for the industry to pick up best practices for improved compliance.
 
+## Upcoming Events
+
+| Year | Events |
+|--|--|
+| **2020** | Joint Industry Outreach Seminar on Strategic Trade Management by Japan, Singapore and the United States. 29 September 2020 - 1 October 2020 via Cisco WebEx Events Platform. Click [here](/businesses/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2020){:target="_blank"} for more details. |
+
 ## Past Events
 
 | Year | Events |

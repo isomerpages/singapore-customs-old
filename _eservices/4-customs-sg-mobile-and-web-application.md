@@ -5,6 +5,9 @@ permalink: /eservices/customs-sg-mobile-and-web-application/
 
 # Customs@SG Mobile & Web Application
 
+|Singapore Customs is proud to present our enhanced Customs@SG mobile application. The app will sport a new look featuring a refreshed layout and upgraded user interface to improve user experience. To enjoy the benefits of our updated app, download the Customs@SG app from Google Play or the Apple Store today! Thank you for using our Customs@SG mobile application!|
+|---|
+
 ## About Customs@SG
 
 The  **Customs@SG**  mobile app is a convenient way for travellers to declare and pay duty and/or Goods and Services Tax (GST) on their overseas purchases anytime, anywhere, before the travellers arrive in Singapore.
@@ -161,6 +164,7 @@ The terms and conditions for use of the **Customs@SG** /web application for decl
 
 -   All information furnished to Singapore Customs is true and correct;
 -   The  traveller must be aged 20 years or above when submitting a declaration and payment for cigarettes and/or tobacco products;
+-   The travellers will have to ensure that their cigarettes and/or tobacco products comply with the Standardised Packaging (SP) requirements;
 -   The e-receipt for payment issued through the mobile app or web application is valid only on the date of arrival and at the place of arrival, as declared by the traveller;
 -   The  traveller will have to declare additional goods that are not covered by a successful declaration made through the mobile app or web application at the Customs Tax Payment Office or Customs Red Channel upon arrival in Singapore, and pay the duty and/or GST chargeable on the goods. Failure to declare goods subject to duty and/or GST is an offence;
 -   The  goods declared are not controlled or prohibited, and do not infringe upon any intellectual property rights.
