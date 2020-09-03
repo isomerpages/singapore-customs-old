@@ -71,7 +71,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 
 **8) National Environment Agency (NEA)**
 
--   Pollution Control Department (PCD)
+-   Chemical Control and Management Department (CCMD)
     
     -   [Basel Convention](/businesses/national-single-window/tradenet/competent-authorities-requirements/Basel-convention)
     -   [Hazardous Substances](/businesses/national-single-window/tradenet/competent-authorities-requirements/hazardous-substances)
