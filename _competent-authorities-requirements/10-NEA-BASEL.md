@@ -23,7 +23,7 @@ CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention i
     -  Item description and item quantity under ‘Item Details’ column
     - The corresponding Product Codes to the correct HS Codes
     
-- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export, import or transit permit application through TradeNet:
+- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to CCMD after sending the export, import or transit permit application through TradeNet:
     
      -  Invoice
      -  Bill of Lading (BL) / Air waybill (AWB)
@@ -34,7 +34,7 @@ CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention i
     1. Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by CCMD, NEA respectively. <br>
     2. Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.
     
-**2.**  **For Non-Hazardous Wastes controlled under PCD**
+**2.**  **For Non-Hazardous Wastes controlled under CCMD**
 
 **For Export**
 
