@@ -7,7 +7,7 @@ third_nav_title: Competent Authorities Requirements
 
 # National Environment Agency - Chemical Control and Management Department (Hazardous Substances)
 
-Before you submit the import/export permit application to the TradeNet System for auto-processing, you need to go through the items having CCMD-controlled HS Codes to see if any of them have ingredients which are listed in Part I of the Second Schedule of the Environmental Protection And Management Act (EPMA). If so, the importer/exporter must possess a valid Hazardous Substances Licence from PCD. For more information on the control of hazardous substances in Singapore, please visit  [PCD website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances){:target="_blank"}.
+Before you submit the import/export permit application to the TradeNet System for auto-processing, you need to go through the items having CCMD-controlled HS Codes to see if any of them have ingredients which are listed in Part I of the Second Schedule of the Environmental Protection And Management Act (EPMA). If so, the importer/exporter must possess a valid Hazardous Substances Licence from CCMD. For more information on the control of hazardous substances in Singapore, please visit  [CCMD website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances){:target="_blank"}.
 
 In order to have your permit application processed smoothly without being rejected, you are advised to take note of the following:
 
