@@ -1,19 +1,19 @@
 ---
-title: National Environment Agency - Pollution Control Department (Hazardous Substances)
+title: National Environment Agency - Chemical Control and Management Department (Hazardous Substances)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/hazardous-substances
 third_nav_title: Competent Authorities Requirements
 ---
 
 
-# National Environment Agency - Pollution Control Department (Hazardous Substances)
+# National Environment Agency - Chemical Control and Management Department (Hazardous Substances)
 
-Before you submit the import/export permit application to the TradeNet System for auto-processing, you need to go through the items having PCD-controlled HS Codes to see if any of them have ingredients which are listed in Part I of the Second Schedule of the Environmental Protection And Management Act (EPMA). If so, the importer/exporter must possess a valid Hazardous Substances Licence from PCD. For more information on the control of hazardous substances in Singapore, please visit  [PCD website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances){:target="_blank"}.
+Before you submit the import/export permit application to the TradeNet System for auto-processing, you need to go through the items having CCMD-controlled HS Codes to see if any of them have ingredients which are listed in Part I of the Second Schedule of the Environmental Protection And Management Act (EPMA). If so, the importer/exporter must possess a valid Hazardous Substances Licence from CCMD. For more information on the control of hazardous substances in Singapore, please visit  [CCMD website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances){:target="_blank"}.
 
 In order to have your permit application processed smoothly without being rejected, you are advised to take note of the following:
 
 1.  Determine the appropriate Product Code  
     
-    Sort out the import/export items having HS codes that are controlled by PCD. Then check the detailed chemical composition of these items to look out for ingredients that are listed in the Part I of the Second Schedule of the EPMA. Items having such chemical ingredients controlled under the EPMA are to be declared using a PCD product code.
+    Sort out the import/export items having HS codes that are controlled by CCMD. Then check the detailed chemical composition of these items to look out for ingredients that are listed in the Part I of the Second Schedule of the EPMA. Items having such chemical ingredients controlled under the EPMA are to be declared using a CCMD product code.
     
     For example:
     
@@ -31,11 +31,11 @@ In order to have your permit application processed smoothly without being reject
     
     In addition, you need to declare the composition of the Fenthion, i.e. 55, in the "CA/SC Code1" field found at the item level of the Import/Export Permit application. You need not declare the percentage sign (i.e. %) in the "CA/SC Code1" field.
     
-    The list of HS codes and Product codes for PCD controlled items can be found in Appendix C.
+    The list of HS codes and Product codes for CCMD controlled items can be found in Appendix C.
     
 2.  Declare the Maximum Quantity Per Trip  
     
-    For controlled hazardous chemicals found in the Environmental Protection And Management (Hazardous Substances) Regulations, you are required to declare the maximum quantity of chemicals to be transported per trip (computed in "KGM") in the "CA/SC Code2" field found at the "item" level in the Import Permit application. It is not necessary to key in the unit of quantity "KGM" in the "CA/SC Code2" field. For quantities per trip exceeding the limits in The Schedule of the EPM(HS) Reg, you are required to have a transport approval from PCD for your permit application to be processed smoothly.
+    For controlled hazardous chemicals found in the Environmental Protection And Management (Hazardous Substances) Regulations, you are required to declare the maximum quantity of chemicals to be transported per trip (computed in "KGM") in the "CA/SC Code2" field found at the "item" level in the Import Permit application. It is not necessary to key in the unit of quantity "KGM" in the "CA/SC Code2" field. For quantities per trip exceeding the limits in The Schedule of the EPM(HS) Reg, you are required to have a transport approval from CCMD for your permit application to be processed smoothly.
     
     Example:
     
@@ -43,13 +43,13 @@ In order to have your permit application processed smoothly without being reject
     
 3.  Comply with the messages from the TradeNet system  
     
-    You are not required to fax any document to PCD unless you are prompted by the TradeNet system to submit certain documents to PCD for verification.
+    You are not required to fax any document to CCMD unless you are prompted by the TradeNet system to submit certain documents to CCMD for verification.
     
 
 Note:
 
-1.  The list of chemicals controlled by PCD and the corresponding exclusions can be found in the Part I of the Second Schedule of the Environmental Protection And Management Act (EPMA). General Exemptions can be found in Part II of the same Schedule. Both the EPMA and its Regulations can be purchased from the SNP Corporation Ltd. The entire legislation can also be downloaded from the website at  [http://lawnet.com.sg/](http://lawnet.com.sg/){:target="_blank"}
+1.  The list of chemicals controlled by CCMD and the corresponding exclusions can be found in the Part I of the Second Schedule of the Environmental Protection And Management Act (EPMA). General Exemptions can be found in Part II of the same Schedule. Both the EPMA and its Regulations can be purchased from the SNP Corporation Ltd. The entire legislation can also be downloaded from the website at  [http://lawnet.com.sg/](http://lawnet.com.sg/){:target="_blank"}
 2.  The Certification of Import/Export signed by the Hazardous Substances Licence holder must be under the importer/exporter company's letterhead. The format can be found in Annex F.
-3.  If you or your importers/exporters do not have the required Hazardous Substances Licence, please contact PCD officers at 67319641 or 67319332 for advice.
+3.  If you or your importers/exporters do not have the required Hazardous Substances Licence, please contact CCMD officers at 67319641 or 67319332 for advice.
 
 Refer to [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.

@@ -1,17 +1,17 @@
 ---
-title: National Environment Agency - Pollution Control Department (Basel Convention)
+title: National Environment Agency - Chemical Control and Management Department (Basel Convention)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/Basel-convention
 third_nav_title: Competent Authorities Requirements
 ---
 
 
-# National Environment Agency - Pollution Control Department (Basel Convention)
+# National Environment Agency - Chemical Control and Management Department (Basel Convention)
 
 ## Hazardous Wastes under the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal
 
-The import, export and transit of Hazardous Wastes are subject to control by the Pollution Control Department. Please note that you are required to obtain a Basel Permit for the import, export and transit of hazardous wastes controlled under the Basel Convention and the Hazardous Waste (Control of Export, Import and Transit) Act and its Regulations. For more information on the control of transboundary movements of hazardous wastes in Singapore, please visit  [PCD website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances){:target="_blank"}.
+The import, export and transit of Hazardous Wastes are subject to control by the Chemical Control and Management Department. Please note that you are required to obtain a Basel Permit for the import, export and transit of hazardous wastes controlled under the Basel Convention and the Hazardous Waste (Control of Export, Import and Transit) Act and its Regulations. For more information on the control of transboundary movements of hazardous wastes in Singapore, please visit  [CCMD website](http://www.nea.gov.sg/anti-pollution-radiation-protection/chemical-safety/hazardous-substances/management-of-hazardous-substances){:target="_blank"}.
 
-PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in granting any permit for the export, import or transit of hazardous wastes. The import, export and transit of hazardous wastes are not allowed with non-parties to the Basel Convention. The status of ratification of countries to the Basel Convention as well as information on Basel Convention may be viewed at  [http://www.basel.int/](http://www.basel.int/){:target="_blank"}.
+CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in granting any permit for the export, import or transit of hazardous wastes. The import, export and transit of hazardous wastes are not allowed with non-parties to the Basel Convention. The status of ratification of countries to the Basel Convention as well as information on Basel Convention may be viewed at  [http://www.basel.int/](http://www.basel.int/){:target="_blank"}.
 
 ## Export, Import and Transit of Hazardous Wastes
 
@@ -23,7 +23,7 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
     -  Item description and item quantity under ‘Item Details’ column
     - The corresponding Product Codes to the correct HS Codes
     
-- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export, import or transit permit application through TradeNet:
+- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to CCMD after sending the export, import or transit permit application through TradeNet:
     
      -  Invoice
      -  Bill of Lading (BL) / Air waybill (AWB)
@@ -31,10 +31,10 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
      -  Any other supporting documents relevant to the export, import or transit permit
     
     **Note:** <br>
-    1. Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by PCD, NEA respectively. <br>
+    1. Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by CCMD, NEA respectively. <br>
     2. Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.
     
-**2.**  **For Non-Hazardous Wastes controlled under PCD**
+**2.**  **For Non-Hazardous Wastes controlled under CCMD**
 
 **For Export**
 
@@ -44,7 +44,7 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
    - Item description and item quantity under ‘Item Details’ column
    - The corresponding Product Codes to the correct HS Codes
 
-- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export permit application through TradeNet:
+- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to CCMD after sending the export permit application through TradeNet:
 
    - Invoice
    - Bill of Lading (BL) / Air waybill (AWB)
@@ -60,7 +60,7 @@ PCD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in
    - Item description and item quantity under ‘Item Details’ column
    - The corresponding Product Codes to the correct HS Codes
 
-- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the import permit application through TradeNet:
+- Declarant would have to fax the following documents stating the  **Unique Reference No.**  to CCMD after sending the import permit application through TradeNet:
 
    - Invoice
    - Bill of Lading (BL) / Air waybill (AWB)
@@ -75,7 +75,7 @@ Prior approval via the TradeNet shall be obtained for the export, import and tra
 
 1. Please quote the  **Unique Reference No.**  on all supporting documents before faxing.
 2. The HS Codes and Product Codes for Hazardous Wastes are listed here.
-3. If the importer / exporter does not have the required Basel Export, Import or Transit permit, please contact PCD officers at 67319377 for advice.
+3. If the importer / exporter does not have the required Basel Export, Import or Transit permit, please contact CCMD officers at 67319377 for advice.
 
 ## Export and Import of Used Electrical & Electronic Equipments
 
@@ -83,7 +83,7 @@ Prior approval via the TradeNet shall be obtained for the export, import and tra
 - Item description and item quantity under ‘Item Details’ column
 - The corresponding Product Codes depending on the purpose of export or import to the correct HS Codes
 
-**2.**  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to PCD after sending the export or import permit application through TradeNet:<br>
+**2.**  Declarant would have to fax the following documents stating the  **Unique Reference No.**  to CCMD after sending the export or import permit application through TradeNet:<br>
 -  Invoice
 -  Bill of Lading (BL) / Air waybill (AWB)
 -  Warranty Document / Contractual Agreement
@@ -97,4 +97,4 @@ Prior approval via the TradeNet shall be obtained for the export and import of a
 
 1.  Please quote the  **Unique Reference No.**  on all supporting documents before faxing.
 2.  The HS Codes and Product Codes for Used Electrical & Electronic Equipments are listed  [here](/businesses/national-single-window/overview/annexes-and-appendices).
-3.  If the importer / exporter does not have the required supporting documents, please contact PCD officers at 67319377 for advice.
+3.  If the importer / exporter does not have the required supporting documents, please contact CCMD officers at 67319377 for advice.
