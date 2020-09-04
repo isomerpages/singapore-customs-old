@@ -8,7 +8,7 @@ third_nav_title: Temporary Import
 
 ## Security Lodgement
 
-You or your Declaring Agent are required to  [lodge a security](/businesses/registration-matters/registration-procedures/security-lodgement)  with Singapore Customs in the form of a Banker’s Guarantee or insurance bond to enjoy temporary import facilitation.
+You or your Declaring Agent are required to  [lodge a security](/businesses/new-traders-and-registration-services/registration-services/security-lodgement)  with Singapore Customs in the form of a Banker’s Guarantee or insurance bond to enjoy temporary import facilitation.
 
 ## Controlled Goods
 
