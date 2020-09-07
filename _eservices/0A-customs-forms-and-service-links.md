@@ -13,6 +13,7 @@ Please note that Application for Certificate of Free Sales, Import Certificate a
 |--|--|--|
 | 1. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp) |
 | 2. | Registration for Manufacturer/New Product Line | [Word Doc](/documents/eservices/SC-A-006_v11.doc) (364KB) |
+| 3. | Application Form to be Certified Exporter under AWSC | [Web Link](http://form.gov.sg/#!/5dfc96c8165a2e001168d64c) 
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
