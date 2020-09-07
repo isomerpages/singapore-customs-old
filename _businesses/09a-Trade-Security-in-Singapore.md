@@ -12,7 +12,7 @@ Singapore Customs works closely with local enforcement agencies and internationa
 - Duty and tax evasion
 - Intellectual Property Rights infringement
 - Smuggling of wildlife and their parts and derivatives protected under the Convention on International Trade in Endangered Species of Wild Fauna or Flora (CITES)
-- Money-laundering and terrorist financing
+- Money-laundering and terrorism-financing
 - Violation of the United Nations Security Council (UNSC) sanctions
 
 In countering illicit trade, a whole-of-government and layered approach is adopted:
