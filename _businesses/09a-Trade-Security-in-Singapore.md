@@ -48,13 +48,20 @@ This is in line with Singapore Customs’ pro-enterprise regulatory approach.
 
 Visit [this page](/businesses/customs-schemes-licences-framework/overview) for more information on our schemes and licences.
 
-## Singapore’s Freeport
+## Anti-Money Laundering and Countering the Financing of Terrorism
 
 Companies have to be licensed under Singapore Customs’ ZGS to store GST suspended non-dutiable goods in their licensed premises.
 
-ZGS licensees operating in the Singapore Freeport are subject to the same regulatory measures as other ZGS licensees. In addition, Singapore Customs has implemented an enhanced regulatory ZGS to combat money laundering and terrorist financing risks. The strengthened measures include mandating the ZGS licensees storing precious stones and metals, works of art, antiques, and watches clad with precious metal casings or precious metals (otherwise known as listed goods) to obtain, maintain, and update information on the identities of both the person with control and the person with beneficial ownership over the listed goods. ZGS licensees are also required to seek permission from Singapore Customs before storing any listed goods and screen the identities of the person with control and the person with beneficial ownership as part of the Know-Your-Customer requirements. These measures allow Singapore Customs to have oversight of the activities happening in the ZGS licensees’ premises in the Singapore’s Freeport.
+Singapore Customs has implemented an enhanced regulatory ZGS to combat money laundering and terrorist financing risks. The strengthened measures include mandating the ZGS licensees storing precious stones and metals, works of art, antiques, and watches clad with precious metal casings or precious metals (otherwise known as listed goods) to obtain, maintain, and update information on the identities of both the person with control and the person with beneficial ownership over the listed goods. ZGS licensees are also required to seek permission from Singapore Customs before storing any listed goods and to screen the identities of the person with control and the person with beneficial ownership as part of the Know-Your-Customer requirements. These measures allow Singapore Customs to have greater oversight of the activities happening in these ZGS licensees’ premises.
 
 Regular inspections are conducted on these companies as part of the enhanced regime which serves to prevent companies from being inadvertently used as a conduit for money-laundering and terrorist-financing activities, allowing Singapore to operate as a secure trade hub.
 
-Read more about the inspection in Singapore’s Freeport, and the enhanced regulatory regime in Singapore Customs’ corporate magazine, InSYNC: [Enhanced Regulatory Regime To Combat Money Laundering And Terrorist Financing Risks](/news-and-media/publications/2018-04-01-Issue49.pdf)
+Read more about the inspections and the enhanced regulatory regime in Singapore Customs’ corporate magazine, InSYNC: [Enhanced Regulatory Regime To Combat Money Laundering And Terrorist Financing Risks](/news-and-media/publications/2018-04-01-Issue49.pdf)
 
+## Suspicious Transaction Report
+
+Under Section 39 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Cap 65A, all traders, including freight forwarders and declaring agents, have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar) to the Suspicious Transaction Reporting Office (STRO) if they know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of their trade, profession, business or employment.
+
+Traders also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
+
+Traders may refer to the red flag indicators for Zero-GST warehouse licensees [here](https://www.police.gov.sg/-/media/tradezerogstratedlicensedwarehousesindicators.pdf) to detect and file a STR with the STRO.
