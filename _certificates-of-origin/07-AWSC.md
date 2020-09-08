@@ -8,7 +8,7 @@ The ASEAN-Wide Self-Certification (AWSC) scheme will be entering into force on 2
 
 [Circular 06/2020](https://www.customs.gov.sg/news-and-media/circulars/2020_09_01-Circular%20062020.pdf) outlining the method in which companies in Singapore will be able to participate in the AWSC scheme, was circulated to all traders on 1 September 2020.
 
-Companies in Singapore might find [infographic](https://asean.org/storage/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/storage/2012/05/04-AWSC-Brochure.pdf) released by ASEAN useful in understanding the scope and benefits of utilising the AWSC scheme. 
+Companies in Singapore might find the following [infographic](https://asean.org/storage/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/storage/2012/05/04-AWSC-Brochure.pdf) released by ASEAN useful in understanding the scope and benefits of utilising the AWSC scheme. 
 
 Singapore Customs has also created a handbook to assist interested companies in understanding how AWSC works, the benefits of AWSC and the criteria as prescribed under Rule 12A of the ATIGA Operational Certification Procedures (OCP) for companies to become a CE. The handbook can be accessed by clicking on this [link](/documents/businesses/Handbook%20on%20the%20implementation%20of%20the%20ASEAN%20WIDE%20SELF%20.pdf)
 
