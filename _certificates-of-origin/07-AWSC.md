@@ -1,6 +1,6 @@
 ---
 title: ASEAN-Wide Self-Certification Scheme
-permalink:/businesses/certificates-of-origin/AWSC
+permalink: /businesses/certificates-of-origin/AWSC
 third_nav_title: Certificates of Origin
 ---
 
