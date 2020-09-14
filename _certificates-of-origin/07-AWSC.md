@@ -4,6 +4,8 @@ permalink: /businesses/certificates-of-origin/AWSC
 third_nav_title: Certificates of Origin
 ---
 
+# ASEAN-Wide Self-Certification (AWSC) scheme
+
 The ASEAN-Wide Self-Certification (AWSC) scheme will be implemented on 20 September 2020.The AWSC is a unified Self-Certification scheme under the ASEAN Trade In Goods Agreement (ATIGA), which will allow companies in Singapore, who have been approved as Certified Exporters (CE) under the scheme, to make out origin declarations for their exports under ATIGA instead of applying for a Certificate of Origin (FORM D) from Singapore Customs.
 
 [Circular 06/2020](https://www.customs.gov.sg/news-and-media/circulars/2020_09_01-Circular%20062020.pdf) outlining the method in which companies in Singapore will be able to participate in the AWSC scheme, was circulated to all traders on 1 September 2020.
