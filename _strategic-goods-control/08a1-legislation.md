@@ -20,11 +20,11 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SG
 
 **Strategic Goods (Control) Order**
 
-Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2019](https://sso.agc.gov.sg/SL-Supp/S532-2019/Published/20190801?DocDate=20190801){:target="_blank"}, effective from 1 October 2019.
+The Strategic Goods (Control) Order 2019, which contains the list of strategic goods and strategic goods technology controlled under the Strategic Goods (Control) Act (SGCA), will be rescinded and replaced with the updated [Strategic Goods (Control) Order 2020](https://sso.agc.gov.sg/SL-Supp/S532-2019/Published/20190801?DocDate=20190801){:target="_blank"} which will take effect from **16 November 2020**. 
 
-You may refer to the  [amendment table](/documents/businesses/sgco-2019-table-of-amendments-oct-2019.pdf) for more information on the changes made to the Strategic Goods (Control) Order 2018, under the Strategic Goods (Control) Order 2019.
+You may refer to the  [amendment table](/documents/businesses/TSSB/Amendment-table-for-Strategic-Goods-Control-Order-2020.pdf) for more information on the changes made to the Strategic Goods (Control) Order 2019, under the Strategic Goods (Control) Order 2020.
 
-You may also wish to visit our  [Frequently Asked Questions](/documents/businesses/faqs-for-strategic-goods-control-order-2019.pdf) on the updates to the Strategic Goods (Control) Order 2019.
+You may also wish to visit our  [Frequently Asked Questions](/documents/businesses/TSSB/FAQs-for-Strategic-Goods-Control-Order-2020.pdf) on the updates to the Strategic Goods (Control) Order 2020.
 
 **Strategic Goods (Control) (Brokering) Order**
 
