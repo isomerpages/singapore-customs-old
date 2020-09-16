@@ -31,7 +31,7 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 LW licence types can be found in the  [Licensed Warehouse Scheme Handbook](/documents/businesses/lwhandbook-may2017version.pdf)  (Chapter 2.8).
+A summary of the benefits for the 3 LW licence types can be found in the  [Licensed Warehouse Scheme Handbook](/documents/businesses/SEB/LW Handbook 2020.pdf)  (Chapter 2.8).
 
 ## How to Qualify?
 
