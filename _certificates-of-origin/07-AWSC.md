@@ -24,5 +24,8 @@ AWSC is a unified Self-Certification scheme under the ASEAN Trade in Goods Agree
 
 ## Step 2 – Apply and register with us as a Certified Exporter
 
+![](/images/AWSC%20CE.jpg)
+
+
 
 
