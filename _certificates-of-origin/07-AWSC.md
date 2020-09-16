@@ -16,9 +16,13 @@ AWSC is a unified Self-Certification scheme under the ASEAN Trade in Goods Agree
 
 ## Step 1 – Eligibility 
 
-•	Exporters and exporters exporting goods in a back-to-back arrangement (B2B);
-•	Know and understand the Rules of Origin in the ATIGA and has shown a substantial amount of experience in export procedures; 
-•	Has no record of any Rules of Origin fraud and at the same time, has shown good compliance as measured by risk management rules;
-•	Has a sound bookkeeping and record-keeping system;
-•	Exporter must have a “manufacturer’s declaration”, and the manufacturer must be ready for a retroactive check and verification should the need arise.
+-	Exporters and exporters exporting goods in a back-to-back arrangement (B2B);
+-	Know and understand the Rules of Origin in the ATIGA and has shown a substantial amount of experience in export procedures; 
+-	Has no record of any Rules of Origin fraud and at the same time, has shown good compliance as measured by risk management rules;
+-	Has a sound bookkeeping and record-keeping system;
+-	Exporter must have a “manufacturer’s declaration”, and the manufacturer must be ready for a retroactive check and verification should the need arise.
+
+## Step 2 – Apply and register with us as a Certified Exporter
+
+
 
