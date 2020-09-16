@@ -6,12 +6,10 @@ third_nav_title: Certificates of Origin
 
 # ASEAN-Wide Self-Certification (AWSC) scheme
 
-The ASEAN-Wide Self-Certification (AWSC) scheme will be implemented on 20 September 2020.The AWSC is a unified Self-Certification scheme under the ASEAN Trade In Goods Agreement (ATIGA), which will allow companies in Singapore, who have been approved as Certified Exporters (CE) under the scheme, to make out origin declarations for their exports under ATIGA instead of applying for a Certificate of Origin (FORM D) from Singapore Customs.
+ASEAN signed the First Protocol to amend the ASEAN Trade In Goods Agreement (ATIGA) so as to implement the ASEAN-Wide Self-Certification (AWSC) scheme which will be implemented on 20 September 2020.  Companies in Singapore will be able to participate in this scheme and benefit from the preferential tariff given under the ASEAN Trade in Goods Agreement (ATIGA) upon being approved as Certified Exporters (CE).
+ 
+AWSC is a unified Self-Certification scheme under the ASEAN Trade in Goods Agreement (ATIGA). It is a trade facilitation initiative that allows CEs in all ASEAN Member States to self-declare the origin for their exports under ATIGA instead of applying for a Certificate of Origin (FORM D) with the Certificate Issuing Authority in their respective State. Self-Certification enables a CE to make an Origin Declaration on certain commercial documents such as the invoice, bill of lading, delivery order or packing list.
 
-[Circular 06/2020](https://www.customs.gov.sg/news-and-media/circulars/2020_09_01-Circular%20062020.pdf) outlining the method in which companies in Singapore will be able to participate in the AWSC scheme, was circulated to all traders on 1 September 2020.
+|[![](/images/AWSC%20benefits.jpg)]
 
-Companies in Singapore might find the following [infographic](https://asean.org/storage/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/storage/2012/05/04-AWSC-Brochure.pdf) released by ASEAN useful in understanding the scope and benefits of utilising the AWSC scheme. 
-
-Singapore Customs has also created a handbook to assist interested companies in understanding how AWSC works, the benefits of AWSC and the criteria as prescribed under Rule 12A of the ATIGA Operational Certification Procedures (OCP) for companies to become a CE. The handbook can be accessed by clicking on this [link](/documents/businesses/Handbook%20on%20the%20implementation%20of%20the%20ASEAN%20WIDE%20SELF%20(final).pdf).
-
-Companies interested in utilising the AWSC scheme and meet the criteria to be a Certified Exporter CE, may click on this [link](https://www.customs.gov.sg/eservices/customs-forms-and-service-links) to submit the “Application Form To be a Certified Exporter under AWSC” to Singapore Customs. 
+# 
