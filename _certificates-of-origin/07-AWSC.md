@@ -10,6 +10,6 @@ ASEAN signed the First Protocol to amend the ASEAN Trade In Goods Agreement (ATI
  
 AWSC is a unified Self-Certification scheme under the ASEAN Trade in Goods Agreement (ATIGA). It is a trade facilitation initiative that allows CEs in all ASEAN Member States to self-declare the origin for their exports under ATIGA instead of applying for a Certificate of Origin (FORM D) with the Certificate Issuing Authority in their respective State. Self-Certification enables a CE to make an Origin Declaration on certain commercial documents such as the invoice, bill of lading, delivery order or packing list.
 
-|[![](/images/AWSC%20benefits.jpg)]
+|![](/images/AWSC%20benefits.jpg)
 
 # 
