@@ -28,7 +28,7 @@ AWSC is a unified Self-Certification scheme under the ASEAN Trade in Goods Agree
 
 ![](/images/AWSC%20CE.jpg)
 
-Submit the [“Application Form to be a Certified Exporter under AWSC”](https://www.customs.gov.sg/eservices/customs-forms-and-service-links){target="_blank"} to Singapore Customs. 
+Submit the [“Application Form to be a Certified Exporter under AWSC”](https://www.customs.gov.sg/eservices/customs-forms-and-service-links)to Singapore Customs. 
 
 ## Step 3 – Start your journey as a Certified Exporter
 
