@@ -88,4 +88,4 @@ The bonded vehicles’ compartments must meet all specifications listed below:
 
 Customs permits can be declared electronically via  [TradeNet](/businesses/national-single-window/overview).
 
-Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/registration-services/overview).
+Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/overview).
