@@ -24,4 +24,4 @@ This guidebook advises readers on the Strategic Goods Control List, and provides
 
 **Amendment to the Strategic Goods Control List**
 
-This  [document](/documents/businesses/sgco-2019-table-of-amendments-oct-2019.pdf) provides updates on the amendments to the Strategic Goods Control List 2019 (effective on 1 October 2018), in particular details on changes from Strategic Goods (Control) Order 2018 to Strategic Goods (Control) Order 2019.
+This  [document](/documents/businesses/TSSB/Amendment-table-for-Strategic-Goods-Control-Order-2020.pdf) provides updates on the amendments to the Strategic Goods Control List 2020 (effective on 16 November 2020), in particular details on changes from Strategic Goods (Control) Order 2019 to Strategic Goods (Control) Order 2020.
