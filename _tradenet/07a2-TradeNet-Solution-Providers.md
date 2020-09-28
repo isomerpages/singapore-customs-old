@@ -47,8 +47,7 @@ Email:  [sales@innosys.com.sg](mailto:sales@innosys.com.sg)
 
 **KT Tech Pte Ltd**
 
-Tel: (65) 6950 7741  
-Fax: (65) 6950 7741  
+Tel: (65) 9380 9696 
 Email:  [contact@ktt.sg](mailto:contact@ktt.sg)
 
 
