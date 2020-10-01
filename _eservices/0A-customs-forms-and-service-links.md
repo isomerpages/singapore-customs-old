@@ -155,7 +155,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 |--|--|--|
 | 1. | Agent's Application for Product Code | [Web Link](https://form.gov.sg/5e7db3d7b62f4d0011b83dc5) |
 | 2. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/5ccac0a442502b00107a9554) |
-| 3. | Application for Authorisation of Petroleum Refund Users | [Word Doc](/documents/eservices/Petroleum-Refund-Users.doc) (336KB) |
+| 3. | Application for Authorisation of Petroleum Refund Users | [Web Link](https://go.gov.sg/authorisationofuserforpetroleumrefund) |
 | 4. | Application for Duty Exemption of Dutiable Goods by Industrial Users | [Web Link](http://eservices.customs.gov.sg/scripts/customs/common/eservice.asp?AppID=DED1) |
 | 5. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://form.gov.sg/#!/5ef564974cb2d20012590cb1) |
 | 6. | Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects | [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) |
