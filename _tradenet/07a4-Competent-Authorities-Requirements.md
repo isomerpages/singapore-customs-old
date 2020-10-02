@@ -77,7 +77,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
     -   [Hazardous Substances](/businesses/national-single-window/tradenet/competent-authorities-requirements/hazardous-substances)
     -   [Ozone Depleting Substances](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---chemical-control-and-management-department-ozone-depleting-substances)
     -   [Rotterdam Convention and the Interim Prior Informed Consent (PIC) Procedure](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---chemical-control-and-management-department-rotterdam-convention-pic-procedure)
--   [Radiation Protection and Nuclear Science Department (RPNSD)](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---radiation-protection-and-nuclear-science-department-rpnsd)
+-   [Radiation Protection and Nuclear Science Division (RPNSD)](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---radiation-protection-and-nuclear-science-division-rpnsd)
 
 **9) National Parks Board (NParks)**
 
