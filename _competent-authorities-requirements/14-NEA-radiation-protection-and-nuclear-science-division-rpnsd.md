@@ -1,11 +1,11 @@
 ---
-title: National Environment Agency - Radiation Protection and Nuclear Science Department (RPNSD)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---radiation-protection-and-nuclear-science-department-rpnsd
+title: National Environment Agency - Radiation Protection and Nuclear Science Division (RPNSD)
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---radiation-protection-and-nuclear-science-division-rpnsd
 third_nav_title: Competent Authorities Requirements
 ---
 
 
-# National Environment Agency - Radiation Protection and Nuclear Science Department (RPNSD)
+# National Environment Agency - Radiation Protection and Nuclear Science Division (RPNSD)
 
 ## Controlled items classified under RPNSD Controlled HS codes
 
