@@ -1,7 +1,7 @@
 ---
 title: Amendments and Cancellation of Transit Declaration
 permalink: /businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-transit-declaration
-third_nav_title: Amendments and Cancellation of Transit Declaration
+third_nav_title: Overview
 ---
 
 ## Amendment of ACTS Transit Declaration
