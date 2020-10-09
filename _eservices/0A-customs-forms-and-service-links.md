@@ -236,5 +236,15 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
+## ASEAN Customs Transit System (ACTS)
+
+| No. | Forms | Related Link |
+|--|--|--|
+| 1. | Broker and Representative Authorisation Letter | [Word Doc](/documents/eservices/Broker-and-Representative-Authorisation-Letter.docx) (20KB) |
+| 2. | Trader Application Form | [Word Doc](/documents/eservices/Trader-Application-Form.docx) (23KB) |
+| 3. | Employee Declarant Details and Authorisation Form | [Word Doc](/documents/eservices/Employee-Declarant-Details-and-Authorisation-Form.docx) (21KB) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
+
 
 
