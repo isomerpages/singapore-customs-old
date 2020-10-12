@@ -10,11 +10,12 @@ The objective of this page is to guide traders on how to participate in the ACTS
 ## What is ACTS and who can apply? 
 
 The ASEAN Customs Transit System (ACTS) is a computerised Customs transit management system available to operators who move goods across borders without paying the required duties and taxes otherwise due when the goods enter or leave the country.  Requiring only one Customs formality, it facilitates trader by allowing traders to transport goods freely between the participating ASEAN Member States*.  A truck can travel from its point of loading to its destination in a different country with no need for a different Customs declaration at each border, and no need to transfer the goods to a different truck in each country.  The duties and taxes are covered by a single guarantee for all the countries involved in the transit operation. <br>
+
 <sup>**\*Participating Member States include Cambodia, Lao PDR, Malaysia, Singapore, Thailand, Vietnam.**
 
 ## Who can apply?
 
-All traders, which includes importers, exporters, transporters, freight forwarders and Customs agents are eligible to use the ACTS to transport goods across borders.  Traders must be registered as transit traders (ATT or non-ATT) with the participating ASEAN Member States*.
+All traders, which includes importers, exporters, transporters, freight forwarders and Customs agents are eligible to use the ACTS to transport goods across borders.  Traders must be registered as transit traders (ATT or non-ATT) with the participating ASEAN Member States.
 
 Traders who are qualified to be Authorised Transit Traders (ATT) will be given certain privileges that include permission to start transit movements from their own premises at departure, and to deliver to their own premises at destination.
 
