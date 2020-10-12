@@ -98,6 +98,8 @@ collections:
   inSYNC:   
     output: true  
   certificates-of-origin:
+    output: true
+  ACTS:
     output: true  
 
 google_analytics: UA-70503404-1
