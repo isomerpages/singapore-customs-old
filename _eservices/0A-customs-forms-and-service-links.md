@@ -243,6 +243,8 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 1. | Broker and Representative Authorisation Letter | [Word Doc](/documents/eservices/Broker-and-Representative-Authorisation-Letter.docx) (20KB) |
 | 2. | Trader Application Form | [Word Doc](/documents/eservices/Trader-Application-Form.docx) (23KB) |
 | 3. | Employee Declarant Details and Authorisation Form | [Word Doc](/documents/eservices/Employee-Declarant-Details-and-Authorisation-Form.docx) (21KB) |
+| 4. | Single Journey Guarantee Document | [Word Doc](https://acts.asean.org/sites/default/files/media/acts_single_journey_guarantee_-31_august_2020.docx) (33KB) |
+| 5. | Multiple Journey Guarantee Document | [Word Doc](https://acts.asean.org/sites/default/files/media/acts_multiple_journey_guarantee_-31_august_2020.docx) (33KB) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
