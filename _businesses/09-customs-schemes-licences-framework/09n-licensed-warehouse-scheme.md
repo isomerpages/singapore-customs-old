@@ -91,7 +91,7 @@ Goods that are not fit for human consumption may be destroyed under Customs’ s
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 27Jul2020.xlsx).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 5Aug2020.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 
