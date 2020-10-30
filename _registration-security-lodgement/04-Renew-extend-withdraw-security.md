@@ -1,5 +1,5 @@
 ---
-title: How to Renew/Extend/Withdraw Security
+title: How to Renew/Extend/Discharge Security
 permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security
 third_nav_title: Security Lodgement
 ---
