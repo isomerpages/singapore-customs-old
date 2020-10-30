@@ -4,15 +4,29 @@ permalink: /businesses/new-traders-and-registration-services/registration-servic
 third_nav_title: Security Lodgement
 ---
 
-# Electronic Banker's Guarantee Programme
+# Singapore Customs Electronic Banker’s Guarantee Programme
 
-The Electronic Banker's Guarantee (eBG) Programme is implemented with effect from 2 March 2020 to provide entities with a more efficient lodgement process for Banker's Guarantee (BG).
+The Singapore Customs Electronic Banker’s Guarantee (eBG) Programme is implemented with effect from 2 Nov 2020 to provide a more efficient lodgement process for BG.
 
-Under the eBG Programme, entities will apply for a BG with the participating banks by including Customs  [Security Application form](/eservices/customs-forms-and-service-links) when submitting the application and authorising the bank to send the original BG and the digital data on behalf of the entities directly to Singapore Customs. This streamlines the BG handling process, as entities will no longer have to collect the BG from the issuing bank and send it to Singapore Customs.
+## Lodgement and Extension of eBG
 
-Once the BG has been received and successfully registered, we will send an email notification to the Primary Contact registered under the entity's Customs Account as per the current notification process. Singapore Customs shall continue to make any claims using the original BG.
+Under the Singapore Customs eBG Programme, the participating bank will seek your entity’s written consent, as the principal of the BG, to issue and digitally send the BG in electronic form (“eBG”) directly to Singapore Customs as soon as it is issued by the bank instead of hardcopy BG. You will also be able to extend the validity period of your eBG (“eExtension”) via this programme and the bank will similarly issue and digitally send the eExtension directly to Singapore Customs (note: a BG issued in the form of a hardcopy BG cannot be extended via this programme and will have to be extended as per the [existing process](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security). Each eBG /eExtension issued and digitally sent by the participating bank to Singapore Customs will be read together with the [Electronic Banker’s Guarantee Application Template](/documents/businesses/PSB/EBG-Application-Template.pdf) and [Electronic Banker’s Guarantee Extension Template](/documents/businesses/PSB/EBG-Extension-Template.pdf).
 
-For more information on the programme, you may contact the following participating banks:
+This streamlines the BG handling process, as you no longer have to collect the BG lodgement and extension from the issuing bank and send it to Singapore Customs.
+
+Once the eBG/eExtension has been received and successfully registered by Singapore Customs, we will send an email notification to the Primary Contact registered in your entity’s Customs Account as per the current notification process. 
+
+Once the eBG/eExtension has been received and successfully registered by Singapore Customs, we will send an email notification to the Primary Contact registered in your entity’s Customs Account as per the current notification process. 
+
+## Discharge of eBG
+
+If you wish to apply for an early discharge of the eBG/eExtension, you may email your request to [Customs_Documentation@customs.gov.sg](mailto:Customs_Documentation@customs.gov.sg). 
+
+Once we have confirmed that you do not have any outstanding matters with us, we will notify the Participating Bank on the discharge of the bank’s liability under the eBG/eExtension via the Networked Trade Platform and send an email notification to you. 
+
+## Further Information
+
+For more information on the programme and application procedures, you may contact the following participating banks:
 
 BNP Paribas: [https://go.gov.sg/ntp-ebgbnpp](https://go.gov.sg/ntp-ebgbnpp){:target="_blank"}
 
@@ -20,4 +34,6 @@ DBS: [https://go.gov.sg/ntp-ebgdbs](https://go.gov.sg/ntp-ebgdbs){:target="_blan
 
 OCBC: [https://go.gov.sg/ntp-ebgocbc](https://go.gov.sg/ntp-ebgocbc){:target="_blank"}
 
-UOB: [https://go.gov.sg/ntp-ebg](https://go.gov.sg/ntp-ebguob)[uob](https://go.gov.sg/ntp-ebguob){:target="_blank"}
+UOB: [https://go.gov.sg/ntp-ebguob](https://go.gov.sg/ntp-ebguob){:target="_blank"}
+ 
+
