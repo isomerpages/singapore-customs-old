@@ -13,6 +13,7 @@ The Singapore Customs Electronic Banker’s Guarantee (eBG) Programme is impleme
 Under the Singapore Customs eBG Programme, the participating bank will seek your entity’s written consent, as the principal of the BG, to issue and digitally send the BG in electronic form (“eBG”) directly to Singapore Customs as soon as it is issued by the bank instead of hardcopy BG. You will also be able to extend the validity period of your eBG (“eExtension”) via this programme and the bank will similarly issue and digitally send the eExtension directly to Singapore Customs (note: a BG issued in the form of a hardcopy BG cannot be extended via this programme and will have to be extended as per the [existing process](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security). Each eBG /eExtension issued and digitally sent by the participating bank to Singapore Customs will be read together with the [Electronic Banker’s Guarantee Application Template](/documents/businesses/PSB/EBG-Application-Template.pdf) and [Electronic Banker’s Guarantee Extension Template](/documents/businesses/PSB/EBG-Extension-Template.pdf).
 
 This streamlines the BG handling process, as you no longer have to collect the BG lodgement and extension from the issuing bank and send it to Singapore Customs.
+
 Once the eBG/eExtension has been received and successfully registered by Singapore Customs, we will send an email notification to the Primary Contact registered in your entity’s Customs Account as per the current notification process. 
 
 Once the eBG/eExtension has been received and successfully registered by Singapore Customs, we will send an email notification to the Primary Contact registered in your entity’s Customs Account as per the current notification process. 
@@ -25,5 +26,14 @@ Once we have confirmed that you do not have any outstanding matters with us, we 
 
 ## Further Information
 
-You may contact BNP Paribas, DBS, OCBC or UOB for more information on the programme and application procedures. 
+For more information on the programme and application procedures, you may contact the following participating banks:
+
+BNP Paribas: [https://go.gov.sg/ntp-ebgbnpp](https://go.gov.sg/ntp-ebgbnpp){:target="_blank"}
+
+DBS: [https://go.gov.sg/ntp-ebgdbs](https://go.gov.sg/ntp-ebgdbs){:target="_blank"}
+
+OCBC: [https://go.gov.sg/ntp-ebgocbc](https://go.gov.sg/ntp-ebgocbc){:target="_blank"}
+
+UOB: [https://go.gov.sg/ntp-ebguob](https://go.gov.sg/ntp-ebguob){:target="_blank"}
+ 
 
