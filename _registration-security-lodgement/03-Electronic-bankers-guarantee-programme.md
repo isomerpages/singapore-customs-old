@@ -16,8 +16,6 @@ This streamlines the BG handling process, as you no longer have to collect the B
 
 Once the eBG/eExtension has been received and successfully registered by Singapore Customs, we will send an email notification to the Primary Contact registered in your entity’s Customs Account as per the current notification process. 
 
-Once the eBG/eExtension has been received and successfully registered by Singapore Customs, we will send an email notification to the Primary Contact registered in your entity’s Customs Account as per the current notification process. 
-
 ## Discharge of eBG
 
 If you wish to apply for an early discharge of the eBG/eExtension, you may email your request to [Customs_Documentation@customs.gov.sg](mailto:Customs_Documentation@customs.gov.sg). 
