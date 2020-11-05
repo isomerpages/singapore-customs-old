@@ -42,3 +42,22 @@ Highlights:
 -   Updates to countries' Strategic Trade Control
 -   Sanctions on Export Controls
 -   Panel discussions by government agencies and local companies
+
+Presentation materials:
+
+-   [Agenda](/documents/businesses/TSSB/JIO2020-Agenda.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Netherlands)](/documents/businesses/TSSB/JIO2020-1stPanel-Netherlands.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Japan)](/documents/businesses/TSSB/JIO2020-1stPanel-Japan.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (US)](/documents/businesses/TSSB/JIO2020-1stPanel-US.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Germany)](/documents/businesses/TSSB/JIO2020-1stPanel-Germany.pdf)
+-   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Philippines)](/documents/businesses/TSSB/JIO2020-2ndPanel-Philippines.pdf)
+-   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Malaysia)](/documents/businesses/TSSB/JIO2020-2ndPanel-Malaysia.pdf)
+-   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Singapore)](/documents/businesses/TSSB/JIO2020-2ndPanel-Singapore.pdf)
+-   [3rd Panel Discussion: Sanctions in Export Control](/documents/businesses/TSSB/JIO2020-3rdPanel-BIS.pdf)
+-   [3rd Panel Discussion: Sanctions in Export Control](/documents/businesses/TSSB/JIO2020-3rdPanel-OFAC.pdf)
+-   [4th Panel Discussion: Industry and Academia Technology Control Best Practices](/documents/businesses/TSSB/JIO2020-4thPanel-NetApp.pdf)
+-   [4th Panel Discussion: Industry and Academia Technology Control Best Practices](/documents/businesses/TSSB/JIO2020-4thPanel-Deloitte.pdf)
+-   [4th Panel Discussion: Industry and Academia Technology Control Best Practices](/documents/businesses/TSSB/JIO2020-4thPanel-Hokkaido.pdf)
+-   [Germany's Export Controls in Academic and Research Environments](/documents/businesses/TSSB/JIO2020-Day2-Export controls in academic and research environment.pdf)
+-   [Day 2: Export Controls, Academia and Research: the Twain Shall Meet?](/documents/businesses/TSSB/JIO2020-Day2-AlexLopes.pdf)
+-   [Day 3: Emerging Technology Threats and Export Control Challenges](/documents/businesses/TSSB/JIO2020-Day3-EmergingTech.pdf)
