@@ -8,7 +8,7 @@ third_nav_title: Courses and Events
 
 ![banner.png](/images/TSSB_Outreach2020.png)
 
-**REGISTRATION IS NOW OPEN**
+**REGISTRATION IS NOW CLOSED**
 
 Joint Industry Outreach Seminar on Strategic Trade Management 2020
 
