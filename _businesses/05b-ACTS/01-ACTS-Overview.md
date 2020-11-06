@@ -19,9 +19,9 @@ All traders, which includes importers, exporters, transporters, freight forwarde
 
 Traders who are qualified to be Authorised Transit Traders (ATT) will be given certain privileges that include permission to start transit movements from their own premises at departure, and to deliver to their own premises at destination.
 
-## Additional Information: 
+### Additional Information: 
 
-**ASEAN Goods Vehicle Cross-Border Permit (AGVCBP)**
+**ASEAN Goods Vehicle Cross-Border Permit (AGVCBP)**<br>
 Vehicles that are used to transport goods under the ACTS must each be allocated with the ASEAN Goods Vehicle Cross-Border Permit (AGVCBP). For more information on the AGVCBP and its application procedures, please visit the [AGVCBP webpage](https://acts.asean.org/traders-guide/ASEAN-goods){:target="_blank"}  or contact LTA via the online feedback form: [https://www.lta.gov.sg/feedback/](https://www.lta.gov.sg/feedback/){:target="_blank"}. 
 
 
