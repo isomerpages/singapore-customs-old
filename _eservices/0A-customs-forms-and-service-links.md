@@ -190,8 +190,8 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 9. | Claimant Application by Foreign Military Forces | [Web Link](https://form.gov.sg/5d2552a250efd50018fe30ac) |
 | 10. | Claimant Application by Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://form.gov.sg/5d2301ea6312c30018383627) |
 | 11. | Claimant Application by International Organisations supported by an agency other than the MFA | [Web Link](https://form.gov.sg/5d03113d2ce4bb0011a8801e) |
-| 12. | Security Application Form | [Word Doc](/documents/eservices/Security-Application-Form.doc) (44KB) |
-| 13. | Security Extension Form  <br> (Applicable only for new security lodged from 15 April 2019) | [Word Doc](/documents/eservices/Security-Extension-form.doc) (36KB) |
+| 12. | Security Application Template | [Word Doc](/documents/eservices/Security-Application-template.doc) (44KB) |
+| 13. | Security Extension Template  <br> (Applicable only for new security lodged from 15 April 2019) | [Word Doc](/documents/eservices/Security-Extension-template.doc) (36KB) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
