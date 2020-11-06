@@ -14,4 +14,7 @@ You should cancel an ACTS declaration if it is not utilised for transit movement
   - Cancellation of shipment; and 
   - TAD could not be printed / used etc.
 
-
+:.mobile-block}
+|  |  |  |  |
+|--|--|--|--|
+|[![](/images/ACTS/Overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/ACTS/Registration-and-ACTS-Declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration)|[![](/images/ACTS/Customs-Forms-&-Service-Links.jpg)](/eservices/customs-forms-and-service-links)| [![](/images/ACTS/Useful-Links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
