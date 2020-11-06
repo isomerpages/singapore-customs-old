@@ -28,20 +28,11 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/sc
 | **Past and Upcoming Events for Traders under Specific Schemes** | [Web Link](/businesses/business-resources/courses-and-events/events-for-traders) |
 | **Customs Competency Test for Declarants** | [Web Link](https://go.gov.sg/sc401) |
 
-
-
-## Upcoming Events
-
-| Date | Title | Related Link |
-|---|---|---|
-|29 Sep 2020 - 1 Oct 2020|Joint Industry Outreach Seminar on Strategic Trade Management 2020|[Web Link](/businesses/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2020)|
-
-
-
 ## Past Events
 
 | Date | Title | Related Link |
 |---|---|---|
+|29 Sep 2020 - 1 Oct 2020|Joint Industry Outreach Seminar on Strategic Trade Management 2020|[Web Link](/businesses/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2020)|
 |14 Oct 2019|Joint Industry Outreach Seminar on Strategic Trade Management 2019|[Web Link](/businesses/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2019)|
 | 3 Dec 2018 | Joint Industry Outreach Seminar on Strategic Trade Management 2018 | [Web Link](/businesses/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2018) |
 | 20 Jul 2017 | Joint Industry Outreach Seminar on Strategic Trade Management 2017 | [Web Link](/businesses/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2017) |
