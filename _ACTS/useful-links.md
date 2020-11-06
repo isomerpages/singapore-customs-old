@@ -10,3 +10,8 @@ third_nav_title: Overview
   - [Procedures Manual for Principals and Transporters](https://acts.asean.org/traders-guide/procedures-manual-principals-and-transporters){:target="_blank"} 
   - [ACTS Trader Portal](https://acts.asean.org/traders-guide/acts-trader-portal){:target="_blank"} 
   - [ACTS list of Frequently Asked Questions](/documents/businesses/FAQ-on-ACTS.pdf)
+
+{:.mobile-block}
+|  |  |  |  |
+|--|--|--|--|
+|[![](/images/ACTS/Overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/ACTS/Registration-and-ACTS-Declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration)|[![](/images/ACTS/Amendments-and-Cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration)|[![](/images/ACTS/Customs-Forms-&-Service-Links.jpg)](/eservices/customs-forms-and-service-links)| 
