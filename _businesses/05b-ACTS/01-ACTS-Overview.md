@@ -28,5 +28,5 @@ Vehicles that are used to transport goods under the ACTS must each be allocated 
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-|[![](/images/ACTS/Registration-and-ACTS-Declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration)|[![](/images/ACTS/Amendments-and-Cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-transit-declaration)| [![](/images/ACTS/Customs-Forms-&-Service-Links.jpg)](/eservices/customs-forms-and-service-links)| [![](/images/ACTS/Useful-Links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
+|[![](/images/ACTS/Registration-and-ACTS-Declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration)|[![](/images/ACTS/Amendments-and-Cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration)| [![](/images/ACTS/Customs-Forms-&-Service-Links.jpg)](/eservices/customs-forms-and-service-links)| [![](/images/ACTS/Useful-Links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
 
