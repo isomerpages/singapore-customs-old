@@ -6,6 +6,8 @@ third_nav_title: New Traders And Registration Services
 
 # Quick Guide for New Traders and Registration Services
 
+## [Permit Application Overview Guide](/documents/businesses/PSB/Permit Application Overview Guide.pdf)
+
 ## Activating a Customs Account
 
 Declaring entities such as importers, exporters, shipping agents, air cargo agents, freight forwarders, common carriers, individuals carrying on business under their full name and other persons who intend to:
