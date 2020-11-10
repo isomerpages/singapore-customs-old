@@ -6,11 +6,11 @@ third_nav_title: Certificates of Origin
 
 ## How to cancel a Certificate of Origin?
 
-A CO that is not utilised shall be returned to Singapore Customs with a cover letter stating the request for cancellation. You may send it to:
+A CO that is not utilised shall be returned to Singapore Customs with a cover letter stating the request for cancellation. You may send through mail or drop it at the drop box located at:
 
 Tariffs and Trade Services Branch (Rules of Origin Unit)  
 Singapore Customs  
-55 Newton Road #06-01  
+55 Newton Road #02-01  
 Revenue House  
 Singapore 307987
 
