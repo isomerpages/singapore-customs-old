@@ -54,7 +54,6 @@ Presentation materials:
 -   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Malaysia)](/documents/businesses/TSSB/JIO2020-2ndPanel-Malaysia.pdf)
 -   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Singapore)](/documents/businesses/TSSB/JIO2020-2ndPanel-Singapore.pdf)
 -   [3rd Panel Discussion: Sanctions in Export Control (BIS)](/documents/businesses/TSSB/JIO2020-3rdPanel-BIS.pdf)
--   [3rd Panel Discussion: Sanctions in Export Control- (OFAC)](/documents/businesses/TSSB/JIO2020-3rdPanel-OFAC.pdf)
 -   [4th Panel Discussion: Industry and Academia Technology Control Best Practices (NetApp)](/documents/businesses/TSSB/JIO2020-4thPanel-NetApp.pdf)
 -   [4th Panel Discussion: Industry and Academia Technology Control Best Practices (Deloitte)](/documents/businesses/TSSB/JIO2020-4thPanel-Deloitte.pdf)
 -   [4th Panel Discussion: Industry and Academia Technology Control Best Practices (Hokkaido University)](/documents/businesses/TSSB/JIO2020-4thPanel-Hokkaido.pdf)
