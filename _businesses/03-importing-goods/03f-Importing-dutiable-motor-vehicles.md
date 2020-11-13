@@ -27,13 +27,12 @@ Once the approval letter is received, the importer should submit an In-Payment (
 
 The following fields are required to be entered exactly as stated in the approval letter: </br>
     a) Country of Origin <br>
-    b) Incoterm </br>
+    b) Incoterm <br>
     c) Unit Price and currency code <br>
     d) Invoice No. <br>
-    e) Product Code </br>
+    e) Product Code <br>
     f) CA/SC Code 1: Engine Number <br>
     g) CA/SC Code 2: Chassis Number <br>
-
 
 A declaring agent or freight forwarder can be appointed to submit the permit on the importer's behalf.
 
