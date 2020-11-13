@@ -23,7 +23,19 @@ Once the application is approved, an approval letter from Singapore Customs cont
 
 **Step 3: Payment of Duties and Goods & Services Tax (GST)**
 
-Once the approval letter is received, the importer should submit an In-Payment (Duty and GST) permit through TradeNet.
+Once the approval letter is received, the importer should submit an In-Payment (Duty and GST) permit through TradeNet within 3 months from the date stated in the approval letter.
+
+The following fields are required to be entered exactly as stated in the approval letter:
+|  |  |
+|--|--|
+| a) | Country of Origin |
+| b) | Incoterm |
+| c) | Unit Price and currency code |
+| d) | Invoice No. |
+| e) | Product Code |
+| f) | CA/SC Code 1: Engine Number |
+| g) | CA/SC Code 2: Chassis Number |
+
 
 A declaring agent or freight forwarder can be appointed to submit the permit on the importer's behalf.
 
