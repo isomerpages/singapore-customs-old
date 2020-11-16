@@ -200,7 +200,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Application for Determination of Strategic Goods | [Web Link](https://form.gov.sg/5d78b89628467500121ef098) |
-| 2. | Annex A - Product Questionnaire (a) A-1 Cryptography | [PDF](/documents/eservices/SC-A-064A - A1 Cryptography Product Questionnaire.pdf) |
+| 2. | Annex A - Product Questionnaire (a) A-1 Cryptography | [PDF](/documents/eservices/AnnexA1.pdf |
 | 3. | Annex A - Product Questionnaire (b) A-2 Machine Tools | [PDF](/documents/eservices/AnnexA2.pdf) |
 | 4. |  Annex A - Product Questionnaire (c) A-3 Biological Product | [PDF](/documents/eservices/AnnexA3.pdf) |
 | 5. | Application Form for Seeking In-principle Approval from the UNSC Procurement Channel | [Web Link](https://form.gov.sg/#!/5f06d4ec3583420013aeb0f1) |
