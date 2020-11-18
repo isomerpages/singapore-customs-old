@@ -32,6 +32,8 @@ DBS: [https://go.gov.sg/ntp-ebgdbs](https://go.gov.sg/ntp-ebgdbs){:target="_blan
 
 OCBC: [https://go.gov.sg/ntp-ebgocbc](https://go.gov.sg/ntp-ebgocbc){:target="_blank"}
 
+SMBC: [https://go.gov.sg/ntp-ebgsmbc](https://go.gov.sg/ntp-ebgsmbc){:target="_blank"}
+
 UOB: [https://go.gov.sg/ntp-ebguob](https://go.gov.sg/ntp-ebguob){:target="_blank"}
  
 
