@@ -46,7 +46,7 @@ To facilitate clearance, the importer should arrange with the overseas sender to
 -   If a postal parcel contains controlled goods, the postal parcel will be detained by ICA and subject to assessment by the relevant Competent Authority(s) (“CA”). 
 -   The importer will be informed through an email from SingPost to apply for the necessary authorisation online from the relevant CA. 
 -   Certain CAs may require the importer to take up a customs permit to account for the importation of the controlled goods. In such cases, the CA will notify the importer and the importer should apply for a customs permit accordingly.
--   Once the customs permit is taken (if required) and relevant CA authorisation is obtained, the postal parcel would be clearedThe importer will be notified if this is required, and you should present the permit, if required, for clearance by ICA and SingPost would deliver when collecting the postal parcel to the importer’s address.
+-   Once the customs permit is taken (if required) and relevant CA authorisation is obtained, the postal parcel would be cleared by ICA and SingPost would deliver the postal parcel to the importer’s address.
 
 ## Goods Delivered to Companies Operating within Free Trade Zones
 
