@@ -15,7 +15,7 @@ _Note: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC S
 | **Iraq** |  | Arms and related matérieland their means of production. |
 | **Lebanon** |  | Arms and related matériel. |
 | **Libya** | Arms and related matériel. | Arms and related matériel. |
-| **Somalia** | Charcoal. | Arms and related matériel. |
+| **Somalia** | Charcoal. | Arms and related matériel. Explosive materials and mixtures. Explosive related goods. Technology required to produce explosive materials and mixtures and explosive related goods. |
 | **South Sudan** |  | Arms and related matériel. |
 | **Sudan** |  | Arms and related matériel to all the territory of Darfur, including the new states of Eastern and Central Darfur. |
 | **Syria**  | Chemical weapons, related equipment, goods and technology. | Chemical weapons. |
