@@ -88,12 +88,12 @@ This solution is free for existing TradeNet declaring agents. Please register wi
 
 Those interested to provide a TradeNet front-end solution can email to  [Customs_tradenet@customs.gov.sg](mailto:Customs_tradenet@customs.gov.sg) with the following information for our assessment:
 
--   Company name, UEN and background
--   Company director / owner and contact number
--   Nature of business
--   Proposed TradeNet solution plan (for example, as a stand-alone software solution, integrated solution or direct system to system solution)
--   Location of servers (local or overseas), and if overseas, please indicate the country where the server is to be hosted
--   System support team (local or overseas), and if overseas, please indicate the country where the support team is to be based in
+-   Company name, UEN and background (including whether the company is based in Singapore or has an office registered in Singapore);
+-   Company director / owner and contact number;
+-   Nature of business;
+-   Proposed TradeNet solution plan i.e. as a stand-alone software solution, integrated solution or direct system to system solution;
+-   Location of servers (local or overseas) - for overseas, please indicate the country where the server is to be hosted;
+-   System support team (local or overseas) - for overseas, please indicate the country where the support team is to be based in.
 
 Successful applicants will be notified via email for the TradeNet message specifications.
 
