@@ -22,7 +22,7 @@ Download the [Security Application Form](/eservices/customs-forms-and-service-li
 Registration Unit <br>
 Procedures & Systems Branch  
 Singapore Customs  
-55 Newton Road #09-01  
+55 Newton Road #02-01  
 Revenue House  
 Singapore 307987
 
