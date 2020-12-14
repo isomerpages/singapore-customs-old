@@ -19,7 +19,7 @@ More information on the electronic transmission of Form D via the ASW can be fou
 
 With effect from 1 May 2020, China has implemented full electronic transmission of Preferential Certificate of Origin (PCO) for acceptance on goods from Singapore under the Electronic Origin Data Exchange System (EODES). To assist your customers in China to enjoy a seamless clearance of the goods, exporters and their appointed declaring agents/freight forwarders are encouraged to leverage on the International Connectivity Preferential Certificate of Origin (IC PCO) service on Networked Trade Platform (NTP). More information on how you could sign up for the IC PCO service can be found in [Notice 18/2019](/news-and-media/notices/2019-10-15-N.pdf) under News and Media > Notices.
 
-For more information on EODES, you may wish to download the [handbook](/documents/businesses/EODES%20handbook%20June%202020.pdf). 
+For more information on EODES, you may wish to download the [handbook](/documents/businesses/Transmission%20and%20Receipt%20of%20Electronic%20Preferential%20Certificate%20of%20Origin%20via%20Networked%20Trade%20Platform%20(Dec%202020).pdf). 
 
 ## What is an ordinary Certificate of Origin?
 
