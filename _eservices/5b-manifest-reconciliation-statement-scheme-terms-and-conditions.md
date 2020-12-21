@@ -1,5 +1,5 @@
 ---
-title: Mainifest Reconciliation Statement Scheme Terms and Conditions 
+title: Manifest Reconciliation Statement Scheme Terms and Conditions 
 Permalink: /eservices/manifest-reconciliation-statement-scheme
 third_nav_title: Manifest Reconciliation Statement (MRS) Scheme
 ---
