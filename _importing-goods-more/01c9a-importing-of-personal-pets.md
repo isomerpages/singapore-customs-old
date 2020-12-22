@@ -34,7 +34,7 @@ An importer who is transferring residence to Singapore (including returning Sing
 -   That such person satisfies Customs that:
 
     -   He is changing his place of residence from outside Singapore;
-    -   He is the owner of the pet(s) imported; and 
+    -   He is the owner of the pet(s) imported; 
     -   He gives an undertaking not to dispose of the pet(s) within 3 months from the date of importation of such pet(s); and 
     -   The pet(s) have been in his ownership for a period of not less than 3 months; 
     
