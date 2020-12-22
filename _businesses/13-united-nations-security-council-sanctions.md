@@ -80,9 +80,9 @@ You are also reminded to comply with any stipulated permit conditions.
 
 While Singapore does not enforce [unilateral sanctions](/businesses/strategic-goods-control/sanctioned-lists-and-red-flags) imposed by other countries, you may wish to conduct proper due diligence checks to ensure that your business is not at risk. Where legal advice is required, please seek advice from your legal advisors.
 
-## Other UNSC Sanctioned Countries
+## Other Countries pursuant to UNSC Sanctions or Regulations
 
--   [List of Prohibited Items to or from Other UNSC Sanctioned Countries](/businesses/united-nations-security-council-sanctions/prohibited-items-unsc-sanctioned-countries)
+-   [List of Prohibited Items to or from Other Countries pursuant to UNSC Sanctions or Regulations](/businesses/united-nations-security-council-sanctions/prohibited-items-unsc-sanctioned-countries)
 
 ### Permit Requirements
 

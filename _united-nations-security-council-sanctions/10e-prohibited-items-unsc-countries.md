@@ -1,10 +1,10 @@
 ---
-title: List of Prohibited Items to or from Other UNSC Sanctioned Countries
-permalink: /businesses/united-nations-security-council-sanctions/prohibited-items-unsc-sanctioned-countries
+title: List of Prohibited Items to or from Other Countries pursuant to UNSC Sanctions or Resolutions
+permalink: /businesses/united-nations-security-council-sanctions/prohibited-items-unsc-countries
 third_nav_title: United Nations Security Council Sanctions
 ---
 
-### List of Prohibited Items to or from Other UNSC Sanctioned Countries
+### List of Prohibited Items to or from Other Other Countries pursuant to UNSC Sanctions or Resolutions
 
 _Note: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC Sanctions Committees website_](https://www.un.org/sc/suborg/en/){:target="_blank"}. Where legal advice is required, please seek advice from your legal advisors._
 

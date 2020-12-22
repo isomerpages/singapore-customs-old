@@ -17,7 +17,7 @@ Importing used household articles and personal effects into Singapore will incur
 
 You are required to  [apply](/businesses/importing-goods/import-procedures/) for a Customs In-Payment (GST) permit to account for the import and the payment of GST.
 
-You may be eligible for GST relief. Please see the tabs below for more information on the criteria for GST relief, application procedures and the types of used household or personal goods permitted for import.
+Please see the tabs below for more information on the criteria for GST relief, application procedures and the types of used household or personal goods permitted for import.
 
 ## How to Qualify for GST Relief
 GST relief may be granted on imports of used household articles and personal effects to:
@@ -29,16 +29,12 @@ The GST relief is subject to the following conditions:
 
 -   That such person satisfies Customs that:
     
-    -   He is changing his place of residence to Singapore;
-    -   He is the owner of the articles, personal effects and [personal pet](/businesses/importing-goods/import-procedures/importing-of-personal-pets) imported;
-    -   The articles and personal effects have been in his possession and used for at least 3 months; and
-    -   The articles and personal effects are imported through air or sea.
+    -   He is changing his place of residence from outside Singapore;
+    -   He is the owner of the articles and personal effects imported;
+    -   The articles and personal effects have been in his possession and used for a period of not less than 3 months; and
+    -   He gives an undertaking not to dispose of the articles and personal effects within 3 months from the date of importation of such articles and personal effects.
 
--   The articles, personal effects and personal pets are imported within 6 months of his first arrival in Singapore.
-
--   An undertaking is provided not to dispose the articles and personal effects within 3 months from the date of import.
-
-For returning Singaporeans and PRs, they must have resided in a foreign country for more than 6 months to qualify for this GST relief.
+-   The articles and personal effects and personal pets are imported within 6 months of his first arrival in Singapore.
 
 ***
 

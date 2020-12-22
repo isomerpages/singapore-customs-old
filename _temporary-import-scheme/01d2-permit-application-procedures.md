@@ -25,8 +25,6 @@ Traders should follow these procedures to apply for permits for temporary import
     -   Bill of Lading/Airway Bill
     -   Any other documents as specified by Singapore Customs
     
-    For motor vehicles imported for repairs, [you](/documents/businesses/TI-Repair-Importer1-09Feb2011.doc) and the [contracted repair workshop](/documents/businesses/TI-Repair-Workshop1-09Feb2011.doc) are required to fill up additional forms and submit it to Customs with the rest of the above supporting documents.
-    
 4.  Produce the permit and supporting documents for endorsement by checkpoint officers during import cargo clearance.
 5.  For re-exportation of goods imported under TIS, apply for a corresponding Customs Out (Temporary Consignment) permit via TradeNet before the actual export. The previous In-Non Payment permit number must be declared in the “Previous Permit No.” field.
 6.  Produce the permit and supporting documents for endorsement by checkpoints officers during export cargo clearance.
