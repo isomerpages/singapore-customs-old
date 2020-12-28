@@ -153,7 +153,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Agent's Application for Product Code | [Web Link](https://form.gov.sg/5e7db3d7b62f4d0011b83dc5) |
+| 1. | Agent's Application for Product Code | [Web Link](https://form.gov.sg/5fcee9cad88081001113d220) |
 | 2. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/5ccac0a442502b00107a9554) |
 | 3. | Application for Authorisation of Petroleum Refund Users | [Web Link](https://form.gov.sg/5f742694e6dc3a0011138bad) |
 | 4. | Application for Duty Exemption of Dutiable Goods by Industrial Users | [Web Link](http://eservices.customs.gov.sg/scripts/customs/common/eservice.asp?AppID=DED1) |
@@ -163,7 +163,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 | 8. | Application for Licensed Premises | [Web Link](http://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp) |
 | 9. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4) |
 | 10. | Big-Eye Tuna Re-export Certificate | [Word Doc](/documents/eservices/Big-Eye-Tuna.doc) (589KB) |
-| 11. | Declaration of Facts for Motor Vehicles | [Web Link](https://form.gov.sg/#!/5e7d9c335b72a90011738341) |
+| 11. | Declaration of Facts for Motor Vehicles | [Web Link](https://form.gov.sg/5f7a63fd08843500118e1d01) (for Individual Importer) <br><br> [Web Link](https://form.gov.sg/5f7a6430482e1200114bad08) (for Parallel Importer) |
 | 12. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
 | 13. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
 | 14. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP) |
