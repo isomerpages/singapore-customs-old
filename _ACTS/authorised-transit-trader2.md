@@ -4,8 +4,6 @@ permalink: /businesses/asean-customs-transit-system/overview/authorised-transit-
 third_nav_title: Overview
 ---
 
-This is a test
-
 # Authorised Transit Trader (ATT)
 
 ## What is it?
