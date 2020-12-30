@@ -248,5 +248,13 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
+## ASEAN Customs Declaration Document (ACDD)
+
+| No. | Forms | Related Link |
+|--|--|--|
+| 1. | Participation in the ASEAN Exchange of ACDD and Authorisation of Declaring Agent for ACDD | [Web Link](https://form.gov.sg/#!/5c9dd6bf5b6b230017d50306) |
+
+[Back to Top](/eservices/customs-forms-and-service-links)
+
 
 
