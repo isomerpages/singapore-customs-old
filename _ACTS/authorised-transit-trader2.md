@@ -1,6 +1,6 @@
 ---
 title: Authorised Transit Trader
-permalink: /businesses/asean-customs-transit-system/overview/authorised-transit-trader2
+permalink: /businesses/asean-customs-transit-system/overview/att
 third_nav_title: Overview
 ---
 
