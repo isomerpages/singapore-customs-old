@@ -1,5 +1,5 @@
 ---
-title: Authorised Trasit Trader
+title: Authorised Transit Trader
 permalink: /businesses/asean-customs-transit-system/overview/authorised-transit-trader
 third_nav_title: Overview
 ---
