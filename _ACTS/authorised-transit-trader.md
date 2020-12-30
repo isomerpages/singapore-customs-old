@@ -1,7 +1,7 @@
 ---
 title: Authorised Trasit Trader
 permalink: /businesses/asean-customs-transit-system/overview/authorised-transit-trader
-third_nav_title: ASEAN Customs Transit System (ACTS)
+third_nav_title: Overview
 ---
 
 # Authorised Transit Trader (ATT)
