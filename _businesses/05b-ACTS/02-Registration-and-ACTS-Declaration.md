@@ -64,5 +64,6 @@ Please note that existing domestic clearance procedures would still apply.
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-|[![](/images/ACTS/Overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/ACTS/Amendments-and-Cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration)| [![](/images/ACTS/Customs-Forms-&-Service-Links.jpg)](/eservices/customs-forms-and-service-links)| [![](/images/ACTS/Useful-Links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
+|[![](/images/ACTS/Overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/ACTS/Amendments-and-Cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration)|[![](/images/ACTS/ATT.jpg)](/businesses/asean-customs-transit-system/overview/authorised-transit-trader)| [![](/images/ACTS/Customs-Forms-&-Service-Links.jpg)](/eservices/customs-forms-and-service-links)|
+| [![](/images/ACTS/Useful-Links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
 
