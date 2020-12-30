@@ -1,6 +1,6 @@
 ---
 title: Useful Links 
-permalink: /businesses/ASEAN-Customs-Transit-System/overview/useful-links
+permalink: /businesses/asean-customs-transit-system/overview/useful-links
 third_nav_title: Overview
 ---
 

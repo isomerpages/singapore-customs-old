@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/ASEAN-Customs-Transit-System/overview
+permalink: /businesses/asean-customs-transit-system/overview
 third_nav_title: ASEAN Customs Transit System (ACTS)
 ---
 # ASEAN Customs Transit System (ACTS)
