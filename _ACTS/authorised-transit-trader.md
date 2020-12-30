@@ -32,7 +32,7 @@ Checkpoint, where the existing domestic clearance procedures would still apply.
 To qualify for the ATT status, the company must:
 
 - Have a valid Customs Account.
-- Be registered as transit traders by the Customs administration in ACTS. Traders may submit the application forms to Customs_Documentation@customs.gov.sg.
+- Be registered as transit traders by the Customs administration in ACTS. Traders may submit the application forms to [Customs_Documentation@customs.gov.sg](mailto:Customs_Documentation@customs.gov.sg).
 - Applicants need to have frequent transit movements and must lodge full Banker’s Guarantee.
 - Applicants to self-declare and fulfil all the criteria in the ATT application form
 - Have good compliance records with Singapore Customs.
@@ -40,8 +40,8 @@ To qualify for the ATT status, the company must:
 
 ## How to Apply?
 
-Qualified traders who are interested in becoming an ATT, please submit the ATT application form.
+Qualified traders who are interested in becoming an ATT, please submit the [ATT application form](https://form.gov.sg/5f83db6857b6f30011dadd06){:target="_blank"}.
 
 We will contact you to follow up on your application.
 
-For further assistance, kindly contact us at customs_schemes@customs.gov.sg.
+For further assistance, kindly contact us at [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
