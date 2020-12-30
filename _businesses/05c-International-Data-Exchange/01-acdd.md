@@ -1,7 +1,7 @@
 ---
-title: Overview
+title: ASEAN Customs Declaration Document (ACDD)
 permalink: /businesses/international-data-exchange/acdd
-third_nav_title: ASEAN Customs Declaration Document (ACDD)
+third_nav_title: International Data Exchange
 ---
 ## Electronic submission of the ASEAN Customs Declaration Document (ACDD) via the ASEAN Single Window (ASW)
 
