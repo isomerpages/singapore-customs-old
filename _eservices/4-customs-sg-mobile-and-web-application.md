@@ -165,7 +165,7 @@ e.	Whether there was any pop-up message while the traveller was making the decla
 The terms and conditions for use of the **Customs@SG** /web application for declaration and payment of duty and/or Goods and Services Tax (GST) are as follows:
 
 -   All information furnished to Singapore Customs is true and correct;
--   The  traveller must be aged 20 years or above when submitting a declaration and payment for cigarettes and/or tobacco products;
+-   The  traveller must be aged 21 years or above when submitting a declaration and payment for cigarettes and/or tobacco products;
 -   The travellers will have to ensure that their cigarettes and/or tobacco products comply with the Standardised Packaging (SP) requirements;
 -   The e-receipt for payment issued through the mobile app or web application is valid only on the date of arrival and at the place of arrival, as declared by the traveller;
 -   The  traveller will have to declare additional goods that are not covered by a successful declaration made through the mobile app or web application at the Customs Tax Payment Office or Customs Red Channel upon arrival in Singapore, and pay the duty and/or GST chargeable on the goods. Failure to declare goods subject to duty and/or GST is an offence;

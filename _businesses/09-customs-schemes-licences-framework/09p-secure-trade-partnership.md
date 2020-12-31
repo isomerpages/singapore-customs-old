@@ -68,13 +68,13 @@ To qualify for the STP, the company must:
 -   Have good compliance records with Singapore Customs
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Intermediate” and “Premium” bands to qualify for the STP and STP-Plus certifications respectively
 
-Click  [here](/documents/businesses/SEB/STP Handbook May 2019.pdf) for the Handbook on Secure Trade Partnership
+Click  [here](/documents/businesses/SEB/STP Handbook Jan 2021.pdf) for the Handbook on Secure Trade Partnership
 
 ## How to Apply?
 
 **Step 1**: Complete the Application Form for STP at this link:  [www.go.gov.sg/stp-application](http://www.go.gov.sg/stp-application).
 
-**Step 2**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 5Aug2020.xlsx) and relevant Annexes. Explanatory notes on how to fill up the checklist can be found in the TradeFIRST Dictionary.
+**Step 2**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jan2021.xlsx) and relevant Annexes. Explanatory notes on how to fill up the checklist can be found in the TradeFIRST Dictionary.
 
 **Step 3**: Prepare these additional supporting documents:
 
@@ -89,7 +89,7 @@ Click  [here](/documents/businesses/SEB/STP Handbook May 2019.pdf) for the Handb
 
 **1)** **What are the requirements to obtain STP or STP-Plus certification?**
 
-To attain the STP certification, a company has to meet most of the requirements in the STP guidelines and criteria, and achieve at least an “Intermediate” band under the TradeFIRST assessment.
+To attain the STP certification, a company has to meet the stipulated requirements in the STP guidelines and criteria, and achieve at least an “Intermediate” band under the TradeFIRST assessment. The STP certification may last up to 3 years.
 
 For the STP-Plus certification, a company must meet all the stipulated requirements in the STP guidelines and criteria, and achieve the “Premium” band under the TradeFIRST assessment. The STP-Plus certification will last for 3 years.
 

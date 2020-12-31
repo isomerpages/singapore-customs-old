@@ -14,10 +14,3 @@ The Annual Declaration of Past Activities (ADPA) Exercise for Year 2020 will com
 
 
 
-
-**30 Oct 2020**
-
-**Chemical Weapons Convention Licence Renewal Exercise for Year 2021**
-
-The Chemical Weapons Convention (CWC) Licence Renewal exercise for Year 2021 will commence from 30 Oct 2020 to 31 Dec 2020. Companies engaging in the controlled activities may submit the licence renewal applications by 31 Dec 2020. Please fill out the licence application forms which can be accessed from the [Chemical Weapons Convention Forms section on the Customs Forms and Service Links page.](/eservices/customs-forms-and-service-links)
-
