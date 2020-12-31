@@ -68,6 +68,11 @@ International Data Exchange” under the “CPC” field is available for the fo
 |--|--|
 | OUT | APS (Approved Premises / Schemes)|
 |  | DRT (Direct) |
+|  | TCS (Temporary Consignments previously imported with/without sales) |
+|  | TCR (Temporary Consignments previously imported for repair) |
+|  | TCE (Temporary Consignments previously imported for exhibition) |
+|  | TCO (Temporary Consignments previously imported for other purposes) |
+|  | TCI (Temporary Consignments for export / re-import of local goods) |
 | INP (In-Non Payment)| REX (Re-Export) | 
 
 ## For more information:
