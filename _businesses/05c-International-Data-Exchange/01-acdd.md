@@ -40,11 +40,11 @@ To a) withdraw from participation in the electronic exchange of ACDD and withdra
 **Step 2: TradeNet Declaration Procedures**<br><br> 
 There will be no change to the TradeNet permit application procedures. To authorise Singapore Customs to send the ACDD to an importing exchange-ready AMS (specified in the “country of final destination” field in the export permit), the Declaring Agent has to:<br>
 
-  a)	Select “International Permit Exchange” under the “Customs Procedure Code (CPC)” field; and<br>
+  a)	Select “International Data Exchange” under the “Customs Procedure Code (CPC)” field; and<br>
   b)	Key in “ACDD” at the “Procedure Code 1 (PC1)” field.
 
 Please note amendments to and/or cancellation of TradeNet permit applications will not be sent to the Customs authority of the importing exchange-ready AMS, as these functionalities are currently not available for ACDD.
 
 ## For more information:
-1.	Circular XX/2020: Live operation for the electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)
+1.	Circular 14/2020: Live operation for the electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)
 2.	Frequently Asked Questions
