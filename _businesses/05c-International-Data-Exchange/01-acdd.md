@@ -64,6 +64,11 @@ Please note that amendments to and/or cancellation of TradeNet permit applicatio
 
 International Data Exchange” under the “CPC” field is available for the following message and declaration types as shown below:
 
+| Message Type | Declaration Type Reference |
+|--|--|
+| OUT | APS (Approved Premises / Schemes)|
+|  | DRT (Direct) |
+| INP (In-Non Payment)| REX (Re-Export) | 
 
 ## For more information:
 1.	Circular 14/2020: Live operation for the electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)
