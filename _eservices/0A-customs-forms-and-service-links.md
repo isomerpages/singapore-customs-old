@@ -252,7 +252,7 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | Participation in the ASEAN Exchange of ACDD and Authorisation of Declaring Agent for ACDD | [Web Link](https://form.gov.sg/#!/5fc60a46ea38000011cc5e29) |
+| 1. | Participation in the ASEAN Exchange of ACDD and Authorisation of Declaring Agent for ACDD | [Web Link](https://form.gov.sg/5fc60a46ea38000011cc5e29) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
