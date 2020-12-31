@@ -76,5 +76,5 @@ International Data Exchange” under the “CPC” field is available for the fo
 | INP (In-Non Payment)| REX (Re-Export) | 
 
 ## For more information:
-a.	Circular 14/2020: Live operation for the electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)
+a.	Circular 14/2020: Live operation for the electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)<br>
 b.	Frequently Asked Questions
