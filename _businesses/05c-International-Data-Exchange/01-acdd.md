@@ -10,8 +10,8 @@ The ASEAN Single Window (ASW) is a regional initiative that connects and integra
 The ASEAN Customs Declaration Document (ACDD) is an electronic document to facilitate the exchange of export declaration information between exchange-ready AMS. It contains a specific set of TradeNet export permit data, which will be sent to the Customs authority in the importing exchange-ready AMS for the purpose of supplementing risk management by the Customs authority in the importing country. The expected benefits for participating traders include potential reduction in Customs clearance time for consignments which are supported by the ACDD and imported into exchange-ready AMS. <br>
 
 The ACDD is optional and open to all traders who export goods to an exchange-ready AMS. The exchange-ready AMS are: <br>
-    •	Cambodia<br>
-    •	Myanmar<br>
+  a)	Cambodia<br>
+  b)	Myanmar<br>
 
 More AMS will participate when they are ready to do so.<br>
 
@@ -46,9 +46,9 @@ Traders exporting goods from Singapore who wish to participate in the exchange o
 The ACDD participation form can be accessed from the [ASEAN Customs Declaration Document (ACDD) section on the Customs Forms and Service Links page](https://www.customs.gov.sg/eservices/customs-forms-and-service-links). Singapore Customs will contact you within 7 working days upon receipt of the completed form on the outcome of the application.<br>
 
 Traders who wish to<br> 
-a)	withdraw from participation in the electronic exchange of ACDD and withdraw consent for the transmission of ACDD-required information to the AMS Customs Authority; <br>
-b)	inform Singapore Customs of revocation of authority of any DA(s); or <br>
-c)	inform Singapore Customs of additional DA(s) after submission of this form, <br>
+  a)	withdraw from participation in the electronic exchange of ACDD and withdraw consent for the transmission of ACDD-required information to the AMS Customs Authority; <br>
+  b)	inform Singapore Customs of revocation of authority of any DA(s); or <br>
+  c)	inform Singapore Customs of additional DA(s) after submission of this form, <br>
 
 please send an email to Customs_documentation@customs.gov.sg.<br>
 
@@ -76,5 +76,5 @@ International Data Exchange” under the “CPC” field is available for the fo
 | INP (In-Non Payment)| REX (Re-Export) | 
 
 ## For more information:
-1.	Circular 14/2020: Live operation for the electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)
-2.	Frequently Asked Questions
+a.	Circular 14/2020: Live operation for the electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)
+b.	Frequently Asked Questions
