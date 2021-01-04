@@ -60,7 +60,7 @@ There will be no change to the TradeNet permit application procedures. To author
 
 Please note that amendments to and/or cancellation of TradeNet permit applications will not be sent to the Customs authority of the importing exchange-ready AMS, as these functionalities are currently not available for ACDD. Should there be any changes to the export information in the permit application after the ACDD information has been sent to the importing exchange-ready AMS, the onus is on your company to update the importing exchange-ready AMS of the changes.
 
-International Data Exchange” under the “CPC” field is available for the following message and declaration types as shown below:
+"International Data Exchange” under the “CPC” field is available for the following message and declaration types as shown below:
 
 | Message Type | Declaration Type Reference |
 |--|--|
