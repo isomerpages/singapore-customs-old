@@ -24,7 +24,7 @@ Academic Director<br>
 International Trading Institute, Singapore Management University<br> 
 
 **Mr Dave Ng Wee Peng**  
-First Deputy Chairman  
+Chairman  
 Singapore Logistics Association
 
 **Mr Hsu Sin Yun**  
@@ -39,6 +39,10 @@ Expeditors Singapore Pte Ltd
 Deputy Secretary (Trade)  
 Ministry of Trade and Industry
 
+**Mr Mahesh Sivaswamy**<br>
+Chairman & Chief Executive Officer<br>
+Transworld Group Singapore<br>
+
 **Mr Ong Kim Pong**  
 Regional Chief Executive Officer, Southeast Asia  
 PSA International Pte Ltd
@@ -47,25 +51,20 @@ PSA International Pte Ltd
 Deputy Chairman  
 SAAA@Singapore
 
-**Mr René  Piil Pedersen**  
-Group Representative Singapore/Asia Pacific, Maersk Group &  
-Managing Director, A.P. Moller Singapore Pte Ltd
+**Mr René  Piil Pedersen**<br>
+Managing Director<br>
+A.P. Moller Singapore Pte Ltd<br>
 
-**Mr Samuel Lee**  
-General Manager  
-DHL Express Singapore Hub
-
+**Mr Samuel Lee**<br>
+General Manager<br>
+DHL Aviation (Hong Kong) Limited<br>
 
 **Mr Shamir Rahim**  
 Chief Executive Officer  
 VersaFleet Pte Ltd
 
-**Mr VS Kumar**  
-Managing Director  
-Network Express Courier Services Pte Ltd
-
 **Mr Yam Kum Weng**  
-Executive Vice President, Airhub Development  
+Executive Vice President, Airport Development  
 Changi Airport Group
 
 **Mr Yee Ping Yi**  
