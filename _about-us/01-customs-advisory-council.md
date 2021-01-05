@@ -39,9 +39,9 @@ Expeditors Singapore Pte Ltd
 Deputy Secretary (Trade)  
 Ministry of Trade and Industry
 
-**Mr Mahesh Sivaswamy**
-Chairman & Chief Executive Officer
-Transworld Group Singapore
+**Mr Mahesh Sivaswamy**<br>
+Chairman & Chief Executive Officer<br>
+Transworld Group Singapore<br>
 
 **Mr Ong Kim Pong**  
 Regional Chief Executive Officer, Southeast Asia  
@@ -51,12 +51,12 @@ PSA International Pte Ltd
 Deputy Chairman  
 SAAA@Singapore
 
-**Mr René  Piil Pedersen**  
- Managing Director
- A.P. Moller Singapore Pte Ltd
+**Mr René  Piil Pedersen**
+Managing Director<br>
+A.P. Moller Singapore Pte Ltd<br>
 
 **Mr Samuel Lee**  
-General Manager  
+General Manager
 DHL Aviation (Hong Kong) Limited
 
 **Mr Shamir Rahim**  
