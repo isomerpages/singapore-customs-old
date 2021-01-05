@@ -55,7 +55,7 @@ SAAA@Singapore
 Managing Director<br>
 A.P. Moller Singapore Pte Ltd<br>
 
-**Mr Samuel Lee**<br>  
+**Mr Samuel Lee**<br>
 General Manager<br>
 DHL Aviation (Hong Kong) Limited<br>
 
