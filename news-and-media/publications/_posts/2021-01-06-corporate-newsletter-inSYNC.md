@@ -11,7 +11,7 @@ Click [here](/feedback/) to subscribe to the latest issue of inSYNC today.
 
 {:.card-list}
 -   [![Issue 59: Oct-Dec 2020](/images/inSYNC/Issue59_thumbnail.jpg)<br>
-Issue 58: Jul-Sep 2020](/news-and-media/publications/2021-01-06-Issue59.pdf)
+Issue 59: Oct-Dec 2020](/news-and-media/publications/2021-01-06-Issue59.pdf)
 
 -   [![Issue 58: Jul-Sep 2020](/images/inSYNC/Issue58_thumbnail.jpg)<br>
 Issue 58: Jul-Sep 2020](/news-and-media/publications/2020-10-01-Issue58.pdf)
