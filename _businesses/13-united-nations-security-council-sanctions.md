@@ -82,7 +82,7 @@ While Singapore does not enforce [unilateral sanctions](/businesses/strategic-go
 
 ## Other Countries pursuant to UNSC Sanctions or Regulations
 
--   [List of Prohibited Items to or from Other Countries pursuant to UNSC Sanctions or Regulations](/_united-nations-security-council-sanctions/10e-prohibited-items-unsc-countries.md)
+-   [List of Prohibited Items to or from Other Countries pursuant to UNSC Sanctions or Regulations](/businesses/united-nations-security-council-sanctions/prohibited-items-unsc-countries)
 
 ### Permit Requirements
 
