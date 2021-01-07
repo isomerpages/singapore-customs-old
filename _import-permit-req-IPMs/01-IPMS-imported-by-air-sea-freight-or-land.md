@@ -6,7 +6,7 @@ third_nav_title: Importing Investment Precious Metals IPM
 
 # IPMs Imported by Air/Sea Freight or by Land
 
-Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/establishing-the-customs-value)** **not exceeding** **S$400**, do not require a Customs permit**.**
+Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports)** **not exceeding** **S$400**, do not require a Customs permit**.**
 
 Import of IPMs by **air freight**, of a **total CIF value exceeding S$400**, requires an In-Non Payment (GST Relief) permit.
 
