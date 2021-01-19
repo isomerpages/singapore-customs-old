@@ -21,8 +21,7 @@ You may have to cancel certain permits (e.g. Out-Approved Premises/Schemes permi
 You are not allowed to cancel an export permit if:
 
 -   It has been used for cargo clearance;
--   It has expired for more than a calendar day;
--   It has been requested by the Manifest Compliance Unit of Singapore Customs for audit purposes; or
--   It is declared with a Certificate of Origin
+-   It has expired for more than a calendar day; or
+-   It has been requested by the Manifest Compliance Unit of Singapore Customs for audit purposes
 
 For such cases, please submit a  [voluntary disclosure](/businesses/compliance/voluntary-disclosure-programme) to Singapore Customs.
