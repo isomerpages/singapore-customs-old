@@ -49,7 +49,7 @@ The function of AED (PLRD) is to regulate the dealing in, manufacture, possessio
 
 ## Types of Licences
 
-AED PLRD issues 2 types of licences – long term (valid for a period of 1 year or 2 years) and short term (valid for a period of 14 days).
+AED PLRD issues 2 types of licences – long term (valid for a period of 1 year or 2 years) and short term (valid for a period of 30 days).
 
 **Long Term Licences**
 
