@@ -10,7 +10,7 @@ All requests for cancellation of CO and Preferential CO (PCO) issued by Customs 
 
 To submit the CO for cancellation, please fill in the [FormSG}(go.gov.sg/cancellationofco) 
 
-For more information, please refer to [Notice 19/2020](/news-and-media/notices/2020-12-31-N.pdf)
+For more information, please refer to [Notice 19/2020].(/news-and-media/notices/2020-12-31-N.pdf)
 
 
 ## How to cancel an Electronic Prefrential Certificate of Origin (ePCO)
