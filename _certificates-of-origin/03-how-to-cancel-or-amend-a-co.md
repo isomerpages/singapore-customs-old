@@ -8,7 +8,7 @@ third_nav_title: Certificates of Origin
 
 All requests for cancellation of CO and Preferential CO (PCO) issued by Customs shall be submitted online via FormSG. Do note that only unutilised CO/PCOs can be cancelled. Upon the submission of the FormSG, the CO/PCOs will automatically be deemed as cancelled unless advised otherwise by Customs within the next 7 days. The cancelled hardcopy CO is not required to be returned to Customs.
 
-To submit the CO for cancellation, please fill in the [FormSG}(go.gov.sg/cancellationofco).
+To submit the CO for cancellation, please fill in the FormSG which can be accessed through this [link](go.gov.sg/cancellationofco).
 
 For more information, please refer to [Notice 19/2020](/news-and-media/notices/2020-12-31-N.pdf).
 
