@@ -15,7 +15,7 @@ For more information, please refer to [Notice 19/2020](/news-and-media/notices/2
 
 ## How to cancel an Electronic Prefrential Certificate of Origin (ePCO)
 
-For ePCOs, you will not be able to make any amendments to the electronic PCO after you have successfully submitted to the respective importing authorities of the country. Therefore, you should inform your importer not to quote the first ePCO number in their import declaration and instead, you should provide the new ePCO reference number to your importer. Next, please write in to Singapore Customs at customs_roo@customs.gov.sg, within 7 days of the transmission of the new ePCO, with the following details:
+For ePCOs, you will not be able to make any amendments to the electronic PCO after you have successfully submitted to the respective importing authorities of the country. Therefore, you should inform your importer not to quote the first ePCO number in their import declaration and instead, you should provide the new ePCO reference number to your importer. Next, please write in to Singapore Customs at customs_roo@customs.gov.sg within 7 days of the transmission of the new ePCO, with the following details:
 
 -   Electronic PCO reference number to be cancelled
 
