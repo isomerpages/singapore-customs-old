@@ -57,7 +57,7 @@ You are advised to check if your trade sample is a controlled item before import
 
 ### Controlled Trade Samples
 
-| Type of Non-Controlled Non-Dutiable Trade Sample | CIF Value | GST Payable | Duty Payable | Permit Required |
+| Type of Controlled Non-Dutiable Trade Sample | CIF Value | GST Payable | Duty Payable | Permit Required |
 |--|--|--|--|--|
 | Non-Dutiable | Less than  or equal to S$400 | No | - | Yes |
 | Non-Dutiable | More than S$400 | Yes | - | Yes |
