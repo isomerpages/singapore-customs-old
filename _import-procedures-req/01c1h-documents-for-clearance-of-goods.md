@@ -49,13 +49,21 @@ There is no GST relief for goods originally imported by land, sea or truck-fligh
 The **summary list** is to be printed on A4-sized paper in a minimum font size of 12 and shall contain the following information stated below in English:
 
 a)	Your company’s letterhead and indicated with the page number and total number of pages of the summary list;
+
 b)	All items serialised and ordered alphabetically with the following information:
+
 i.	corresponding parcel tracking number/ HAWB/ reference number;
+
 ii.	outer packing number (i.e. mailbag no);
+
 iii.	consignee name;
+
 iv.	consignee address;
+
 v.	item CIF provided in S$; and
+
 vi.	total CIF value of all items under the same parcel tracking number/ reference number.
+
 
 c)	An undertaking by your company (endorsed by a staff holding a managerial position or above) that:
 i.	the parcels/consignments imported using the summary list are non-controlled, non-dutiable and valued at S$400.00 or less;
