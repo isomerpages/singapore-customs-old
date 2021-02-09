@@ -46,7 +46,7 @@ GST relief and permit waiver is granted on non-controlled and non-dutiable air i
 
 There is no GST relief for goods originally imported by land, sea or truck-flights and subsequently presented for clearance at CAC Checkpoint, even if the CIF value of the goods does not exceed S$400.  See [Circular No. 01/2021](/news-and-media/circulars/2021-01-15-Circular012021.pdf) for details.  For more information on how to determine the total CIF value of a parcel/consignment, please refer to [Circular No: 04/2016](news-and-media/circulars/2016-03-16-Circular042016.pdf) for more information.
 
-The **summary list**is to be printed on A4-sized paper in a minimum font size of 12 and shall contain the following information stated below in English:
+The **summary list** is to be printed on A4-sized paper in a minimum font size of 12 and shall contain the following information stated below in English:
 
 a)	Your company’s letterhead and indicated with the page number and total number of pages of the summary list;
 b)	All items serialised and ordered alphabetically with the following information:
