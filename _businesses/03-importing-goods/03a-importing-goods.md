@@ -113,6 +113,8 @@ For a consignment which requires  **partial clearance**, the same customs permit
 
 **Please note partial clearance is not allowed for goods brought in via Woodlands and Tuas checkpoints.**
 
+**c)** ** Documents Required for Cargo Clearance of Air Imports Granted GST Relief at Changi Airfreight Centre Checkpoint** 
+
 ## Step 7: Retain your Trade Documents
 Generally, you are required to retain the relevant supporting documents relating to the purchase, import, sale or export of the goods for a period of 5 years from the date of the permit application approval.
 
