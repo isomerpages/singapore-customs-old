@@ -48,32 +48,28 @@ There is no GST relief for goods originally imported by land, sea or truck-fligh
 
 The **summary list** is to be printed on A4-sized paper in a minimum font size of 12 and shall contain the following information stated below in English:
 
-a)	Your company’s letterhead and indicated with the page number and total number of pages of the summary list;
+  a)	Your company’s letterhead and indicated with the page number and total number of pages of the summary list;
 
-b)	All items serialised and ordered alphabetically with the following information:
+  b)	All items serialised and ordered alphabetically with the following information:
 
-i.	corresponding parcel tracking number/ HAWB/ reference number;
+  i.	corresponding parcel tracking number/ HAWB/ reference number;
 
-ii.	outer packing number (i.e. mailbag no);
+  ii.	outer packing number (i.e. mailbag no);
 
-iii.	consignee name;
+  iii.	consignee name;
 
-iv.	consignee address;
+  iv.	consignee address;
 
-v.	item CIF provided in S$; and
+  v.	item CIF provided in S$; and
 
-vi.	total CIF value of all items under the same parcel tracking number/ reference number.
+  vi.	total CIF value of all items under the same parcel tracking number/ reference number.
 
 
-c)	An undertaking by your company (endorsed by a staff holding a managerial position or above) that:
-
-i.	the parcels/consignments imported using the summary list are non-controlled, non-dutiable and valued at S$400.00 or less;
-
-ii.	the parcels/consignments imported did not originally enter Singapore via land or sea;
-
-iii.	the staff’s name, designation, signature and email contact are clearly indicated on the Letter of Undertaking; and
-
-iv.	the company will pay any duty/GST not paid for the goods where GST relief is not granted, including goods which were first imported via land or sea.
+  c)	An undertaking by your company (endorsed by a staff holding a managerial position or above) that:
+  i.	the parcels/consignments imported using the summary list are non-controlled, non-dutiable and valued at S$400.00 or less;
+  ii.	the parcels/consignments imported did not originally enter Singapore via land or sea;
+  iii.	the staff’s name, designation, signature and email contact are clearly indicated on the Letter of Undertaking; and
+  iv.	the company will pay any duty/GST not paid for the goods where GST relief is not granted, including goods which were first imported via land or sea.
 
 d)	Your company is to ensure that the individual parcels imported are labelled with its invoice and HAWB/consignment note.
 
