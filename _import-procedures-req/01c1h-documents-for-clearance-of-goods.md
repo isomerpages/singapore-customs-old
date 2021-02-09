@@ -52,17 +52,17 @@ The **summary list** is to be printed on A4-sized paper in a minimum font size o
 
 -   All items serialised and ordered alphabetically with the following information:
 
-  i.	corresponding parcel tracking number/ HAWB/ reference number;
+1. corresponding parcel tracking number/ HAWB/ reference number;
 
-  ii.	outer packing number (i.e. mailbag no);
+2. outer packing number (i.e. mailbag no);
 
-  iii.	consignee name;
+3.	consignee name;
 
-  iv.	consignee address;
+4.	consignee address;
 
-  v.	item CIF provided in S$; and
+5.	item CIF provided in S$; and
 
-  vi.	total CIF value of all items under the same parcel tracking number/ reference number.
+6.	total CIF value of all items under the same parcel tracking number/ reference number.
 
 
 -   An undertaking by your company (endorsed by a staff holding a managerial position or above) that:
