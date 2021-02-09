@@ -67,13 +67,13 @@ The **summary list** is to be printed on A4-sized paper in a minimum font size o
 
 -   An undertaking by your company (endorsed by a staff holding a managerial position or above) that:
 
-  i.	the parcels/consignments imported using the summary list are non-controlled, non-dutiable and valued at S$400.00 or less;
+1. the parcels/consignments imported using the summary list are non-controlled, non-dutiable and valued at S$400.00 or less;
   
-  ii.	the parcels/consignments imported did not originally enter Singapore via land or sea;
+2. the parcels/consignments imported did not originally enter Singapore via land or sea;
   
-  iii.	the staff’s name, designation, signature and email contact are clearly indicated on the Letter of Undertaking; and
+3. the staff’s name, designation, signature and email contact are clearly indicated on the Letter of Undertaking; and
   
-  iv.	the company will pay any duty/GST not paid for the goods where GST relief is not granted, including goods which were first imported via land or sea.
+4. the company will pay any duty/GST not paid for the goods where GST relief is not granted, including goods which were first imported via land or sea.
 
 -   Your company is to ensure that the individual parcels imported are labelled with its invoice and HAWB/consignment note.
 
