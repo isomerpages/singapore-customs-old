@@ -12,7 +12,7 @@ _Note: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC S
 |--|--|--|
 | **Central African Republic** |  | Arms and related matériel. |
 | **Democratic Republic of Congo** |  | Arms and related matériel. |
-| **Iraq** |  | Arms and related matérieland their means of production. |
+| **Iraq** |  | Arms and related matériel and their means of production. |
 | **Lebanon** |  | Arms and related matériel. |
 | **Libya** | Arms and related matériel. | Arms and related matériel. |
 | **Somalia** | Charcoal. | Arms and related matériel. Explosive materials and mixtures. Explosive related goods. Technology required to produce explosive materials and mixtures and explosive related goods. |
