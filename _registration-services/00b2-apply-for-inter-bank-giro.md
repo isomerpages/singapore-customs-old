@@ -33,7 +33,7 @@ Your entity's bank statement will reflect successful IBG deductions initiated by
 
 You may consider  [registering](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"} as a TradeNet user to obtain your entity's past permit application details to reconcile with the bank statement.  
 
-You also may sign up for the Trader Notification service to receive notifications on the permit details such as the approval date, Declaring Agent (DA) details, total amount of duty and/or GST payable for in-payment permits taken using your entity's UEN.
+You also may sign up for the Trader Notification service to receive notifications on the permit details such as the approval date, Declaring Agent details, total amount of duty and/or GST payable for in-payment permits taken using your entity's UEN.
 
 If the IBG deduction for a payment permit is unsuccessful, your entity's Primary Contact (or Secondary Contact if the Primary Contact does not have a valid contact) registered in your entity's Customs Account will be informed by Singapore Customs on the follow-up actions required for payment.
 
