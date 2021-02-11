@@ -7,7 +7,7 @@ permalink: /eservices/customs-sg-mobile-and-web-application/
 
 | |
 |---|
-|**Singapore Customs is proud to present our enhanced Customs@SG mobile application. The app will sport a new look featuring a refreshed layout and upgraded user interface to improve user experience. To enjoy the benefits of our updated app, download the Customs@SG app from Google Play or the Apple Store today! Thank you for using our Customs@SG mobile application!**|
+|**The Customs@SG mobile and web app will be undergoing scheduled maintenance on 16 February 2021, Tuesday, from 2.30pm to 7.30pm. You will not be able to submit any declaration during this time. We apologise for any inconvenience caused.**|
 
 
 ## About Customs@SG
