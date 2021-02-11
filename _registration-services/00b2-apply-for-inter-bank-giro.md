@@ -44,4 +44,4 @@ Please ensure that you maintain sufficient funds in your entity's bank account a
 
 Please contact your bank directly to terminate your IBG arrangement. Upon successful termination by your bank, please email your IBG termination to [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg)
 
-However, if you are a DA, it is mandatory for you to maintain a valid IBG with Singapore Customs. If you intend to change your bank account used for IBG deduction, you are required to submit a new IBG application. Your existing IBG with Singapore Customs will be terminated when your new IBG application is approved. 
+However, if you are a Declaring Agent, it is mandatory for you to maintain a valid IBG with Singapore Customs. If you intend to change your bank account used for IBG deduction, you are required to submit a new IBG application. Your existing IBG with Singapore Customs will be terminated when your new IBG application is approved. 
