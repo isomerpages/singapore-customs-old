@@ -33,13 +33,13 @@ You may amend a CO electronically via TradeNet if:
     
 -   The field which you wish to amend in the CO is an amendable field in the export permit
     
-**XXX*For CO applied together with export permit
+**For CO applied together with export permit**
 
 If the amendment to the export permit is made after the CO has been generated for prtinting, all previously issued COs under the export permit will be considered null and void. You are to cancel the previously issued COs via the revised cancellation procedures that can be found in [Notice 19/2020](news-and-media/notices/2020-12-31-N.pdf) and submit the [cancellation](go.gov.sg/cancellationofco). 
 
 After you have amended the field in the export permit, apply for a new CO and after which, a new CO number will be issued. This CO can be collected 2 working hours after the approval has been obtained. If the field in the export permit cannot be amended, you are to cancel the export permit in TradeNet and take our a new joint export permit with CO application. A new CO numeber will be issued and it can be collected 2 working hoursee after the approval is obtained. 
 
-**XXX*For CO applied seperately(i.e Pure CO declaration)
+**For CO applied seperately(i.e Pure CO declaration)**
 
 You should proceed to amend the field in the export permit electronically via TradeNet if:
 
