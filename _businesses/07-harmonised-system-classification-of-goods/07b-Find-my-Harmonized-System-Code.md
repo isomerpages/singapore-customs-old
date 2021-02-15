@@ -20,7 +20,7 @@ The [HS/CA Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/port
 
 You can also check if a product is subject to control by any competent authority. If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authority controlling the product. You may click on the Competent Authority's acronym to access its contact information.
 
-In view of the current COVID-19 situation, you may refer to the HS Classification Reference for Covid-19 Medical Supplies on the [World Customs Organisation (WCO)](/documents/businesses/hs-classification-reference_edition-3_en.pdf) website for more information.
+In view of the current COVID-19 situation, you may refer to the HS Classification Reference for Covid-19 Medical Supplies and vacines on the [World Customs Organisation (WCO)](/documents/businesses/HS-classification-reference-vaccines-_Feb_2021.pdf) website for more information.
 
 ## Traders' Product Guide
 
