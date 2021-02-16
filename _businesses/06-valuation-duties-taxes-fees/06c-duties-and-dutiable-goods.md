@@ -79,9 +79,9 @@ a)  Petroleum products
 
 *Duties payable = Total volume x Excise duty rate*
 
-Company A imports 100 litres of unleaded motor spirit of RON 97 and above. Assuming the excise duty for unleaded motor spirit of RON 97 and above is S$6.40 per dal (1 dal = 10 litres):
+Company A imports 100 litres of unleaded,unblended motor spirit of RON 97 and above. Assuming the excise duty for unleaded,unblended motor spirit of RON 97 and above is S$7.90 per dal (1 dal = 10 litres):
 
-Duties payable = S$6.40 x 10 = S$64  
+Duties payable = S$7.90 x 10 = S$79  
   
 b) Compressed natural gas (Cng)
 
