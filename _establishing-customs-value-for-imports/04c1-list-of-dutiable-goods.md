@@ -107,12 +107,12 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 27101211 |Motor spirit of RON 97 and above, leaded  |Nil| $7.10 per dal |  
 | 27101212 | Motor spirit of RON 90 and above but below RON 97, leaded |Nil| $6.80 per dal |
 | 27101213 | Motor spirit of below RON 90, leaded |Nil| $6.30 per dal |
-|  27101221| Motor spirit of RON 97 and above, unleaded, unblended |Nil|  $6.40 per dal|  
-| 27101222 | Motor spirit of RON 97 and above, unleaded, blended with ethanol |Nil| $6.40 per dal |  
-| 27101223 | Motor spirit of RON 97 and above, unleaded, blended other than with ethanol |Nil| $6.40 per dal |  
-| 27101224 | Motor spirit of RON 90 and above but below RON 97, unleaded, unblended |Nil| $5.60 per dal |
-| 27101225 | Motor spirit of RON 90 and above but below RON 97, unleaded, blended with ethanol |Nil| $5.60 per dal |
-| 27101226 |Motor spirit of RON 90 and above but below RON 97, unleaded, blended other than with ethanol  |Nil| $5.60 per dal |
+|  27101221| Motor spirit of RON 97 and above, unleaded, unblended |Nil|  $7.90 per dal|  
+| 27101222 | Motor spirit of RON 97 and above, unleaded, blended with ethanol |Nil| $7.90 per dal |  
+| 27101223 | Motor spirit of RON 97 and above, unleaded, blended other than with ethanol |Nil| $7.90 per dal |  
+| 27101224 | Motor spirit of RON 90 and above but below RON 97, unleaded, unblended |Nil| $6.60 per dal |
+| 27101225 | Motor spirit of RON 90 and above but below RON 97, unleaded, blended with ethanol |Nil| $6.60 per dal |
+| 27101226 |Motor spirit of RON 90 and above but below RON 97, unleaded, blended other than with ethanol  |Nil| $6.60 per dal |
 | 27101227 | Motor spirit of RON below 90, unleaded, unblended |Nil|$3.70 per dal  |  
 | 27101228 | Motor spirit of RON below 90, unleaded, blended with ethanol |Nil| $3.70 per dal |  
 | 27101229 | Motor spirit of RON below 90, unleaded, blended other than with ethanol |Nil| $3.70 per dal |  
@@ -603,4 +603,4 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87119090 | Other non CKD cycles excluding reciprocating internal combustion engine and electric motor | Nil | 12%  |
  
 
-Download full List of Dutiable Goods [here](/documents/businesses/list-of-dutiable-items-15apr2020.xlsx).
+Download full List of Dutiable Goods [here](/documents/businesses/List of Dutiable Items 16Feb2021.xlsx).

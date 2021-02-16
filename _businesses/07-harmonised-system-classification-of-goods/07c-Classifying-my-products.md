@@ -14,7 +14,7 @@ The Harmonised System (HS) codes of goods is internationally harmonized at the 6
 
 ## Handy Guides
 
-Classification is the process of finding the most specific description in the HS. To do so, you may refer to the following infographics to understand how to identify and read the HS in the  [Singapore Trade Classification, Customs & Excise Duties (STCCED)](/documents/businesses/stcced-2018-apr-20.pdf).
+Classification is the process of finding the most specific description in the HS. To do so, you may refer to the following infographics to understand how to identify and read the HS in the  [Singapore Trade Classification, Customs & Excise Duties (STCCED)](/documents/businesses/STCCED 2018_Feb 21.pdf).
 
 A guidebook to classify chemicals and chemical products is also available to help you in classifying products in this category.
 
