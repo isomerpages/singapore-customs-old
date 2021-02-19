@@ -20,7 +20,7 @@ Ministry of Finance
 ### Members
 
 **Professor Annie Koh**<br>
-Academic Director<br>
+Senior Academic Advisor<br>
 International Trading Institute, Singapore Management University<br> 
 
 **Mr Dave Ng Wee Peng**  
@@ -48,7 +48,7 @@ Regional Chief Executive Officer, Southeast Asia
 PSA International Pte Ltd
 
 **Mr Paul Teo**  
-Deputy Chairman  
+First Deputy Chairman  
 SAAA@Singapore
 
 **Mr René  Piil Pedersen**<br>
