@@ -30,6 +30,8 @@ BNP Paribas: [https://go.gov.sg/ntp-ebgbnpp](https://go.gov.sg/ntp-ebgbnpp){:tar
 
 DBS: [https://go.gov.sg/ntp-ebgdbs](https://go.gov.sg/ntp-ebgdbs){:target="_blank"}
 
+HSBC: [https://go.gov.sg/ntp-ebghsbc](https://go.gov.sg/ntp-ebghsbc){:target="_blank"}
+
 OCBC: [https://go.gov.sg/ntp-ebgocbc](https://go.gov.sg/ntp-ebgocbc){:target="_blank"}
 
 SMBC: [https://go.gov.sg/ntp-ebgsmbc](https://go.gov.sg/ntp-ebgsmbc){:target="_blank"}
