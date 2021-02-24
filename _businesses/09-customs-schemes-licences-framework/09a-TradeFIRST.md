@@ -65,7 +65,6 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     
 -   **Premium Band**
     
-    -   Waiver of security for most types of transactions
     -   Reduced container sealing
     -   Waiver of post-importation documentation checks
     -   [Secure Trade Partnership Plus](/businesses/customs-schemes-licences-framework/secure-trade-partnership-stp)
