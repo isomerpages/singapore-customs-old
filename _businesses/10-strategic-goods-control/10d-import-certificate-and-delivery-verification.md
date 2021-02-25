@@ -16,7 +16,7 @@ The ICDV is a 3-stage process:
     
     -   The goods imported into Singapore are controlled by the exporting country, or
     -   The exporting country requests for an Import Certificate
-2.  **Apply for an import permit**  via  [TradeNet](https://www.tradenet.gov.sg/tradenet/index.html){:target="_blank"}  before importing the goods
+2.  **Obtain an import permit**  via  [TradeNet](https://www.tradenet.gov.sg/tradenet/index.html){:target="_blank"}  before importing the goods
     
 3.  **Apply for a  [Delivery Verification](/businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification){:target="_blank"}**  after importing the goods, if the exporting country requests for such verification
     
