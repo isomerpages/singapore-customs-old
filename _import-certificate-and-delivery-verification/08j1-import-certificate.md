@@ -74,9 +74,9 @@ Under an approved IC, you must not:
 -   Dispose the goods before they are imported into Singapore; or
 -   Export the goods or cause or allow them to be exported from Singapore after they have been imported into Singapore, except with Customs’ written approval.
 
-## Applying for a Permit to Import Goods under an IC
+## Obtaining a Permit to Import Goods under an IC
 
-After receiving the approved IC, you should apply for an import permit via  [TradeNet](https://www.ntp.gov.sg/public/government-services){:target="_blank"}  before the goods arrive in Singapore.
+After receiving the approved IC, you should obtain an import permit via  [TradeNet](https://www.ntp.gov.sg/public/government-services){:target="_blank"}  before the goods arrive in Singapore.
 
 ## Do note the following:
 
@@ -92,7 +92,7 @@ You should obtain approval from Singapore Customs before re-exporting goods that
 
 If you had indicated in your IC application that the goods are for re-export, you may re-export the goods after obtaining an export permit. The application procedure for an export permit is the same as that for an import permit.
 
-If you did _not_ indicate  in your IC application that the goods are for re-export, you should obtain Customs’ approval with these documents before you apply for an export permit:
+If you did _not_ indicate  in your IC application that the goods are for re-export, you should obtain Customs’ approval with these documents before you obtain an export permit:
 
 -   An  [End User Statement](/eservices/customs-forms-and-service-links) from the foreign end-user.
 -   An export licence (and its English translation) from the foreign exporting country, or a confirmation from the exporting country that they do not control the re-export of the goods.
