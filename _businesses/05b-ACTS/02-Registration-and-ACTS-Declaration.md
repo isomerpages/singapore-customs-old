@@ -48,7 +48,7 @@ If you are exporting goods as an ATT under simplified procedures, you may select
 |--|--|--|
 |**Office of Departure**|Tuas or Woodlands Checkpoint |	Tuas or Woodlands Checkpoint|
 |**Office of Transit**|	Customs office in other country(ies) e.g. Malaysia|Tuas or Woodlands Checkpoint and Customs office in other country(ies) e.g. Malaysia|
-|**Office of Destination **|	Customs office in other country e.g. Thailand |	Customs office in other country e.g. Thailand|
+|**Office of Destination**|	Customs office in other country e.g. Thailand |	Customs office in other country e.g. Thailand|
 
 Upon the approval of your ACTS declaration, you will be issued with the Transit Accompanying Document (TAD), which is a single transit barcoded document.  Please print a copy of the TAD and pass it to the truck driver for cargo clearance at the land checkpoints.
 
