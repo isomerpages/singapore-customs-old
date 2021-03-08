@@ -21,7 +21,7 @@ There is no fixed time period for making a voluntary disclosure.
 
 ## How do I Make a Disclosure?
 
-Please make a VDP submission using the Voluntary Disclosure form by logging in via your [CorpPass](https://form.gov.sg/5cc8267f09313a001745d0eb) or [SingPass](https://form.gov.sg/5f43857c9abaf400115f7194). Please note that SingPass should be used for individuals or self-registered traders with no UEN. CorpPass must be used if you are making a disclosure on behalf of your company. Your submission should also include the following supporting documents:
+Please make a VDP submission using the Voluntary Disclosure form by logging in via your [Singpass](https://form.gov.sg/5f43857c9abaf400115f7194) or [Corppass](https://form.gov.sg/5cc8267f09313a001745d0eb). Please note that Singpass should be used for individuals or self-registered traders with no UEN. Corppass must be used if you are making a disclosure on behalf of your company. Your submission should also include the following supporting documents:
 
 | Types of Voluntary Disclosure | Supporting Documents Required |
 |--|--|

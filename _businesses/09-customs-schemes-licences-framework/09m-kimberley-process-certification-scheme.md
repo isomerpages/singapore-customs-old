@@ -39,7 +39,7 @@ To apply for a KP Licence,  you need to:
 -   Register with the Accounting and Corporate Regulatory Authority (ACRA) to obtain a Unique Entity Number (UEN) account;
 -   Activate your Customs Account;
 -   Have a valid  [Inter-Bank GIRO (IBG) account](/eservices/customs-forms-and-service-links)  with Singapore Customs for the deduction of the annual licence fee (S$50 per year or part thereof);
--   Register for a CorpPass Account and a Networked Trade Platform (NTP) account; and
+-   Register for a Corppass Account and a Networked Trade Platform (NTP) account; and
 -   Submit the  [KP Licence application form](/eservices/customs-forms-and-service-links)  and all supporting documents via the  [Networked Trade Platform (NTP) website](http://www.ntp.gov.sg/).
 
 Please refer to  [Notice No. 19/2018](/news-and-media/notices/)  for more information on the NTP application and submission procedures. Most applications will be processed within 5 working days upon receipt of the completed  [KP Licence application form](/eservices/customs-forms-and-service-links)  and full set of supporting documents. However, the processing time may be longer for applications that require additional information or supporting documents.

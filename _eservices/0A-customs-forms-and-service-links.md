@@ -136,7 +136,7 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 
 ## Networked Trade Platform (NTP) eServices
 
-Please sign up for a CorpPass Account and NTP Account to submit the applications via NTP. For more information, please visit the  [NTP website](https://www.ntp.gov.sg/).
+Please sign up for a Corppass Account and NTP Account to submit the applications via NTP. For more information, please visit the  [NTP website](https://www.ntp.gov.sg/).
 
 | No. | Forms | Related Link |
 |--|--|--|
@@ -218,12 +218,12 @@ Please sign up for a CorpPass Account and NTP Account to submit the applications
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
-## Voluntary Disclosure Programme Form(VDP)
+## Voluntary Disclosure Programme (VDP) Form
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | VDP Login with CorpPass | [Web Link](https://form.gov.sg/5cc8267f09313a001745d0eb) |
-| 2. | VDP Login with SingPass (for individuals or self-registered traders with no UEN only) | [Web Link](https://form.gov.sg/5f43857c9abaf400115f7194) |
+| 1. | VDP Login with Singpass (for individuals or self-registered traders with no UEN only) | [Web Link](https://form.gov.sg/5f43857c9abaf400115f7194) |
+| 2. | VDP Login with Corppass | [Web Link](https://form.gov.sg/5cc8267f09313a001745d0eb) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
