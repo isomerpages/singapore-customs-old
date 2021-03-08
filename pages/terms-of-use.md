@@ -22,7 +22,7 @@ You should take appropriate steps to keep your information, software and equipme
 
 This includes clearing your Internet browser cookies and cache before and after using any services on The Website.
 
-You should keep your passwords confidential. Please note that we will never ask you for your SingPass or any other login password.
+You should keep your passwords confidential. Please note that we will never ask you for your Singpass or any other login password.
 
 ## Hyperlinks
 We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other Internet site is at your own risk. The Website is IPv6-ready. If you encounter broken web links to third-party websites, please check directly with the respective website administrator.
