@@ -9,7 +9,7 @@ third_nav_title: Competent Authorities Requirements
 
 ## Export of Rubber
 
-The export of rubber (including rubber latex) is subject to control. All licensed rubber shippers must indicate their valid licence No. in the "Licence" field. You must key in the number correctly, e.g. SS999 or DD999. If you declare through a freight forwarder, you should inform him of your valid licence No.
+The export of rubber (including rubber latex) is subject to control. A customs permit must be obtained through TradeNet before the goods depart from Singapore. When submitting a permit application, all licensed rubber shippers must indicate their valid licence No. in the “Licence” field. You must key in the number correctly, e.g. SS999 or DD999. If you declare through a freight forwarder, you should inform him of your valid licence No.
 
 The HS codes for rubber can be found in [Appendix B](/documents/about-us/AppendixB.pdf).
 
