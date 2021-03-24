@@ -7,6 +7,8 @@ third_nav_title: Competent Authorities Requirements
 
 # National Environment Agency - Radiation Protection and Nuclear Science Division (RPNSD)
 
+A customs permit must be obtained through TradeNet before the goods arrive in/depart from Singapore. 
+
 ## Controlled items classified under RPNSD Controlled HS codes
 
 Before you prepare the import/export permit application for controlled items under the purview of RPNSD, please note that the importer/exporter must have either a Dealer Licence (N1, L1 or L2) or a Possession Licence (N2, L3 or L4) issued by RPNSD. In the case of irradiating apparatus covered by Possession Licence (i.e. N2 or L3), each irradiating apparatus must have its individual Possession Licence.
