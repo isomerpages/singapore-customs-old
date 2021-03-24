@@ -7,7 +7,7 @@ third_nav_title: Competent Authorities Requirements
 
 # Info-communications Media Development Authority (IMDA) - Controller of Undesirable Publications (CUP)
 
-When preparing the import permit applications for publications and recorded sound media, please take note of the following requirements:
+A customs permit must be obtained through TradeNet before the goods arrive in Singapore. When preparing the import permit applications, please take note of the following requirements:
 
 -   Declare the correct HS code and the corresponding product code for the respective type of product (e.g. comics, books, audio materials etc.) and type of consignment (e.g. exempted categories, non-exempted categories, offshore, languages etc.). Please refer to  [Appendix A](/documents/about-us/AppendixAHScodes.pdf)  for the list of HS codes and Product codes.
 
