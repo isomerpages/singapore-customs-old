@@ -16,7 +16,7 @@ third_nav_title: Competent Authorities Requirements
   b. For local transportation of Schedules 1, 2 and 5 pathogens and toxins, carriers must comply with the requirements prescribed in BATA Transportation Regulation (downloadable from  [our website](https://www.moh.gov.sg/biosafety/about-bata){:target="_blank"}).
 
 **3.**  TradeNet application submission  
-    An online application for import or transhipment permit is submitted via TradeNet, with the relevant supporting documents (e.g. commercial invoice, airway bill, declaration letter) for processing.  
+    A customs permit must be obtained through TradeNet before the goods arrive in/depart from/tranship at Singapore. An online application shall be submitted with the relevant supporting documents (e.g. commercial invoice, airway bill, declaration letter) for processing.  
     For online TradeNet submissions, ensure the following information are correctly provided in the application:
 
 a. Declarant and Importer fields

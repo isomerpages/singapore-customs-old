@@ -13,7 +13,7 @@ You are required to obtain a CITES permit from NParks if you intend to import, e
 
 A shipment that is in transit/transhipment before being consigned to a local consignee or importer is considered an import for re-export. You have to apply for a CITES import permit or a CITES re-export permit from NParks if you intend to import the shipment or re-export the shipment.
 
-Please fill in all relevant information when applying for TradeNet Import or Export Permit.  
+A customs permit must be obtained through TradeNet before the goods arrive in/depart from Singapore. Please fill in all relevant information when applying for TradeNet Import or Export Permit.  
 
 In the Description of Goods field, please indicate the following:  
 

@@ -25,7 +25,7 @@ The ownership of the rice belongs to the individual stockpile participant, altho
 
 The Singapore Storage & Warehouse Pte Ltd (SSW) is the designated warehouse operator for the stockpile rice. Apart from the Prescribed Stockpile Quantity (PSQ) that is kept in SSW's warehouses, the stockpile participants can keep their trading or excess stocks in their own warehouses or in SSW's warehouses.
 
-For all rice consignments, importers are to submit declarations for rice imports and exports. Rice importers can sell either to wholesalers or directly to retailers. The stockpile participants may establish their own local distribution network.
+For all rice consignments, importers/exporters are to obtain a customs permit through TradeNet before the goods arrive in/depart from Singapore. Rice importers can sell either to wholesalers or directly to retailers. The stockpile participants may establish their own local distribution network.
 
 ## Rice Import Licence
 

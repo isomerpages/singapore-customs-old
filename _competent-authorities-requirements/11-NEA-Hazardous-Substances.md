@@ -48,8 +48,9 @@ In order to have your permit application processed smoothly without being reject
 
 Note:
 
-1.  The list of chemicals controlled by CCMD and the corresponding exclusions can be found in the Part I of the Second Schedule of the Environmental Protection And Management Act (EPMA). General Exemptions can be found in Part II of the same Schedule. Both the EPMA and its Regulations can be purchased from the SNP Corporation Ltd. The entire legislation can also be downloaded from the website at  [http://lawnet.com.sg/](http://lawnet.com.sg/){:target="_blank"}
-2.  The Certification of Import/Export signed by the Hazardous Substances Licence holder must be under the importer/exporter company's letterhead. The format can be found in Annex F.
-3.  If you or your importers/exporters do not have the required Hazardous Substances Licence, please contact CCMD officers at 67319641 or 67319332 for advice.
+1.  A customs permit must be obtained through TradeNet before the goods arrive in/depart from Singapore.
+2.  The list of chemicals controlled by CCMD and the corresponding exclusions can be found in the Part I of the Second Schedule of the Environmental Protection And Management Act (EPMA). General Exemptions can be found in Part II of the same Schedule. Both the EPMA and its Regulations can be purchased from the SNP Corporation Ltd. The entire legislation can also be downloaded from the website at  [http://lawnet.com.sg/](http://lawnet.com.sg/){:target="_blank"}
+3.  The Certification of Import/Export signed by the Hazardous Substances Licence holder must be under the importer/exporter company's letterhead. The format can be found in Annex F.
+4.  If you or your importers/exporters do not have the required Hazardous Substances Licence, please contact CCMD officers at 67319641 or 67319332 for advice.
 
 Refer to [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.

@@ -6,7 +6,7 @@ third_nav_title: Competent Authorities Requirements
 
 # Singapore Food Agency (Processed Food)
 
-The Singapore Food Agency (SFA), Licensing and Permits Group, Food Trade Department, regulates the importation of processed food and food appliances. Processed food products refer to all food products and supplements of food nature. Meat products, fish products, fresh fruits and fresh vegetables are not included.
+The Singapore Food Agency (SFA), Licensing and Permits Group, Food Trade Department, regulates the importation of processed food and food appliances. Processed food products refer to all food products and supplements of food nature. Meat products, fish products, fresh fruits and fresh vegetables are not included. A customs permit must be obtained through TradeNet before the goods arrive in Singapore.
 
 Please follow the import requirements below for processed food and food appliances:
 

@@ -13,7 +13,7 @@ third_nav_title: Competent Authorities Requirements
 
 3) TradeNet Declaration
 
-When you prepare the import, export and transshipment permit application through TradeNet, you must declare the following information:
+   A customs permit must be obtained through TradeNet before the goods arrive in/depart from/tranship at Singapore. When you prepare permit application through TradeNet, you must    declare the following information:
 
 -   Description of goods field:
     -   The common name

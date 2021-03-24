@@ -138,7 +138,7 @@ After declaring the permits, the declarant shall check the status of his/her per
 
 If an individual receives queries from AED (PLRD), the declarant shall answer the queries promptly to avoid delay in the permit approval. Generally, AED (PLRD) will process all declarations within 5 working days.
 
-For the export of arms, explosives or explosive precursors, the permit application must be declared on TradeNet  **prior to the departure date for processing**. AED (PLRD) will not approve the permit application of any controlled goods that have departed Singapore. Investigation will be carried out against the exporter for all exportation cases of AED (PLRD)’s controlled goods that were conducted without prior approval and export licence.
+For the export of arms, explosives or explosive precursors, a customs permit must be obtained through TradeNet before the goods depart from Singapore. AED (PLRD) will not approve the permit application of any controlled goods that have departed Singapore. Investigation will be carried out against the exporter for all exportation cases of AED (PLRD)’s controlled goods that were conducted without prior approval and export licence.
 
 ## Approval Messages
 

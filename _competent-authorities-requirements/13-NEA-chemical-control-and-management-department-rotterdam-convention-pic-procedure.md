@@ -9,7 +9,7 @@ third_nav_title: Competent Authorities Requirements
 
 On 24 May 2005, Singapore deposited its instruments of ratification and accession with the Secretary-General of the United Nations in New York. The Convention has entered into force for Singapore on 21 Aug 2005 (i.e. the 90th day after the date of deposit of the instruments). The Chemical Control and Management Department (CCMD) of the National Environment Agency (NEA) is Singapore’s Designated National Authority (DNA) under the PIC procedure.
 
-With effect from 21 Aug 2005, all imports and exports of hazardous chemicals in Appendix C are subjected to the PIC procedure.
+With effect from 21 Aug 2005, all imports and exports of hazardous chemicals in Appendix C are subjected to the PIC procedure. A customs permit must be obtained through TradeNet before the goods arrive in/depart from Singapore.
 
 1.  Import permit applications for PIC chemical on the TradeNet  
     All import permit applications containing PIC chemicals will continue to be auto processed. Procedures for declaration on the TradeNet are similar to those in the control of Hazardous Substances.

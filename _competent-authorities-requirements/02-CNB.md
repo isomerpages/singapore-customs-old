@@ -19,7 +19,7 @@ When you prepare your permit applications through TradeNet, you are advised to t
 2.  Description of Goods - you must declare the correct HS code and complete description of the chemical name for the substances that you are going to trade in.
 3.  Description of packaging - you must declare the packaging clearly under the "Remarks" field. E.g. 100 drums of 225 kg each.
 4.  Purpose and usage of goods - you must declare the purpose and usage clearly in the "Remarks" field.
-5.  Date of permit application - you must ensure that you declare through TradeNet before the controlled substances arrive in/depart from/tranship at Singapore. Your application may be delayed or rejected if you do not comply with CNB's requirements.
+5.  Approval date of permit application - you must ensure that you obtain a customs permit through TradeNet before the controlled substances arrive in/depart from/tranship at Singapore. Your application may be delayed or rejected if you do not comply with CNB's requirements.
 6.  Supplier's name - you must declare the supplier's name in the "Supplier Name" field for imports.
 7.  Consignee's name - you must declare the consignee' s name in this field for exports.
 
