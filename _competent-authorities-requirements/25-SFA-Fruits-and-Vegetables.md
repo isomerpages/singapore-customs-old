@@ -15,7 +15,7 @@ Please follow the steps below for the importation and transhipment:
 -   Obtain a licence from SFA, in accordance with the Control of Plants Act.
 -   Prepare your permit application for submission to SFA via TradeNet.
 
-When applying for the Import Permit, please declare full information in the following fields:
+A customs permit must be obtained through TradeNet before the goods arrive in Singapore. When applying for the Import Permit, please declare full information in the following fields:
 
 -   SFA Licence Number in the Licence/Certificate field
 -   CA/SC Product Code (e.g., HVL0TH for iceberg lettuce, and CA/SC Product Quantity, which is the Nett Quantity of Items, in accordance with the HS Code (e.g. 10.00))
