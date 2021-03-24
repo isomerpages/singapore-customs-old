@@ -9,7 +9,7 @@ third_nav_title: Competent Authorities Requirements
 
 ## Guidelines on Declaration of Importation of Telecommunication Equipment
 
--   Every imported telecommunication equipment should be declared on TradeNet to the Info-communications Media Development Authority (IMDA) for processing. Please refer to the  [procedures for the import of telecommunication equipment and the list of AHTN and product codes](https://www.imda.gov.sg/regulations-and-licensing-listing/dealer-and-equipment-registration-framework/tradenet---list-of--ahtn-codes){:target="_blank"}. All dealers or importers are requested to comply with the procedures.
+-   Every imported telecommunication equipment should be declared through TradeNet to the Info-communications Media Development Authority (IMDA) for processing. A customs permit must be obtained through TradeNet before the goods arrive in Singapore. Please refer to the  [procedures for the import of telecommunication equipment and the list of AHTN and product codes](https://www.imda.gov.sg/regulations-and-licensing-listing/dealer-and-equipment-registration-framework/tradenet---list-of--ahtn-codes){:target="_blank"}. All dealers or importers are requested to comply with the procedures.
     
 -   Selected telecommunication equipment may require prior approval by IMDA before it is granted entry into Singapore (e.g. military equipment, scanning receivers and transmitters that are used for unlawful transmissions, interception and jamming of signals).
     
