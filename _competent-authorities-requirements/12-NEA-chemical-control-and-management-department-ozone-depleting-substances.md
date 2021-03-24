@@ -38,7 +38,7 @@ The import and/ or export of controlled ODS are not allowed with non-parties to 
 
     **Note:
     A customs permit must be obtained through TradeNet before the goods arrive in Singapore.**
-
+    <br><br>
 
 ## Export of ODS
 
