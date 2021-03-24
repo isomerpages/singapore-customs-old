@@ -7,7 +7,7 @@ third_nav_title: Competent Authorities Requirements
 
 # Singapore Food Agency (Meat)
 
-The Singapore Food Agency (SFA), Licensing and Permits Group, Food Trade Department regulates the import, export and transhipment of meat and meat products and salted or preserved eggs and processed egg products. Meat and meat products may be imported, exported or transhipped in frozen, chilled, processed or canned form.
+The Singapore Food Agency (SFA), Licensing and Permits Group, Food Trade Department regulates the import, export and transhipment of meat and meat products and salted or preserved eggs and processed egg products. Meat and meat products may be imported, exported or transhipped in frozen, chilled, processed or canned form. A customs permit must be obtained through TradeNet before the goods arrive in/depart from/tranship at Singapore.
 
 Please follow the import requirements below for meat and meat products:
 
