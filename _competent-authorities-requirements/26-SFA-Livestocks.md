@@ -24,7 +24,7 @@ When applying for the relevant permits and licences from SFA, please take note o
 
 ## TradeNet Declarations
 
-When preparing for the Import, Export and Transhipment permit applications through TradeNet, please declare full information in the following fields:
+A customs permit must be obtained through TradeNet before the goods arrive in/depart from/tranship at Singapore. When preparing for the Import, Export and Transhipment permit applications through TradeNet, please declare full information in the following fields:
 
 -   Description of goods field:
     -   Common names of the goods
