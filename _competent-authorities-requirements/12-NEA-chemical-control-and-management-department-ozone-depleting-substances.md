@@ -36,8 +36,8 @@ The import and/ or export of controlled ODS are not allowed with non-parties to 
      - Declarant must declare the nett quantity and the corresponding Product Codes to the correct HS Codes in the import permit application.
      - Please fax the invoice, BL/AWB and the Cargo Clearance Permit (CCP) to CCMD for verification only when prompted by the TradeNet system.
 
-    **Note:**
-    A customs permit must be obtained through TradeNet before the goods arrive in Singapore.
+    **Note:
+    A customs permit must be obtained through TradeNet before the goods arrive in Singapore.**
 
 
 ## Export of ODS
