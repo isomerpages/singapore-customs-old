@@ -6,7 +6,7 @@ third_nav_title: Competent Authorities Requirements
 
 # Building and Construction Authority (BCA)
 
-The import of sand and granite are regulated by Building and Construction Authority (BCA).
+The import of sand and granite are regulated by Building and Construction Authority (BCA). A customs permit must be obtained through TradeNet before the goods arrive in Singapore.
 
 The following imports of sand and granite will be exempted from the Scheme:
 
