@@ -7,7 +7,7 @@ third_nav_title: Competent Authorities Requirements
 
 # Singapore Civil Defence Force (SCDF)
 
-SCDF is the authority that controls the import of petroleum & flammable materials. The importer or declarant would need to declare SCDF controlled products via TradeNet wef 01 Jun 2005 onwards.
+SCDF is the authority that controls the import of petroleum & flammable materials. The importer or declarant would need to declare SCDF controlled products via TradeNet wef 01 Jun 2005 onwards. A customs permit must be obtained through TradeNet before the goods arrive in Singapore.
 
 The basic requirements are:
 
