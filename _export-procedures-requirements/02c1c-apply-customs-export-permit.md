@@ -4,7 +4,7 @@ permalink: /businesses/exporting-goods/export-procedures/apply-customs-export-pe
 third_nav_title: Exporting Requirements
 ---
 
-# Apply for Customs Export Permit
+# Obtain Customs Export Permit
 
 To export goods from Singapore, you will need to:
 
