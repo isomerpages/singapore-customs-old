@@ -11,7 +11,7 @@ accordion:
 
 # Export Procedures
 
-In general, exporters must apply for the relevant Customs export permits before exporting goods from Singapore.
+In general, exporters must obtain for the relevant Customs export permits before exporting goods from Singapore.
 
 Goods and Services Tax (GST) and duty are not levied on goods exported from Singapore.
 
