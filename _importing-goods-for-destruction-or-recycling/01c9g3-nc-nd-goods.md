@@ -5,11 +5,11 @@ third_nav_title: Importing Goods for Destruction or Recycling
 ---
 
 # Non-Controlled and Non-Dutiable Goods
-The importer or his appointed Declaring Agent may  [apply](/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
+The importer or his appointed Declaring Agent may  [obtain](/businesses/importing-goods/import-procedures/)  a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When obtaining, do note:
 
 -   “DUMP” must be declared in the “Place of Receipt Code” field.
 
-When declaring the In-Non-Payment (Destruction) permit, please include the following supporting documents and details:
+When obtaining the In-Non-Payment (Destruction) permit, please include the following supporting documents and details:
 
 -   Approval letter reference from the National Environment Agency (NEA), where applicable
 -   Date of destruction, name and address of the licensed incineration plant and the booking reference no. in the "Trader's Remarks" field, if applicable.
