@@ -53,11 +53,11 @@ Taxable companies should also check with the [Inland Revenue Authority of Singap
 
 -   [Controlled & Prohibited Goods](/businesses/importing-goods/import-procedures/controlled-prohibited-goods)
     
--   [Apply for a Customs Import Permit](/businesses/importing-goods/import-procedures/apply-customs-import-permit)
+-   [Obtain a Customs Import Permit](/businesses/importing-goods/import-procedures/apply-customs-import-permit)
     
 -   [Paying Duty and GST](/businesses/importing-goods/import-procedures/paying-duty-and-gst)
     
--   [Apply for a Short-Payment Permit](/businesses/importing-goods/import-procedures/apply-short-payment-permit)
+-   [Obtain a Short-Payment Permit](/businesses/importing-goods/import-procedures/apply-short-payment-permit)
     
 -   [Depositing Goods in Free Trade Zones](/businesses/importing-goods/import-procedures/depositing-goods-in-ftz)
     
