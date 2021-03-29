@@ -17,7 +17,7 @@ Please submit the following supporting documents to the Permits Unit, Procedures
 -   Email/letter from the Competent Authority authorising the destruction of the controlled goods, if applicable
 -   Any other supporting documents
 
-The importer or his appointed Declaring Agent may  [apply](/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
+The importer or his appointed Declaring Agent may  [obtain](/businesses/importing-goods/import-procedures/)  a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
 
 -   “DUMP” must be declared in the “Place of Receipt Code” field.
 -   The name and address of the licensed incineration plant and the booking reference no. as well as the approval letter reference from the NEA must be declared in the "Trader's Remarks" field, if applicable.
