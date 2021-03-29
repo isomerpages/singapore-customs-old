@@ -16,7 +16,7 @@ Please submit the following supporting documents to the Permits Unit, Procedures
 -   Letter from LTA regarding the deregistration of the Singapore-registered motor vehicle or motorcycle
 -   Any other supporting documents
 
-The importer or his appointed Declaring Agent may  [apply](/businesses/importing-goods/import-procedures/)  for a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
+The importer or his appointed Declaring Agent may  [obtain](/businesses/importing-goods/import-procedures/) a Customs In-Non-Payment (Destruction) permit via TradeNet before the importation. When applying, do note:
 
 -   “DUMP” must be declared in the “Place of Receipt Code” field.
 -   The engine number, chassis number and the status of the motor vehicle or motorcycle (used or new) must be declared in the “CA/SC Code 1”, “CA/SC Code 2” and “CA/SC Code 3” fields respectively.
