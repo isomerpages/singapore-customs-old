@@ -13,8 +13,8 @@ To export goods from Singapore, you will need to:
 
 After activating your Customs Account, you may:
 
--   Appoint a [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents) to apply for Customs permits on your behalf; or
--   Apply for Customs permits for your own shipment or on behalf of your clients. To do so, you need to [register as a declaring agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant) and [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet).
+-   Appoint a [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents) to obtain customs permits on your behalf; or
+-   Obtain customs permits for your own shipment or on behalf of your clients. To do so, you need to [register as a declaring agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant) and [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet).
 
 All permit applications must be submitted via TradeNet, accessible through:
 
