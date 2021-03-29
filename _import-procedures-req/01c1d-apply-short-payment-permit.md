@@ -1,10 +1,10 @@
 ---
-title: Apply for a Short-Payment Permit
+title: Obtain a Short-Payment Permit
 permalink: /businesses/importing-goods/import-procedures/apply-short-payment-permit
 third_nav_title: Importing Requirements
 ---
 
-# Apply for a Short-Payment Permit
+# Obtain a Short-Payment Permit
 
 A short-payment permit application is required to be taken up to account for the short-fall in duty and/or GST paid for goods that had been imported and declared previously. This may include but not limited to the following scenarios:
 
@@ -13,7 +13,7 @@ A short-payment permit application is required to be taken up to account for the
 -   Wrong invoice (with a lower value than invoice value) or currency type used in the declaration of payment permit
 -   Samples, gifts, free-of-charge items provided by overseas supplier not declared in the payment permit
 
-You should apply for the correct short payment permit:
+You should obtain the correct short payment permit:
 
 -   In-Payment (GST including duty exemption) permit if only GST is short-paid
 -   In-Payment (Duty) permit if only duty is short-paid
