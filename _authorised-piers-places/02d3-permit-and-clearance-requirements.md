@@ -6,7 +6,7 @@ third_nav_title: Authorised Piers and Places
 
 ## Permit and Clearance Requirements
 
-As per the existing customs procedures, you are required to apply for the relevant customs permits, where applicable, to import, export or tranship goods via Singapore.
+As per the existing customs procedures, you are required to obtain the relevant customs permits, where applicable, to import, export or tranship goods via Singapore.
 
 You are reminded to comply with the permit conditions stated in the permits. Permit conditions vary for different permit types and the authorised pier and place in which the goods are intended to be moved.
 
