@@ -53,7 +53,7 @@ Please refer to  [Circular No. 02/2015](/news-and-media/circulars/2015-01-19-Cir
 
 **Duty Exemption and GST Relief for Re-Importing Dutiable Shut-Out Goods Previously under Transhipment with Inter-gateway Movement into a Licensed Warehouse (ie. Transhipment From First Checkpoint to Second Checkpoint, and Shut-out From Second Checkpoint)**
 
-1) [Obtain](/businesses/importing-goods/import-procedures/) for a Customs In-Non Payment (Approved Premises/Schemes) permit via TradeNet before the re-importation of dutiable goods into a licensed warehouse.
+1) [Obtain](/businesses/importing-goods/import-procedures/) a Customs In-Non Payment (Approved Premises/Schemes) permit via TradeNet before the re-importation of dutiable goods into a licensed warehouse.
 
 2) When obtaining the permit, please take note of the following:
 
