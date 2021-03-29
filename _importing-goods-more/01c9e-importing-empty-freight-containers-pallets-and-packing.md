@@ -14,7 +14,7 @@ This page provides information on the Goods and Services Tax (GST) and permit re
 In general, the import of empty freight containers is subject to GST payment. Freight containers
 include 20/40 ft general container, flat rack, open top (with detachable tarpaulin), reefer and ISO
 tank containers, unit load devices (ULDs) and lower deck containers. The importer is required to
-apply for an In-Payment (GST) permit to account for the GST payment and import of such empty
+obtain an In-Payment (GST) permit to account for the GST payment and import of such empty
 freight containers.
 
 The import of empty freight containers is granted GST relief, if they are for use in the international
@@ -26,7 +26,7 @@ containers are sold, disposed of or transferred locally.
 
 In general, the import of freight pallets and packings for goods is subject to GST payment.
 Packings include carton boxes, wooden crates or metal cylinders for compressed gas. The importer
-is required to apply for an In-Payment (GST) permit to account for the GST payment of the
+is required to obtain an In-Payment (GST) permit to account for the GST payment of the
 import of such freight pallets and packings.
 
 The import of freight pallets and packings is granted GST relief, if they are
@@ -36,7 +36,7 @@ are, or are to be rolled, wound or attached; and
 
 (b) intended to be re-exported as soon as possible.
 
-The importer is required to apply for an In-Non Payment (GST Relief) permit to account for the
+The importer is required to obtain an In-Non Payment (GST Relief) permit to account for the
 GST Relief of the import of such freight pallets and packings. GST is payable if the freight pallets
 and packings are sold, disposed of or transferred locally.
 
