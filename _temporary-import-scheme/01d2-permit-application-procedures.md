@@ -11,7 +11,7 @@ third_nav_title: Temporary Import
 Traders should follow these procedures to apply for permits for temporary imports for all approved purposes (excluding scientific/technical goods for experimentation/demonstration):
 
 1.  Seek approval from the relevant Competent Authority (CA) if you are  [importing controlled goods](/businesses/importing-goods/controlled-and-prohibited-goods-for-import).
-2. Apply for the [Customs In-Non Payment (Temporary Consignment) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) via TradeNet.
+2. Obtain the [Customs In-Non Payment (Temporary Consignment) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) via TradeNet.
 3.  Submit the following documents together with your submission of the TradeNet declaration:
     
     -   Cover letter stating:
