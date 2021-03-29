@@ -40,7 +40,7 @@ The importer or the appointed freight handling agent should follow the steps in 
 -   A cover letter from the exporter or his agent stating reasons for the re-importation; and
 -   A copy of the previous Customs OUT (Approved Premises/Schemes) permit before the intended exportation.
 
-2) [Obtain](/businesses/importing-goods/import-procedures/) for a Customs In-Non Payment (Shut-Out) permit via TradeNet before the re-importation.
+2) [Obtain](/businesses/importing-goods/import-procedures/) a Customs In-Non Payment (Shut-Out) permit via TradeNet before the re-importation.
 
 3) When obtaining the permit, please note:
 
