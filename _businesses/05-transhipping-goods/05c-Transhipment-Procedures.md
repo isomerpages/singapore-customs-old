@@ -27,7 +27,7 @@ For more information on the types of Customs permits and situations where no cus
     
 -   [Vessel Registration Requirement](/businesses/transhipping-goods/transhipment-procedures/vessel-registration-requirement)
     
--   [Applying for a Customs Permit](/businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit)
+-   [Obtaining for a Customs Permit](/businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit)
     
 -   [Depositing Goods in Free Trade Zones Pending Transhipment](/businesses/transhipping-goods/transhipment-procedures/depositing-goods-in-ftzpt)
     
@@ -50,7 +50,7 @@ Traders may be penalised if they do not comply with the Customs requirements imp
     -   Incorrectly declaring controlled goods as ship spares, where the controlled goods require prior approval from the relevant Competent Authority
 
 -   Transhipping goods without a permit
-    -   Failure to apply for a Transhipment permit with Message Type “Out (with or without CO)” and Declaration Type “Direct (including storage in FTZ) (DRT)” when there is inter-gateway movement between two FTZs
+    -   Failure to obtain a Transhipment permit with Message Type “Out (with or without CO)” and Declaration Type “Direct (including storage in FTZ) (DRT)” when there is inter-gateway movement between two FTZs
 
 -   Transfer of strategic goods without the correct permits
     -   Transhipping information security equipment, which are controlled under the SGCA, with an Outward Transshipment (“OT”) permit instead of the Strategic Goods Transhipment (“XP”) permit
