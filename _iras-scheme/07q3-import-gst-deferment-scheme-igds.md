@@ -14,9 +14,9 @@ This scheme is designed to alleviate the cash flow of taxable traders by deferri
 
 ## Customs Permit Requirements
 
-Registered IGDS traders must  [apply](/businesses/importing-goods/import-procedures/) for the relevant Customs import permits via TradeNet for their IGDS shipments.
+Registered IGDS traders must  [obtain](/businesses/importing-goods/import-procedures/) the relevant Customs import permits via TradeNet for their IGDS shipments.
 
-Please note the following details when applying for the import permits:
+Please note the following details when obtaining the import permits:
 
 -   **For import of non-dutiable goods with GST under deferment**
     

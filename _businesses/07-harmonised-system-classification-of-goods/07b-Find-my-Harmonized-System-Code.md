@@ -24,7 +24,7 @@ In view of the current COVID-19 situation, you may refer to the HS Classificatio
 
 ## Traders' Product Guide
 
-The  [Traders’ Product Guide](/documents/businesses/Trader Product Guide_v2.pdf) provides a general description, stating the HS classification and dutiable status of the item. The pictures, drawings or photographs presented in this product guide are provided for illustrative purposes only.
+The  [Traders’ Product Guide](/documents/businesses/Trader Product Guide_Mar 2021.pdf) provides a general description, stating the HS classification and dutiable status of the item. The pictures, drawings or photographs presented in this product guide are provided for illustrative purposes only.
 
 ## Customs Ruling Database
 

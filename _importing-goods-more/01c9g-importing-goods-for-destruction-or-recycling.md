@@ -23,14 +23,14 @@ Please note that the importer must obtain the approval of the Competent Authorit
 
 ## Short-Payment
 
-An importer or his appointed Declaring Agent should apply for a Short-Payment permit within 2 working days from the date of destruction or recycling of the goods, if he had short-paid the duty and/or GST for goods that had been imported and declared. The following details must be included:
+An importer or his appointed Declaring Agent should obtain a Short-Payment permit within 2 working days from the date of destruction or recycling of the goods, if he had short-paid the duty and/or GST for goods that had been imported and declared. The following details must be included:
 
 -   Message and Declaration Type: In-Payment  **(GST)**  or In-Payment  **(DNG)**
 -   Place of Receipt Code:  **SPNOSTK (Short Payment Not Involving Updates to Stock)**
 
 The importer or his appointed declaring agent must declare the previous  **In-Payment**  or  **In-Non-Payment (Destruction)**  permit number in the Previous Permit No. field.
 
-Please take note of the relevant procedural requirements when applying for an In-Non-Payment (Destruction) permit for the destruction or recycling of imported goods listed in the respective categories below.
+Please take note of the relevant procedural requirements when obtaining an In-Non-Payment (Destruction) permit for the destruction or recycling of imported goods listed in the respective categories below.
 
 1. [Dutiable Motor Vehicles](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-motor-vehicles)
 

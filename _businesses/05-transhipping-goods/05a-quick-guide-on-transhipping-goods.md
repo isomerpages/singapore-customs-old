@@ -71,15 +71,15 @@ For information on security lodgement, please click  [here](/businesses/new-trad
 
 ***
 
-## Step 4 : Apply for  Customs Transhipment Permit
+## Step 4 : Obtain  Customs Transhipment Permit
 
-You allowed to apply for Customs Permits on behalf of your clients where a permit is  [required](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits). Please ensure that the permit declaration type and permit message are correct during your application process.
+You allowed to obtain customs Permits on behalf of your clients where a permit is  [required](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits). Please ensure that the permit declaration type and permit message are correct during your application process.
 
 All permit applications must be submitted via TradeNet. They will be accessible through [TradeNet front-end solution from an approved solution provider](/businesses/national-single-window/overview/TradeNet-Solution-Providers) or [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}
 
 For permit applications involving strategic goods, please indicate “Strategic Trade Scheme (STS)” under the Customs Procedure Code (CPC) field.
 
-Each permit application typically costs S$2.88. While you may charge service fees for applying permits on your client's behalf, you should clearly indicate the permit application cost of S$2.88 and segregate this costs from your fees.
+Each permit application typically costs S$2.88. While you may charge service fees for obtaining permits on your client's behalf, you should clearly indicate the permit application cost of S$2.88 and segregate this costs from your fees.
 
 ***
 

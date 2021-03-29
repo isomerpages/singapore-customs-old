@@ -22,4 +22,4 @@ Travellers who wish to hand-carry items belonging to an organisation for activit
     
 3.  Upon receiving approval from Singapore Customs, please produce Singapore Customs' approved declaration and supporting documents with the hand-carried items to checkpoint officers for clearance on your arrival into Singapore or departure from Singapore.
 
-For hand-carried items intended to be imported into Singapore on a temporary import basis for commercial purposes, traders should apply for a Customs In-Non Payment (Temporary Consignment) permit via TradeNet  as per the requirements under the TIS.
+For hand-carried items intended to be imported into Singapore on a temporary import basis for commercial purposes, traders should obtain a Customs In-Non Payment (Temporary Consignment) permit via TradeNet  as per the requirements under the TIS.

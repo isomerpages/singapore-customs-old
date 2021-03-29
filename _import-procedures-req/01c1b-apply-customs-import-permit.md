@@ -1,10 +1,10 @@
 ---
-title: Apply for a Customs Import Permit
+title: Obtain a Customs Import Permit
 permalink: /businesses/importing-goods/import-procedures/apply-customs-import-permit
 third_nav_title: Importing Requirements
 ---
 
-# Apply for a Customs Import Permit
+# Obtain a Customs Import Permit
     
  To import goods into Singapore, you will need to:
     
@@ -12,8 +12,8 @@ third_nav_title: Importing Requirements
     
    After activating your Customs Account, you may:
     
-   -   Appoint a [Declaring Agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents) to apply for customs permits on your behalf; or
-   -   Apply for customs permits for your own shipments or on behalf of your clients. To do so, you need to register as a [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}
+   -   Appoint a [Declaring Agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents) to obtain customs permits on your behalf; or
+   -   Obtain customs permits for your own shipments or on behalf of your clients. To do so, you need to register as a [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}
     
    All permit applications must be submitted via TradeNet, accessible through:
     

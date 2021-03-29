@@ -39,7 +39,7 @@ To account for the entry of your goods, please follow the steps below to obtain 
 An entity that intends to:
 
 -   Engage in import or export activities in Singapore, or
--   Apply for import, export and transhipment permits or certificates
+-   Obtain import, export and transhipment permits or certificates
 
 will need to:
 
@@ -67,11 +67,11 @@ The security furnished should be in the form of a Banker’s Guarantee, Finance 
 
 Visit [here](/businesses/new-traders-and-registration-services/registration-services/security-lodgement) for more information on security lodgement.
 
-## Step 5: Apply for Customs Import Permit
+## Step 5: Obtain Customs Import Permit
 You may:
 
--   Appoint a  [Declaring Agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for customs permits on your behalf; or
--   Apply for customs permits for your own or on behalf of your clients. To do so, you will need to register as a  [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}.
+-   Appoint a  [Declaring Agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to obtain customs permits on your behalf; or
+-   Obtain customs permits for your own or on behalf of your clients. To do so, you will need to register as a  [Declaring Agent and apply for a TradeNet user ID](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}.
 
 All permit applications must be submitted via TradeNet, which is accessible through:
 

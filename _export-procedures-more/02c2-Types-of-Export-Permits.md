@@ -22,14 +22,14 @@ All Customs permit applications must be submitted via TradeNet, accessible throu
 
 You may:
 
--   Appoint a  [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs permits on your behalf; or
--   [Register as a declaring agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet) to apply for Customs permits for your own shipments or on behalf of your clients
+-   Appoint a  [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to obtain customs permits on your behalf; or
+-   [Register as a declaring agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet) to obtain customs permits for your own shipments or on behalf of your clients
 
 Each permit application typically costs S$2.88. If you are engaging a declaring agent to assist you in declaring the permit, you may wish to check on the charges involved.
 
 ## TradeNet Unavailability
 
-In the event of TradeNet unavailability announced by Singapore Customs, exporters who are unable to obtain an approved permit should use a  [Letter of Undertaking](/documents/businesses/lou-template-for-tn-unavailability-6aug15-(2).docx)  for the clearance of their goods. The exporter will have to apply for a permit within 3 days from the date TradeNet is restored.
+In the event of TradeNet unavailability announced by Singapore Customs, exporters who are unable to obtain an approved permit should use a  [Letter of Undertaking](/documents/businesses/lou-template-for-tn-unavailability-6aug15-(2).docx)  for the clearance of their goods. The exporter will have to obtain a permit within 3 days from the date TradeNet is restored.
 
 For export, transhipment or bringing in transit of strategic goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability, exporters should use a  [Letter of Undertaking for strategic goods](/documents/businesses/lou-for-strategic-goods.docx)for clearance of their goods.
 

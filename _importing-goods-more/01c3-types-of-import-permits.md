@@ -37,11 +37,11 @@ You may also wish to view the  [complete list](/documents/businesses/types-of-pe
 
 In the event of TradeNet unavailability announced by Singapore Customs, importers who are unable to obtain an approved Customs permit will be advised to use a [Letter of Undertaking](/documents/businesses/lou-template-for-tn-unavailability-6aug15-(1).docx) to facilitate the clearance of their goods.
 
-The importer should apply for a Customs permit for the goods within **3** **days** from the date TradeNet is restored. However, importers are still required to make duty and/or GST payment at the checkpoints, if there is no [duty-free concession](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief) on the goods imported
+The importer should obtain a customs permit for the goods within **3** **days** from the date TradeNet is restored. However, importers are still required to make duty and/or GST payment at the checkpoints, if there is no [duty-free concession](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief) on the goods imported
 
 ## Situations Where Import Permit is Not Required
 
-Certain import situations do not require Customs permits. These include, but not limited to those listed below. However, importers are still required to make duty and/or GST payment at the checkpoints, if there is no duty-free concession on the goods imported.
+Certain import situations do not require customs permits. These include, but not limited to those listed below. However, importers are still required to make duty and/or GST payment at the checkpoints, if there is no duty-free concession on the goods imported.
 
 -   Intoxicating liquors not exceeding 10 litres and tobacco not exceeding 0.4 kilogrammes in the possession or baggage of any person arriving in Singapore
 -   Investment precious metals not exceeding 0.5 kilogrammes for personal use, in the possession or baggage of any person arriving in Singapore

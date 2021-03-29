@@ -60,7 +60,7 @@ Traders may be penalised under the Customs Act if they do not comply with the re
 -   Failure to produce goods under TIS for customs clearance/endorsement
 -   Exporting goods under a Customs Outward permit (OUT [TCR]) without producing the goods and permit for endorsement at the checkpoint
 -   Exporting goods under the ATA Carnet without producing the goods and the ATA Carnet for endorsement at the checkpoint
--   Failure to apply for Customs Outward permit
+-   Failure to obtain Customs Outward permit
 -   Exporting goods under an OUT (Direct) permit with permit prefix “OD” instead of the correct Customs Outward permit OUT (TCR) with permit prefix “OO”
 -   Making an incorrect declaration
 -   Goods were temporarily imported under a Customs Inward permit (In-Non-Payment [TCS]). The same goods were then re-exported using a Customs Outward permit meant for Temporary export/re-import (OUT [TCI]) instead of the correct Customs Outward permit (Out [TCS])

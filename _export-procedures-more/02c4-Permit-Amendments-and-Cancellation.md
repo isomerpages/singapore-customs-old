@@ -14,7 +14,7 @@ Once the amendments have been made, the most updated approved copy of the permit
 
 ## Permit Cancellation
 
-Please cancel the permit within the permit validity period and apply for a new one if you have provided inaccurate details which cannot be amended. You are not allowed to use export permits that have been cancelled to export goods.
+Please cancel the permit within the permit validity period and obtain a new one if you have provided inaccurate details which cannot be amended. You are not allowed to use export permits that have been cancelled to export goods.
 
 You may have to cancel certain permits (e.g. Out-Approved Premises/Schemes permits) or extend their validity periods if you do not utilise them. Please refer to the requirements stated in the permit conditions.
 

@@ -31,11 +31,11 @@ GST and/or duties are payable on any item that is temporarily imported if the go
 -   Transferred locally; or
 -   Not exported out of Singapore upon expiry of the temporary import period.
 
-You must apply for a Customs In-Payment GST permit and indicate the previous temporary import permit number in the “Previous Permit No.” field.
+You must obtain a Customs In-Payment GST permit and indicate the previous temporary import permit number in the “Previous Permit No.” field.
 
 ## Import & Export Permits
 
-You should apply for the relevant Customs permits via TradeNet before the actual importation and prior to the re-exportation of the goods.
+You should obtain for the relevant customs permits via TradeNet before the actual importation and prior to the re-exportation of the goods.
 
 You must produce the permits to the checkpoint officers for verification at the time of cargo clearance, if it is stated in the permit condition.
 

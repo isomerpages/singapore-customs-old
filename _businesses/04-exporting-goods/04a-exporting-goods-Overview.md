@@ -29,7 +29,7 @@ Entity can register with the [Accounting and Corporate Regulatory Authority (ACR
 
 If entity intends to:
 -   Engage in import or export activities in Singapore, or
--   Apply for import, export and transhipment permits or certificates
+-   Obtain import, export and transhipment permits or certificates
 
 ## Step 2: Check if your goods are controlled
 Do check if the goods you intend to export are controlled goods subject to restrictions by Competent Authorities (CAs) in Singapore.
@@ -38,11 +38,11 @@ You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSC
 
 If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} of the product, you may apply for an  [official classification ruling](/documents/businesses/application-for-classification.doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
-## Step 3:  Apply for Customs Export Permit
+## Step 3:  Obtain Customs Export Permit
 You may:
 
 -   Appoint a  [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to apply for Customs export permits on your behalf; or
--   Apply for Customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet)
+-   Obtain customs permits on your own or on behalf of your clients. To do so, you will need to  [register as a declaring agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet)
 
 All permit applications must be submitted electronically via TradeNet, which is accessible through:
 
