@@ -27,7 +27,7 @@ For more information on the types of Customs permits and situations where no cus
     
 -   [Vessel Registration Requirement](/businesses/transhipping-goods/transhipment-procedures/vessel-registration-requirement)
     
--   [Obtaining for a Customs Permit](/businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit)
+-   [Obtaining a Customs Permit](/businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit)
     
 -   [Depositing Goods in Free Trade Zones Pending Transhipment](/businesses/transhipping-goods/transhipment-procedures/depositing-goods-in-ftzpt)
     
