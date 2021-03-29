@@ -22,8 +22,8 @@ Companies approved under the MES can enjoy GST suspension for non-dutiable goods
 
 A Customs In-Non-Payment (Approved Premises / Schemes) permit must be obtained before removing the goods from the Free Trade Zone/entry point or the Zero-GST warehouse under the Major Exporter Scheme (MES). The place of receipt code should be declared as “ME”.
 
-A Declaring Agent (DA) can only apply for permits for an approved MES person after the approved MES person has authorised that DA by using the online e-Service "Apply for Declaring Agents" at IRAS'  [website](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"}.
+A Declaring Agent (DA) can only obtain permits for an approved MES person after the approved MES person has authorised that DA by using the online e-Service "Apply for Declaring Agents" at IRAS'  [website](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"}.
 
 For collection of postal parcels at  SingPost Centre, a MES trader must present the Customs In-Non-Payment (Approved Premises / Schemes) permit before the parcel can be released without GST payment. Otherwise, the MES trader will have to pay GST on the parcel.
 
-Read more about how to  [apply for import permits](/businesses/importing-goods/import-procedures/),  [GST suspension for goods removed from zero-GST warehouse under the MES](/news-and-media/circulars/2006-06-28-Circular122006.pdf) and [importing by postal or courier service](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service).
+Read more about how to  [obtain import permits](/businesses/importing-goods/import-procedures/),  [GST suspension for goods removed from zero-GST warehouse under the MES](/news-and-media/circulars/2006-06-28-Circular122006.pdf) and [importing by postal or courier service](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service).
