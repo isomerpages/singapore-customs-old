@@ -67,7 +67,7 @@ The table shows the period to submit your export permit application for the vari
     
 -   [Permit Exemptions](/businesses/exporting-goods/export-procedures/permit-exemptions)
     
--   [Apply for Customs Export Permit](/businesses/exporting-goods/export-procedures/apply-customs-export-permit)
+-   [Obtain Customs Export Permit](/businesses/exporting-goods/export-procedures/apply-customs-export-permit)
     
 -   [Depositing Goods in the Free Trade Zones](/businesses/exporting-goods/export-procedures/depositing-goods-in-ftz)
     
