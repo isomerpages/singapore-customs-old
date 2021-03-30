@@ -71,9 +71,9 @@ For information on security lodgement, please click  [here](/businesses/new-trad
 
 ***
 
-## Step 4 : Obtain  Customs Transhipment Permit
+## Step 4 : Obtain Customs Transhipment Permit
 
-You allowed to obtain customs Permits on behalf of your clients where a permit is  [required](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits). Please ensure that the permit declaration type and permit message are correct during your application process.
+You allowed to obtain customs permits on behalf of your clients where a permit is  [required](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits). Please ensure that the permit declaration type and permit message are correct during your application process.
 
 All permit applications must be submitted via TradeNet. They will be accessible through [TradeNet front-end solution from an approved solution provider](/businesses/national-single-window/overview/TradeNet-Solution-Providers) or [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}
 
