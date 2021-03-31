@@ -14,10 +14,6 @@ The assessment is free and it is mandatory for all companies who wish to apply f
 
 ## Benefits of TradeFIRST
 
-**Greater Convenience**
-
-Each company will have a dedicated account manager regardless of the number of schemes held with Singapore Customs. The account manager will follow up with the company on reviews and TradeFIRST renewal.
-
 **Greater Facilitation**
 
 We adopt a risk management approach to classify the level of facilitation into 5 bands - Basic, Standard, Intermediate, Enhanced and Premium.
