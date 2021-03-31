@@ -110,11 +110,12 @@ The TradeFIRST assessment process is shown in the following table:
 
 |  |  |
 |--|--|
-| **Step 1**  | Account manager sends company the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jan2021.xlsx)  that explains the assessment framework for the company’s self-assessment. |
-| **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jan2021.xlsx)  and sends it to the account manager with supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
-| **Step 3** | Account manager conducts preliminary assessment on suitability of company, advises on areas of improvement, and gives sufficient time for company to improve those areas where necessary. |
-| **Step 4** | On-site assessment will be conducted. |
-| **Step 5** | After the assessment, the account manager submits the evaluation and recommendation for approval.<br><br>The account manager will inform the company on its application outcome, the  [band](/businesses/customs-schemes-licences-framework/trade-first) it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement. | 
+| **Step 1**  | The company receives the TradeFIRST Self-Assessment Checklist from Customs, with detailed information on the assessment framework, for the company’s self-assessment. |
+| **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jan2021.xlsx)  and sends it to Customs with the relevant supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
+| **Step 3** | On-site assessment will be scheduled and conducted, upon receipt of relevant supporting documents. |
+| **Step 4** | The company receives its application outcome, the band it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement (if any). |
+
+Note: The entire assessment would generally take about 3 to 4 months to process, upon complete submission of relevant documents.
 
 ## Renewal
 
