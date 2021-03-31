@@ -31,7 +31,7 @@ In addition, STP-Plus certified companies will enjoy these benefits:
 -   Cargo is less likely to be inspected locally
 -   Recognised as a lower risk company
 -   Reduced inspection or expedited clearance if its certified status is also recognised by other partners through a mutual recognition arrangement
--   A dedicated account manager assigned as a single contact point to Singapore Customs
+-   A single point of contact from Singapore Customs will be provided
 -   Recognised as a known consignor under the Regulated Air Cargo Agent Regime
 
 ## MRA Partners
