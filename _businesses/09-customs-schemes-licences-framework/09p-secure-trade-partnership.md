@@ -74,7 +74,7 @@ Click  [here](/documents/businesses/SEB/STP Handbook Jan 2021.pdf) for the Handb
 
 **Step 1**: Complete the Application Form for STP at this link:  [www.go.gov.sg/stp-application](http://www.go.gov.sg/stp-application).
 
-**Step 2**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jan2021.xlsx) and relevant Annexes. Explanatory notes on how to fill up the checklist can be found in the TradeFIRST Dictionary.
+**Step 2**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Apr2021.xlsx) and relevant Annexes. 
 
 **Step 3**: Prepare these additional supporting documents:
 
