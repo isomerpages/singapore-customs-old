@@ -9,4 +9,4 @@ Singapore Customs' work is performed by the Trade Division, Compliance Division,
 
 The Internal Audit Branch reports directly to the Director-General of Customs.
 
-![Organisation Structure](/images/OrganisationStructure.jpg) 
+![Organisation Structure](/images/about-us/OrganisationStructure.jpg) 
