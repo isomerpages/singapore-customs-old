@@ -11,7 +11,9 @@ The ASEAN Customs Declaration Document (ACDD) is an electronic document to facil
 
 The ACDD is optional and open to all traders who export goods to an exchange-ready AMS. The exchange-ready AMS are: <br>
   a)  Cambodia<br>
-  b)  Myanmar<br>
+  b)  Malaysia<br>
+  c)  Myanmar<br>
+  d)  Thailand<br>
 
 More AMS will commence live operation when they are ready to do so.<br>
 
