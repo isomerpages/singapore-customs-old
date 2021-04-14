@@ -31,13 +31,13 @@ Singapore Logistics Association
 Deputy Commissioner (Operations)  
 Immigration & Checkpoints Authority
 
+**Ms Jane Lim**  
+Deputy Secretary (Trade)  
+Ministry of Trade and Industry
+
 **Ms Lim Khoon Ling**  
 Senior Vice President (South Asia)  
 Expeditors Singapore Pte Ltd
-
-**Mr Luke Goh**  
-Deputy Secretary (Trade)  
-Ministry of Trade and Industry
 
 **Mr Mahesh Sivaswamy**<br>
 Chairman & Chief Executive Officer<br>
