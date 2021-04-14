@@ -11,7 +11,7 @@ permalink: /news-and-media/publications/Statistics/
 -   Goods and Services Tax (GST) collection for imported and locally manufactured goods
 -   Annual cost per dollar collected by Singapore Customs
 
-## [Trade Facilitation Statistics](/documents/news-and-media/TradeFacilitationStatsFY15FY19.xls){:target="_blank"} 
+## [Trade Facilitation Statistics](/documents/news-and-media/TradeFacilitationStatsFY16FY20.xls){:target="_blank"} 
 
 -   Number of TradeNet permits issued by Singapore Customs each year
 -   Number of Customs licences issued for licensed premises as at 31 March each year
