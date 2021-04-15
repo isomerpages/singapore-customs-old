@@ -184,7 +184,7 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | 3. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)
 | 4. | Application for the Authorisation of Declaring Agent(s) for Licensed Premises | [Word Doc](/documents/eservices/DeclaringAgents-Licensed-Premises.doc) (316KB) |
 | 5. | Apply / Update / Renew / Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct) |
-| 6. | Authorisation of User Inventory Control System | [Word Doc](/documents/eservices/User-Inventory-Control-System.doc) (316KB) |
+| 6. | Authorisation of User Inventory Control System | [Word Doc](/documents/eservices/User-Inventory-Control-System.docx) (316KB) |
 | 7. | Claimant Application by all other entities (e.g. companies, businesses) apart from Embassy, High Commission Consulate, accredited Trade Mission, International Organisations, Foreign Military Forces, Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP) |
 | 8. | Claimant Application by Embassy, High Commission Consulate, accredited Trade Mission and International Organisation with the MFA as supporting agency | [Web Link](https://form.gov.sg/5d0095fa0816b400111cd5b1) |
 | 9. | Claimant Application by Foreign Military Forces | [Web Link](https://form.gov.sg/5d2552a250efd50018fe30ac) |
