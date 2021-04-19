@@ -16,6 +16,6 @@ permalink: /news-and-media/publications/Statistics/
 -   Number of TradeNet permits issued by Singapore Customs each year
 -   Number of Customs licences issued for licensed premises as at 31 March each year
 
-## [Enforcement Statistics](/documents/news-and-media/EnforcementStats-with-CY-figures-CY2019-5Yearly-Enforcement-Stats.xls){:target="_blank"} 
+## [Enforcement Statistics](/documents/news-and-media/Enforcement_stats_CY2020.xls){:target="_blank"} 
 
 Yearly enforcement figures for Customs offences - cigarettes, liquor, motor vehicles and fuel-gauge tampering (3/4 tank rule)
