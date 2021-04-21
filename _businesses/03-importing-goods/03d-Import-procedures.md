@@ -45,7 +45,7 @@ The importer is the party who imports the goods into Singapore:
 
 If an overseas company sold goods to a local company and the commercial invoice indicates the local customer as the consignee, the local customer will be the importer of the goods.
 
-More information [here](/businesses/importing-goods/import-procedures/types-of-import-permits) about the types of customs permits and situations where no customs permit is required.
+Please see the [types of Customs permits and situations where no customs permit is required](/businesses/importing-goods/import-procedures/types-of-import-permits) for more information.
 
 Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/){:target="_blank"}  on the arrangements to account for the GST.
 
