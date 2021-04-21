@@ -65,7 +65,7 @@ You are required to furnish security for transactions involving dutiable goods, 
 
 The security furnished should be in the form of a Banker’s Guarantee, Finance Company Guarantee or an Insurance Bond.
 
-Visit [here](/businesses/new-traders-and-registration-services/registration-services/security-lodgement) for more information on security lodgement.
+Please see [security lodgement](/businesses/new-traders-and-registration-services/registration-services/security-lodgement) for more information.
 
 ## Step 5: Obtain Customs Import Permit
 You may:
