@@ -32,4 +32,4 @@ Your application should be processed within 7 working days if the information an
 
 ## Applying for an ITT Bulk Permit
 
-You may also apply for an ITT Bulk Permit for the intangible transfer of technology. More information on the application requirements for Bulk Permits  [here](/documents/businesses/applyingforbulkpermits-(2).docx).
+You may also apply for an ITT Bulk Permit for the intangible transfer of technology. More information on the application requirements for Bulk Permits  [here](/businesses/09-customs-schemes-licences-framework/09q-strategic-trade-scheme.md).
