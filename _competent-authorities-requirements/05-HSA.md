@@ -96,7 +96,7 @@ When submitting a declaration, please observe the following requirements:
 
 **Tables 3 to 7**
 
-The Tables 2 to 5 below provide guidance to importers and dealers on licence information and/or other approval information that needs to be declared and the specific CA/SC Code fields that they should use to provide the information.
+The Tables 3 to 7 below provide guidance to importers and dealers on licence information and/or other approval information that needs to be declared and the specific CA/SC Code fields that they should use to provide the information.
 
 [**Table 3**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table3_therapeutic-products.pdf)  Therapeutic Products
 
