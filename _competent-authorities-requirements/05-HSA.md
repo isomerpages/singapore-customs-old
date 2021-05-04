@@ -13,7 +13,7 @@ For the following health products  that are subject to HSA’s licensing and/or 
 
 **Table 1. Health Products Subject to HSA Licensing/Approval Requirements** 
 
-|Sn | Category of Products | Main legislation |                                                                        
+| | Category of Products | Main legislation |                                                                        
 |-----------|-----------|-----------|
 | 1. | Therapeutic Products including therapeutic gums | Therapeutic Products including therapeutic gums |
 | --- | --- | --- |
