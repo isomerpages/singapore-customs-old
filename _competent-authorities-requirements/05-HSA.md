@@ -12,6 +12,11 @@ third_nav_title: Competent Authorities Requirements
 For the following health products  that are subject to HSA’s licensing and/or approval requirements before importation, an importer or dealer is required to submit import declarations using applicable HSA Product Codes and furnish the relevant licence and/or approval information:
 
 **Table 1. Health Products Subject to HSA Licensing/Approval Requirements** 
+| | Category of Products | Main legislation |
+| --- | --- | --- |
+| 1. | Therapeutic Products including therapeutic gums | Health Products (Therapeutic Products) Regulations 2016 |
+| 2. | Medical Devices | Health Products (Medical Devices) Regulations 2010 |
+
 | | Category of Products | Main legislation |                                                                       
 |-----------|-----------|-----------|
 | 1. | Therapeutic Products including therapeutic gums | Health Products (Therapeutic Products) Regulations 2016 |
