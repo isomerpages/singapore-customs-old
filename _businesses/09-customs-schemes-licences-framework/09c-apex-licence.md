@@ -33,4 +33,4 @@ For example, if a company is paying $4,000 for the Licensed Warehouse licence an
 
 Please email Customs_Schemes@customs.gov.sg if you are interested in applying for an Apex Licence.
 
-For further assistance, please call 6251 3027 or email  [Customs_Schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
+For urgent scheme-related matters, please contact us via our hotlines (8922 0485, 8922 5130 or 8779 0918) during our operating hours from 8am to 6pm, Mondays to Fridays, except on public holidays. Please note that the hotline (6251 3027) is temporarily not in use. 
