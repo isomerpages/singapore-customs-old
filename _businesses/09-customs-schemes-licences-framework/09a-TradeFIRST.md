@@ -133,7 +133,8 @@ During the renewal process, your company is required to submit the  [TradeFIRST 
 Reviews may also be conducted at shorter intervals under special circumstances, such as for companies granted conditional approval with areas identified for improvement within a stipulated time period.
 
 If you require further assistance on TradeFIRST, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-Alternatively, for urgent scheme-related matters, please contact us via out hotlines (8922 0485, 8922 5130 or 8779 0918) during out operating hours from 8am to 6pm, Mondays to Fridays, except on public holidays. Please note that the hotline (6251 3027) is temporarily not in use.
+
+Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485, 8922 5130 or 8779 0918) during our operating hours from 8am to 6pm, Mondays to Fridays, except on public holidays. Please note that the hotline (6251 3027) is temporarily not in use.
 
 ## Frequently Asked Questions (FAQs)
 
