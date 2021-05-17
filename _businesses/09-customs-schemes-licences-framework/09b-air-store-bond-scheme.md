@@ -81,8 +81,9 @@ For new applications, the Banker’s Guarantee or insurance bond will be based o
 
 Once the application is successful, we will contact you to follow up with your application
 
-For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg)
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485, 8922 5130 or 8779 0918) during our operating hours from 8am to 6pm, Mondays to Fridays, except on public holidays. Please note that the hotline (6251 3027) is temporarily not in use.
+For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
+
+Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485, 8922 5130 or 87790918) during our operating hours from 8am to 6pm, Mondays to Fridays, except on public holidays. Please note that the hotline (6251 3027) is temporarily not in use.
 
 ## Frequently Asked Questions (FAQs)
 
