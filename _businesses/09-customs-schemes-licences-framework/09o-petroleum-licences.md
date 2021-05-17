@@ -83,4 +83,8 @@ An annual licence fee is payable when the Petroleum and Biodiesel Blends Licence
 
 Singapore Customs reserves the right to impose a Banker’s Guarantee or insurance bond, if required.
 
-Once the application is successful, we will contact you to follow up with your application. For further assistance, please call 6251 3027 or email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
+Once the application is successful, we will contact you to follow up with your application. 
+
+For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
+
+Alternatively, for urgent scheme-related matters, please contact us via out hotlines (8922 0485, 8922 5130 or 8779 0918) during out operating hours from 8am to 6pm, Mondays to Fridays, except on public holidays. Please note that the hotline (6251 3027) is temporarily not in use.
