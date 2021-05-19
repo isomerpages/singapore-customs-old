@@ -87,7 +87,7 @@ Please email [customs_checkpoints@customs.gov.sg](mailto:customs_checkpoints@cus
 
 -   You have submitted a duplicate declaration;
 -   Your trip to Singapore has been cancelled;
--   The declared quanitity exceeds the physical quantity in your possession. In this case, you are required to approach our officers at the Customs Tax Payment Office immediately upon arrival to verify the physical items; or
+-   The declared quantity exceeds the physical quantity in your possession. In this case, you are required to approach our officers at the Customs Tax Payment Office immediately upon arrival to verify the physical items; or
 -   The cigarettes/tobacco products are not compliant with Standardised Packaging requirements. In this case, you are required to approach our officers at the Customs Tax Payment Office immediately upon arrival to verify the physical items.
 
 All refund requests will be reviewed on a case-by-case basis. Therefore, please check your declarations carefully before submitting your declarations for payment via the Customs@SG portal.
