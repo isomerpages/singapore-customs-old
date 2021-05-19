@@ -55,7 +55,7 @@ Some duty-free shops do not allow the sale of liquors in excess of duty-free all
 
 Please ensure that you have the physical goods on hand before making the declaration and tax payment through the mobile app or web application.
 
-**6.** **Can I use the mobile app or web application to make payment for controlled goods under the purview of other authorities (e.g., medicinal products)?**
+**6.** **Can I use the mobile app or web application to make payment for controlled goods under the purview of other authorities (e.g., medicinal products, pets)?**
 
 No. The importation of controlled goods into Singapore is regulated by the relevant Competent Authorities (CAs). CAs may require you to obtain a licence, import permit or authorisation form prior to the importation of controlled goods into Singapore. Upon your arrival, please present the controlled goods and the accompanying import permit or authorisation form to the checking officer at the Customs Red Channel.
 
@@ -81,9 +81,16 @@ Please approach our officers at the Customs Tax Payment Office with your goods f
 
 The e-receipt is valid only on the date of arrival printed on the receipt. If the date you arrived in Singapore is different from the date of arrival on the e-receipt, please proceed directly to the Customs Tax Payment Office located at the arrival hall of the airport for assistance. Please provide the e-receipt and the notification documents from the airline on the change of flight details for verification.
 
-**11.** **What should I do if I have cancelled my trip to Singapore but have already declared and paid the duty and/or GST of my goods?**
+**11.** **How can I seek refund for the duty and/or GST already prepaid via the Customs@SG app/web portal?**
 
-Please email [customs_checkpoints@customs.gov.sg](mailto:customs_checkpoints@customs.gov.sg)  and provide all supporting documents (e.g. flight cancellation document). We will assess your case and advise you accordingly.
+Please email [customs_checkpoints@customs.gov.sg](mailto:customs_checkpoints@customs.gov.sg) , with all relevant supporting documents such as purchase receipt and flight cancellation document, to seek a refund if:
+
+-   You have submitted a duplicate declaration;
+-   Your trip to Singapore has been cancelled;
+-   The declared quantity exceeds the physical quantity in your possession. In this case, you are required to approach our officers at the Customs Tax Payment Office immediately upon arrival to verify the physical items; or
+-   The cigarettes/tobacco products are not compliant with Standardised Packaging requirements. In this case, you are required to approach our officers at the Customs Tax Payment Office immediately upon arrival to verify the physical items.
+
+All refund requests will be reviewed on a case-by-case basis. Therefore, please check your declarations carefully before submitting your declarations for payment via the Customs@SG portal.
 
 **12.** **Are the mobile app and web application linked? Can I make a declaration in the mobile app and print the receipt from web application?**
 
@@ -91,7 +98,15 @@ Yes, for declaration submitted through the mobile app and the web application, a
 
 **13.** **This is my first time visiting Singapore and I am unaware of Singapore’s Standardised Packaging (SP) law. What if I use Customs@SG app to declare and pay the duty and Goods and Services Tax (GST) on my cigarettes or tobacco products that turn out to be non-compliant?**
 
-Travellers have to ensure that their cigarettes and/or tobacco products comply with the SP requirements before making a declaration and payment via the Customs@SG mobile app or web portal. Do note that no refund will be given for duty and GST already prepaid via the Customs@SG mobile or web portal for cigarettes and/or tobacco products that do not comply with the SP requirements.
+With effect from 1 July 2020, all cigarettes and other tobacco products imported into, sold, offered for sale or distributed in Singapore must comply with the new SP requirements. Travellers have to ensure that their cigarettes and/or tobacco products comply with the SP requirements before making a declaration and payment via the Customs@SG mobile app/web portal.
+
+Importation of cigarettes and/or tobacco products that do not comply with the SP requirements is not allowed, and these cigarettes and/or tobacco products will be disposed of at the checkpoints. For further information, you may refer to the Health Sciences Authority (HSA)’s webpage on [tobacco regulation](https://www.hsa.gov.sg/tobacco-regulation/overview) or contact the Ministry of Health (MOH) through email at [moh_info@moh.gov.sg](mailto:moh_info@moh.gov.sg). 
+
+If you have made payment of duty and GST for cigarettes/tobacco products that are not compliant with SP requirements, you are required to approach our officers at the Customs Tax Payment Office immediately upon arrival to verify the physical items. Please refer to S/N 11 for more information on how to seek refund for your payment.
+
+**14.** **I am importing my personal pet to Singapore. Can I pay GST using Customs@SG?**
+
+You may not use the Customs@SG application for the purposes of making declarations and payment of GST for the importation of pets. For more information on the specific Customs procedures and requirements, please refer to the webpage on [Importing Personal Pets](/businesses/importing-goods/import-procedures/importing-of-personal-pets#Procedures).
 
 ***
 
