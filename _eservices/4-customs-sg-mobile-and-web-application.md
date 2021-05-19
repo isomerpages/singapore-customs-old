@@ -55,7 +55,7 @@ Some duty-free shops do not allow the sale of liquors in excess of duty-free all
 
 Please ensure that you have the physical goods on hand before making the declaration and tax payment through the mobile app or web application.
 
-**6.** **Can I use the mobile app or web application to make payment for controlled goods under the purview of other authorities (e.g., medicinal products, pets)?**
+**6.** **Can I use the mobile app or web application to make payment for controlled goods under the purview of other authorities (e.g. medicinal products, pets)?**
 
 No. The importation of controlled goods into Singapore is regulated by the relevant Competent Authorities (CAs). CAs may require you to obtain a licence, import permit or authorisation form prior to the importation of controlled goods into Singapore. Upon your arrival, please present the controlled goods and the accompanying import permit or authorisation form to the checking officer at the Customs Red Channel.
 
