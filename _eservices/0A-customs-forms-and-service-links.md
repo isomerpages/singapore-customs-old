@@ -158,7 +158,7 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | 3. | Application for Authorisation of Petroleum Refund Users | [Web Link](https://form.gov.sg/5f742694e6dc3a0011138bad) |
 | 4. | Application for Duty Exemption of Dutiable Goods by Industrial Users | [Web Link](http://eservices.customs.gov.sg/scripts/customs/common/eservice.asp?AppID=DED1) |
 | 5. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://form.gov.sg/#!/5ef564974cb2d20012590cb1) |
-| 6. | Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects | [Web Link](https://form.gov.sg/600fd804a6ac7800110ab36b) (for SingPass users) <br><br> [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) (for non-SingPass users)|
+| 6. | Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects | [Web Link](https://form.gov.sg/600fd804a6ac7800110ab36b) (for Singpass users) <br><br> [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) (for non-Singpass users)|
 | 7. | Application for Kimberley Process Certificate |  [Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e)|
 | 8. | Application for Licensed Premises | [Web Link](http://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp) |
 | 9. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4) |
