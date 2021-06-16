@@ -1,0 +1,36 @@
+collections:
+  competent-authorities-requirements:
+    output: false
+    order:
+      - competent-authorities-requirements/.keep
+      - competent-authorities-requirements/building-and-construction-authority-bca.md
+      - competent-authorities-requirements/central-narcotics-bureau-cnb.md
+      - competent-authorities-requirements/enterprise-singapore-esg-import-and-export-of-rice.md
+      - competent-authorities-requirements/enterprise-singapore-esg-export-of-rubber.md
+      - competent-authorities-requirements/health-science-authority-hsa.md
+      - competent-authorities-requirements/info-communications-media-development-authority-imda-controller-of-undesirable-publications-cup.md
+      - competent-authorities-requirements/info-communications-media-development-authority-imda-radiocomm-dealer-licensing.md
+      - competent-authorities-requirements/ministry-of-health-biosafety-branch.md
+      - competent-authorities-requirements/ministry-of-home-affairs-gambling-regulatory-unit-gru.md
+      - competent-authorities-requirements/national-environment-agency-chemical-control-and-management-department-basel-convention.md
+      - competent-authorities-requirements/national-environment-agency-chemical-control-and-management-department-hazardous-substances.md
+      - competent-authorities-requirements/national-environment-agency-chemical-control-and-management-department-ozone-depleting-substances.md
+      - competent-authorities-requirements/national-environment-agency-chemical-control-and-management-department-rotterdam-convention-pic-procedure.md
+      - competent-authorities-requirements/national-environment-agency-radiation-protection-and-nuclear-science-division-rpnsd.md
+      - competent-authorities-requirements/national-parks-board-cites.md
+      - competent-authorities-requirements/national-parks-board-plant-health.md
+      - competent-authorities-requirements/national-parks-board-animal-veterinary-service-animal.md
+      - competent-authorities-requirements/national-parks-board-animal-veterinary-service-ornamental-fish.md
+      - competent-authorities-requirements/singapore-civil-defence-force-scdf.md
+      - competent-authorities-requirements/singapore-customs-chewing-gum-hs-code-17041000.md
+      - competent-authorities-requirements/import-and-export-of-goods-covered-under-import-certificate-and-delivery-verification-icdv.md
+      - competent-authorities-requirements/singapore-customs-import-of-mastering-equipment-and-replication-equipment.md
+      - competent-authorities-requirements/singapore-customs-kimberley-process-certification-scheme.md
+      - competent-authorities-requirements/strategic-goods-control.md
+      - competent-authorities-requirements/singapore-food-agency-fruits-and-vegetables.md
+      - competent-authorities-requirements/singapore-food-agency-livestock-and-animal-products.md
+      - competent-authorities-requirements/singapore-food-agency-meat.md
+      - competent-authorities-requirements/singapore-food-agency-processed-food.md
+      - competent-authorities-requirements/singapore-food-agency-seafood.md
+      - competent-authorities-requirements/singapore-police-force-arms-and-explosives-a-e-police-licensing-regulatory-department-plrd.md
+      - competent-authorities-requirements/singapore-police-force-public-entertainment-liquor-licensing-division-pelu-police-licensing-regulatory-department-plrd.md

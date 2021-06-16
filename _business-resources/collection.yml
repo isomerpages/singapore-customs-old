@@ -1,0 +1,19 @@
+collections:
+  business-resources:
+    output: false
+    order:
+      - directories-of-service-providers/.keep
+      - directories-of-service-providers/licensed-premises-for-liquor-tobacco-products.md
+      - directories-of-service-providers/licensed-premises-for-motor-vehicles.md
+      - directories-of-service-providers/licensed-premises-for-zero-gst-goods.md
+      - directories-of-service-providers/licensed-premises-for-petroleum-products.md
+      - directories-of-service-providers/list-of-local-forwarding-agents.md
+      - courses-and-events/.keep
+      - courses-and-events/joint-industry-outreach-on-strategic-trade-management-2020.md
+      - courses-and-events/joint-industry-outreach-on-strategic-trade-management-2019.md
+      - courses-and-events/joint-industry-outreach-on-strategic-trade-management-2018.md
+      - courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management-2017.md
+      - courses-and-events/application-for-customs-strategic-goods-control-seminar.md
+      - courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management.md
+      - courses-and-events/application-for-customs-strategic-goods-control-course.md
+      - courses-and-events/events-for-traders.md

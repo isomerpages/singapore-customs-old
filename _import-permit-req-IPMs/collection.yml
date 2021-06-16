@@ -1,0 +1,11 @@
+collections:
+  import-permit-req-IPMs:
+    output: false
+    order:
+      - importing-investment-precious-metals-ipm/.keep
+      - importing-investment-precious-metals-ipm/ipms-imported-by-air-sea-frieght-or-by-land.md
+      - importing-investment-precious-metals-ipm/ipms-imported-by-posts.md
+      - importing-investment-precious-metals-ipm/ipms-imported-by-hand-carry.md
+      - importing-investment-precious-metals-ipm/clearance-of-ipms.md
+      - importing-investment-precious-metals-ipm/approved-refiner-and-consolidator-scheme.md
+      - importing-investment-precious-metals-ipm/hs-codes-for-ipms.md

@@ -1,0 +1,7 @@
+collections:
+  import-certificate-and-delivery-verification:
+    output: false
+    order:
+      - import-certificate-and-delivery-verification/.keep
+      - import-certificate-and-delivery-verification/import-certificate.md
+      - import-certificate-and-delivery-verification/delivery-verification.md

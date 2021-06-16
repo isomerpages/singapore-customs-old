@@ -1,0 +1,9 @@
+collections:
+  chemical-weapons-convention:
+    output: false
+    order:
+      - declarations/.keep
+      - declarations/annual-declaration-for-anticipated-activities-adaa-declarations.md
+      - declarations/annual-declaration-for-past-activities.md
+      - declarations/ad-hoc-declaration-on-additionally-planned-activities-declarations.md
+      - declarations/advanced-notification-on-transfer-of-schedule-1-chemicals.md

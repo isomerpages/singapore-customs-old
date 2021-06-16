@@ -1,0 +1,9 @@
+collections:
+  importing-goods-for-destruction-or-recycling:
+    output: false
+    order:
+      - importing-goods-for-destruction-or-recycling/.keep
+      - importing-goods-for-destruction-or-recycling/dutiable-motor-vehicles.md
+      - importing-goods-for-destruction-or-recycling/dutiable-liquor-tobacco-products-and-ethanol.md
+      - importing-goods-for-destruction-or-recycling/non-controlled-and-non-dutiable-goods.md
+      - importing-goods-for-destruction-or-recycling/controlled-non-dutiable-goods.md

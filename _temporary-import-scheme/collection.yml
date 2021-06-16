@@ -1,0 +1,20 @@
+collections:
+  temporary-import-scheme:
+    output: false
+    order:
+      - temporary-import/.keep
+      - temporary-import/qualifying-goods-and-purposes.md
+      - temporary-import/permit-application-procedures.md
+      - temporary-import/temporary-import-of-scientific-or-technical-goods.md
+      - temporary-import/temporary-import-duration-and-extension.md
+      - temporary-import/additional-requirements.md
+      - temporary-export/.keep
+      - temporary-export/qualifying-goods-and-purposes.md
+      - temporary-export/permit-application-procedures.md
+      - temporary-export/temporary-export-duration-and-extension.md
+      - temporary-export/additional-requirements.md
+      - alternatives-to-the-temporary-import-scheme/.keep
+      - alternatives-to-the-temporary-import-scheme/temporary-importation-exportation-of-hand-carried-non-commercial-goods.md
+      - alternatives-to-the-temporary-import-scheme/ata-carnet.md
+      - for-more-information/.keep
+      - for-more-information/approved-wine-event.md

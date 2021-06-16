@@ -1,0 +1,8 @@
+collections:
+  transhipment-procedures:
+    output: false
+    order:
+      - transhipment-procedures/.keep
+      - transhipment-procedures/permit-validity-and-error-messages.md
+      - transhipment-procedures/types-of-transhipment-permits.md
+      - transhipment-procedures/permit-amendments-and-cancellation.md

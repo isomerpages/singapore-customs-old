@@ -1,0 +1,8 @@
+collections:
+  iras-scheme:
+    output: false
+    order:
+      - iras-scheme/.keep
+      - iras-scheme/major-exporter-scheme.md
+      - iras-scheme/approved-import-gst-suspension-scheme.md
+      - iras-scheme/import-gst-deferment-scheme.md

@@ -1,0 +1,8 @@
+collections:
+  importing-dutiable-motor-vehicles:
+    output: false
+    order:
+      - importing-dutiable-motor-vehicles/.keep
+      - importing-dutiable-motor-vehicles/establishing-the-customs-value.md
+      - importing-dutiable-motor-vehicles/duty-rates.md
+      - importing-dutiable-motor-vehicles/goods-and-services-tax-gst.md

@@ -1,0 +1,12 @@
+collections:
+  individuals_going-through-customs:
+    output: false
+    order:
+      - arrivals/.keep
+      - arrivals/duty-free-concession-and-gst-relief.md
+      - arrivals/declaration-and-payment-of-taxes.md
+      - arrivals/prohibited-and-controlled-goods.md
+      - arrivals/guide-for-travellers.md
+      - departure/.keep
+      - departure/tourist-refund-scheme.md
+      - departure/three-quarter-tank-rule.md

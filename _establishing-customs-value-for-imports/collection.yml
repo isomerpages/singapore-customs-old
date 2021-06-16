@@ -1,0 +1,11 @@
+collections:
+  establishing-customs-value-for-imports:
+    output: false
+    order:
+      - establishing-customs-value-for-imports/.keep
+      - establishing-customs-value-for-imports/flat-rates-for-freight-insurance.md
+      - establishing-customs-value-for-imports/flat-rate-for-insurance.md
+      - establishing-customs-value-for-imports/exchange-rates.md
+      - establishing-customs-value-for-imports/transfer-pricing-adjustments-on-imports.md
+      - duties-and-dutiable-goods/.keep
+      - duties-and-dutiable-goods/list-of-dutiable-goods.md

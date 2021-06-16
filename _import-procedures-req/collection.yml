@@ -1,0 +1,15 @@
+collections:
+  import-procedures-req:
+    output: false
+    order:
+      - importing-requirements/.keep
+      - importing-requirements/controlled-prohibited-goods.md
+      - importing-requirements/obtain-a-customs-import-permit.md
+      - importing-requirements/paying-duty-and-gst.md
+      - importing-requirements/obtain-a-short-payment-permit.md
+      - importing-requirements/depositing-goods-in-free-trade-zones.md
+      - importing-requirements/depositing-goods-in-licensed-or-zero-gst-warehouses.md
+      - importing-requirements/retaining-your-trade-documents.md
+      - importing-requirements/documents-for-clearance-of-goods.md
+      - importing-requirements/return-of-customs-permits.md
+      - importing-requirements/sealing-and-unstuffing.md

@@ -1,0 +1,24 @@
+collections:
+  importing-goods-more:
+    output: false
+    order:
+      - import-procedures/.keep
+      - import-procedures/hand-carried-temporary-imported-goods.md
+      - import-procedures/types-of-import-permits.md
+      - import-procedures/permit-validity-and-error-messages.md
+      - import-procedures/permit-amendment-and-cancellation.md
+      - import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports.md
+      - import-procedures/importing-trade-samples.md
+      - import-procedures/importing-by-postal-or-courier-service.md
+      - import-procedures/importing-of-pets-for-commercial-purpose.md
+      - import-procedures/importing-personal-pets.md
+      - import-procedures/importing-investment-precious-metals-ipms.md
+      - import-procedures/importing-medicinal-products-and-therapeutic-products-for-clinical-trials.md
+      - import-procedures/importing-motor-vehicles-granted-duty-exemption-and-boats-granted-gst-relief.md
+      - import-procedures/importing-empty-freight-containers-pallets-and-packing.md
+      - import-procedures/importing-ethyl-alcohol.md
+      - import-procedures/importing-goods-for-destruction-or-recycling.md
+      - import-procedures/re-importing-shut-out-goods.md
+      - import-procedures/re-importing-of-goods-sent-overseas-for-activities.md
+      - import-procedures/importing-used-household-articles-and-personal-effects.md
+      - import-procedures/authorised-piers-and-places.md

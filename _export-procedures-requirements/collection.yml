@@ -1,0 +1,12 @@
+collections:
+  export-procedures-requirements:
+    output: false
+    order:
+      - exporting-requirements/.keep
+      - exporting-requirements/controlled-prohibited-goods.md
+      - exporting-requirements/permit-exemptions.md
+      - exporting-requirements/apply-for-customs-export-permit.md
+      - exporting-requirements/depositing-goods-in-the-free-trade-zones.md
+      - exporting-requirements/documentation-for-clearance-of-goods.md
+      - exporting-requirements/retaining-your-trade-documents.md
+      - exporting-requirements/return-of-permit.md

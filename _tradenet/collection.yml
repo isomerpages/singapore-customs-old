@@ -1,0 +1,9 @@
+collections:
+  tradenet:
+    output: false
+    order:
+      - overview/.keep
+      - overview/what-you-need-to-know-about-tradenet.md
+      - overview/tradenet-front-end-solution-providers.md
+      - overview/annexes-and-appendices.md
+      - overview/competent-authorities-requirements-for-controlled-items.md

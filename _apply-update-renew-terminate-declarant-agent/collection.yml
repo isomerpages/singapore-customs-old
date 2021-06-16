@@ -1,0 +1,9 @@
+collections:
+  apply-update-renew-terminate-declarant-agent:
+    output: false
+    order:
+      - apply-update-renew-terminate-declaring-agent/.keep
+      - apply-update-renew-terminate-declaring-agent/declaring-agent-account.md
+      - apply-update-renew-terminate-declaring-agent/declarant.md
+      - apply-update-renew-terminate-declaring-agent/compliance-to-registration.md
+      - apply-update-renew-terminate-declaring-agent/terms-and-conditions.md

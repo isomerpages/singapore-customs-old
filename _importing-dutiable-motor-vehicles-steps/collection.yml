@@ -1,0 +1,7 @@
+collections:
+  importing-dutiable-motor-vehicles-steps:
+    output: false
+    order:
+      - guide-to-importing-dutiable-motor-vehicles/.keep
+      - guide-to-importing-dutiable-motor-vehicles/for-individuals-or-parallel-importers.md
+      - guide-to-importing-dutiable-motor-vehicles/for-authorised-agents.md

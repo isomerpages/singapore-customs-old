@@ -1,0 +1,11 @@
+collections:
+  registration-services:
+    output: false
+    order:
+      - registration-services/.keep
+      - registration-services/activate-update-terminate-customs-account.md
+      - registration-services/apply-for-inter-bank-giro-ibg.md
+      - registration-services/security-lodgement.md
+      - registration-services/authorise-a-declaring-agent.md
+      - registration-services/apply-update-renew-terminate-declaring-agent-da-account-and-declarant.md
+      - registration-services/register-claimants.md

@@ -1,0 +1,11 @@
+collections:
+  importing-by-post-or-courier-service:
+    output: false
+    order:
+      - importing-by-post-or-courier-service/.keep
+      - importing-by-post-or-courier-service/procedures-for-postal-parcels.md
+      - importing-by-post-or-courier-service/procedures-for-courier-parcels.md
+      - importing-by-post-or-courier-service/fees-charged-by-service-providers.md
+      - importing-by-post-or-courier-service/how-to-make-gst-and-duty-payment.md
+      - importing-by-post-or-courier-service/enquiries.md
+      - importing-by-post-or-courier-service/refund-of-taxes.md

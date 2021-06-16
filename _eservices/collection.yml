@@ -1,0 +1,12 @@
+collections:
+  eservices:
+    output: false
+    order:
+      - overview.md
+      - customs-forms-service-links.md
+      - country-port-code-search-engine.md
+      - payment-to-customs.md
+      - customs-sg-mobile-and-web-application.md
+      - manifest-reconciliation-statement-mrs-scheme/.keep
+      - manifest-reconciliation-statement-mrs-scheme/manifest-reconciliation-statement-scheme.md
+      - manifest-reconciliation-statement-mrs-scheme/manifest-reconciliation-statement-scheme-terms-and-conditions.md

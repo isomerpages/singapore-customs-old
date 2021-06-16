@@ -1,0 +1,18 @@
+collections:
+  CWC-licensing-requirements:
+    output: true
+    order:
+      - additional-information/.keep
+      - additional-information/definition-of-activity.md
+      - additional-information/licence-terms-and-conditions.md
+      - licensing-requirements/.keep
+      - licensing-requirements/application-for-licence.md
+      - licensing-requirements/amendment-to-existing-licence.md
+collections:
+  CWC-licensing-requirements:
+    output: false
+    order:
+      - additional-information/definition-of-activity.md
+      - additional-information/licence-terms-and-conditions.md
+      - licensing-requirements/amendment-to-existing-licence.md
+      - licensing-requirements/application-for-licence.md

@@ -1,0 +1,8 @@
+collections:
+  strategic-goods-control-list:
+    output: false
+    order:
+      - strategic-goods-control-list/.keep
+      - strategic-goods-control-list/list-of-military-goods.md
+      - strategic-goods-control-list/list-of-dual-use-goods.md
+      - strategic-goods-control-list/determination-of-strategic-goods.md
