@@ -192,6 +192,7 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | 11. | Claimant Application by International Organisations supported by an agency other than the MFA | [Web Link](https://form.gov.sg/5d03113d2ce4bb0011a8801e) |
 | 12. | Security Application Template | [Word Doc](/documents/eservices/Security-Application-template.doc) (44KB) |
 | 13. | Security Extension Template  <br> (Applicable only for new security lodged from 15 April 2019) | [Word Doc](/documents/eservices/Security-Extension-template.doc) (36KB) |
+| 14. | Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores | [Web Link](https://go.gov.sg/seastores-exporter) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
