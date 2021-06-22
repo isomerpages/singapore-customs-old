@@ -39,6 +39,11 @@ Dutiable sea stores can only be uplifted to approved types of vessels (passenger
 | **Spirits** | 0.25 Bottle| 
 | **Beer or Stout (local or imported)** |4 Cans | 
 
+## Registration as Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores
+
+All exporters of duty and GST-unpaid liquor and/or tobacco sea stores are required to be registered with Singapore Customs before an export permit can be obtained via TradeNet. You may register via the [“Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores”](https://go.gov.sg/seastores-exporter)  form.
+
+Please refer to [Circular No. 05/2021](/news-and-media/circulars/2021-06-22-Circular052021.pdf) for more information.
 
 ## Customs Permit Requirements for Sea Stores
 
