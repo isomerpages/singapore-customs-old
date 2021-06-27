@@ -1,4 +1,9 @@
+---
 Land Transport Authority (LTA)
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/LTA
+---
+
+# Land Transport Authority (LTA)
 
 Import Control Regime for PABs and Motorised PMDs
 
@@ -10,4 +15,4 @@ To import PABs and/or motorised PMDs, importers must apply for an import permit 
 
 In general, LTA will only grant import approval for compliant PABs and motorised PMDs. For non-compliant devices, LTA may grant import approval under specific circumstances and subject to LTA’s strict assessment.
 
-For more information, please visit LTA’s website.
+For more information, please visit [LTA’s website](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/regulations_licensing/active_mobility/import_control_regime_for_pabs_and_motorised_pmds.html){:target="_blank"}}.
