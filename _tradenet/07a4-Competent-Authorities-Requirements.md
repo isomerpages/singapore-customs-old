@@ -61,15 +61,17 @@ For applications to the Controller of Undesirable Publications, the supporting d
 -   [Controller of Undesirable Publications (CUP)](/businesses/national-single-window/tradenet/competent-authorities-requirements/IMDA-CUP)
 -   [Radiocomm & Dealer Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/imda-radiocomm-and-dealer-licensing)
 
-**6) Ministry of Health (MOH)**
+**6) [Land Transport Authority (LTA)](/businesses/national-single-window/tradenet/competent-authorities-requirements/LTA)**
+
+**7) Ministry of Health (MOH)**
 
 -   [Biosafety Branch](/businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health---biosafety-branch)
 
-**7) Ministry of Home Affairs (MHA)**
+**8) Ministry of Home Affairs (MHA)**
 
 -   [Ministry of Home Affairs - Gambling Regulatory Unit](/businesses/national-single-window/tradenet/competent-authorities-requirements/MHA-Gambling-Regulatory-Unit)
 
-**8) National Environment Agency (NEA)**
+**9) National Environment Agency (NEA)**
 
 -   Chemical Control and Management Department (CCMD)
     
@@ -79,16 +81,16 @@ For applications to the Controller of Undesirable Publications, the supporting d
     -   [Rotterdam Convention and the Interim Prior Informed Consent (PIC) Procedure](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---chemical-control-and-management-department-rotterdam-convention-pic-procedure)
 -   [Radiation Protection and Nuclear Science Division (RPNSD)](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---radiation-protection-and-nuclear-science-division-rpnsd)
 
-**9) National Parks Board (NParks)**
+**10) National Parks Board (NParks)**
 
 -   [NParks (CITES)](/businesses/national-single-window/tradenet/competent-authorities-requirements/Nparks-Cites)
 -   [NParks (Plant Health)](/businesses/national-single-window/tradenet/competent-authorities-requirements/Nparks-PlantHealth)
 -   [NParks Animal Veterinary Service (Animal)](/businesses/national-single-window/tradenet/competent-authorities-requirements/AVS-Animals)
 -   [NParks Animal Veterinary Service (Ornamental Fish)](/businesses/national-single-window/tradenet/competent-authorities-requirements/AVS-Fish)
 
-**10)  [Singapore Civil Defence Force (SCDF)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SCDF)**
+**11)  [Singapore Civil Defence Force (SCDF)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SCDF)**
 
-**11) Singapore Customs (Customs)**
+**12) Singapore Customs (Customs)**
 
 -   [Chewing Gum (HS Code 17041000)](/businesses/national-single-window/tradenet/competent-authorities-requirements/Chewing-gum)
 -   [Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)](/businesses/national-single-window/tradenet/competent-authorities-requirements/icdv)
@@ -98,7 +100,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 -   [Strategic Goods Control](/businesses/national-single-window/tradenet/competent-authorities-requirements/strategic-goods-control)
 -   [United Nations Security Council (UNSC) Sanctions](/businesses/united-nations-security-council-sanctions/)
 
-**12) Singapore Food Agency (SFA)**
+**13) Singapore Food Agency (SFA)**
 
 -   [SFA (Fresh Fruits & Vegetables)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Fruits-and-Vegetables)
 -   [SFA (Livestock & Animal Products)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Livestocks)
@@ -106,7 +108,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 -   [SFA (Processed Food)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Processed-Food)
 -   [SFA (Seafood)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Seafood)
 
-**13) Singapore Police Force (SPF)**
+**14) Singapore Police Force (SPF)**
 
 -   [Arms and Explosives](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-Arms-and-explosives)
 -   [Public Entertainment & Liquor Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-public-entertainment-liquor-licensing)
