@@ -1,6 +1,7 @@
 ---
-Land Transport Authority (LTA)
+title: Land Transport Authority (LTA)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/LTA
+third_nav_title: Competent Authorities Requirements
 ---
 
 # Land Transport Authority (LTA)
