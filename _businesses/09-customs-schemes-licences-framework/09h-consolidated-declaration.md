@@ -24,4 +24,4 @@ Please refer to the following key qualifying criteria:
 
 For any scheme-related enquiries, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485, 8922 5130 or 8779 0918) during our operating hours from 8am to 6pm, Mondays to Fridays, except on public holidays. Please note that the hotline (6251 3027) is temporarily not in use. 
+Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
