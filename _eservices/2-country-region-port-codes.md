@@ -1,5 +1,5 @@
 ---
-title: Country/Port Code Search Engine
+title: Country/Region/Port Code Search Engine
 permalink: /eservices/country-and-port-codes/
 ---
 
@@ -7,6 +7,6 @@ permalink: /eservices/country-and-port-codes/
 
 # Country and Port code Search Engine
 
-Click [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchCountryPort/searchInitCountryPort.do) for Country/Port Code Search.
+Click [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchCountryPort/searchInitCountryPort.do) for Country/Region/Port Code Search.
 
 Note: Search criteria should be in alphanumeric characters.
