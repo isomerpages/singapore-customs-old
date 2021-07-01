@@ -8,7 +8,7 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 ## What is it?
 
-The Bonded Truck Scheme (BTS) allows qualified companies to handle time-sensitive goods* between the land checkpoints and Free Trade Zones (FTZs), under a simplified Customs permit, for subsequent re-export or release into customs territory.
+The Bonded Truck Scheme (BTS) allows qualified companies to handle time-sensitive goods* between the land checkpoints and Free Trade Zones (FTZs), under a simplified customs permit, for subsequent re-export or release into customs territory.
 
 *The term “goods” under BTS refers to all goods (including parcels).
 
@@ -24,14 +24,14 @@ To qualify for the BTS, the company must-
 -   have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account);
 -   have good compliance records with Singapore Customs;
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the “Premium” Band; and
--   engage an external auditor, if required by Customs, to assess on the company's need for the BTS upon renewal (e.g. to establish if cargo volumes qualify for BTS).
+-   engage an external auditor, if required by Customs, to assess the company's need for the BTS upon renewal (e.g. to establish if cargo volumes qualify for BTS).
 
 ## Key Responsibilities
 
 -   **Accountability to Singapore Customs**
     
     -   Comply with the Customs Act and Customs Regulations, licensing conditions, and any other conditions imposed.
-    -   Declare relevant Customs permits, as required by Singapore Customs, for movement of all goods in and out of Free Trade Zones, and abide by the stipulated permit conditions.
+    -   Declare relevant customs permits, as required by Singapore Customs, for movement of all goods in and out of FTZs, and abide by the stipulated permit conditions.
 
 -   **Accountability to Other Competent Authorities**
     
@@ -66,7 +66,7 @@ Alternatively, for urgent scheme-related matters, please contact us via our hotl
 
 **1)** **Do I need to pay GST for goods moved under the BTS?**
 
-If the goods are transhipped from the land checkpoints to Free Trade Zones and subsequently released into customs territory, you are required to take up an Inward GST Payment permit.
+If the goods are transhipped from the land checkpoints to FTZs and subsequently released into customs territory, you are required to take up an Inward GST Payment permit.
 
 **2)** **What goods can be transported under the BTS?**
 
@@ -86,7 +86,7 @@ Proper bonded vehicles (trucks/containers) that are managed under the fleet mana
 
 -   separate compartments for mails and goods (if the vehicle is meant for mails and goods);
 -   no other compartments in the vehicle other than those described above for movement of mails and goods; and 
--   the relevant compartment is equipped with doors (with ledges) for Immigration and Checkpoints Authority officers to affix the Singaore Customs red seals.
+-   the relevant compartment is equipped with doors (with ledges) for ICA officers to affix the Singaore Customs red seals.
 
 **5)** **How do I declare Customs permits?**
 
@@ -96,11 +96,11 @@ Find out more about  [Permit Declaration](/businesses/new-traders-and-registrati
 
 **6)** **What is definition of the term "non-homogenous goods" in the qualifying criteria?**
 
-As a guide, the term “non-homogenous goods” is defined as “more than 10 different types of goods of different HS Codes”, where declaring all details in individual transhipment permit for each good would pose a challenge to a company. 
+As a guide, the term “non-homogenous goods” is defined as “more than 10 different types of goods of different Harmonised System (HS) Codes”, where declaring all details in individual transhipment permit for each good would pose a challenge to a company. 
 
 **7)** **Why must a company with no established cargo volume submit an External Auditor’s (EA) report to Customs before its TradeFIRST renewal? **
 
-An external Auditor’s report is to be submitted before the TradeFIRST renewal of the BTS licence in the 3rd year for a company with no established cargo volume. This is to ascertain that the goods values and volumes provided by the company when it applied to Customs to qualify for the BTS initially have been realised by the 3rd year. Failure to meet the provided goods values and volumes may result in the non-renewal of the licence. 
+An EA’s report is to be submitted before the TradeFIRST renewal of the BTS licence in the third year for a company with no established cargo volume. This is to ascertain that the goods values and volumes provided by the company when it applied to Customs to qualify for the BTS initially have been realised by the third year. Failure to meet the provided goods values and volumes may result in the non-renewal of the licence. 
 
 **8)** **Why do I need to have a robust system to track-and-trace goods, enabling an end-to-end oversight of mails and goods?**
 
@@ -116,5 +116,5 @@ Qualified BTS companies’ fleet management should have the following aspects:
     Qualified companies must be able to maintain constant contact with its trucks drivers during movement of goods under the BTS.
 -   **GPS-tracking capability**
     Qualified companies must have full visibility over their fleet of bonded trucks/containers and mails and goods round-the-clock via GPS-tracking. 
--   **3rd Party Provider**
-    If a qualified company’s bonded trucks and containers are out-sourced, the qualified company would be required to maintain oversight on its 3rd party-provider. There must be established SOPs between the qualified company and its 3rd party provider; daily/adhoc incident reports and emergency/accident response management, etc.
+-   **Third Party Provider**
+    If a qualified company’s bonded trucks and containers are out-sourced, the qualified company would be required to maintain oversight on its third party-provider. There must be established SOPs between the qualified company and its third party provider; daily/adhoc incident reports and emergency/accident response management, etc.
