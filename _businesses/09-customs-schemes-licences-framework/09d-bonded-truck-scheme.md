@@ -98,7 +98,7 @@ Find out more about  [Permit Declaration](/businesses/new-traders-and-registrati
 
 As a guide, the term “non-homogenous goods” is defined as “more than 10 different types of goods of different Harmonised System (HS) Codes”, where declaring all details in individual transhipment permit for each good would pose a challenge to a company. 
 
-**7)** **Why must a company with no established cargo volume submit an External Auditor’s (EA) report to Customs before its TradeFIRST renewal? **
+**7)** **Why must a company with no established cargo volume submit an External Auditor’s (EA) report to Customs before its TradeFIRST renewal?**
 
 An EA’s report is to be submitted before the TradeFIRST renewal of the BTS licence in the third year for a company with no established cargo volume. This is to ascertain that the goods values and volumes provided by the company when it applied to Customs to qualify for the BTS initially have been realised by the third year. Failure to meet the provided goods values and volumes may result in the non-renewal of the licence. 
 
