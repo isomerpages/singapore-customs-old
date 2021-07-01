@@ -111,10 +111,10 @@ BTS is a facilitation that allows the qualified company to declare minimal detai
 Qualified BTS companies’ fleet management should have the following aspects:
 
 -   **Trucks Fleet Management System/Standard Operating Procedures (SOP)**
-    Qualified companies must be able to manage their bonded trucks and containers in a systematic manner with proper SOPs. Two examples of SOPs are as follows:  i) Accident and emergency response SOP (e.g. for replacement of truck); ii) Drivers management SOP (e.g. for the assignment of drivers, random assignment of drivers so as to prevent any internal collusion).
+    -   Qualified companies must be able to manage their bonded trucks and containers in a systematic manner with proper SOPs. Two examples of SOPs are as follows:  i) Accident and emergency response SOP (e.g. for replacement of truck); ii) Drivers management SOP (e.g. for the assignment of drivers, random assignment of drivers so as to prevent any internal collusion).
 -   **2-way communication system/SOP**
-    Qualified companies must be able to maintain constant contact with its trucks drivers during movement of goods under the BTS.
+    -   Qualified companies must be able to maintain constant contact with its trucks drivers during movement of goods under the BTS.
 -   **GPS-tracking capability**
-    Qualified companies must have full visibility over their fleet of bonded trucks/containers and mails and goods round-the-clock via GPS-tracking. 
+    -   Qualified companies must have full visibility over their fleet of bonded trucks/containers and mails and goods round-the-clock via GPS-tracking. 
 -   **Third Party Provider**
-    If a qualified company’s bonded trucks and containers are out-sourced, the qualified company would be required to maintain oversight on its third party-provider. There must be established SOPs between the qualified company and its third party provider; daily/adhoc incident reports and emergency/accident response management, etc.
+    -   If a qualified company’s bonded trucks and containers are out-sourced, the qualified company would be required to maintain oversight on its third party-provider. There must be established SOPs between the qualified company and its third party provider; daily/adhoc incident reports and emergency/accident response management, etc.
