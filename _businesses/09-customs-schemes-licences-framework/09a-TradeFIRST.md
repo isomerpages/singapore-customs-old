@@ -104,14 +104,14 @@ There are 6 sections under the TradeFIRST assessment framework:
 
 -   Company’s compliance records
 
-To view the entire TradeFIRST assessment criteria, you may download the checklist  [here](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Apr2021.xlsx).
+To view the entire TradeFIRST assessment criteria, you may download the checklist  [here](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
 
 The TradeFIRST assessment process is shown in the following table:
 
 |  |  |
 |--|--|
 | **Step 1**  | The company receives the TradeFIRST Self-Assessment Checklist from Customs, with detailed information on the assessment framework, for the company’s self-assessment. |
-| **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Apr2021.xlsx)  and sends it to Customs with the relevant supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
+| **Step 2** | Company fills up the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx)  and sends it to Customs with the relevant supporting documents.  With effect from 2 June 2015, instead of submitting all the supporting documents to the Account Manager before the on-site assessment, companies are now allowed to submit only supporting documents relating to the scheme specific mandatory criteria. The remaining documents relating to the non-mandatory criteria can be provided to Customs during the on-site assessment.|
 | **Step 3** | On-site assessment will be scheduled and conducted, upon receipt of relevant supporting documents. |
 | **Step 4** | The company receives its application outcome, the band it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement (if any). |
 
@@ -128,7 +128,7 @@ For any Customs scheme applied successfully, your company will be subject to rev
 | Intermediate | Once in 2 Years |
 | Standard | Once in 2 Years |
 
-During the renewal process, your company is required to submit the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Apr2021.xlsx)  and all relevant supporting documents, and undergo the on-site assessment again.
+During the renewal process, your company is required to submit the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx)  and all relevant supporting documents, and undergo the on-site assessment again.
 
 Reviews may also be conducted at shorter intervals under special circumstances, such as for companies granted conditional approval with areas identified for improvement within a stipulated time period.
 
