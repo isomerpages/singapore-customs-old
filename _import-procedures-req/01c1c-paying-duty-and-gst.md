@@ -38,4 +38,4 @@ You are reminded to comply with the following permit condition for payment of GS
 |--|--|
 | **GX** | The duty/GST must be paid should the GIRO deduction fail. Singapore Customs may invoke the importer/declaring agent’s security for recovery of the duty/GST. A penalty charge may be imposed by Singapore Customs for an unsuccessful GIRO deduction.|
 
-Learn more about [applying for an IBG](/businesses/registration-matters/registration-procedures/apply-for-inter-bank-giro) and [authorising Declaring Agents](/businesses/registration-matters/registration-procedures/authorise-a-declaring-agent).
+Learn more about [applying for an IBG](/businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro) and [authorising Declaring Agents](/businesses/new-traders-and-registration-services/registration-services/authorise-a-declaring-agent).
