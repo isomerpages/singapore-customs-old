@@ -42,7 +42,7 @@ To apply for a KP Licence,  you need to:
 -   Register for a Corppass Account and a Networked Trade Platform (NTP) account; and
 -   Submit the  [KP Licence application form](/eservices/customs-forms-and-service-links)  and all supporting documents via the  [Networked Trade Platform (NTP) website](http://www.ntp.gov.sg/).
 
-Please refer to  [Notice No. 19/2018](/news-and-media/notices/)  for more information on the NTP application and submission procedures. Most applications will be processed within 5 working days upon receipt of the completed  [KP Licence application form](/eservices/customs-forms-and-service-links)  and full set of supporting documents. However, the processing time may be longer for applications that require additional information or supporting documents.
+Please refer to  [Notice No. 19/2018](/news-and-media/notices/)  for more information on the NTP application and submission procedures. 
 
 The  Kimberley Process licence expires on 31 December of the year in which it is issued and needs to be renewed annually thereafter. The licence renewal is subject to Customs’ review and assessment before it can be renewed. Please refer to the  [KP Licence application form](/eservices/customs-forms-and-service-links)  for the terms and conditions for the KP Licence.
 
@@ -54,11 +54,7 @@ To apply for a KP Certificate, you need to:
 
 -   Have a valid KP Licence with Singapore Customs; and
 -   Have a valid  [Inter-Bank GIRO (IBG) account](/eservices/customs-forms-and-service-links)  with Singapore Customs for the deduction of a S$5.00 fee per KP Certificate issued; and
--   Submit the  ["Application for Kimberley Process Certificate"](/eservices/customs-forms-and-service-links)  form with all supporting documents; and ensure that you adhere to all the terms and conditions for the KP Certificate.
-
-Most applications will be processed within 1 working day upon: (a) receipt of the completed KP Certificate application form and full set of supporting documents namely, the overseas KP Certificate, KP licence, commercial invoice, packing list and Airway Bill; and (b) passing of an inspection of the shipment to be held at Customs' office or your entity's premises.
-
-However, the processing time may be longer for applications that require additional information or supporting documents or inspection.
+-   Submit the  ["Application for Kimberley Process Certificate"](/eservices/customs-forms-and-service-links)  form with all supporting documents (i.e. the overseas KP Certificate, KP licence, commercial invoice, packing list and Airway Bill); and ensure that you adhere to all the terms and conditions for the KP Certificate.
 
 ## How to Apply for a Customs Permit
 
