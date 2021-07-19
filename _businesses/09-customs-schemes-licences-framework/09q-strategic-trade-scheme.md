@@ -30,12 +30,14 @@ To qualify for the Bulk Permit, you must:
 The 7 ICP elements are:
 
 -   Company’s commitment
--   Nomination of strategic goods control officer(s)
+-   Nomination of strategic goods control officer(s)*
 -   Product screening
 -   End-user screening
 -   Record keeping
 -   Awareness and training
 -   Audits
+
+*The appointed strategic goods control officer(s)/administrator(s) must be based in Singapore or remain contactable via a Singapore contact. The personnel must also be familiar with the SGCA and its Regulations and other related domestic legislations.
 
 You may refer to Annex A of the  [STS Handbook](/documents/businesses/SEB/STS Handbook 2020.pdf) for more details.
 
