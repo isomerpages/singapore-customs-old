@@ -26,7 +26,7 @@ Co-organised by Singapore, US and Japan
 **Time**: 8.20am - 12.00pm (Registration starts at 8.00am)
 
 
-The U.S. Bureau of Industry and Security (BIS), U.S. Export Control and Related Border Security (EXBS), U.S. Department of Energy (DOE), Japan Ministry of Economy, Trade and Industry (METI), and Singapore Customs will be organising a three-day strategic trade control seminar from 28 September 2021 to 29 September 2021.
+The U.S. Bureau of Industry and Security (BIS), U.S. Export Control and Related Border Security (EXBS), U.S. Department of Energy (DOE), Japan Ministry of Economy, Trade and Industry (METI), and Singapore Customs will be organising a two-day strategic trade control seminar from 28 September 2021 to 29 September 2021.
 
 
 The seminar provides invaluable opportunities for you to hear from the government regulators and private sector practitioners/experts, and enhance your understanding of recent developments on Strategic Trade Management. There will be speakers from Japan, Malaysia, Netherlands, Philippines, Singapore and the United States.
