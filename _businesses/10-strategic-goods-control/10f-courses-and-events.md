@@ -16,8 +16,9 @@ Singapore Customs actively conducts seminars to update the industry on the lates
 
 ## Upcoming Events
 
-None.
-
+| Date | Title | Related Link |
+|--|--|--|
+|28 September 2021 - 29 September 2021| Joint Industry Outreach Seminar on Strategic Trade Management 2021 | [Web Link](/businesses/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2021){:target="_blank"} |
 
 ## Past Events
 
