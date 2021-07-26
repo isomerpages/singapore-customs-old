@@ -35,7 +35,7 @@ The seminar provides invaluable opportunities for you to hear from the governmen
 Manufacturers, exporters, logistics providers, freight forwarders, academics and researchers dealing with strategic goods or strategic goods technology are encouraged to attend the seminar.
 
 
-Registration is  **free**. Participants can register for the seminar by scanning the QR code below or clicking on the [registration link] (https://cvent.me/Nxy7PB){:target="_blank"} and access the registration website by entering **JIO2021**.
+Registration is  **free**. Participants can register for the seminar by scanning the QR code below or clicking on the [registration link](https://cvent.me/Nxy7PB){:target="_blank"} and access the registration website by entering **JIO2021**.
 
 
 ![QR code_JIO2021](https://user-images.githubusercontent.com/74533654/126924091-7bed5333-2071-48aa-abf2-f987ff7b07a8.png)
