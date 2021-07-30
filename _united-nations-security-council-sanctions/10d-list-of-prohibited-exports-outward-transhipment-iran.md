@@ -7,7 +7,7 @@ third_nav_title: United Nations Security Council Sanctions
 
  ### List of Prohibited Exports and (Outward) Transhipment, or goods in Transit to Iran
    
-   _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC Sanctions Committees website_](https://www.un.org/sc/suborg/en/){:target="_blank"} advice is required, please seek advice from your legal advisors._
+   _Note__: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC Sanctions Committees website_](hhttps://www.un.org/securitycouncil/){:target="_blank"} advice is required, please seek advice from your legal advisors._
     
 -   All items, materials, equipment, goods and technology set out in the lists in the United Nations Security Council documents  _INFCIRC/254/Rev.13/Part1_ and _INFCIRC/254/ Rev.10/Part 2_, which are updated from time to time and made available on the Internet through the official [United Nations website](https://www.un.org/en/){:target="_blank"}, and any item which could contribute to reprocessing or enrichment-related or heavy water-related activities, except the supply, sale or transfer of the following:
 
