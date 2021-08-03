@@ -8,7 +8,7 @@ third_nav_title: Strategic Goods Control
 
 Goods and technology that meet the technical specifications described in the Strategic Goods Control List are subject to controls under the Strategic Goods (Control) Act (SGCA).
 
-The Strategic Goods Control List is found in The Schedule to the  [Strategic Goods (Control) Order 2020](https://sso.agc.gov.sg/SL-Supp/S786-2020/Published/20200915?DocDate=20200915){:target="_blank"}. It includes items from the four multilateral export control regimes – Australia Group, Missile Technology Control Regime, Nuclear Suppliers Group and Wassenaar Arrangement.
+The Strategic Goods Control List is found in The Schedule to the  [Strategic Goods (Control) Order 2021](https://sso.agc.gov.sg/SL-Supp/S564-2021/Published/20210802?DocDate=20210802){:target="_blank"}. It includes items from the four multilateral export control regimes – Australia Group, Missile Technology Control Regime, Nuclear Suppliers Group and Wassenaar Arrangement.
 
 The Schedule consists of two parts, each split into two divisions and further sub-divided as follows:
 
