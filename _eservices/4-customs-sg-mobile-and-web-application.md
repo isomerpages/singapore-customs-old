@@ -106,7 +106,7 @@ If you have made payment of duty and GST for cigarettes/tobacco products that ar
 
 **14.** **I am importing my personal pet to Singapore. Can I pay GST using Customs@SG?**
 
-You may not use the Customs@SG application for the purposes of making declarations and payment of GST for the importation of pets. For more information on the specific Customs procedures and requirements, please refer to the webpage on [Importing Personal Pets](/businesses/importing-goods/import-procedures/importing-of-personal-pets#Procedures).
+Pets are considered controlled goods and subject to regulation by the National Parks Board Animal and Veterinary Service.  Therefore, you may not use the Customs@SG application for the purposes of making declarations and payment of GST for the importation of pets. For more information on the specific Customs procedures and requirements, please refer to the webpage on [Importing Personal Pets](/businesses/importing-goods/import-procedures/importing-of-personal-pets#Procedures).
 
 ***
 
