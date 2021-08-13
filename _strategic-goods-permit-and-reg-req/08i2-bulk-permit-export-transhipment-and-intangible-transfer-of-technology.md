@@ -30,22 +30,24 @@ To qualify for the Bulk Permit, you must:
 The 7 ICP elements are:
 
 -   Company’s commitment
--   Nomination of strategic goods control officer(s)
+-   Nomination of strategic goods control officer(s)*
 -   Product screening
 -   End-user screening
 -   Record keeping
 -   Awareness and training
 -   Audits
 
+*The appointed strategic goods control officer(s)/administrator(s) must be based in Singapore or remain contactable via a Singapore contact. The personnel must also be familiar with the SGCA and its Regulations and other related domestic legislations.
+
 You may refer to Annex A of the  [STS Handbook](/documents/businesses/SEB/STS Handbook 2021.pdf) for more details.
 
 ## Applying for Bulk Permit
 
-You may apply for a Bulk Permit by completing this  [application form](https://go.gov.sg/stsbulkpermitapplication-form) and submitting the form, [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Apr2021.xlsx) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
+You may apply for a Bulk Permit by completing this  [application form](https://go.gov.sg/stsbulkpermitapplication-form) and submitting the form, [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
 
-Once the application is received, an account manager will be assigned as Singapore Customs’ contact point to the company for the assessment and other Customs matters.
+Once the application is received, an officer will be assigned as Singapore Customs’ contact point to the company for the assessment.
 
-We will conduct a TradeFIRST assessment on the company during a site validation, which includes assessment on the effectiveness of the company’s ICP. The account manager would inform the company on the application outcome, the TradeFIRST band which the company is placed in and provide the TradeFIRST assessment report to the company.
+We will conduct a TradeFIRST assessment on the company during a site validation, which includes assessment on the effectiveness of the company’s ICP. We would inform the company on the application outcome, the TradeFIRST band which the company is placed in and provide the TradeFIRST assessment report to the company.
 
 ## Applying for TradeNet Permit for Pre-approved Bulk Permit
 
