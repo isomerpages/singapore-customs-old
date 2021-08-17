@@ -79,6 +79,10 @@ If you require further assistance, please email  [customs_schemes@customs.gov.sg
 
 Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
+## Application for Changes to Schemes for Existing Licensees
+
+You may complete your [applications for changes to schemes for existing licensees or to update records](https://form.gov.sg/#!/605462a0f26f5c0012448021) online.
+
 ## Renewal
 
 Companies on the IEF scheme will be subject to reviews and renewals, once in two years.
