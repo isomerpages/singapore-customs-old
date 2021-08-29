@@ -8,7 +8,7 @@ third_nav_title: Certificates of Origin
 
 **Step 1: Register your Manufacturing Premises**
 
-Register using the [manufacturer’s application form](/documents/businesses/SCA006-manufacturers-application-ver-11-apr19.doc).
+Register using the [manufacturer’s application form](/documents/businesses/SC-A-006%20Manufacturers%20Registration%20%20-%20Aug21%20Version%2012.docx).
 
 Singapore Customs will arrange to visit your factory to verify the production processes for the goods specified in your application to ensure that they meet the requirements. Financial and operation records may also be inspected as part of this visit.
 
