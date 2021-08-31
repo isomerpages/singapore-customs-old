@@ -52,7 +52,7 @@ Specific denaturants are added into ethyl alcohol to qualify as denatured ethyl 
 
 The accepted denaturants and their required concentrations are:
 
--   5% (v/v) methyl alcohol
+-   5% (v/v) methyl alcohol/cyclohexane
 -   5% (v/v) isopropyl alcohol
 -   5% (v/v) chloroform
 -   0.125% (v/v) tert-butyl alcohol and 0.0005% (w/v) denatonium benzoate (Bitrex)
@@ -61,7 +61,10 @@ The accepted denaturants and their required concentrations are:
 -   4.25% (v/v) ethyl acetate having ester content of 100% by weight
 -   50ppm (w/v) aqueous nicotine and 0.7ppm (w/v) methylene blue
 -   4% (v/v) methyl alcohol and 0.0009% (w/v) denatonium benzoate (Bitrex)
--   4% (v/v) methyl n-butyl ketone/methyl isobutyl ketone and 1% kerosene
+-   4% (v/v) methyl n-butyl ketone/methyl isobutyl ketone and 1% kerosene/gasoline/unleaded gasoline/heptane
 -   2% (v/v) methyl ethyl ketone/acetone and 3 % (v/v) methyl isobutyl ketone
+-   0.12% (w/v) of sucrose octaacetate and 0.125% (v/v) of tert-butyl alcohol 
+-   5% (v/v) of ethyl ether 
+-   1.0% (v/v) of 100 percent acetaldehyde 
 
 If the denaturant(s) and/or denaturant concentration do not meet the above requirements, they will be classified as undenatured ethyl alcohol which is dutiable.
