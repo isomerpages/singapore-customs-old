@@ -34,7 +34,6 @@ The following passenger terminals are not intended for the import, export and tr
 
 -   SCC @ Harbourfront
 -   SCC @ Tanah Merah
--   Changi Ferry Terminal
 -   Marina South Pier
 -   West Coast Pier
 -   Marina Bay Cruise Centre Singapore <br>(See [Customs Circular](/news-and-media/circulars/2012-05-23-Circular062012.pdf) for more information)
