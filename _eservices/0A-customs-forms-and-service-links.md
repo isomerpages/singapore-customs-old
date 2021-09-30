@@ -201,9 +201,9 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Application for Determination of Strategic Goods | [Web Link](https://form.gov.sg/5d78b89628467500121ef098) |
-| 2. | Annex A - Product Questionnaire A-1 Cryptography | [PDF](/documents/eservices/SC-A-064A_-_A1_Cryptography_Product_Questionnaire.pdf)|
-| 3. | Annex A - Product Questionnaire A-2 Machine Tools | [PDF](/documents/eservices/SC-A-064B_-_A2_Machine_Tools_Product_Questionnaire.pdf) |
-| 4. | Annex A - Product Questionnaire A-3 Biological Product | [PDF](/documents/eservices/SC-A-064C_-_A3_Biological_Product_Questionnaire.pdf) |
+| 2. | Annex A - Product Questionnaire A-1 Cryptography | [PDF](/documents/eservices/Annex A-_Product_Questionnaire_A-1_Cryptography.pdf)|
+| 3. | Annex A - Product Questionnaire A-2 Machine Tools | [PDF](/documents/eservices/Annex A-_Product_Questionnaire_A-2_Machine_Tools.pdf)|
+| 4. | Annex A - Product Questionnaire A-3 Biological Product | [PDF](/documents/eservices/Annex A-_Product_Questionnaire_A-3_Biological_Product.pdf) |
 | 5. | Application Form for Seeking In-principle Approval from the UNSC Procurement Channel | [Web Link](https://form.gov.sg/#!/5f06d4ec3583420013aeb0f1) |
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](http://go.gov.sg/customs-bpermit) |
 | 7. | Application for Permit to Transmit or Export(via Hand-Carry) Strategic Goods Related Software and Technology | [Web Link](http://go.gov.sg/customs-itt) |
