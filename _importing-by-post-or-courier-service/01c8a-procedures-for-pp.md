@@ -8,6 +8,8 @@ third_nav_title: Importing by Post or Courier Service
 
 The addressee indicated on postal parcels from overseas is deemed to be the importer. Goods imported by **post** or Speedpost services are processed and managed by [SingPost](http://www.singpost.com/){:target="_blank"}. (**Note**: Please refer to the next section on Procedures for Courier Parcels for information on goods imported under vPost, SingPost's eCommerce service.) The collection procedures for postal parcels is dependent on the type of goods and CIF value as shown in the table below.
 
+From 1 November 2021, recipients of items sent from overseas will be required to pay all duties and/or GST due via the SingPost app, SAM kiosks or at any post offices before delivery is made. SingPost will notify customers on GST-payable items via a push notification on SingPost mobile app as well as via SMS/email. Please refer to [SingPost's website](http://www.singpost.com/){:target="_blank"}.
+
 | **Types of Goods** | **CIF value** | **GST Payable** | **Duty Payable** | **Permit Required** |
 |---|---|---|---|---|
 | Non-Dutiable, Non-Controlled |< or = S$400 | No |No |No |
@@ -23,7 +25,7 @@ The addressee indicated on postal parcels from overseas is deemed to be the impo
 | Non-Dutiable, Controlled goods imported by taxable persons under IRAS' [MES](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"}| < or = S$400  | No | No | Yes, if required by CA, **In-Non-Payment (**Approved Premises/Schemes**)** permit|
 |  | >S$400 | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit | 
 
-To facilitate clearance, the importer should arrange with the overseas sender to attach the invoice or confirmation slip (with the value of goods indicated) or Postal Convention Note (with the value of goods indicated) to the postal parcel for the computation of GST and/or duty payable.
+To facilitate clearance, the importer should arrange with the overseas sender to attach the invoice or confirmation slip (with the value of goods indicated) or Postal Convention Note (with the value of goods indicated) to the exterior of postal parcel for the computation of GST and/or duty payable.
 
 **It is not permissible for a postal parcel consigned to the same importer and arriving in Singapore on the same flight to be split into separate packages for tax assessment purposes.**
 
