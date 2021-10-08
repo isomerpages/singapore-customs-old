@@ -8,7 +8,7 @@ third_nav_title: Strategic Goods Control List
 
 ## How to determine strategic goods?
 
-To determine if your product is controlled under the Strategic Goods (Control) Act (SGCA), please compare your product’s description and specification against the descriptions in the  [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list){:target="_blank"}. If your product meets the stated descriptions, it is controlled as strategic goods under the SGCA. You may refer to this  [guidebook](/documents/businesses/guidebook-on-the-determination-of-strategic-goods-3-oct-2019.pdf){:target="_blank"} for more information.
+To determine if your product is controlled under the Strategic Goods (Control) Act (SGCA), please compare your product’s description and specification against the descriptions in the  [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list){:target="_blank"}. If your product meets the stated descriptions, it is controlled as strategic goods under the SGCA. You may refer to this  [guidebook](/documents/businesses/Guidebook On Determination Of Strategic Goods_Oct21.pdf{:target="_blank"} for more information.
 
 ## Determination Database
 
