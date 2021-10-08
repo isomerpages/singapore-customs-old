@@ -9,7 +9,7 @@ third_nav_title: Courses and Events
 ![banner.png](https://user-images.githubusercontent.com/74533654/126924009-88f650ae-803d-4f88-9015-32c393dd519d.png)
 
 
-**REGISTRATION IS NOW OPEN**
+**REGISTRATION IS NOW CLOSED**
 
 Joint Industry Outreach Seminar on Strategic Trade Management 2021
 
@@ -53,4 +53,22 @@ Highlights:
 - U.S. export controls, sanctions and emerging technology updates
 - Panel discussions by government agencies and local companies
 
-
+Presentation materials:
+- [Agenda](documents/businesses/TSSB/Agenda.pdf)
+- [Day 1 - 1st Panel Discussion: Foreign Policy-Based Controls Promoting Human Rights & Democracy (BIS)](documents/businesses/TSSB/Day 1 - 1st Panel Discussion_Foreign Policy-Based Controls Promoting Human Rights and Democracy.pdf)
+- [Day 1 - 1st Panel Discussion: Military End-Use and End-User and Related Country Policy (BIS)](documents/businesses/TSSB/Day 1 - 1st Panel Discussion_Military End-Use and End-User and Related Country Policy.pdf)
+- [Day 1 - 1st Panel Discussion: Emerging Technology Updates (BIS)](documents/businesses/TSSB/Day 1 - 1st Panel Discussion_Emerging Technology Updates.pdf)
+- [Day 1 - 2nd Panel Discussion: Cyber Threats and Managing Risks to the Supply Chain (CISA)](documents/businesses/TSSB/Day 1 - 2nd Panel Discussion_Cyber Threats and Managing Risks to the Supply Chain_CISA.pdf)
+- [Day 1 - 2nd Panel Discussion: Cyber Threats and Managing Risks to the Supply Chain (Horangi Cyber Security)](documents/businesses/TSSB/Day 1 - 2nd Panel Discussion_Cyber Threats and Managing Risks to the Supply Chain_Horangi Cyber Security.pdf)
+- [Day 1 - 2nd Panel Discussion: Cyber Frauds in SE Asia (FBI)](documents/businesses/TSSB/Day 1 - 2nd Panel Discussion_Cyber Frauds in SE Asia_FBI.pdf)
+- [Day 1 - 3rd Panel Discussion: Update on Japan's Export Controls (Japan)](documents/businesses/TSSB/Day 1 - 3rd Panel Discussion_Update on Japan's Export Controls_Japan.pdf)
+- [Day 1 - 3rd Panel Discussion: Developments in Strategic Trade Regulations and Controls (Germany)](documents/businesses/TSSB/Day 1 - 3rd Panel Discussion_Developments in Strategic Trade Regulations and Controls_Germany.pdf)
+- [Day 1 - 3rd Panel Discussion: Strategic Export Controls in the EU (Netherlands)](documents/businesses/TSSB/Day 1 - 3rd Panel Discussion_Strategic Export Controls in the EU_Netherlands.pdf)
+- [Day 1 - 3rd Panel Discussion: Export Licensing Procedures in the Republic of Korea (Korea)](documents/businesses/TSSB/Day 1 - 3rd Panel Discussion_Export Licensing Procedures in the Republic of Korea.pdf)
+- [Day 2 - 4th Panel Discussion: Strategic Trade Management Act Updates (Philippines)](documents/businesses/TSSB/Day 2 - 4th Panel Discussion_Strategic Trade Management Act Updates_Philippines.pdf)
+- [Day 2 - 4th Panel Discussion: Updates on Singapore's Strategic Trade Controls (Singapore)](documents/businesses/TSSB/Day 2 - 4th Panel Discussion- Updates on SIngapore' Strategic Trade Controls.pdf)
+- [Day 2 - 4th Panel Discussion: Strategic Trade Controls Updates in Malaysia (Malaysia)](documents/businesses/TSSB/Day 2 - 4th Panel Discussion_Strategic Trade Controls Updates in Malaysia.pdf)
+- [Day 2 - 5th Panel Discussion: Managing Supply Chain Risks and Internal Compliance Plan Best Practices](documents/businesses/TSSB/Day 2 - 5th Panel Discussion_Managing Supply Chain Risks and Internal Compliance Plan Best Practices.pdf)
+- [Day 2 - 6th Panel Discussion: Intangible Technology Transfer and Trade Secrets (Hokkaido University)](documents/businesses/TSSB/Day 2 - 6th Panel Discussion_Intangible Technology Transfer and Trade Secrets_Hokkaido University.pdf)
+- [Day 2 - 6th Panel Discussion: ITT and IPR, and Trade Secrets in a Research or Academic Environment (USPTO)](documents/businesses/TSSB/Day 2 - 6th Panel Discussion_ITT and IPR, and Trade Secrets concerns in a research or academic environment_USPTO.pdf)
+- [Day 2 - 6th Panel Discussion: Intangible Technology Transfer (Celestica)](documents/businesses/TSSB/Day 2 - 6th Panel Discussion_Intangible Technology Transfer_Celestica.pdf)
