@@ -75,5 +75,5 @@ Presentation materials:
 - [Day 2 - 6th Panel Discussion: Intangible Technology Transfer (Celestica)](/documents/businesses/TSSB/Day 2 - 6th Panel Discussion_Intangible Technology Transfer_Celestica.pdf)
 
 Full Video of the Seminar (2 part video):
-- [Day 1](https://www.youtube.com/watch?v=f1PqS4tr07o)
-- [Day 2](https://www.youtube.com/watch?v=8qS8ulBgcQM&t=7360s)
+- [Day 1](https://www.youtube.com/watch?v=f1PqS4tr07o){:target="_blank"}
+- [Day 2](https://www.youtube.com/watch?v=8qS8ulBgcQM&t=7360s){:target="_blank"}
