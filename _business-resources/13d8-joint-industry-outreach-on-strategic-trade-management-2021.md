@@ -55,6 +55,7 @@ Highlights:
 
 Presentation materials:
 - [Agenda](/documents/businesses/TSSB/Agenda.pdf)
+- [Opening remarks by Mr Rafik Mansour, Chargé d’Affaires, U.S. Embassy, Singapore](https://www.youtube.com/watch?v=V1b6zksq-g0)
 - [Day 1 - 1st Panel Discussion: Foreign Policy-Based Controls Promoting Human Rights & Democracy (BIS)](/documents/businesses/TSSB/Day 1 - 1st Panel Discussion_Foreign Policy-Based Controls Promoting Human Rights and Democracy.pdf)
 - [Day 1 - 1st Panel Discussion: Military End-Use and End-User and Related Country Policy (BIS)](/documents/businesses/TSSB/Day 1 - 1st Panel Discussion_Military End-Use and End-User and Related Country Policy.pdf)
 - [Day 1 - 1st Panel Discussion: Emerging Technology Updates (BIS)](/documents/businesses/TSSB/Day 1 - 1st Panel Discussion_Emerging Technology Updates.pdf)
@@ -72,3 +73,7 @@ Presentation materials:
 - [Day 2 - 6th Panel Discussion: Intangible Technology Transfer and Trade Secrets (Hokkaido University)](/documents/businesses/TSSB/Day 2 - 6th Panel Discussion_Intangible Technology Transfer and Trade Secrets_Hokkaido University.pdf)
 - [Day 2 - 6th Panel Discussion: ITT and IPR, and Trade Secrets in a Research or Academic Environment (USPTO)](/documents/businesses/TSSB/Day 2 - 6th Panel Discussion_ITT and IPR, and Trade Secrets concerns in a research or academic environment_USPTO.pdf)
 - [Day 2 - 6th Panel Discussion: Intangible Technology Transfer (Celestica)](/documents/businesses/TSSB/Day 2 - 6th Panel Discussion_Intangible Technology Transfer_Celestica.pdf)
+
+Full Video of the Seminar (2 part video):
+Day 1: https://www.youtube.com/watch?v=f1PqS4tr07o
+Day 2: https://www.youtube.com/watch?v=8qS8ulBgcQM&t=7360s
