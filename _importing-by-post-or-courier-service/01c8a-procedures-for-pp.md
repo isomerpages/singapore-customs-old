@@ -27,7 +27,7 @@ From 1 November 2021, recipients of items sent from overseas will be required to
 
 To facilitate clearance, the importer should arrange with the overseas sender to attach the invoice or confirmation slip (with the value of goods indicated) or Postal Convention Note (with the value of goods indicated) to the exterior of the postal parcel for the computation of GST and/or duty payable.
 
-**It is not permissible for a postal parcel consigned to the same importer and arriving in Singapore on the same flight to be split into separate packages for tax assessment purposes.**
+**It is not permissible for a postal parcel cosigned to the same importer and arriving in Singapore on the same flight to be split into separate packages for tax assessment purposes.**
 
 ## Non-Dutiable and Non-Controlled Goods with a total CIF value not exceeding S$400
 
@@ -36,7 +36,7 @@ To facilitate clearance, the importer should arrange with the overseas sender to
 ## Non-Dutiable and Non-Controlled Goods with a total CIF value exceeding S$400
 
 -   For a postal parcel **with** its commercial invoice attached, GST will be computed and a push notification will be sent via SingPost mobile app and/or SMS/email/letter to you to make payment within 14 days from the date of notification. SingPost will deliver the postal parcel to you after payment has been made via your SingPost mobile app, SAM kiosk or at all post offices. Additional charges may be imposed by SingPost.
--   For a postal parcel **without** its commercial invoice attached, the parcel will be retained by SingPost. You will be informed through a notification letter to submit invoice(s) and other supporting documents which will then be sent to ICA for validation. GST will be computed and a push notification will be sent via SingPost mobile app and/or SMS/email/letter to customers to make the payment. Additional charges may be imposed by SingPost. 
+-   For a postal parcel **without** its commercial invoice attached, the parcel will be retained by SingPost. You will be informed through a notification letter to submit invoice(s) and other supporting documents to SingPost, which will then be sent to ICA for validation. GST will be computed and a push notification will be sent via SingPost mobile app and/or SMS/email/letter to customers to make the payment. Additional charges may be imposed by SingPost. 
 
 ## Dutiable and Non-Controlled Goods
 
