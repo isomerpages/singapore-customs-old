@@ -27,7 +27,7 @@ From 1 November 2021, recipients of items sent from overseas will be required to
 
 To facilitate clearance, the importer should arrange with the overseas sender to attach the invoice or confirmation slip (with the value of goods indicated) or Postal Convention Note (with the value of goods indicated) to the exterior of the postal parcel for the computation of GST and/or duty payable.
 
-**It is not permissible for a postal parcel cosigned to the same importer and arriving in Singapore on the same flight to be split into separate packages for tax assessment purposes.**
+**It is not permissible for a postal parcel consigned to the same importer and arriving in Singapore on the same flight to be split into separate packages for tax assessment purposes.**
 
 ## Non-Dutiable and Non-Controlled Goods with a total CIF value not exceeding S$400
 
