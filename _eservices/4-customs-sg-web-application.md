@@ -63,7 +63,7 @@ Please appoint a [local freight forwarding agent](/businesses/business-resources
 
 Please approach our officers at the Customs Tax Payment Office located at the arrival halls of Changi Airport or at the entry checkpoints after immigration clearance to declare and pay the duty and/or GST for the additional items.
 
-**9.** **What should I do if I forget to print the receipt or did not download the e-receipt onto my mobile device after declaring my goods and making payment for the duty and GST via the Customs@SG web application before reaching Singapore?
+**9.** **What should I do if I forget to print the receipt or did not download the e-receipt onto my mobile device after declaring my goods and making payment for the duty and GST via the Customs@SG web application before reaching Singapore?**
 
 Please approach our officers at the Customs Tax Payment Office with your goods for assistance.
 
