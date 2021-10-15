@@ -17,8 +17,7 @@ locations:
     maps_link: https://goo.gl/maps/AEw5kAVxoiWYkkc56
     
   - title: Singapore Customs Academy
-    address:
-      - Singapore Customs Academy  
+    address: 
       - 55 Newton Road #02-01  
       - Revenue House  
       - Singapore 307987 
