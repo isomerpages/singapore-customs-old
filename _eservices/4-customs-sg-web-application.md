@@ -87,7 +87,7 @@ With effect from 1 July 2020, all cigarettes and other tobacco products imported
 
 Importation of cigarettes and/or tobacco products that do not comply with the SP requirements is not allowed, and these cigarettes and/or tobacco products will be disposed of at the checkpoints. For further information, you may refer to the Health Sciences Authority (HSA)’s webpage on [tobacco regulation](https://www.hsa.gov.sg/tobacco-regulation/overview) or contact the Ministry of Health (MOH) through email at [moh_info@moh.gov.sg](mailto:moh_info@moh.gov.sg). 
 
-**13.** **I am importing my personal pet to Singapore. Can I pay GST using Customs@SG?**
+**13.** **I am importing my personal pet to Singapore. Can I pay GST using Customs@SG web application?**
 
 Pets are considered controlled goods and are subjected to regulation by the National Parks Board Animal and Veterinary Service.  Therefore, you may not use the Customs@SG web application for the purposes of making declarations and payment of GST for the importation of pets. For more information on the specific Customs procedures and requirements, please refer to the webpage on [Importing Personal Pets](/businesses/importing-goods/import-procedures/importing-of-personal-pets#Procedures).
 
