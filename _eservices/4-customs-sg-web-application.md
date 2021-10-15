@@ -19,7 +19,7 @@ Travellers with purchases that have exceeded their personal  [duty free concessi
 
 **1.** **What is this Customs@SG Web Application about?**
 
-Customs@SG is a web application developed by Singapore Customs to provide travellers and members of the public with a more convenient way to interact with us. The Customs@SG web application has two modules: Declare Goods module and Search Receipt / Drafts module.  
+Customs@SG is a web application developed by Singapore Customs to provide travellers and members of the public with a more convenient way to interact with us. The Customs@SG web application has two modules: Declare Goods module and Search Receipts / Drafts module.  
   
 The Declare Goods module allows you to declare and pay, not more than 3 days before your arrival in Singapore, the duty and/or GST on the goods that you will be bringing into Singapore.
 
