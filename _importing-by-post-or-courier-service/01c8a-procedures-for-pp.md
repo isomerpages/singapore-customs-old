@@ -8,7 +8,7 @@ third_nav_title: Importing by Post or Courier Service
 
 The addressee indicated on postal parcels from overseas is deemed to be the importer. Goods imported by **post** or Speedpost services are processed and managed by [SingPost](http://www.singpost.com/){:target="_blank"}. (**Note**: Please refer to the next section on Procedures for Courier Parcels for information on goods imported under vPost, SingPost's eCommerce service.) The collection procedures for postal parcels is dependent on the type of goods and CIF value as shown in the table below.
 
-From 1 November 2021, recipients of items sent from overseas will be required to pay all duties and/or GST due via the SingPost app, SAM kiosks or at any post offices before delivery is made. SingPost will notify customers on GST-payable items via a push notification on SingPost mobile app as well as via SMS/email. Please refer to [SingPost's website](http://www.singpost.com/){:target="_blank"} for more details.
+From 1 November 2021, recipients of items sent from overseas will be required to pay all duties and/or GST due via the SingPost app, SAM kiosks or at any post offices before delivery is made. SingPost will notify customers on GST and/or duty-payable items via a push notification on SingPost mobile app as well as via SMS/email/letter. Please refer to [SingPost's website](http://www.singpost.com/){:target="_blank"} for more details.
 
 | **Types of Goods** | **CIF value** | **GST Payable** | **Duty Payable** | **Permit Required** |
 |---|---|---|---|---|
