@@ -43,9 +43,9 @@ You are not required to declare your goods again at the Customs Red Channel if y
 
 Yes, you can. However, some duty-free shops do not allow the sale of liquors in excess of duty-free allowance. Please approach the Duty Free Shop directly if you wish to purchase liquors exceeding your duty-free allowance.
 
-Please also ensure that you have made the declaration and tax payment for the liquors exceeding your duty-free allowance using the Customs@SG web application before exitingvia the Customs Green Channel.
+Please also ensure that you have made the declaration and tax payment for the liquors exceeding your duty-free allowance using the Customs@SG web application before exiting via the Customs Green Channel.
 
-**6.** **Can I use the ustoms@SG web application to make payment for controlled goods under the purview of other authorities (e.g. medicinal products, pets)?**
+**6.** **Can I use the Customs@SG web application to make payment for controlled goods under the purview of other authorities (e.g. medicinal products, pets)?**
 
 No. The importation of controlled goods into Singapore is regulated by the relevant Competent Authorities (CAs). CAs may require you to obtain a licence, import permit or authorisation form prior to the importation of controlled goods into Singapore. Upon your arrival, please present the controlled goods and the accompanying import permit or authorisation form to the checking officer at the Customs Red Channel.
 
