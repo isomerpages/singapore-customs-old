@@ -2,6 +2,19 @@
 title: Overview 
 permalink: /businesses/compliance/overview
 third_nav_title: Compliance
+
+# Customs Procedures
+
+-   [Import Procedures](/businesses/importing-goods/import-procedures/)
+-   [Export Procedures](/businesses/exporting-goods/export-procedures)
+-   [Transhipment Procedures](/businesses/transhipping-goods/transhipment-procedures)
+-   [Information on Certificates of Origin/Rules of Origin](/businesses/certificates-of-origin/overview)
+-   [Information for Importers](/businesses/importing-goods/overview)
+-   [Information for Exporters](/businesses/exporting-goods/overview)
+-   [Information for Freight Forwarders and Declaring Agents](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)
+-   [Information on Valuation, Duties and GST](/businesses/valuation-duties-taxes-fees/overview) 
+
+
 accordion:
   - title: Customs Procedures
     content: <br>   [Import Procedures](/businesses/importing-goods/import-procedures/)  <br>   [Export Procedures](/businesses/exporting-goods/export-procedures)  <br>   [Transhipment Procedures](/businesses/transhipping-goods/transhipment-procedures)  <br>  [Information on Certificates of Origin/Rules of Origin](/businesses/certificates-of-origin/overview)  <br>   [Information for Importers](/businesses/importing-goods/overview) <br>   [Information for Exporters](/businesses/exporting-goods/overview)  <br>  [Information for Freight Forwarders and Declaring Agents](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)  <br>   [Information on Valuation, Duties and GST](/businesses/valuation-duties-taxes-fees/overview) 
@@ -36,6 +49,4 @@ Traders can familiarise themselves with Customs schemes and procedures by visiti
   <br>   [Import Procedures](/businesses/importing-goods/import-procedures/)  <br>   [Export Procedures](/businesses/exporting-goods/export-procedures)  <br>   [Transhipment Procedures](/businesses/transhipping-goods/transhipment-procedures)  <br>  [Information on Certificates of Origin/Rules of Origin](/businesses/certificates-of-origin/overview)  <br>   [Information for Importers](/businesses/importing-goods/overview) <br>   [Information for Exporters](/businesses/exporting-goods/overview)  <br>  [Information for Freight Forwarders and Declaring Agents](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)  <br>   [Information on Valuation, Duties and GST](/businesses/valuation-duties-taxes-fees/overview) 
 
 
-## Customs Procedures
 
--   [Import Procedures](/businesses/importing-goods/import-procedures/)
