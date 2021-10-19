@@ -31,6 +31,11 @@ A highly compliant trading community will enable Singapore Customs to better fac
 Traders can familiarise themselves with Customs schemes and procedures by visiting the following links:
 
 {% include accordion.html %}
+- title: Customs Procedures
+
+    content: <br>   [Import Procedures](/businesses/importing-goods/import-procedures/)  <br>   [Export Procedures](/businesses/exporting-goods/export-procedures)  <br>   [Transhipment Procedures](/businesses/transhipping-goods/transhipment-procedures)  <br>  [Information on Certificates of Origin/Rules of Origin](/businesses/certificates-of-origin/overview)  <br>   [Information for Importers](/businesses/importing-goods/overview) <br>   [Information for Exporters](/businesses/exporting-goods/overview)  <br>  [Information for Freight Forwarders and Declaring Agents](/businesses/registration-matters/registration-procedures/apply-update-renew-terminate-declaring-agent-account-and-declarant)  <br>   [Information on Valuation, Duties and GST](/businesses/valuation-duties-taxes-fees/overview) 
+
+
 -   [Chemical Weapons (Prohibition) Act](/businesses/acts-and-subsidiary-legislation/chemical-weapons-prohibition-act)
 
 
