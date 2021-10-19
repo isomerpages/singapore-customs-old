@@ -38,6 +38,9 @@ Traders can familiarise themselves with Customs schemes and procedures by visiti
     <label for="accordion1">Customs Procedures</label>
     <div>
       <p>/businesses/importing-goods/import-procedures/</p>
+      <p>[Export Procedures](/businesses/exporting-goods/export-procedures)</p>
+       [Transhipment Procedures](/businesses/transhipping-goods/transhipment-procedures)
+      
     </div>
   </li>  
   <li>
