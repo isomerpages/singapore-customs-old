@@ -1,4 +1,3 @@
---- 
 title: Overview
 permalink: /businesses/compliance/overview
 third_nav_title: Compliance
@@ -15,7 +14,6 @@ Singapore Customs administers the:
 -   [Chemical Weapons (Prohibition) Act](/businesses/acts-and-subsidiary-legislation/chemical-weapons-prohibition-act)
 
 We strive for a high level of compliance by the trading community with Singapore’s trade and customs laws, through a multi-pronged approach of strengthening self-compliance, timely detection of violations, deterrence through effective enforcement and penalties, regular monitoring of compliance status, and risk reviews.
---- 
 
 A highly compliant trading community will enable Singapore Customs to better facilitate the flow of legitimate trade, while targeting our control measures to detect the minority of fraudulent traders, without raising compliance costs for traders in general or unduly inconveniencing them with onerous regulatory requirements.
 
