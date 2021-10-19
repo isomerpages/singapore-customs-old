@@ -37,7 +37,7 @@ Traders can familiarise themselves with Customs schemes and procedures by visiti
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Customs Procedures</label>
     <div>
-      <p>[Import Procedures](/businesses/importing-goods/import-procedures/) </p>
+      <p>(/businesses/importing-goods/import-procedures/)</p>
     </div>
   </li>  
   <li>
