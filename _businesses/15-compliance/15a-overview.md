@@ -1,7 +1,3 @@
-title: Overview
-permalink: /businesses/compliance/overview
-third_nav_title: Compliance
-
 # Overview
 
 Singapore Customs administers the:
