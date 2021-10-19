@@ -15,15 +15,6 @@ third_nav_title: Compliance
 -   [Information on Valuation, Duties and GST](/businesses/valuation-duties-taxes-fees/overview) 
 
 
-accordion:
-  - title: Customs Schemes and Licences
-    content: <br>   [Air Store Bond Scheme](/businesses/customs-schemes-licences-framework/air-store-bond-scheme) <br>   [Apex Licence](/businesses/customs-schemes-licences-framework/apex-licence) <br>   [Approved Import GST Suspension Scheme](/businesses/customs-schemes-licences-framework/iras-schemes/approved-import-gst-suspension-scheme) <br>   [Bonded Truck Scheme](/businesses/customs-schemes-licences-framework/bonded-truck-scheme) <br>   [Cargo Agents Import Authorisation Scheme](/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme) <br>   [Company Declaration Scheme](/businesses/customs-schemes-licences-framework/company-declaration-scheme) <br>  [Container Freight Warehouse](/businesses/customs-schemes-licences-framework/container-freight-warehouse) <br> [Duty Free Shop Scheme](/businesses/customs-schemes-licences-framework/duty-free-shop-scheme) <br>   [Excise Factory Scheme](/businesses/customs-schemes-licences-framework/excise-factory-scheme)  <br>   [Import GST Deferment Scheme](/businesses/customs-schemes-licences-framework/iras-schemes/import-gst-deferment-scheme-igds) <br>   [Industrial Exemption Factory Scheme](/businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme)<br>   [Licensed Warehouse Scheme](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme) <br>   [Major Exporter Scheme](/businesses/customs-schemes-licences-framework/iras-schemes/major-exporter-scheme) <br>   [Petroleum Licences](/businesses/customs-schemes-licences-framework/petroleum-licences) <br>  [Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme) <br>   [Zero-GST Warehouse Scheme](/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme)
-  - title: Controlled Goods
-    content: <br>   [Information on National Authority (Chemical Weapons Convention)](/businesses/chemical-weapons-convention/introduction) <br>  [Information on Strategic Goods Control](/businesses/strategic-goods-control/overview) <br>  [Information on Strategic Trade Scheme](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology) <br>  [Information on Kimberley Process Certification Scheme](/businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme)
-  - title: Customs Circulars
-    content: <br>  [For updates on Customs procedures and regulatory requirements](/news-and-media/circulars/) 
----
-
 # Overview
 
 Singapore Customs administers the:
@@ -40,8 +31,5 @@ We strive for a high level of compliance by the trading community with Singapore
 A highly compliant trading community will enable Singapore Customs to better facilitate the flow of legitimate trade, while targeting our control measures to detect the minority of fraudulent traders, without raising compliance costs for traders in general or unduly inconveniencing them with onerous regulatory requirements.
 
 Traders can familiarise themselves with Customs schemes and procedures by visiting the following links:
-
-{% include accordion.html %}
-
 
 
