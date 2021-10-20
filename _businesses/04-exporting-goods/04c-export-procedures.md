@@ -43,7 +43,23 @@ A Customs export permit is required for:
 A strategic goods export permit is required for the export of [goods controlled under the Strategic Goods (Control) Act](/businesses/strategic-goods-control/strategic-goods-control-list).
 
 The table shows the period to submit your export permit application for the various types of goods:
-
+<table>
+  <tr>
+    <td>Type of Goods</td>
+    <td>When to Submit Permit</td>
+    <td>Remarks</td>
+  </tr>
+  <tr>
+    <td>Strategic goods under the Individual Permit of the Strategic Trade Scheme \(STS\) </td>
+    <td>5 working days **before** export</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>**All other goods excluding those listed below**: <br><br>Goods under Hand\-Carried Exports Scheme \(HCES\) exempted by Comptroller of GST from advance submission of export permit <br><br> Bulk petroleum products and chemicals by sea <br><br> Steel bars</td>
+    <td>**Before** export</td>
+    <td>**Recommended practice**: <br> For export by sea<br>Before cargo lodgement with sea port operators \(i\.e\. gate\-in\)<br><br> For export by air <br> Before cargo lodgement with air cargo ground handling agents</td>
+  </tr>
+</table>
 
 | Type of Goods | When to Submit Permit | Remarks |
 |--|--|--|
