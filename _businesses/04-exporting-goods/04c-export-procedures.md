@@ -49,15 +49,30 @@ The table shows the period to submit your export permit application for the vari
   </thead>
   <tbody>
     <tr>
-      <td>Strategic goods under the Individual Permit of the Strategic Trade Scheme \(STS\) </td>
-      <td>5 working days **before** export</td>
+      <td>Strategic goods under the Individual Permit of the Strategic Trade Scheme (STS)</td>
+       <td>5 working days <b>before</b> export</td>
       <td>-</td>
     </tr>
     <tr>
-      <td>**All other goods excluding those listed below**: <br><br>Goods under Hand\-Carried Exports Scheme \(HCES\) exempted by Comptroller of GST from advance submission of export permit <br><br> Bulk petroleum products and chemicals by sea <br><br> Steel bars</td>
-      <td>**Before** export</td>
-      <td>**Recommended practice**: <br> For export by sea<br>Before cargo lodgement with sea port operators \(i\.e\. gate\-in\)<br><br> For export by air <br> Before cargo lodgement with air cargo ground handling agents</td>
+       <td><b>All other goods excluding those listed below</b>: <br><br>Goods under Hand\-Carried Exports Scheme (HCES) exempted by Comptroller of GST from advance submission of export permit<br><br>Bulk petroleum products and chemicals by sea<br><br>Steel bars</td>
+       <td><b>Before</b> export</td>
+       <td><b>Recommended practice</b>: <br> For export by sea<br>Before cargo lodgement with sea port operators (i.e. gate-in)<br><br> For export by air <br> Before cargo lodgement with air cargo ground handling agents</td>
     </tr>
+     <tr>
+        <td>Goods under Hand-Carried Exports Scheme (HCES) exempted by Comptroller of GST from advance submission of export permit</td>
+        <td>Within 3 working days <b>after</b> export</td>
+        <td>Please refer to IRAS’ website for more details on HCES</td>
+     </tr>
+     <tr>
+        <td>Bulk petroleum products and chemicals^ by sea</td>
+        <td>Within 10 working days <b>after</b> the date of vessel’s departure <br><br> Within 3 working days <b>after</b> the date of vessel’s departure</td>
+        <td>Conditions: The goods were released from licensed premises; and The goods were exported from a petroleum licensee’s berth.<br><br><br>Conditions: The goods were not released from licensed premises.</td>
+     </tr>
+     <tr>
+        <td>Steel bars</td>
+        <td>Within 3 working days <b>after</b> the date of vessel’s departure</td>
+        <td>Conditions: The steel bars are loaded directly into a carrier without any additional form of packing.</td>
+     </tr>
   </tbody>
 </table>
 
