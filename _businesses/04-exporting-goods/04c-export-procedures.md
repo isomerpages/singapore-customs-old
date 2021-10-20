@@ -2,11 +2,7 @@
 title: Export Procedures
 permalink: /businesses/exporting-goods/export-procedures
 third_nav_title: Exporting Goods
-accordion:
-  - title: Do
-    content: <br> ✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes. <br><br> ✔ Know the export procedures and declaration requirements before you export. <br><br> ✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders. <br><br> ✔ Ensure your declaring agents and freight forwarders understand and properly execute your instructions. <br><br> ✔ Know the contents of each consignment you export and clarify with relevant parties if needed. <br><br> ✔ Keep your supporting documents for a minimum of 5 years. <br><br> ✔ Check with the relevant Competent Authority on their requirements to export controlled items. <br><br> ✔ Ensure product details (for example, HS code, quantity) are correctly declared. <br><br> ✔ Ensure you comply with all permit conditions stated in the permit. <br><br> ✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition. <br>
-  - title: Do Not
-    content: <br> ✖ Deny Singapore Customs officers’ requests to enter your premises or to check your documents. <br><br> ✖ Make a declaration without verifying the authenticity of all supporting documents. <br><br> ✖ Declare that goods are of Singapore origin when they were only imported and re-exported from Singapore without qualifying for their origin status. <br><br> ✖ Share your TradeNet user ID and password with other persons. <br><br> ✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN.  In doing so, you are responsible for complying with all the regulatory requirements.  Please refer to [Customs Circular No. 12/2013](/news-and-media/circulars) for more information on the responsibilities of an exporter. <br>     
+   
 ---
 
 # Export Procedures
@@ -175,9 +171,6 @@ You are accountable as an exporter or declaring agent for the export of your goo
   </li>
 </ul>
   
-  
-{% include accordion.html %} 
-
 ## For more information on:
 
 {:.mobile-block}
