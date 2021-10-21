@@ -2,7 +2,24 @@
 title: Export Procedures
 permalink: /businesses/exporting-goods/export-procedures
 third_nav_title: Exporting Goods
-   
+accordion:
+  - title: Do
+    content: <br> ✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes. 
+<br><br> ✔ Know the export procedures and declaration requirements before you export. 
+<br><br> ✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders. 
+<br><br> ✔ Ensure your declaring agents and freight forwarders understand and properly execute your instructions. 
+<br><br> ✔ Know the contents of each consignment you export and clarify with relevant parties if needed. 
+<br><br> ✔ Keep your supporting documents for a minimum of 5 years. 
+<br><br> ✔ Check with the relevant Competent Authority on their requirements to export controlled items. 
+<br><br> ✔ Ensure product details (for example, HS code, quantity) are correctly declared. 
+<br><br> ✔ Ensure you comply with all permit conditions stated in the permit. 
+<br><br> ✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition. <br>
+  - title: Do Not
+    content: <br> ✖ Deny Singapore Customs officers’ requests to enter your premises or to check your documents. 
+<br><br> ✖ Make a declaration without verifying the authenticity of all supporting documents. 
+<br><br> ✖ Declare that goods are of Singapore origin when they were only imported and re-exported from Singapore without qualifying for their origin status. 
+<br><br> ✖ Share your TradeNet user ID and password with other persons. 
+<br><br> ✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN.  In doing so, you are responsible for complying with all the regulatory requirements.  Please refer to [Customs Circular No. 12/2013](/news-and-media/circulars) for more information on the responsibilities of an exporter. <br>     
 ---
 
 # Export Procedures
@@ -39,42 +56,20 @@ A Customs export permit is required for:
 A strategic goods export permit is required for the export of [goods controlled under the Strategic Goods (Control) Act](/businesses/strategic-goods-control/strategic-goods-control-list).
 
 The table shows the period to submit your export permit application for the various types of goods:
-<table>
-  <thead>
-    <tr>
-      <th>Type of Goods</th>
-      <th>When to Submit Permit</th>
-      <th>Remarks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Strategic goods under the Individual Permit of the Strategic Trade Scheme (STS)</td>
-       <td>5 working days <b>before</b> export</td>
-      <td>-</td>
-    </tr>
-    <tr>
-       <td><b>All other goods excluding those listed below</b>: <br><br>Goods under Hand\-Carried Exports Scheme (HCES) exempted by Comptroller of GST from advance submission of export permit<br><br>Bulk petroleum products and chemicals by sea<br><br>Steel bars</td>
-       <td><b>Before</b> export</td>
-       <td><b>Recommended practice</b>: <br> For export by sea<br>Before cargo lodgement with sea port operators (i.e. gate-in)<br><br> For export by air <br> Before cargo lodgement with air cargo ground handling agents</td>
-    </tr>
-     <tr>
-        <td>Goods under Hand-Carried Exports Scheme (HCES) exempted by Comptroller of GST from advance submission of export permit</td>
-        <td>Within 3 working days <b>after</b> export</td>
-        <td>Please refer to IRAS’ website for more details on HCES</td>
-     </tr>
-     <tr>
-        <td>Bulk petroleum products and chemicals^ by sea</td>
-        <td>Within 10 working days <b>after</b> the date of vessel’s departure <br><br> Within 3 working days <b>after</b> the date of vessel’s departure</td>
-        <td>Conditions: The goods were released from licensed premises; and The goods were exported from a petroleum licensee’s berth.<br><br><br>Conditions: The goods were not released from licensed premises.</td>
-     </tr>
-     <tr>
-        <td>Steel bars</td>
-        <td>Within 3 working days <b>after</b> the date of vessel’s departure</td>
-        <td>Conditions: The steel bars are loaded directly into a carrier without any additional form of packing.</td>
-     </tr>
-  </tbody>
-</table>
+
+
+|            Type of Goods             |        When to Submit Permit                     |         Remarks                                                                                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Strategic goods under the Individual Permit of the Strategic Trade Scheme \(STS\)                                                                                                                                               | 5 working days **before** export                                                                                              | \-                                                                                                                                                                                                      |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **All other goods excluding those listed below**: <br><br>Goods under Hand\-Carried Exports Scheme \(HCES\) exempted by Comptroller of GST from advance submission of export permit <br><br> Bulk petroleum products and chemicals by sea <br><br> Steel bars | **Before** export                                                                                                             | **Recommended practice**: <br> For export by sea<br>Before cargo lodgement with sea port operators \(i\.e\. gate\-in\)<br><br> For export by air        <br> Before cargo lodgement with air cargo ground handling agents |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Goods under Hand\-Carried Exports Scheme \(HCES\) exempted by Comptroller of GST from advance submission of export permit                                                                                                       | Within 3 working days **after** export                                                                                        | Please refer to IRAS’ website for more details on HCES\.                                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bulk petroleum products and chemicals^ by sea                                                                                                                                                                               |  Within 10 working days **after** the date of vessel’s departure <br><br> Within 3 working days **after** the date of vessel’s departure | Conditions: The goods were released from licensed premises; and The goods were exported from a petroleum licensee’s berth\. <br><br><br>Conditions: The goods were not released from licensed premises\.           |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Steel bars                                                                                                                                                                                                                      | Within 3 working days **after** the date of vessel’s departure                                                                | Conditions: The steel bars are loaded directly into a carrier without any additional form of packing\.                                                                                                  |
+
 
 <sup>^Bulk petroleum and chemicals are those loaded directly into an oil/chemical tanker without any additional form of packing. It excludes petroleum and chemicals transported in ISO tanks and drums, as there are fixed quantities for these modes of export.
     
@@ -144,36 +139,9 @@ Learn more about the prescribed offences and penalties under the [Customs Act](/
 ## Best Practices
 
 You are accountable as an exporter or declaring agent for the export of your goods. We encourage you to take note of the following Dos and Don’ts:
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Do</label>
-    <div>
-      <p>✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
-      <p>✔ Know the export procedures and declaration requirements before you export.</p>
-      <p>✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders.</p>
-      <p>✔ Ensure your declaring agents and freight forwarders understand and properly execute your instructions.</p>
-      <p>✔ Know the contents of each consignment you export and clarify with relevant parties if needed.</p>
-      <p>✔ Keep your supporting documents for a minimum of 5 years.</p>
-      <p>✔ Check with the relevant Competent Authority on their requirements to export controlled items.</p>
-      <p>✔ Ensure product details (for example, HS code, quantity) are correctly declared.</p>
-      <p>✔ Ensure you comply with all permit conditions stated in the permit.</p>
-      <p>✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition. </p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Do Not</label>
-    <div>
-      <p>✖ Deny Singapore Customs officers’ requests to enter your premises or to check your documents.</p>
-      <p>✖ Make a declaration without verifying the authenticity of all supporting documents.</p>
-      <p>✖ Declare that goods are of Singapore origin when they were only imported and re-exported from Singapore without qualifying for their origin status.</p>
-      <p>✖ Share your TradeNet user ID and password with other persons.</p>
-      <p>✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN.  In doing so, you are responsible for complying with all the regulatory requirements.  Please refer to [Customs Circular No. 12/2013](/news-and-media/circulars) for more information on the responsibilities of an exporter.</p>
-    </div>
-  </li>
-</ul>
-  
+
+{% include accordion.html %} 
+
 ## For more information on:
 
 {:.mobile-block}
