@@ -32,13 +32,4 @@ Traders can familiarise themselves with Customs schemes and procedures by visiti
 
 {% include accordion.html %}
 
----
-
-
-
-
----
-
-
-
 
