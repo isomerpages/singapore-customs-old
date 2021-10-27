@@ -30,6 +30,5 @@ A highly compliant trading community will enable Singapore Customs to better fac
 
 Traders can familiarise themselves with Customs schemes and procedures by visiting the following links:
 
-{% include accordion.html %}
 
 
