@@ -5,7 +5,7 @@ permalink: /careers/
 
 # Careers
 
-![Career Poster](/career_poster.jpg)
+![Career Poster](/images/career_poster.jpg)
 
 Here at Singapore Customs, our work is dynamic, challenging and never dull.
 
@@ -15,8 +15,8 @@ Our work doesn’t stop there. We are also dedicated to enhancing national secur
 
 If you are looking for an exciting and rewarding career, we have career opportunities for you in Singapore Customs.
 
-[Senior Officer of Customs](/senior_officer_poster.pdf)
+[Senior Officer of Customs](/documents/senior_officer_poster.pdf)
 
-[Officer of Customs](/customs_officer_poster.pdf)
+[Officer of Customs](/documents/customs_officer_poster.pdf)
 
 View our current job openings and send us your application at [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/listing/)

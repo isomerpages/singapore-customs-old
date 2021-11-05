@@ -4,7 +4,7 @@ permalink: /about-us/careers/
 ---
 # Careers
 
-![Career Poster](images/career_poster.jpg)
+![Career Poster](/images/career_poster.jpg)
 
 Here at Singapore Customs, our work is dynamic, challenging and never dull.
 
