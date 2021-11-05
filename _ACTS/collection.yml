@@ -1,0 +1,7 @@
+collections:
+  ACTS:
+    output: true
+    order:
+      - Overview/amendments-and-cancellation-of-acts-declaration.md
+      - Overview/authorised-transit-trader.md
+      - Overview/useful-links.md

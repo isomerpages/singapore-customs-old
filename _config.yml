@@ -20,87 +20,6 @@ colors:
 
 resources_name: news-and-media
 
-collections:
-  about-us:
-    output: true
-  organisation-overview:
-    output: true
-  individuals:
-    output: true
-  businesses:
-    output: true
-  news-and-media:
-    output: true
-  eservices:
-    output: true
-  individuals_going-through-customs:
-    output: true
-  registration-services:
-    output: true
-  business-resources:
-   output: true
-  importing-goods-more: 
-    output: true
-  transhipment-procedures: 
-    output: true
-  transhipment-procedures-requirements:
-    output: true
-  chemical-weapons-convention: 
-    output: true
-  CWC-inspections: 
-    output: true
-  CWC-licensing-requirements: 
-    output: true
-  strategic-goods-permit-and-reg-req: 
-    output: true
-  strategic-goods-control: 
-    output: true
-  iras-scheme: 
-    output: true
-  establishing-customs-value-for-imports: 
-    output: true
-  import-procedures-req: 
-    output: true
-  importing-by-post-or-courier-service:
-    output: true
-  temporary-import-scheme:
-    output: true
-  importing-dutiable-motor-vehicles:
-    output: true
-  importing-dutiable-motor-vehicles-steps:
-    output: true
-  importing-goods-for-destruction-or-recycling:
-    output: true
-  export-procedures-requirements:
-    output: true
-  authorised-piers-places: 
-    output: true
-  united-nations-security-council-sanctions: 
-    output: true
-  strategic-goods-control-list:
-    output: true
-  import-certificate-and-delivery-verification:
-    output: true
-  test_hidden:
-    output: true
-  tradenet:
-    output: true 
-  export-procedures-more:
-    output: true   
-  registration-security-lodgement:
-    output: true    
-  apply-update-renew-terminate-declarant-agent:
-    output: true   
-  import-permit-req-IPMs:   
-    output: true 
-  competent-authorities-requirements:   
-    output: true   
-  inSYNC:   
-    output: true  
-  certificates-of-origin:
-    output: true
-  ACTS:
-    output: true  
 
 google_analytics: UA-70503404-1
 ##################################################################################################################
@@ -121,10 +40,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://singapore-customs-staging.netlify.app/
+prod: https://singapore-customs-prod.netlify.app/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme
