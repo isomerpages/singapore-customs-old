@@ -50,7 +50,7 @@ The status of your application may be one of the following:
 
 If it is rejected, you will need to meet the requirements or make the necessary amendments before re-submitting the application.
 
-[View sample of Cargo Clearance Permit.](/documents/about-us/sample-cargo-clearance-permit.pdf)
+[View sample of Cargo Clearance Permit.](/files/about-us/sample-cargo-clearance-permit.pdf)
 
 **3) What if you encounter problems when using TradeNet?**
 
