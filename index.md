@@ -9,7 +9,7 @@ sections:
     - hero:
         title:
         subtitle:
-        background: /images/Herobanner_website.jpg
+        background: /images/New Banner_resized.png
         key_highlights:
             - title: Duty-Free Concession and GST Relief
               url: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
