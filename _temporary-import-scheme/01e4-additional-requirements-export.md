@@ -52,7 +52,7 @@ Officers at the entry points may seal any package or container before releasing 
 |  |  |
 |--|--|
 | Sealed for inspection | The importer, haulier or declarant must submit an online Application for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) to Singapore Customs at least one working day before the operation. |
-| NOD Case | For container issued with a Notice of Discrepancy (NOD), the importer / haulier to call Permits Compliance Branch at **6908 1817 / 6908 1834** during office hours (Monday to Friday: 8 a.m.to 5 p.m.) if they have further enquiries |
+| NOD Case | For container issued with a Notice of Discrepancy (NOD), the importer / haulier to call Permits Compliance Branch at **6908 1817 / 6908 1834** during office hours (Monday to Friday: 8 a.m.to 5 p.m.) if they have further enquiries. |
 
 **For import of containerised consignments under Carnet.**
 
