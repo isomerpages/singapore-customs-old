@@ -64,8 +64,8 @@ Permits imposed with any of the following permit conditions, the exporter, hauli
 
 |  |  |
 |--|--|
-| D6 | An e file application must be made to Company Compliance Branch for supervision of stuffing of containers for export.</br>(website: [http://www.customs.gov.sg](http://www.customs.gov.sg)) |
-| D7 | An e-file application must be made to Company Compliance Branch for inspection of the goods.</br>(website: [http://www.customs.gov.sg](http://www.customs.gov.sg)) |
+| D6 | An e file application must be made to Company Compliance Branch for supervision of stuffing of containers for export.<br>(website: [http://www.customs.gov.sg](http://www.customs.gov.sg)) |
+| D7 | An e-file application must be made to Company Compliance Branch for inspection of the goods.<br>(website: [http://www.customs.gov.sg](http://www.customs.gov.sg)) |
 
 ## Unauthorised Breakage of Customs Seals
 
