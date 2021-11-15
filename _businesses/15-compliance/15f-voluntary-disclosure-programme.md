@@ -19,11 +19,11 @@ You are eligible for this programme if your disclosure is:
 
 There is no fixed time period for making a voluntary disclosure.
 
-Please be informed the following scenarios are not eligible for VDP submission:</br>
-  1)	Failure to produce any of the following permits at checkpoints for clearance:</br>
-      i)	Transhipment permits (IT, OT, TT, TW or IR prefix permits);</br>
-      ii)	Export and Transhipment permits approved for strategic goods (XO or XP prefix permits) under STS Tier 1;</br>
-      iii)	Permits under the Approved Premises/Scheme (II or OO prefix permits); and</br>
+Please be informed the following scenarios are not eligible for VDP submission:<br>
+  1)	Failure to produce any of the following permits at checkpoints for clearance:<br>
+      i)	Transhipment permits (IT, OT, TT, TW or IR prefix permits);<br>
+      ii)	Export and Transhipment permits approved for strategic goods (XO or XP prefix permits) under STS Tier 1;<br>
+      iii)	Permits under the Approved Premises/Scheme (II or OO prefix permits); and<br>
       iv)	Permits under the Temporary Import/Export Scheme (II or OO prefix permits).
 
   2)	Failure to produce permit/goods at the 2nd checkpoint within 24 hours from the time of release at the 1st checkpoint.
