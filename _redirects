@@ -1,6 +1,8 @@
 
 https://singapore-customs-prod.netlify.app https://www.customs.gov.sg 301!
 http://singapore-customs-prod.netlify.app  https://www.customs.gov.sg 301!
+https://singapore-customs-prod.netlify.app/* https://www.customs.gov.sg 301!
+http://singapore-customs-prod.netlify.app/*  https://www.customs.gov.sg 301!
 /import /businesses/importing-goods/import-procedures
 /export /businesses/exporting-goods/export-procedures
 /co /businesses/certificates-of-origin/overview
